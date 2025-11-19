@@ -1,0 +1,52 @@
+{{Short description|British trustworthiness test}}
+{{Use dmy dates|date=April 2022}}
+The '''fit-and-proper-person test''' or '''director's test''' is a test aiming to prevent corrupt or untrustworthy people from serving on the board of certain organizations. First introduced in 2004 for owners and directors of major British football clubs, since November 2014 it also applies to the [[National Health Service in England]] for board members of [[NHS Trust]]s under the Health and Social Care Act 2008 (Regulated Activities) Regulations 2014. The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014, s.19 also extends the test to any person employed for the purposes of any regulated activity (doctor, nurse, social worker etc), and the [[Housing Act 2004]], s.64 and s.88, apply fit and proper person tests to the conditions for granted licences to landlords of [[House in multiple occupation|Houses in Multiple Occupation]] (HMOs) and/or houses which are subject to selective licensing. The [[Office for Students]]' ''Regulatory framework for higher education in England'' applies the fit and proper person test to "members of the governing body, those with senior management responsibilities, and individuals exercising control or significant influence over the provider" at higher education providers in England as one of its public interest governing principles.<ref>{{cite web|url=https://www.officeforstudents.org.uk/publications/regulatory-framework-for-higher-education-in-england/annex-b-public-interest-governance-principles/|title=Annex B: Public interest governance principles|website=Office for Students|date=15 February 2024 |access-date=3 August 2025}}</ref> [[Law of the Republic of Ireland|Irish legislation]] on [[waste collection]] permits incorporates a fit and proper person test.<ref>National Waste Collection Permit Office, [https://www.nwcpo.ie/%5C/forms/Fit%20And%20Proper%20Person%20Criteria.pdf In order to qualify to hold a Waste Collection Permit there are a number of requirements that must be fulfilled to satisfy the NWCPO that you meet Fit and Proper Person criteria:], accessed on 13 August 2025</ref> 
+
+==Application to the National Health Service==
+
+Directors of NHS Trusts can be deemed unfit if they have been involved in “serious misconduct or mismanagement”. The test is supervised by the [[Care Quality Commission]] but decisions are made by individual trusts.<ref>{{Cite web |title=NHS England » NHS England Fit and Proper Person Test Framework for board members |url=https://www.england.nhs.uk/long-read/nhs-england-fit-and-proper-person-test-framework-for-board-members/ |access-date=2023-11-08 |website=www.england.nhs.uk}}</ref>
+
+A Trust must be satisfied that its directors are:
+* of good character - consideration must be given to previous convictions and removal from a professional register when assessing this;
+* and have the qualifications, competence, skills and experience necessary for their office;
+* and are capable (once reasonable adjustments have been made) of performing tasks intrinsic to their job by reason of their health.
+
+A trust must not “appoint or have in place” a director who has been responsible for, privy to, contributed to or facilitated any serious misconduct or mismanagement (whether unlawful or not) in the course of carrying on a regulated activity.<ref>{{cite news|title=The CQC's new fit and proper persons test explained|url=http://www.hsj.co.uk/leadership/insight-and-influence/the-cqcs-new-fit-and-proper-persons-test-explained/5077078.article#.VQM71_ysVyU|accessdate=13 March 2015|publisher=Health Service Journal|date=27 November 2014}}</ref>
+
+The CQC  received referrals from campaigners and [[whistleblowers]] in January 2015 which alleged that more than 20 current and former NHS chief executives, medical directors and senior board level executives were unfit for their roles.<ref>{{cite news|title=Care watchdog will not shirk from action against trusts with 'unfit' directors, says chief inspector of hospitals|url=http://www.lgcplus.com/news/health/social-care/care-watchdog-will-not-shirk-from-action-against-trusts-with-unfit-directors-says-chief-inspector-of-hospitals/5083230.article|accessdate=13 March 2015|publisher=Local Government Chronicle|date=12 March 2015}}</ref>
+
+In 2018 the Health Minister commissioned a review of the test which was conducted by Tom Kark QC, who made seven recommendations to strengthen it and make it applicable throughout the NHS. Among his recommendations were: to devise a set of competencies for directors to meet and be benchmarked against; to set up a central database to hold information about directors; to require full references for each director (a mandatory reference scheme) and to set up a Health Directors Standards Council to investigate and deal with serious misconduct by senior directors. The first two recommendations were accepted by Government, the rest are under review.
+
+==Application in football==
+[[File:Stephenvaughan.jpg|thumb|right|Stephen Vaughan fell foul of the test]]
+The test, introduced in 2004, is mandated by the [[Premier League]], the [[Football League]], the [[National League (English football)|National League]] and the [[Scottish Premier League]]. Anybody who takes over a club, runs one, or owns over 30% of its shares must be assessed. The first director known to have failed the test was Dennis Coleman, director of [[Rotherham United F.C.|Rotherham United]] when they went into [[Administration (British football)|administration]] in 2006 and 2008. He claimed:
+<blockquote>"I came in and in effect saved the club. It is totally unfair for me to be disqualified."<ref>{{cite news|url=https://www.theguardian.com/football/2008/apr/23/rotherham.leaguetwofootball|title=Family saga puts Rotherham through the mill|newspaper=[[The Guardian]]|date=2008-04-23|accessdate=2010-09-29|first=David|last=Conn}}</ref></blockquote>
+
+In November 2009, [[Stephen Vaughan, Sr.|Stephen Vaughan]], then owner of [[Chester City F.C.|Chester City]], became the first owner to fail the test, after he was legally disqualified from being a director of any company. This was a result of [[Value Added Tax|VAT]] fraud as owner of [[Widnes Vikings]] rugby club. He transferred control of Chester to his son, Stephen Vaughan, Jr.<ref>{{cite news|url=https://www.theguardian.com/football/2009/nov/18/chester-city-fit-proper-person-test|title=Chester City chief becomes first owner to fail fit and proper person test|newspaper=[[The Guardian]]|first=David|last=Conn|date=2009-11-18|accessdate=2010-09-29}}</ref>
+
+In March 2012, [[Rangers F.C.|Rangers]] owner [[Craig Whyte]] was found not to be a fit and proper person as the result of an independent enquiry.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/17302801|title=Rangers' Craig Whyte not fit and proper person - Scottish FA|publisher=BBC Sport|date=8 March 2012}}</ref>
+
+In June 2014, [[Louis Tomlinson]], former footballer and member of the [[boy band]] [[One Direction]], and John Ryan, businessman and previous Chairman of [[Doncaster Rovers]], launched a bid to buy the club but one month later Ryan was found not to be a fit and proper person due to a lack of funding.<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/28353954|title=Louis Tomlinson: Doncaster Rovers takeover is off - John Ryan|publisher=BBC Sport|date=17 July 2014}}</ref>
+
+===Disqualifying events===
+The Premier League has tighter restrictions than the Football League or National League. In general, a businessman will fail the test if:
+*They have power or influence over another Football League club<ref name=premTest>{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/eng_prem/6923831.stm|title=A fit and proper Premiership?|date=2007-07-31|access-date=2010-09-29|publisher=[[BBC]]}}</ref>
+*They hold a significant interest in another Football League club<ref name=premTest/>
+*They become prohibited by law from being a director<ref name=premTest/>
+*They are filing for [[bankruptcy]]<ref name=premTest/>
+*They have been director of a club while it has suffered two or more unconnected events of [[insolvency]]<ref name=premTest/>
+*They have been a director of two or more clubs of which, while they have been director, has suffered an event of insolvency<ref name=premTest/>
+
+==References==
+{{reflist}}
+
+==Sources==
+;Websites
+*{{cite news|url=https://www.theguardian.com/football/2009/oct/07/fit-and-proper-person-test|title=What is the 'fit and proper person test'?|newspaper=[[The Guardian]]|date=2009-10-07|accessdate=2010-09-29|first=David|last=Conn}}
+*{{cite news|url=https://news.bbc.co.uk/sport1/hi/football/eng_prem/6923831.stm|title=A fit and proper Premiership?|date=2007-07-31|access-date=2010-09-29|publisher=[[BBC]]}}
+
+==External links==
+*[https://web.archive.org/web/20150227184631/http://www.cqc.org.uk/content/fit-and-proper-persons-requirement-and-duty-candour-nhs-bodies CQC guidance]
+
+[[Category:Association football terminology]]
+[[Category:National Health Service (England)]]

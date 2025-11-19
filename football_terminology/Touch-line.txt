@@ -1,0 +1,14 @@
+#REDIRECT [[Out of bounds#Sidelines]]
+
+{{Redirect category shell|
+ {{R from merge}}
+ {{R avoided double redirect|Sidelines}}
+ {{R to related topic}}
+ {{R to section}}
+}}
+
+[[Category:Association football terminology]]
+[[Category:Australian rules football terminology]]
+[[Category:Rugby league terminology]]
+[[Category:Rugby union terminology]]
+[[Category:Terminology used in multiple sports]]

@@ -1,0 +1,544 @@
+{{Short description|Method of scoring in many sports}}
+{{other uses of|Goal|topic=sports|Goal (disambiguation)#Sport}}
+{{Use dmy dates|date=April 2022}}
+{{refimprove|date=August 2024}}
+[[File:Peter_Bondra_scoring.jpg|thumb|[[Peter Bondra]] scoring a goal in [[ice hockey]]]]
+
+In sport, a '''goal''' may refer to either an instance of scoring, or to the physical structure or area where an attacking team must send the [[ball]] or [[Hockey puck|puck]] in order to [[Score (sport)|score]] points. The structure of a goal varies from sport to sport, and one is placed at or near each end of the playing field for each team to defend. Sports which feature goal scoring are also commonly known as '''invasion games'''.<ref>{{Cite journal |last1=Farias |first1=Cláudio |last2=Mesquita |first2=Isabel |last3=Hastie |first3=Peter Andrew |date= 2019|title=Student game-play performance in invasion games following three consecutive hybrid Sport Education seasons |url=http://journals.sagepub.com/doi/10.1177/1356336X18769220 |journal=European Physical Education Review |language=en |volume=25 |issue=3 |pages=691–712 |doi=10.1177/1356336X18769220 |s2cid=150164070 |issn=1356-336X|url-access=subscription }}</ref><ref>{{Cite journal |last1=Ribas |first1=J. P. |last2=Hernández-Moreno |first2=J. |last3=Díaz-Díaz |first3=R. |last4=Borges-Hernández |first4=P. J. |last5=Ruiz-Omeñaca |first5=J. V. |last6=Jaqueira |first6=A. R. |date=2023-02-28 |title=How to understand sports and traditional games and how to apply it to physical education. On the "Goal of Game" |journal=Frontiers in Sports and Active Living |volume=5 |article-number=1123340 |doi=10.3389/fspor.2023.1123340 |issn=2624-9367 |pmc=10011656 |pmid=36926620 |doi-access=free }}</ref>
+
+For many sports, each goal structure usually consists of two vertical posts, called ''goal posts'', supporting a horizontal ''crossbar''. A ''goal line'' marked on the playing surface between the goal posts demarcates the goal area. Thus, the objective is to send the ball or puck between the goal posts, under or over the crossbar (depending on the sport), and across the goal line. Other sports may have other types of structures or areas where the ball or puck must pass through, such as the [[basketball hoop]].
+
+In several sports, sending the ball or puck into the opponent's goal structure or area is the sole method of scoring, and thus the final score is expressed in the total number of goals scored by each team. In other sports, a goal may be one of several scoring methods, and thus may be worth a different set number of points than the others.
+
+==Methods of scoring==
+In some sports, the goal is the sole method of scoring. In these sports, the final score is expressed as the number of goals scored by each team, with the winner being the team that accumulated more over the specified time period.
+
+In other sports, a goal is not the sole method of scoring. In these sports, the goal is worth a set number of points but there are other methods of scoring which may be worth more, the same, or fewer points. In these sports, the score is expressed as the total number of points earned by each team.  In Australian rules football [[Australian rules football#Laws of the game|the score]] is expressed by listing the quantity of each team's "goals" and "behinds" followed by the total number of points.
+
+==Structure==
+{{See also|Goalkeeper|Placekicker}}
+The structure of a goal varies from sport to sport. Most often, it is a rectangular structure that is placed at each end of the playing field. Each structure usually consists of two vertical posts, called ''goal posts'' (side bar or uprights) supporting a horizontal ''crossbar''. A ''goal line'' marked on the playing surface between the goal posts demarcates the goal area.
+
+In some games, such as [[association football]] or [[hockey]], the object is to pass the ball between the posts below the crossbar, while in others, such as those based on [[Rugby football|rugby]], the ball must pass over the crossbar instead. In [[Gaelic football]] and [[hurling]], in which the goalposts are similar to those used in rugby, the ball can be kicked either under the crossbar for a goal, or over the crossbar between the posts for a point. In [[Australian rules football]], there is no crossbar but four uprights instead. In [[basketball]], [[netball]] or [[korfball]], goals are ring-shaped. The structure is often accompanied with an auxiliary net, which stops or slows down the ball when a goal is scored. In [[netball]], a single post at each end of the court supports a horizontal hoop that the ball must fall through. In [[basketball]], the hoop and net used for scoring can be supported on a post or mechanism at each end, or on structures attached directly to the wall.
+
+== Goal sports ==<!--Do not change this heading. Doing so will break redirects pointing to here. Thank you.-->
+
+===Goal-only sports===
+The goal is the only method of scoring in several games. In each of these cases, the winner is the team that scores the most goals within the specified time.
+
+==== Association football ====
+{{main|Football pitch#Goals|Scoring in association football}}
+[[File:Football goal 20050521.jpg|thumb|A goal in a match of [[association football]]]]
+In [[association football]], the goal is the only method of scoring. It is also used to refer to the scoring structure. An attempt on goal is referred to as a "shot" or "shot on goal". To score a goal, the ball must pass completely over the goal line between the goal posts and under the crossbar and no rules may be violated on the play (such as touching the ball with the hand or arm).<ref>{{cite web|url=https://www.fifa.com/flash/lotg/football/en/Laws10_01.htm |publisher=Federation Internationale de Futbol Associacion (FIFA) |title=Laws of the game (Law 10) |access-date=2008-04-29 |archive-url=https://web.archive.org/web/20080421154143/http://www.fifa.com/flash/lotg/football/en/Laws10_01.htm |archive-date=2008-04-21 |url-status=dead }}</ref> See also [[offside (association football)|offside]].
+
+The goal structure is defined as a frame 24&nbsp;feet (7.32&nbsp;m) wide by 8&nbsp;feet (2.44&nbsp;m) tall. In most organized levels of play a net is attached behind the goal frame to catch the ball and indicate that a goal has been scored; but the [[Laws of the Game (association football)|Laws of the Game]] do not mandate the use of a net and only require that any net used not interfere with the goalkeeper.<ref>{{cite web|url=https://www.fifa.com/flash/lotg/football/en/Laws1_04.htm |publisher=FIFA |title=Laws of the game (Law 1) |access-date=2008-04-29 |archive-url=https://web.archive.org/web/20080322034405/http://www.fifa.com/flash/lotg/football/en/Laws1_04.htm |archive-date=2008-03-22 |url-status=dead }}</ref>
+
+In [[Beach soccer]] the goal is defined as a frame 5.50 m wide by 2.20 m tall.
+
+In [[Futsal]] the goal is defined as a frame 3 m wide by 2 m tall.
+
+====Hockey====
+
+===== Bandy =====
+[[File:Hungary bandy team vs Canada.JPG|thumb|[[Hungarian national bandy team|Hungarian players]] prepare to defend their goal against a [[Canada national bandy team|Canadian]] corner-stroke at the 2012 Bandy World Championship. The goal-keeper has a different colour on his jersey, here grey.]]
+In [[bandy]], which has much of its structure from [[association football]], the only way of scoring is to make a goal and the goal is also used to refer to the scoring structure. If neither of the teams has scored during a match, or if both teams have made the same number of goals, there is a draw unless it is a playoff game, which is then determed by overtime and eventually also a penalty shootout. If not otherwise decided in the Bandy Playing Rules set up by the [[Federation of International Bandy]],<ref>{{cite web|url=http://www.worldbandy.com/ckfinder/userfiles/files/Rules/Bandyrules_FIB_Sept2011.pdf |title=Bandy Playing Rules |publisher=Federation of International Bandy |date=1 September 2011 |access-date=8 March 2014 |url-status=dead |archive-url=https://web.archive.org/web/20130511181936/http://www.worldbandy.com/ckfinder/userfiles/files/Rules/Bandyrules_FIB_Sept2011.pdf |archive-date=11 May 2013 }}</ref> an approved goal is made when the ball is played in a regular manner and the whole ball has passed the inner definition of the goal line between the two goal posts and the cross-bar. This is stated in section 9 of the Rules. A goal can be made directly from a stroke-off, penalty-shot, a free-stroke, a face-off or a corner stroke. Centered at each short-line of the [[bandy field]] is a {{convert|3.5|m|abbr=on}} wide and {{convert|2.1|m|abbr=on}} high goal cage, regulated to size, form, material and other properties in section 1.4 of the Bandy Playing Rules. The cage has a net to stop the ball when it has crossed the goal-line. The cage shall be of an approved model. In front of the goal cage is a half-circular penalty area with a {{convert|17|m|abbr=on}} radius. A penalty spot is located {{convert|12|m}} in front of the goal and there are two free-stroke spots at the penalty area line, each surrounded by a {{convert|5|m|abbr=on}} circle.
+
+===== Field Hockey =====
+The goal structure in [[field hockey]] is {{convert|3.66|m|ft}} wide by {{convert|2.14|m|ft}} tall. Like association football, a goal is scored when the ball passes completely over the goal line under the crossbar and between the goal posts. Nets are required to hold the ball in.<ref name="FieldHockey"/> A goal is only scored if shot from within a semicircle {{convert|14.63|m|ft}} from the goal.<ref name=FieldHockey>{{cite web |url=http://www.usfieldhockey.com/hockey/rules_of_hockey07_08.pdf |publisher=Fédération Internationale de Hockey sur Gazon (FIH) |title=Rules of Hockey 2007-2008 |access-date=2008-04-29 |archive-date=6 March 2021 |archive-url=https://web.archive.org/web/20210306151125/https://www.teamusa.org/USA-Field-Hockey |url-status=dead }}</ref>
+
+===== Ice Hockey =====
+{{main|Goal (ice hockey)}}
+[[File:Hockey goal cmd 2004.jpg|thumb|right|Ice hockey: The puck hits the top of the net for a goal as the goaltender fails to block the shot.]]
+In [[ice hockey]], the puck must be put completely over the goal line between the posts and under the bar either off an offensive player's stick or off any part of a defensive player's body. The puck may not be kicked, batted, or thrown into the goal, though a goal may be awarded if the puck is inadvertently deflected off an offensive player's skate or body into the goal.{{citation needed|date=September 2015}} The goal structure is a frame {{convert|4|ft|m}} tall and {{convert|6|ft|m}} wide with a net attached. In most higher levels of play the goal structure is attached to the ice surface by flexible pegs and will break away for safety when hit by a player. The goal is placed within the playing surface, and players may play the puck behind the goal.<ref>{{cite web |title=NHL Rulebook (Rule 3: Goalposts and nets) |url=http://www.nhl.com/hockeyu/rulebook/rule03.html |url-status=dead |archive-url=https://web.archive.org/web/20080906101009/http://www.nhl.com/hockeyu/rulebook/rule03.html |archive-date=2008-09-06 |access-date=2008-04-29 |publisher=NHL}}</ref>
+
+==== Handball ====
+A goal in [[handball]] is scored when the ball is thrown completely over the goal line, below the crossbar and between the goal posts.<ref name=handball>{{cite web |url=http://www.ihf-online.info/upload/PDF-Download/rules_english.pdf |publisher=International Handball Federation (IHF) |title=International Handball Federation: Rules of the Game |access-date=2008-04-29 |url-status=dead |archive-url=https://web.archive.org/web/20080414000409/http://www.ihf-online.info/upload/PDF-Download/rules_english.pdf |archive-date=2008-04-14 }}</ref> The goal structure in team handball is 2&nbsp;metres high and 3&nbsp;metres wide. A net is required to catch the ball.<ref name="handball"/>
+
+====Lacrosse====
+[[Lacrosse]] goals are scored when the ball travels completely past the goal line. Goals can be disallowed if there is an infraction by the offensive team. The goal in lacrosse is {{convert|6|ft|m}} tall and {{convert|6|ft|m}} wide and a net is used to prevent the ball from reentering the field of play. Lacrosse goals are not positioned on the end boundary line; play often occurs behind the goal.<ref name=lacrosse>{{cite web|url=http://www.ncaapublications.com/productdownloads/LC18.pdf |title=Men's Lacrosse 2017 and 2018 Rules |publisher=[[National Collegiate Athletic Association]] |access-date=15 November 2017 }}</ref>
+
+====Netball====
+In [[netball]], a goal is scored when the ball is shot through a goal ring on a pole.
+
+====Polo====
+In [[polo]], a goal is scored if the ball passes completely between the goal posts, regardless of how far off the ground the ball is.  The ball must be between the goal posts or the imaginary lines extending above the inside edges of the posts.  A ball passing directly over a goal post does not score a goal.<ref name=polo>{{cite web|url=http://www.us-polo.org/rules/outdoor_rules.pdf |publisher=United States Polo Association |title=Outdoor Rules |access-date=2008-04-29 |url-status=dead |archive-url=https://web.archive.org/web/20110929171027/http://www.us-polo.org/rules/outdoor_rules.pdf |archive-date=September 29, 2011 }}</ref>
+
+The goal structure in Polo consists of two poles, at least {{convert|10|ft|m}} high and exactly 8 yards apart.  There is no crossbar and no net is required. The height at which a goal may be scored is infinite.<ref name="polo"/>
+
+==== Hardcourt Bike Polo{{Anchor|Bike polo goal}} ====
+In [[Hardcourt Bike Polo]], a goal is scored if the ball passes completely over the goal line and the shot originated as a [[Hardcourt Bike Polo#The game|"shot"]] as defined by the rules. A shot is made with either end of the mallet head similar to swinging a hammer whereas a shuffle is made with the long side like pushing a broom. Traditionally when using a non-netted goal such as two traffic cones the play is continued if the ball is shuffled through the goal of pass through the goal from the opposite direction. These non-netted goals are no long regulation<ref>{{Cite news |title=Rules |url=https://www.nahardcourt.com/rules/ |access-date=2024-02-12 |website=North American Hardcourt Bike Polo Association |language=en-US}}</ref><ref>{{Cite web |title=Rules - EHBA - European Hardcourt Bike Polo Association |url=https://eurobikepolo.com/ehba/rules |access-date=2024-02-12 |website=eurobikepolo.com}}</ref> in competitive play but are common depending on the resources of a club.
+
+==== Shinty ====
+In [[shinty]], a goal is scored if the ball goes over the goal line and under the crossbar. A goal can only be scored with a stick called a "caman"; no goal is scored if the ball is kicked, carried, or propelled by an attacking player's hand or arm.
+
+==== Treibball ====
+In [[Treibball]], a point is scored when a dog knocks a ball (referred to as a rolling sheep) into the goal.<ref>{{Cite web |last=Hill |first=Poppy |date=2022-08-14 |title=What is the dog sport Treibball? |url=https://dogsportscentral.com/what-is-treibball/ |access-date=2024-08-06 |website=Dog Sports Central |language=en-US}}</ref> Rolling sheep must be knocked into the goal in a particular order within the seven minute time limit.<ref>{{Cite web |title=Treibball: Dog Sport Perfect for Herding Breeds and More |url=https://www.akc.org/expert-advice/sports/treibball-this-sport-isnt-just-for-herding-breeds/ |access-date=2024-08-06 |website=American Kennel Club |language=en}}</ref>
+
+====Water polo====
+{{See also|Goalkeeper (water polo)}}
+A goal in [[water polo]] is scored when the ball passes completely across the goal line, under the crossbar and between the goal posts.  A goal may be scored through contact with any part of the attacker's body except a clenched fist.<ref name=water>{{cite web |url=http://www.usawaterpolo.org/media/usaplayingrules.pdf |publisher=USA Water Polo |title=USA Water Polo Rules/FINA |access-date=2008-04-29}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> The goal structure in water polo is dependent upon the depth of the water.  The goal mouth measures 3&nbsp;metres across and is either 0.9&nbsp;metres above the surface of the water or 2.4&nbsp;metres above the floor of the pool, whichever is higher.  Nets are required.<ref name="water"/>
+
+===Games with secondary scoring other than goals===
+The following games have more than one possible method of scoring where the goal is the primary method, ''i.e.'' the method that scores the most points. In most cases the score is shown as the number of goals, plus the number of secondary scores (usually 1 point), plus the total number of points. The side with the higher number of total points is the winner.
+
+====Australian rules football====
+[[File:Perth Stadium goal posts 2018 (crop).jpg|right|thumb|Australian rules football goalposts at [[Perth Stadium]]]]
+In [[Australian rules football]] a goal is scored when the ball is kicked by an attacking player completely between the two tall goal posts. To be awarded a goal, the ball may not contact or pass over the goal post, or touch any player on any part of the body other than the foot or lower leg of an attacker. In such cases, the score is a behind (1 point). The ball may be [[Punt (Australian football)|punted]], [[drop kick]]ed, or kicked off the ground (soccered). The ball may cross the goal line at any height from ground level up and may bounce before crossing the line. A goal scores six points. The behind, which scores one point; is awarded if the ball passes between the point posts or is not awarded a goal by the above provisions when passing through the goal posts.<ref name=aussie>{{cite web|url=http://afl.com.au/portals/0/afl_docs/2007_LAWS_OF_THE_GAME.pdf |publisher=Australian Football League |title=Laws of Australian Football: 2007 |access-date=2008-04-29 |url-status=dead |archive-url=https://web.archive.org/web/20080414000732/http://afl.com.au/Portals/0/afl_docs/2007_LAWS_OF_THE_GAME.pdf |archive-date=April 14, 2008 }}</ref> The goal structure consists of two posts at least 6&nbsp;metres in height and spaced 6.4&nbsp;metres apart. There is no crossbar and no net.<ref name="aussie"/>
+
+====Basketball====
+[[File:Mammothhoop2.JPG|right|thumb|upright|An outdoor basketball hoop]]
+{{main|Field goal (basketball)|Three-point field goal|Free throw}}
+The primary object of [[basketball]] is to score by shooting (i.e., throwing) the ball into a goal officially called the basket. A basket is scored when the ball passes completely through the basket ring from above; however, the number of points scored with each basket depends on where on the court the ball was shot from, and a team does not necessarily need to score the most baskets to win the game. Basketball scores are expressed in total points.<ref>{{cite web |url=http://www.nba.com/analysis/rules_5.html?nav=ArticleList |publisher=National Basketball Association (NBA) |title=Rule no. 5 – Scoring and Timing |access-date=2008-04-29 |archive-url=https://web.archive.org/web/20080416033629/http://www.nba.com/analysis/rules_5.html?nav=ArticleList |archive-date=2008-04-16 |url-status=dead }}</ref>
+
+A basket scored during normal play is called a [[field goal (basketball)|field goal]] and is worth two points if shot from within or on the three-point line, and [[three-point field goal|three points]] if shot from beyond the three-point line. The three-point line's distance from the basket varies by level. Points are also awarded to the shooting team if the defensive team commits [[goaltending]] or [[basket interference]] while the ball is in flight towards the basket or is directly over it.
+
+A basketball team can also score by [[free throw]]s, which score one point each. Free throws are awarded to a team after the opponent commits a [[foul (basketball)|foul]] in certain scenarios. The player taking the free throws (usually the player who was fouled) is entitled to take a specified number of shots unopposed with both feet behind the free throw line.
+
+The basket consists of a metal ring {{convert|18|in|cm}} in internal diameter, suspended horizontally {{convert|10|ft|m}} above the floor such that the center of the ring is equidistant from each sideline and {{convert|5|ft|3|in|m}} from the end line. The basket ring has a net attached below to briefly check the ball's downward progress and indicate a score. The ring is fastened to a rectangular backboard {{convert|6|ft|m}} wide by {{convert|3.5|ft|m}} tall,<ref>{{cite web |url=http://www.nba.com/analysis/rules_1.html?nav=ArticleList |publisher=NBA |title=Rule no. 1 – Court Dimensions -- Equipment |access-date=2008-04-29 |archive-url=https://web.archive.org/web/20120210220307/http://www.nba.com/analysis/rules_1.html?nav=ArticleList |archive-date=2012-02-10 |url-status=dead }}</ref><ref name="FIBAEquip">{{cite web|title=FIBA Official Basketball Rules 2010 - Basketball Equipment|url=http://www.fiba.com/downloads/Rules/2010/BasketballEquipment2010_V2.pdf|archive-url=https://web.archive.org/web/20101215030841/http://www.fiba.com/downloads/Rules/2010/BasketballEquipment2010_V2.pdf|url-status=dead|archive-date=15 December 2010|publisher=FIBA|access-date=18 October 2010}}</ref> though in lower levels of play or recreational use the backboard may be smaller and/or fan-shaped. The entire structure is supported from behind and anchored to the floor beyond the end line at higher levels of play; the structure may be anchored to a wall or ceiling at lower levels of play.<ref name="FIBAEquip"/> The ring, net, and the front, top, bottom, and sides of the backboard are all considered inbounds, while the back of the backboard and the support structure – even those parts suspended over inbounds areas of the court – are considered out of bounds.{{Citation needed|date=March 2011}}
+
+==== Gaelic games ====
+{{Main|Scoring in Gaelic games}}
+{{Multiple image
+| perrow            = 2
+| total_width       = 250
+| align             = right
+| direction         = horizontal
+| image1            = Scoring in Gaelic football - H shaped posts and new 2-pointer zone.png
+| image2            = Scoring in Gaelic games - H shaped posts.png
+| image3            = International Rules Football scores.png
+| footer            = Scoring system in [[gaelic games]]. Top left: [[gaelic football]]. Top right: [[hurling]], [[camogie]], [[ladies' Gaelic football]] and [[shinty-hurling]]. Bottom: [[international rules football]].
+| footer_align      = center
+}}
+===== Gaelic football and Ladies' football =====
+In [[Gaelic football]] and [[ladies' Gaelic football]] a goal is scored when the ball passes completely beyond the goal line, between the goal posts and under the cross bar. The ball can be played with the hands, but a goal cannot be scored by hand. A ball travelling between the goal posts and over the cross bar is awarded one pointed called an "over". Overs are the most common scoring method with goals heavily defended.<ref name=gaelic>{{cite web|url=http://www.gaa.ie/files/official_playing_rules.pdf|publisher=Gaelic Athletic Association (GAA)|title=Official Guide 2003: Playing Rules, Hurling and Football|access-date=2008-04-29|url-status=dead|archive-url=https://web.archive.org/web/20080410113325/http://www.gaa.ie/files/official_playing_rules.pdf|archive-date=2008-04-10}}</ref> A goal is worth three points.
+===== Hurling and camogie =====
+In [[hurling]] and [[camogie]] the ball ("[[sliotar]]") must pass completely beyond the goal line. The ball may be played by any legal method except by the hand of the attacker. A ball in flight ''may'' be deflected into the goal off the hand of an attacker. Hurling and Gaelic football use the same goal structure. It is a 6.4&nbsp;meter wide frame with a net attached.  The goal posts are at least 6&nbsp;meters high, and the crossbar is 2.44&nbsp;meters above the ground.  A goal is scored when the ball crosses below the crossbar and a point is scored when the ball passes above it.<ref name="gaelic"/>
+
+=== Sports with goals as secondary scoring ===
+At each end of the field in the following games, there is both a marked scoring area and a separate goal post structure. In these games, the term "goal" is only used for the secondary scoring method of putting the ball through the goal post structure.
+
+====Gridiron football====
+[[File:2006TexasA&MvsCitadel fieldgoal.jpg|thumb|right|American football: Texas A&M attempts to kick a field goal against The Citadel]]
+In [[American football|American]] and [[Canadian football|Canadian]] football, there is a scoring area marked at each end of the field called an [[end zone]], and a separate goal post structure.
+
+The primary method of scoring is a [[touchdown]]. Whether [[Rush (gridiron football)|running]], [[Forward pass|passing]], returning a [[Kickoff (gridiron football)|kickoff]] or [[Punt (gridiron football)|punt]], or recovering a [[Turnover (gridiron football)|turnover]], a team scores a touchdown by advancing the ball into the [[end zone]]. A touchdown scores 6 points in both versions of the sport. The front line of the end zone is the "goal line", its back line is the "end line", and each corner is marked with a pylon. Each end zone in American football is about {{convert|10|x|53.33|yd}} wide, while each end zone in Canadian football is about {{convert|20|x|65|yd}} wide. Unlike other sports which require the ball/puck to pass completely over the goal line to count as a score, both Canadian and American football merely need any part of the ball to break the vertical plane of the outer edge of the goal line to count as a touchdown.
+
+A [[field goal]] is a secondary method of scoring; it is scored when the ball is [[place kick]]ed or [[drop kick]]ed completely over the crossbar and between or directly over the goal posts. A field goal scores 3 points in both versions of the sport. In the American game, the now rarely used [[fair catch kick]], if successfully made, also scores 3 points. A goal kicked during a [[try (American football)|try]] following a [[touchdown]] is worth one point.<ref>{{cite web |url=http://www.nfl.com/rulebook/beginnersguidetofootball
+|publisher=National Football League (NFL) |title=NFL Beginner's Guide to Football |access-date=2008-04-29}}</ref><ref name=CFL>{{cite web |url=https://www.cfl.ca/themes/cfl3/pdf/07rulebook.pdf
+|publisher=Canadian Football League (CFL) |title=Official Playing Rules for the Canadian Football League, 2007 |access-date=2008-04-29}} {{Dead link|date=September 2010|bot=H3llBot}}</ref> These are the only methods of putting the ball through the goal posts that award points to the kicking team; no points are scored if the ball is [[Punt (gridiron football)|punted]] or thrown through the goal posts, or if the ball goes through the goal posts on a [[kickoff (American football)|kickoff]] (except, in the latter case, in [[indoor American football]], where some leagues award a [[single (Canadian football)|single point]]).
+
+In both sports, the goal structure consists of a horizontal crossbar suspended {{convert|10|ft|2|spell=in}} above the ground and vertical goal posts ("uprights") placed {{convert|18|ft|6|in}} apart and extending at least {{convert|35|ft|2}} above the crossbar. In lower levels of play the goal posts may be placed further apart and/or not extend as far above the crossbar; for example, in high school football the posts are {{convert|23|ft|4|in|2}} apart. NFL and CFL rules mandate that a ribbon be attached to the top of each goal post.<ref name="NFLField">{{cite web |url=http://www.nfl.com/rulebook/field
+|publisher=NFL |title=NFL Digest of Rules: Field |access-date=2008-04-29}}</ref><ref name="CFLRules">{{cite web|title=2010 Canadian Football League Rule Book|url=https://www.cfl.ca/uploads/assets/CFL/PDF_Docs/CFLRules_2010_ENG.pdf|publisher=Canadian Football League|access-date=8 December 2010|url-status=dead|archive-url=https://web.archive.org/web/20101213074937/http://cfl.ca/uploads/assets/CFL/PDF_Docs/CFLRules_2010_ENG.pdf|archive-date=13 December 2010}}</ref> Goals are centered on the field, but on different lines: in American football, they lie on the "end line" (far end of the end zone) and in Canadian football, on the "goal line" (beginning of the end zone). A retractable net may be placed behind the goal posts, well beyond the field of play, to prevent the ball from entering spectator areas.
+
+[[File:Austrian Bowl 2013-011.JPG|thumb|right|upright=.75|A contemporary example of gridiron football goal posts]]
+
+Until the mid-1960s, the goal posts were similar in design to rugby posts, with the crossbar and uprights supported by stanchions installed directly underneath the uprights (in the shape of the letter 'H'). A transitional design from this time retained the twin set of stanchions but placed them behind the crossbar. In this design, the crossbar and uprights were supported by a set of horizontal, vertical, and diagonal stanchions behind each upright. This design was last used professionally in the [[Super Bowl I|first Super Bowl]] in January 1967. The modern goal posts supported by a single "goose-necked" stanchion (in the shape of the letter 'Y') made their debut in the [[1966 CFL season|1966 CFL playoffs]] and were adopted by all three professional leagues (CFL, NFL, and [[American Football League|AFL]]) the [[1967 NFL season|following year]], with many (but not all) [[College football|college]] teams following suit in the years since.<ref>{{Cite news|url=https://www.si.com/mmqb/2017/06/21/history-nfl-goal-posts|title = The History of NFL Goal Posts: Excitement and Danger| newspaper=Sports Illustrated }}</ref> The NFL, which [[AFL–NFL merger|merged]] with the AFL in {{nfly|1970}}, had its crossbar over the goal line until&nbsp;{{nfly|1974}}.
+
+In [[Arena Football|arena football]], a field goal also scores three points, unless it is [[drop kick]]ed, in which case it scores four points.<ref name=arenaball>{{cite web|url=http://www.arenafootball.com/ViewArticle.dbml?DB_OEM_ID=3500&KEY=&ATCLID=99180 |publisher=Arena Football League (AFL) |title=AFL 101 |access-date=2008-04-29 |url-status=usurped |archive-url=https://web.archive.org/web/20090117025150/http://www.arenafootball.com/ViewArticle.dbml?DB_OEM_ID=3500 |archive-date=January 17, 2009 }}</ref> The goal structure in arena football is much smaller than the outdoor game; it consists of a crossbar {{convert|15|ft|2}} above the playing surface and {{convert|9.5|ft|2}} wide; this size is also used for most other indoor leagues as well.  Uniquely in arena football, the goal posts are attached to nets on either side of the crossbar which are taut to allow the ball to rebound back onto the field of play. The nets are {{convert|30|ft|2}} wide and {{convert|37|ft|2}} high. These nets do not represent a scoring area, but keep the ball in play and prevent it from entering the crowd.<ref name="arenaball"/>
+
+Canadian football also offers a secondary form of goal, the [[single (Canadian football)|rouge or single point]]; it is awarded if a ball enters the end zone by way of any kick (either a missed field goal or a punt) and is not returned by the opposing team; this is not offered in American football (such a play results in a touchback instead).
+
+====Rugby football====
+{{anchor|Rugby}}<!-- [[Goal (rugby)]] redirects here-->
+[[File:The Posts - geograph.org.uk - 116024.jpg|thumb|upright|Rugby goalposts, Manchester Rugby Club]]
+In both [[Rugby football|rugby]] codes, there is a scoring area marked at each end of the field called an in-goal area, and a separate H-shaped goal structure. The primary scoring method is a [[Try (rugby)|try]], worth 5 points in [[rugby union]] and worth 4 points in [[rugby league]]. A try is scored by grounding the ball in the in-goal area.
+
+A goal is scored in either rugby code by place kicking or [[drop kick]]ing a ball over the crossbar and between the uprights of H-shaped goalposts.<ref>{{Cite web |url=http://www.therfl.co.uk/the-rfl/rules/official_laws/1_playing_field |title=Rugby League Official Laws |access-date=2018-11-29 |archive-url=https://web.archive.org/web/20160309140247/http://therfl.co.uk/the-rfl/rules/official_laws/1_playing_field |archive-date=2016-03-09 |url-status=dead }}</ref><ref>{{cite web|url=http://laws.worldrugby.org/?law=1.4|title=1.4 Dimensions for goal posts and crossbar|publisher=World Rugby|work=Laws|access-date=30 November 2016}}</ref> The goalposts are positioned centrally on the goal line (the front line of the in-goal area). The crossbar is {{convert|3|metres}} from the ground; the uprights are {{convert|5.5|metres}} apart in rugby league and {{convert|5.6|metres}} in rugby union.
+
+{|class="wikitable"
+|+Rugby goal types and points values
+|-
+! Type 
+! Kick type 
+! Union<br />pts<ref>{{cite web|url=http://laws.worldrugby.org/?law=9|title=9.A SCORING POINTS|work=Laws|publisher=World Rugby|access-date=30 November 2016}}</ref> 
+! League<br />pts
+! Notes
+|-
+| [[Drop goal]] || Drop || 3 || 1 || Scored from open play.
+|-
+| [[Penalty kick (rugby)|Penalty]] goal || Place or drop || 3 || 2 || Usually place-kicked.
+|-
+| [[Try (rugby)|Conversion]] goal || Place or drop  || 2 || 2 || Usually place-kicked. 
+|-
+| [[Goal from mark]] || [[Mark (rugby)|Mark]] || 3 || 3 || Abolished in 1922 in league and 1977 in union. 
+|}
+
+In the early years of rugby, [[History of rugby union#Scoring|only goals counted in scoring]], and a "[[Try (rugby)|try]]" counted only if "converted" into a goal. The official name "[[goal from a try]]" for a converted try persisted until 1979.
+
+==Goal celebration==
+{{main|Goal celebration}}
+Celebrating the scoring of a goal is common. It is normally performed by the goalscorer, and may involve his or her teammates, the manager or coaching staff and/or the supporters of the team. Whilst referring to the celebration of a goal in general, the term can also be applied to specific actions, such as a player removing his shirt or performing a somersault.
+
+==Metaphor==
+The expression "[[moving the goalposts]]", which means to make a set of goals more difficult just as they are being met, is often used in business but is derived from association football.<ref>{{cite news|url=https://www.nytimes.com/1990/10/28/magazine/on-language-moving-the-goalposts.html|title=On Language; Moving the Goalposts|first=William|last=Safire|newspaper=The New York Times|date=28 October 1990|access-date=29 March 2018}}</ref> It is commonly used to imply [[bad faith]] on the part of those setting goals for others to meet, by arbitrarily making additional demands just as the initial ones are about to be met.
+
+In [[business]], the concept is more abstract, with some performance measure or target being set as a '''goalpost''' while achieving the target is often known as achieving a goal.
+
+== Goalposts ==
+{{sticky header}}
+{| class="wikitable sticky-header"
+!Sport
+!Regulated by
+!Shape
+!Width
+!Height
+!Depth
+!Diagram
+|-
+|[[Cycle ball]]
+|[[Union Cycliste Internationale|UCI]]<ref>{{Cite web |title=PART 8 INDOOR CYCLING |url=https://assets.ctfassets.net/761l7gh5x5an/55VFXACpW6aLaBlkubh0tw/fea34768017f08aaf4a1f43e4489b183/PART_8_E_-_As_of_01.08.2023.pdf}}</ref>
+|Netted rectangular
+|2 meters
+|2 meters
+|
+|
+|-
+|[[Goalball]]
+|[[International Blind Sports Federation|IBSA]]<ref>{{Cite web |title=INTERNATIONAL BLIND SPORTS FEDERATION GOALBALL RULES AND REGULATIONS 2025 |url=https://fileservice.aifdigitalsolutions.com/ibsa/2025-IBSA-Goalball-Rules-and-Regulations-v2_20250723080551938.pdf}}</ref>
+|Netted rectangular cuboid
+|8.95-9.05 meters
+|1.28-1.32 meters
+|0.5 meters
+|
+|-
+|[[Korfball]]
+|[[International Korfball Federation|IKF]]<ref>{{Cite web |title=THE RULES OF KORFBALL |url=https://korfball.sport/wp-content/uploads/2025/07/The-Rules-of-Korfball-2025.pdf}}</ref>
+|Cylinder/truncated cone
+|Diameters: 0.39-0.41 meters (top edge), 0.4-0.42 meters (bottom side)
+|3.5 meters above floor
+|0.235-0.25 meters
+|
+|-
+|[[Netball]]
+|[[World Netball]]<ref>{{Cite web |title=RULES OF NETBALL 2024 EDITION |url=https://netball.sport/wp-content/uploads/2024/01/World-Netball-Rules-Book-2024.pdf}}</ref>
+|Netted circle
+|{{Convert|15|in|m}} (diameter)
+|{{Convert|10|ft|m}} above floor
+|{{Convert|15-18|in|m}} (net)
+|
+|-
+|[[Shinty]]
+|[[Camanachd Association]]<ref>{{Cite web |title=CAMANACHD ASSOCIATION BYELAW 1 2024 |url=https://shinty.com/wp-content/uploads/2024/03/BYELAW-1-2024-2.pdf}}</ref>
+|Netted rectangular cuboid
+|{{Convert|12|ft|m}}
+|{{Convert|10|ft|m}}
+|{{Convert|3|ft|m}}
+|
+|-
+| colspan="7" |'''Basketball'''
+|-
+|[[3x3 basketball|3x3]]<ref>{{Cite web |title=Official 3x3 Basketball Equipment & Software Appendix to the 3x3 Official Rules |url=https://fiba3x3.com/docs/equipment-and-software-appendix-to-the-3x3-official-rules.pdf}}</ref>
+| rowspan="2" |[[FIBA]]<ref>{{Cite web |title=2024 Official Basketball Rules |url=https://assets.fiba.basketball/image/upload/documents-corporate-fiba-official-rules-2024-official-basketball-rules-and-basketball-equipment.pdf}}</ref>
+| rowspan="3" |Netted circle
+| rowspan="2" |0.45-0.459 meters (diameter)
+| rowspan="2" |3.044-3.056 meters above floor
+| rowspan="2" |0.45-0.459 meters (net)
+| rowspan="2" |[[File:Basketball backboard and basket.svg|frameless|155x155px]]
+|-
+| rowspan="2" |[[Basketball]]
+|-
+|[[National Basketball Association|NBA]]<ref>{{Cite web |title=2025-26 OFFICIAL RULES |url=https://ak-static.cms.nba.com/wp-content/uploads/sites/4/2025/10/Official-2025-26-NBA-Playing-Rules.pdf}}</ref>
+| data-sort-value="028.70" |{{Convert|18|in|m}} (diameter)
+| data-sort-value="015.20" |{{Convert|10|ft|m}} above floor
+|{{Convert|18|in|m}} (net)
+|
+|-
+| colspan="7" |'''[[Football|Football codes]]'''
+|-
+|[[Association football|Soccer]]<ref>{{Cite web |title=Laws of the Game 25/26 |url=https://downloads.theifab.com/downloads/laws-of-the-game-2025-26-double-pages?l=en}}</ref>
+| rowspan="3" |[[FIFA]]
+| rowspan="3" |Netted rectangular
+| data-sort-value="100.00-110.00" |{{Convert|8|yd|m}}
+| data-sort-value="064.00-075.00" |{{Convert|8|ft|m}}
+|
+|
+|-
+|[[Beach soccer]]<ref>{{Cite web |title=Beach Soccer Laws of the Game 2024-25 |url=https://digitalhub.fifa.com/m/1bc7152f961f99b6/original/Beach-Soccer-Laws-of-the-Game-2024-2025.pdf}}</ref>
+|5.5 meters 
+|2.2 meters
+|
+|
+|-
+|[[Futsal]]<ref>{{Cite web |title=Futsal LAWS OF THE GAME 2025-26 |url=https://digitalhub.fifa.com/m/20d52e6779b53321/original/FUTSAL-Laws-of-the-Game-2025-2026.pdf}}</ref>
+| data-sort-value="038.00-042.00" |3 meters
+| data-sort-value="020.00-025.00" |2 meters
+|
+|
+|-
+|[[American football|American]]<ref>{{Cite web |title=FOOTBALL RULES AND INTERPRETATIONS 2023 EDITION |url=https://americanfootball.sport/wp-content/uploads/2023/05/ifafrules.pdf}}</ref>
+|[[International Federation of American Football|IFAF]]
+| rowspan="2" |Carving fork
+| rowspan="2" data-sort-value="091.80" |{{Convert|222|in|m}}
+| rowspan="3" data-sort-value="048.75" |{{Convert|10|ft|m}} above ground
+|
+|
+|-
+|[[Canadian football|Canadian]]
+|[[Football Canada]]<ref>{{Cite web |title=The Canadian Amateur Rule Book for Tackle Football 2025-2026 |url=https://footballcanada.com/wp-content/uploads/2025/03/2025-Tackle-Rulebook-English.pdf}}</ref>
+|
+|
+|-
+|[[Arena football|Arena]]<ref>{{Cite web |title=2025 Rule Book |url=https://goifl.com/sports/2025/2/11/FB_0211254729.aspx |access-date=2025-10-29 |website=goifl.com |language=en}}</ref><ref>{{Cite web |title=Rules - Arena Football One {{!}} The Official Home of Arena Football |url=http://www.theaf1.com//rules |access-date=2025-10-29 |website=www.theaf1.com |language=en}}</ref>
+|
+|Uppercase H, with bouncing nets/ Uppercase U (hanged)
+| data-sort-value="045.90" |{{Convert|10|ft|m}}
+| -
+|
+|-
+|[[Rugby union]]
+|[[World Rugby]]<ref>{{Cite web |title=Laws of the game Rugby Union 2025 |url=https://passport.world.rugby/media/g21aixlp/2507en-world-rugby-laws-july-update-compressed.pdf}}</ref>
+| rowspan="2" |Uppercase H
+| data-sort-value="094.00-100.00" |5.6 meters
+| rowspan="2" data-sort-value="068.00-70.00" |3 meters above ground
+| -
+|
+|-
+|[[Rugby league]]
+|[[International Rugby League|IRL]]<ref>{{Cite web |title=2024 INTERNATIONAL LAWS OF THE GAME |url=https://www.internationalrugbyleague.com/uploads/docs/international-rugby-league-laws-of-the-game-2022%20%283%29.pdf}}</ref>
+| data-sort-value="100.00" |5.5 meters
+| -
+|
+|-
+|[[Australian rules football|Australian rules]]
+|[[AFL Commission]]<ref>{{Cite web |title=LAWS OF AUSTRALIAN FOOTBALL |url=https://resources.afl.com.au/afl/document/2025/03/21/19a8bff6-8f49-45b9-b686-83a64db02fe0/LEGAL_2025_150532_Laws-of-the-Game_Booklet_Digital_FA.pdf}}</ref>
+|4 posts
+| data-sort-value="135.00-185.00" |2 goal posts (6.4 meters apart) + 2 behind posts (6.4 meters apart from each side of goal post)
+| data-sort-value="110.00-155.00" |Goal posts: 6-15 meters
+Behind posts: 3-10 meters
+| -
+|
+|-
+|[[International rules football|International rules]]
+|AFL Commission and GAA<ref>{{Cite web |title=The Laws of  INTERNATIONAL  RULES FOOTBALL  2014 |url=https://www.gaa.ie/api/pdfs/image/upload/xgjjsuu0toti6swnai09.pdf}}</ref>
+|Uppercase H (netted bottom) + 2 post
+|2 goal posts (6.4 metres apart)  + 2 behind posts (6.4 metres apart from each side of goal post)
+|Goal posts: 6 meters, crossbar at 2.5 meters
+Behind posts: 3 meters
+|
+|[[File:International Rules Football scores.png|frameless|100x100px]]
+|-
+|[[Gaelic football|Gaelic]]
+|[[Gaelic Athletic Association|GAA]]<ref>{{Cite web |title=OFFICIAL GUIDE - PART 2 |url=https://www.gaa.ie/api/images/image/upload/t_q-best/prd/ux74p4f8n5ywzz3rb3fi.pdf}}</ref>
+|Uppercase H (netted bottom)
+|6.5 meters
+|7 meters, crossbar at 2.5 meters
+|netted bottom 0.9 meters in depth
+|
+|-
+| colspan="7" |'''Handball'''
+|-
+|[[Handball|Indoor]]<ref>{{Cite web |title=IX. Rules of the Game a) Indoor Handball |url=https://www.ihf.info/sites/default/files/2025-07/09A%20-%20Rules%20of%20the%20Game_Indoor%20Handball_E.pdf}}</ref>
+| rowspan="3" |[[International Handball Federation|IHF]]
+| rowspan="2" |Netted cuboid
+| rowspan="3" data-sort-value="040.00" |3 meters
+| rowspan="2" data-sort-value="020.00" |2 meters
+| rowspan="2" |1 meter at floor, 0.8 meters at crossbar
+|
+|-
+|[[Beach handball|Beach]]<ref>{{Cite web |title=IX. Rules of the Game b) Beach Handball |url=https://www.ihf.info/sites/default/files/2022-02/09B%20-%20Rules%20of%20the%20Game_Beach%20Handball_E.pdf}}</ref>
+|
+|-
+|[[Wheelchair handball|Wheelchair]]<ref>{{Cite web |title=IX. Rules of the Game c) Wheelchair Handball Six-a-Side |url=https://www.ihf.info/sites/default/files/2021-07/09%20-%20Rules%20of%20the%20Game_Wheelchair%20Handball_6-a-side_E.pdf}}</ref>
+|Netted rectangular
+|1.7 meters
+|
+|
+|-
+| colspan="7" |'''[[Hockey]]'''
+|-
+|[[Bandy]]
+| rowspan="2" |[[Federation of International Bandy|FIB]]<ref>{{Cite web |title=BANDY PLAYING RULES |url=https://worldbandy.com/wp-content/uploads/dlm_uploads/2024/12/FIB-OFFICIAL-RULE-BOOK-2023-2024.pdf}}</ref>
+| rowspan="3" |Netted cuboid
+| data-sort-value="100.00-110.00" |3.5 meters
+| data-sort-value="060.00-065.00" |2.1 meters
+|2 meters at floor, 1 meters at crossbar
+|
+|-
+|[[Rink bandy]]
+| rowspan="2" |1.83 meters
+| rowspan="2" |1.22 meters
+| rowspan="2" |0.6-1.12 meters
+|
+|-
+|[[Ball hockey]]
+|[[International Street and Ball Hockey Federation|ISBHF]]<ref>{{Cite web |title=INTERNATIONAL STREET & BALL HOCKEY FEDERATION, RULEBOOK 2025 VERSION |url=https://www.isbhf.com/data/redactor/ISBHF%20Rulebook%202025.pdf}}</ref>
+|
+|-
+|[[Field hockey|Field]]<ref>{{Cite web |title=Rules of Hockey, Effective from 1 January 2022 |url=https://www.fih.hockey/static-assets/pdf/fih-rules-of-hockey-June23-update.pdf}}</ref>
+| rowspan="3" |[[International Hockey Federation|FIH]]
+| rowspan="2" |Netted cuboid
+| data-sort-value="091.40" |3.66 meters
+| data-sort-value="055.00" |2.14 meters
+|1.2 meters at floor, 0.9 meters at crossbar
+|
+|-
+|[[Indoor hockey|Indoor]]<ref>{{Cite web |title=Rules of Indoor Hockey, Effective from 1 December 2023 |url=https://www.fih.hockey/static-assets/pdf/fih-rules-of-indoor-hockey-2023.pdf}}</ref>
+| data-sort-value="036.00-044.00" |3 meters
+| data-sort-value="018.00-022.00" |2 meters
+|1 meter at floor, 0.8 meters at crossbar
+|
+|-
+|Beach<ref>{{Cite web |title=Rules of Beach Hockey, Effective from 1 June 2024 |url=https://www.fih.hockey/static-assets/pdf/beach-hockey-rules-2024.pdf}}</ref>
+|Netted rectangular cuboid
+|4 meters
+|2 meters
+|1 meter
+|
+|-
+|[[Floorball]]
+|[[International Floorball Federation|IFF]]<ref>{{Cite web |title=Rules of the Game, Rules and Interpretations, Valid from 1st July 2022 |url=https://archive.floorball.sport/cloudfront/2022/05/Rules-of-the-Game-2022-Final_updated_18.05.2022.pdf}}</ref>
+|Netted rectangular cuboid
+|1.6 meters
+|1.15 meters
+|0.65 meters at floor, 0.4 meters at crossbar
+|
+|-
+| rowspan="2" |[[Ice hockey|Ice]]
+|[[International Ice Hockey Federation|IIHF]]<ref>{{Cite web |title=IIHF OFFICIAL, RULEBOOK 2025/26 |url=https://blob.iihf.com/iihf-media/iihfmvc/media/contentimages/4_sport/officiating/rule_book/25_26/2025-26_iihf_rulebook_30062025-v1.pdf}}</ref>
+|Netted rectangular
+| data-sort-value="061.00" |1.83 meters
+| data-sort-value="030.00" |1.22 meters
+|
+|[[File:Ice hockey goal post.png|frameless|100x100px]]
+|-
+|[[National Hockey League|NHL]]<ref>{{Cite web |title=NATIONAL HOCKEY LEAGUE, Official Rules 2025-2026 |url=https://media.d3.nhle.com/image/private/t_document/prd/slwjuaqwmuvj5bkplixo.pdf}}</ref>
+|
+| data-sort-value="061.00" |{{Convert|72|in|m}}
+| data-sort-value="026.00" |{{Convert|48|in|m}}
+|{{Convert|40|in|m}} at floor, {{Convert|18|in|m}} at crossbar
+|
+|-
+|[[Inline hockey|Inline]]<ref name=":02">{{Cite web |title=Worldskate - Skateboarding & Roller Sports - Regulations - Regulation |url=https://www.worldskate.org/inline-hockey/about/regulations.html |access-date=2024-12-19 |website=www.worldskate.org}}</ref>
+| rowspan="2" |[[World Skate]]
+|
+| rowspan="2" |{{Convert|1.7|m|in}}
+| rowspan="2" |{{Convert|1.05|m|in}}
+|{{Convert|43|in|m}} at floor (semiellipse), {{Convert|29|in|m}} at crossbar
+|
+|-
+|[[Roller hockey (quad)|Quad]]<ref name=":1">{{Cite web |title=Worldskate - Skateboarding & Roller Sports - Regulations - Regulation |url=https://www.worldskate.org/rink-hockey/about/regulations.html |access-date=2025-08-28 |website=www.worldskate.org}}</ref>
+|
+|0.64 meters at floor (semiellipse), 0.65 meters at crossbar
+|
+|-
+|[[Unicycle hockey|Uniclycle]]
+|[[International Unicycling Federation|IUF]]<ref>{{Cite web |title=Publications – International Unicycling Federation |url=https://unicycling.org/publications/ |access-date=2025-08-27 |language=en-US}}</ref>
+|Netted rectangular
+|1.8 meters
+|1.2 meters
+|
+|
+|-
+|[[Underwater hockey|Underwater]]
+|[[Confédération Mondiale des Activités Subaquatiques|CMAS]]<ref>{{Cite web |title=HOW TO/REGULATIONS |url=https://www.cmas.org/hockey/how-to-regulations.html |access-date=2025-10-30 |website=Confédération Mondiale Des Activités Subaquatiques - CMAS |language=en-gb}}</ref>
+|Rectangular cuboid (through)
+|3 meters
+|0.02 meters
+|
+|
+|-
+| colspan="7" |'''[[Lacrosse]]'''
+|-
+|[[Field lacrosse|Field]]<ref>{{Cite web |title=2025-2027, Men's Field Lacrosse, Official Playing Rules, January 2025 – Version 1.0 |url=https://worldlacrosse.sport/wp-content/uploads/2025/03/WL_Mens-Rules_25-27_FINAL.pdf}}</ref>
+| rowspan="4" |[[World Lacrosse]]
+| rowspan="3" |Netted square pyramid
+| data-sort-value="100.00" |{{Convert|6|ft|m}}
+| data-sort-value="055.00" |{{Convert|6|ft|m}}
+|{{Convert|7|ft|m}}
+|
+|-
+|[[Women's lacrosse|Women]]<ref>{{Cite web |title=2025-2026 WOMEN'S FIELD LACROSSE OFFICIAL PLAYING RULES, VERSION 1.1 // JANUARY 2025 |url=https://worldlacrosse.sport/wp-content/uploads/2025/03/2025_2026-WF-Rulebook_FINALv1.1-1.pdf}}</ref>
+| rowspan="2" |1.83 meters
+| rowspan="2" |1.83 meters
+|2.1 meters
+|
+|-
+|[[Lacrosse sixes|Sixes]]<ref>{{Cite web |title=2024-2025 SIXES OFFICIAL PLAYING RULES |url=https://worldlacrosse.sport/wp-content/uploads/2024/12/2024_SixesRules_FINAL-v1.1.pdf}}</ref>
+|
+|
+|-
+|[[Box lacrosse|Box]]<ref>{{Cite web |title=2024 BOX LACROSSE OFFICIAL PLAYING RULES |url=https://worldlacrosse.sport/wp-content/uploads/2024/08/WL-Box-Rulebook-2024_-FINAL.pdf}}</ref>
+|Netted rectangular pyramid
+| data-sort-value="055.00-061.00" |{{Convert|57|in|m}}
+| data-sort-value="024.00-028.00" |{{Convert|4|ft|m}}
+|
+|
+|-
+|[[Intercrosse]]<ref>{{Cite web |title=Tips & Tricks - Rules |url=https://intercrosse.net/pils/tipsntricks/rules/rulebook_eng.htm |access-date=2025-08-28 |website=intercrosse.net}}</ref>
+|
+|Netted rectangular pyramid
+|{{Convert|48|in|m}}
+|{{Convert|45|in|m}}
+|{{Convert|54|in|m}}
+|
+|-
+| colspan="7" |'''Polo'''
+|-
+|[[Polo]]<ref>{{Cite web |last=Johnson |first=Storm |title=Blue Book |url=https://hpa-polo.co.uk/blue-book/ |access-date=2025-10-30 |website=HPA Polo UK |language=en-GB}}</ref><ref>{{Cite web |date=2024-12-30 |title=2025 USPA Rulebook |url=https://issuu.com/uspoloassociation/docs/2025_rulebook_ |access-date=2025-10-30 |website=Issuu |language=en}}</ref><ref>{{Cite web |title=AAP Reglas de Juego |url=https://www.aapolo.com/bundles/web/files/AAP%20-%20Reglas%20de%20juego%20y%20codigo%20de%20faltas-2025.pdf}}</ref>
+| rowspan="2" |[[Federation of International Polo|FIP]]
+| rowspan="2" |2 posts
+|{{Convert|8|yd|m}}
+|{{Convert|10|ft|m}}
+|
+|
+|-
+|Arena<ref>{{Cite web |last=Johnson |first=Storm |title=Green Book |url=https://hpa-polo.co.uk/green-book/ |access-date=2025-10-30 |website=HPA Polo UK |language=en-GB}}</ref><ref>{{Cite web |title=ARENA RULES |url=https://d3uxdg7queknzi.cloudfront.net/assets/pdf/2024-2025-II-Arena-Rules.pdf}}</ref>
+|{{Convert|8-12|yd|m}}
+|{{Convert|10-15|ft|m}}
+|
+|
+|-
+| colspan="7" |'''Water sports'''
+|-
+|[[Canoe polo]]
+|[[International Canoe Federation|ICF]]<ref>{{Cite web |title=INTERNATIONAL CANOE FEDERATION CANOE POLO COMPETITION RULES 2025 Taking effect from 1 January 2025 |url=https://www.canoeicf.com/sites/default/files/2025_icf_competition_rules_canoe_polo_-_final.pdf}}</ref>
+|Netted rectangular cuboid
+|1.5 meters
+|1 meter (above 2 meters from water)
+|0.5 meters
+|
+|-
+|[[Water polo|Waterpolo]]
+|[[World Aquatics]]<ref>{{Cite web |title=COMPETITION REGULATIONS In force as from 25 June 2025 |url=https://resources.fina.org/fina/document/2025/07/01/ed3110a4-2291-411d-8526-6f641bd9237a/Competition-Regulations_June-2025_Clean-updated-01.07.2025-.pdf}}</ref>
+|Netted rectangular
+|3 meters
+|0.9 meters
+|
+|
+|}
+
+==See also==
+{{Portal|Sports}}
+* [[Goalkeeper]]
+* [[Own goal]]
+* [[:Category:Assist (sport)|Assist (sport)]]
+
+==References==
+{{Reflist}}
+
+{{Team sports}}
+{{Gridiron football equipment}}
+{{Authority control}}
+
+[[Category:Scoring (sport)]]
+[[Category:Scoring (association football)]]
+[[Category:Scoring (basketball)]]
+[[Category:Scoring (ice hockey)]]
+[[Category:Terminology used in multiple sports]]
+[[Category:Association football terminology]]
+[[Category:Association football equipment]]
+[[Category:Laws of association football]]
+[[Category:Bandy equipment]]
+[[Category:Bandy rules]]
+[[Category:American football terminology]]
+[[Category:Australian rules football terminology]]
+[[Category:Basketball terminology]]
+[[Category:Field hockey terminology]]
+[[Category:Gaelic games terminology]]
+[[Category:Ice hockey terminology]]
+[[Category:Rugby league terminology]]
+[[Category:Rugby union terminology]]
+[[Category:Rules of water polo]]
+[[Category:Water polo equipment]]
+[[Category:Water polo terminology]]
+[[Category:Ball games]]

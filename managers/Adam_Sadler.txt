@@ -1,0 +1,103 @@
+{{short description|English football coach (born 1980)}}
+{{Use dmy dates|date=August 2019}}
+{{Use British English|date=August 2019}}
+{{Infobox football biography
+| name = Adam Sadler
+| image = Celtic-20240722-076 (Sadler).jpg
+| image_size = 200px
+| caption = Sadler with [[Celtic F.C.|Celtic]] in 2024
+| full_name = 
+| birth_date = {{Birth date and age|1980|1|9|df=y}}<ref>{{cite web |url=https://www.nufc.com/html/2011-12html/unlikely-new-s.html|title=Archives|website=nufc.com|accessdate=16 March 2019}}</ref>
+| birth_place = [[North Shields]], England
+| death_date = 
+| death_place = 
+| currentclub = [[Celtic F.C.|Celtic]]<br>(first team coach)
+| position = [[Goalkeeper (association football)|Goalkeeper]]
+| youthyears1 = 
+| youthclubs1 = [[Newcastle United F.C.|Newcastle United]]
+| youthyears2 = 1996–1998
+| youthclubs2 = [[Manchester United F.C.|Manchester United]]
+| youthyears3 = 1998–1999
+| youthclubs3 = [[Barnsley F.C.|Barnsley]]
+| years1 = 
+| clubs1 = [[Gretna F.C.|Gretna]]
+| caps1 = 
+| goals1 = 
+| years2 = 
+| clubs2 = [[Blyth Spartans A.F.C.|Blyth Spartans]]
+| caps2 = 
+| goals2 = 
+| manageryears1 = 2019
+| managerclubs1 = [[Leicester City F.C.|Leicester City]] (joint-caretaker)
+| manageryears2 = 2023
+| managerclubs2 = [[Leicester City F.C.|Leicester City]] (joint-caretaker)
+
+}}
+
+'''Adam Sadler''' (born 9 January 1980) is an English [[Association football|football]] coach.
+
+==Playing career==
+Sadler had stints in the youth academies at [[Newcastle United F.C.|Newcastle United]][[Manchester United F.C.|Manchester United]] and [[Barnsley F.C.|Barnsley]] before joining Scottish club [[Gretna F.C.|Gretna]].<ref name = "LCFC">{{cite web |url=https://www.lcfc.com/news/828573/adam-sadler-leicester-city-is-a-special-football-club|title=Adam Sadler: Leicester City Is A Special Football Club|website=Leicester City F.C.|date=22 August 2018|accessdate=16 March 2019}}</ref> In August 2003, [[Blyth Spartans A.F.C.|Blyth Spartans]] signed Sadler.<ref>{{cite web |url=http://www.altrinchamfc.co.uk/alt0304b.htm|title=Archived News and Information 22 to 31 August, 2003 |website=Altrincham F.C.|accessdate=16 March 2019}}</ref>
+
+==Coaching career==
+At the age of 21, Sadler entered coaching, joining Newcastle United in 2001. During his time at the club, Sadler was appointed [[Newcastle United F.C. Reserves and Academy|reserve team]] manager, helping the side to win the [[Northumberland Senior Cup]]. A short spell at [[Norwich City F.C.|Norwich City]] under [[Glenn Roeder]] was followed by a return to [[North East England]], where he was assistant manager at Blyth Spartans, [[Team Northumbria F.C.|Team Northumbria]], and [[Gateshead F.C.|Gateshead]]. Sadler later joined [[Plymouth Argyle F.C.|Plymouth Argyle]], eventually becoming first team coach under manager [[Peter Reid]].<ref>{{cite web |url=https://www.leicestermercury.co.uk/sport/football/football-news/adam-sadler-leicester-city-coach-1742714|title=Who is Adam Sadler? The lowdown on Leicester City's new first-team coach|website=Leicestershire Live|date=3 July 2019|accessdate=16 March 2019}}</ref> In August 2011, Sadler joined [[Manchester City F.C.|Manchester City]] as under-18 coach.<ref>{{cite web |url=https://www.mancity.com/news/academy/academy-news/archive/2011/august/adam-sadler-appointed-as-under-18-coach|title=Adam Sadler appointed as U18 coach|website=Manchester City F.C.|date=4 August 2011|accessdate=16 March 2019}}</ref> Following two years at Manchester City, Sadler took up a coaching role at Ukrainian club [[SC Tavriya Simferopol|Tavriya Simferopol]].<ref name = "LCFC"/>
+
+In 2014, Sadler joined [[Leicester City F.C.|Leicester City]] as a tactical analyst under [[Nigel Pearson]]. In 2018, under the management of [[Claude Puel]], Sadler was appointed as first-team coach.<ref name = "LCFC"/> On 26 February 2019, following the sacking of Puel, Sadler and joint-caretaker manager [[Mike Stowell]] oversaw a 2–1 home win over [[Brighton & Hove Albion F.C.|Brighton & Hove Albion]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/47287502|title=Leicester City 2–1 Brighton & Hove Albion|website=BBC Sport|date=26 February 2019|accessdate=16 March 2019}}</ref>
+
+On 28 August 2021, Sadler joined the backroom staff of the Northern Ireland national team in conjunction with his coaching role at Leicester City.<ref>{{cite web|url=https://www.belfasttelegraph.co.uk/sport/football/international/adam-sadler-appointed-new-northern-ireland-coach-after-glowing-jonny-evans-reference-40796223.html|title=Adam Sadler appointed new Northern Ireland coach after glowing Jonny Evans reference|publisher=Belfast Telegraph|date=28 August 2021|accessdate=1 September 2021}}</ref>
+
+After the arrival of new manager [[Enzo Maresca]], Sadler left Leicester City on 30 June 2023.<ref>{{cite news |title=Stowell, Sadler & Knudsen to depart coaching team|url=https://www.lcfc.com/news/3562795?lang=en |access-date=30 June 2023 |work=Leicester City F.C. |date=30 June 2023}}</ref>
+
+Sadler was appointed first-team coach at Celtic F.C. on 31 December 2023.<ref>{{Cite web |title=Celtic appoint Adam Sadler as new first-team coach as Harry Kewell takes up new opportunity in Japan |url=https://www.celticfc.com/news/2023/december/31/celtic-appoint-adam-sadler-as-new-first-team-coach-as-harry-kewell-takes-new-opportunity-in-japan/}}</ref>
+
+==Managerial statistics==
+{| class="wikitable" style="text-align: center"
+|+ Managerial record by team and tenure
+|-
+!rowspan=2|Team
+!rowspan=2|From
+!rowspan=2|To
+!colspan=5|Record
+|-
+!{{abbr|P|Matches played}}!!{{abbr|W|Matches won}}!!{{abbr|D|Matches drawn}}!!{{abbr|L|Matches lost}}!!{{abbr|Win %|Win percentage}}
+|-
+|align=left|[[Leicester City F.C.|Leicester City]] (caretaker)
+|align=left|24 February 2019
+|align=left|26 February 2019
+{{WDL|1|1|0|0|decimals=1}}
+|-
+|align=left|Leicester City (caretaker)
+|align=left|2 April 2023
+|align=left|10 April 2023
+{{WDL|2|0|0|2|decimals=1}}
+|-
+!colspan=3|Total
+{{WDLtot|3|1|0|2|decimals=1}}
+|}
+
+==References==
+{{reflist}}
+
+{{Leicester City F.C. managers}}
+
+{{DEFAULTSORT:Sadler, Adam}}
+[[Category:1980 births]]
+[[Category:Living people]]
+[[Category:Men's association football goalkeepers]]
+[[Category:English men's footballers]]
+[[Category:English football managers]]
+[[Category:Sportspeople from North Shields]]
+[[Category:Gretna F.C. players]]
+[[Category:Blyth Spartans A.F.C. players]]
+[[Category:Newcastle United F.C. non-playing staff]]
+[[Category:Norwich City F.C. non-playing staff]]
+[[Category:Plymouth Argyle F.C. non-playing staff]]
+[[Category:Manchester City F.C. non-playing staff]]
+[[Category:Leicester City F.C. non-playing staff]]
+[[Category:Leicester City F.C. managers]]
+[[Category:English expatriate sportspeople in Ukraine]]
+[[Category:English football coaches]]
+[[Category:21st-century English sportsmen]]
+[[Category:Premier League managers]]
+
+{{England-footy-goalkeeper-1980s-stub}}

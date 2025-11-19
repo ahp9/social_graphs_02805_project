@@ -1,0 +1,25 @@
+{{Short description|Tactic and skill in association football}}
+'''Push-and-run''', also known as a '''wall pass''', a '''one-two''' or a '''[[give-and-go]]''', is a tactic and skill often used in [[association football]]. It involves quickly laying the ball off to a teammate and running past the marking tackler to collect the return [[Passing (association football)|pass]]. It proved an effective way to move the ball at pace, with players' positions and responsibility being fluid.<ref>{{cite news |title=Ron Burgess: Titanic presence at Tottenham Hotspur |url=https://www.independent.co.uk/news/obituaries/ron-burgess-484252.html |work=[[The Independent]] |date=2005-02-21 |accessdate=2008-07-20 }}</ref>
+
+It was devised and developed by [[Arthur Rowe]],<ref>{{cite book |title=Moving with the Ball: The Migration of Professional Footballers |last=Lanfranchi |first=Pierre |author2=Taylor, Matthew  |year=2001 |publisher=Berg Publishers |isbn=1-85973-307-7 |url=https://books.google.com/books?id=U5dgLQ3NWCQC&dq=%22Push+and+run%22+%2Browe&pg=PA203 |accessdate=2008-07-20 |page=203}}</ref> who was the then manager of English football club [[Tottenham Hotspur F.C.|Tottenham Hotspur]] from 1949. Implementing this new and unique style,<ref>{{cite book |title=The 90-minute Manager: Lessons from the Sharp End of Management |last=Bolchover |first=David |author2=Brady, Chris  |year=2006 |publisher=Pearson Education |isbn=0-273-70830-9 |url=https://books.google.com/books?id=P8m8DiTf-WQC&dq=%22Push+and+run%22+%2Bseismic&pg=PA282 |accessdate=2008-07-20 |page=282}}</ref> Tottenham ran away with their first league title. In [[1950–51 in English football|1951]] they won the [[Football League First Division|First Division Championship]] and became the third side to win [[Football League Second Division|Second]] and First Divisions in successive seasons – after Liverpool in 1906 and Everton in 1932.
+
+==Origin==
+The "push and run" style of play was first developed by Arthur Rowe at Tottenham Hotspur. Rowe himself would credit [[Peter McWilliam]], the Spurs manager under whom he served, with teaching him how to play a quick passing style of game from which Rowe then extended into "push and run".<ref>{{cite book |url=https://books.google.com/books?id=BlVGrgEACAAJ|title=The Biography of Tottenham Hotspur |first=Julie|last= Welch |publisher=Vision Sports Publishing|date= 7 September 2015 |isbn= 9781909534506 |chapter=Chapter 7: Success is the Best Revenge}}</ref>  This [[possession (sports)|possession]]-based game of play of McWilliam has been traced back to Scottish players who first conceived of the idea of keeping possession of the ball instead of dribbling and charging in their first ever football international against England in 1872.<ref>{{cite news |url=https://www.theguardian.com/football/blog/2013/sep/18/barcelona-gerardo-martino-tiki-taka |title=Barcelona v Ajax and a philosophical line that stretches back to 1872 |first=Jonathan |last=Wilson |date= 18 September 2013 |work= [[The Guardian]]}}</ref>
+
+Aside from Rowe, McWilliam also taught other Spurs players such as [[Bill Nicholson (footballer)|Bill Nicholson]] and [[Vic Buckingham]] such possession-based passing game. Buckingham would then pass on this pass-and-move style of play when he went on to manage Barcelona and Ajax, where it would influence the development of [[Total Football]].<ref>{{cite web |url=https://ahalftimereport.com/2016/07/19/peter-mcwilliam-the-tottenham-boss-who-created-legends/ |title=Peter McWilliam: The Tottenham Boss Who Created Legends |date= 19 July 2016 |work=A Halftime Report}}</ref>
+
+==See also==
+* [[Combination Game]]
+* [[Give-and-go]]
+* [[Passing (association football)]]
+* [[Alley-oop (American football)|Alley-oop]]
+
+==References==
+{{reflist}}
+
+[[Category:Association football tactics]]
+[[Category:Association football skills]]
+[[Category:Association football terminology]]
+
+
+{{footy-stub}}

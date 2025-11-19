@@ -1,0 +1,363 @@
+{{Short description|European Union citizen status for labour law purposes}}
+'''EU status''' in [[association football]] is whether a football player is considered [[European Union citizenship|a citizen of]] the [[European Union]] (EU) for the purposes of labour law within domestic European football leagues. There are different rules for which players are eligible for EU status in different European leagues, and leagues have different rules on how many players from outside the EU may be registered. Players within European league systems who are not considered European citizens are known as "'''non-EU'''".
+
+== History ==
+In the 1995 [[Bosman ruling]], the conclusion of a case regarding freedom of [[Transfer (association football)|transfers]], restrictions on foreign EU players in EU national leagues were banned.<ref>{{Cite journal |last1=Norbäck |first1=Pehr-Johan |last2=Olsson |first2=Martin |last3=Persson |first3=Lars |year=2021 |title=Talent development and labour market integration in European football |url=https://onlinelibrary.wiley.com/doi/abs/10.1111/twec.13071 |journal=The World Economy |language=en |volume=44 |issue=2 |pages=367–408 |doi=10.1111/twec.13071 |issn=1467-9701 |s2cid=230601462|url-access=subscription }}</ref> A previous 1992 ruling had determined that EU states could not distinguish between EU citizens born in an EU nation and those born abroad who had ''[[jus sanguinis]]'' citizenship.<ref name="Moritz">{{cite journal |last=Moritz |first=Michael D. |year=2015 |title=The Value of Your Ancestors: Gaining 'Back-Door' Access to the European Union Through Birthright Citizenship |url=https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=1479&context=djcil |journal=[[Duke Journal of Comparative & International Law]] |volume=26 |pages=239–240}}</ref> The 2003 [[Kolpak ruling]] ruled in favour of EU status in sports applying also to EU-based citizens of nations which have an [[European Union Association Agreement|Association Agreement]] with the EU but are not members; the major effect of this was due to the [[Cotonou Agreement]], which spurred European naturalisation of players from the [[Organisation of African, Caribbean and Pacific States]].<ref>{{Cite web |last=Martín |first=Alejandro |date=2022-08-30 |title=How many non-EU community players can there be in each LaLiga club; how many does each one have? |url=https://en.as.com/soccer/how-many-non-eu-community-players-can-there-be-in-each-laliga-club-how-many-does-each-one-have-n/ |access-date=2023-11-06 |website=Diario AS |language=en-us}}</ref><ref>https://westminsterresearch.westminster.ac.uk/download/875c1622cdebb31d8ea5930360bf62e4bbe28d7a13ea6b585cfa48208c56ca64/348568/IJHS%200716.pdf {{Bare URL PDF|date=July 2025}}</ref> A major football market to recognise the Cotonou Agreement as EU qualifying is Spain; it was ratified in Spain when [[La Liga]] allowed teams to have only three non-EU players registered.<ref>{{Cite news |last=Palmer |first=Martin |date=2007-10-07 |title=Spanish grant EU rights to African players |language=en-GB |work=The Observer |url=https://www.theguardian.com/football/2007/oct/07/newsstory.sport4 |access-date=2023-11-06 |issn=0029-7712}}</ref>
+
+Though the United Kingdom signed a [[EU–UK Trade and Cooperation Agreement|Trade and Cooperation Agreement]] with the EU following [[Brexit]], British players are not automatically considered EU qualified:<ref name=":0">{{Cite web |date=2022-06-06 |title=Brexitball: Exporting Young Talent |url=https://analyticsfc.co.uk/blog/2022/06/06/brexitball-exporting-young-talent/ |website=Analytics FC}}</ref> in 2023, British footballer [[Tosin Adarabioyo]] reportedly applied for a Nigerian passport so that he could transfer to an EU league,<ref>{{Cite web |title=Kolpak ruling: Tottenham target applies for Nigerian passport amid interest from Monaco, Inter:: All Nigeria Soccer - The Complete Nigerian Football Portal |url=https://www.allnigeriasoccer.com/read_news.php?nid=47993 |access-date=2023-11-06 |website=www.allnigeriasoccer.com}}</ref> while in 2022 dual-national England international [[Lucy Bronze]] was registered as Portuguese when moving to [[FC Barcelona Femení|Barcelona]].<ref name=Barcelona>{{cite web |date=29 August 2022 |title=FC Barcelona: El Barça, en cuadro y Bronze y Geyse, no inscritas todavía |url=https://www.mundodeportivo.com/futbol/fc-barcelona/20220829/1001858668/barca-cuadro-bronze-geyse-inscritas-todavia.html |access-date=31 August 2022 |website=Mundo Deportivo |language=es}}</ref> Switzerland also has a [[Switzerland–European Union relations|series of agreements with the EU]], but its players are not automatically considered EU qualified.<ref name=InterNations/> In EU leagues that do not recognise British and Swiss as EU, young players may be restricted on joining, and players who join will take an international squad spot.<ref name=":0"/><ref name=Barcelona/> [[Royal Spanish Football Federation|Spain]] considers Swiss players as EU players and,<ref name=InterNations>{{Cite web |title=How to get a Work Permit and Visa for Spain |url=https://www.internations.org/spain-expats/guide/visas-work-permits |access-date=2023-10-08 |website=InterNations |language=en}}</ref> since July 2023, [[Italian Football Federation|Italy]] has treated both British and Swiss players as EU players.<ref>{{Cite web |last=Arta |date=2023-07-27 |title=Italian FA to Treat Football Players From UK & Switzerland Same as EU Citizens |url=https://www.schengenvisainfo.com/news/italian-fa-to-treat-football-players-from-uk-switzerland-same-as-eu-citizens/ |access-date=2023-10-08 |website=SchengenVisaInfo.com |language=en}}</ref><ref>{{Cite web |date=26 July 2023 |title=Official: FIGC to treat British and Swiss players as EU citizens |url=https://football-italia.net/official-figc-to-treat-british-and-swiss-players-as-eu-citizens/ |website=Football Italia}}</ref>
+
+The concern of EU status predominantly affects young players who may otherwise find it hard to meet visa requirements.<ref name=":0" />
+
+== Nationalities eligible for EU status ==
+{| class="wikitable mw-collapsible mw-collapsed" style="font-size:70%"
+|+National citizenship providing EU status<ref>{{Cite web |title=Football Manager 2018 Years to Gain EU Nationality |url=https://www.footballmanagerblog.org/2017/11/football-manager-2018-years-to-gain-eu-nationality.html |access-date=2024-12-20 |website=FM Blog}}</ref>
+!Group
+!Nation
+!EU status
+!Notes
+|-
+| rowspan="27" |{{Flag|European Union}}
+|{{flag|Austria}}
+| rowspan="27" {{Yes}}
+|
+|-
+|{{flag|Belgium}}
+|
+|-
+|{{flag|Bulgaria}}
+|
+|-
+|{{flag|Croatia}}
+|
+|-
+|{{flag|Cyprus}}
+|
+|-
+|{{flag|Czech Republic}}
+|
+|-
+|{{flag|Denmark}}
+|Including e.g., [[Faroe Islanders]] and [[Greenlanders]].
+|-
+|{{flag|Estonia}}
+|
+|-
+|{{flag|Finland}}
+|
+|-
+|{{flag|France}}
+|Including [[Overseas France]].
+|-
+|{{flag|Germany}}
+|
+|-
+|{{flag|Greece}}
+|
+|-
+|{{flag|Hungary}}
+|
+|-
+|{{flag|Ireland}}
+|[[Irish nationality law]]: Generational inheritance of Irish citizenship requires a person be born to (or adopted by) a parent or grandparent entitled to Irish citizenship, regardless of where they were born, as long as births outside Ireland are registered.
+|-
+|{{flag|Italy}}
+|[[Italian nationality law]]: Generational inheritance of Italian citizenship is, for most practical purposes, automatic and unlimited, regardless of where someone was born or if their ancestors in the generations since one was Italian-born ever claimed this citizenship.
+|-
+|{{flag|Latvia}}
+|
+|-
+|{{flag|Lithuania}}
+|
+|-
+|{{flag|Luxembourg}}
+|
+|-
+|{{flag|Malta}}
+|
+|-
+|{{flag|Netherlands}}
+|
+|-
+|{{flag|Poland}}
+|
+|-
+|{{flag|Portugal}}
+|
+|-
+|{{flag|Romania}}
+|
+|-
+|{{flag|Slovakia}}
+|
+|-
+|{{flag|Slovenia}}
+|
+|-
+|{{flag|Spain}}
+|
+|-
+|{{flag|Sweden}}
+|
+|-
+| rowspan="6" |[[European Economic Area|EAA]] or [[European Union Customs Union|EUCU]]
+|{{Flag|Andorra}}
+| rowspan="6" {{Yes}}
+|
+|-
+|{{Flag|Iceland}}
+|
+|-
+|{{Flag|Liechtenstein}}
+|
+|-
+|{{Flag|Monaco}}
+|
+|-
+|{{Flag|Norway}}
+|
+|-
+|{{Flag|San Marino}}
+|
+|-
+|Special agreement
+|{{Flag|Switzerland}}
+|{{Yes}}
+|
+|-
+| rowspan="5" |{{Flag|United Kingdom}}, its [[British Overseas Territories|Territories]] and [[Crown Dependencies|Dependencies]]
+|{{Flag|Northern Ireland}}
+|{{ya|text=Usually}}
+|[[Irish nationality law]]: Since 2005, people born anywhere on the [[Ireland|island of Ireland]], including UK country [[Northern Ireland]], are entitled to Irish citizenship if: at least one of their parents is British, or Irish, or entitled to live in Ireland; or: at least one of their parents was resident on the island of Ireland for three of the four years prior to their birth; or: they are not entitled to any other citizenship. Prior to 1999, people born in Northern Ireland were entitled to Irish citizenship by declaration. In the intervening years, people born in Northern Ireland were entitled to Irish citizenship by birth. Therefore, most people born in Northern Ireland are entitled to Irish nationality, and so eligible for EU status.
+|-
+|{{Flag|England}}
+| rowspan="4" {{Maybe}}
+| rowspan="4" |Since 2023, the [[Italian Football Federation]] recognises British citizens as having EU status.
+|-
+|{{Flag|Gibraltar}}
+|-
+|{{Flag|Scotland}}
+|-
+|{{Flag|Wales}}
+|-
+| rowspan="73" |[[Cotonou Agreement]]
+|{{Flag|Angola}}
+| rowspan="73" {{Maybe}}
+| rowspan="73" |As of 2018, players in Europe under the Cotonou Agreement are recognised as EU eligible in Denmark, Finland, France, Hungary, Romania, and Spain.
+|-
+|{{flag|Antigua and Barbuda}}
+|-
+|{{flag|Bahamas}}
+|-
+|{{flag|Barbados}}
+|-
+|{{flag|Belize}}
+|-
+|{{Flag|Benin}}
+|-
+|{{flag|Botswana}}
+|-
+|{{flag|Burkina Faso}}
+|-
+|{{flag|Burundi}}
+|-
+|{{flag|Cameroon}}
+|-
+|{{flag|Cape Verde}}
+|-
+|{{flag|Central African Republic}}
+|-
+|{{flag|Chad}}
+|-
+|{{flag|Comoros}}
+|-
+|{{flag|Congo}}
+|-
+|{{flag|Cook Islands}}
+|-
+|{{flag|Cuba}}
+|-
+|{{flag|Djibouti}}
+|-
+|{{flag|Dominica}}
+|-
+|{{flag|Dominican Republic}}
+|-
+|{{flag|DR Congo}}
+|-
+|{{flag|East Timor}}
+|-
+|{{flag|Equatorial Guinea}}
+|-
+|{{flag|Eritrea}}
+|-
+|{{flag|Eswatini}}
+|-
+|{{flag|Ethiopia}}
+|-
+|{{flag|Fiji}}
+|-
+|{{flag|Gabon}}
+|-
+|{{flag|Gambia}}
+|-
+|{{flag|Ghana}}
+|-
+|{{flag|Grenada}}
+|-
+|{{flag|Guinea}}
+|-
+|{{flag|Guinea-Bissau}}
+|-
+|{{flag|Guyana}}
+|-
+|{{flag|Haiti}}
+|-
+|{{flag|Ivory Coast}}
+|-
+|{{flag|Jamaica}}
+|-
+|{{flag|Kenya}}
+|-
+|{{flag|Lesotho}}
+|-
+|{{flag|Liberia}}
+|-
+|{{flag|Madagascar}}
+|-
+|{{flag|Malawi}}
+|-
+|{{flag|Mali}}
+|-
+|{{flag|Mauritania}}
+|-
+|{{flag|Mauritius}}
+|-
+|{{flag|Mozambique}}
+|-
+|{{flag|Namibia}}
+|-
+|{{flag|Niger}}
+|-
+|{{flag|Nigeria}}
+|-
+|{{flag|Papua New Guinea}}
+|-
+|{{flag|Rwanda}}
+|-
+|{{flag|Saint Lucia}}
+|-
+|{{flag|Saint Kitts and Nevis}}
+|-
+|{{flag|Saint Vincent and the Grenadines}}
+|-
+|{{flag|Samoa}}
+|-
+|{{flag|São Tomé and Príncipe}}
+|-
+|{{flag|Senegal}}
+|-
+|{{flag|Seychelles}}
+|-
+|{{flag|Sierra Leone}}
+|-
+|{{flag|Solomon Islands}}
+|-
+|{{flag|Somalia}}
+|-
+|{{flag|South Africa}}
+|-
+|{{flag|Sudan}}
+|-
+|{{flag|Tanzania}}
+|-
+|{{flag|Togo}}
+|-
+|{{flag|Tonga}}
+|-
+|{{flag|Trinidad and Tobago}}
+|-
+|{{flag|Tuvalu}}
+|-
+|{{flag|Uganda}}
+|-
+|{{flag|Vanuatu}}
+|-
+|{{flag|Zambia}}
+|-
+|{{flag|Zanzibar}}
+|-
+|{{flag|Zimbabwe}}
+|-
+| rowspan="4" |Euro-Mediterranean agreement
+|{{Flag|Algeria}}
+| rowspan="3" {{Maybe}}
+| rowspan="3" |As of 2018, Algerian, Moroccan and Tunisian players are recognised as EU eligible in Finland, Greece, and Spain.
+|-
+|{{Flag|Morocco}}
+|-
+|{{Flag|Tunisia}}
+|-
+|{{Flag|Israel}}
+|{{Maybe}}
+|As of 2018, Israelis are recognised as EU eligible in Germany and Hungary.
+|-
+| rowspan="4" |[[Stabilisation and Association Process|SAA]]
+|{{Flag|Albania}}
+| rowspan="3" {{Maybe}}
+| rowspan="3" |As of 2018, Albanian, Bosnian-Herzegovinian and Serbian players are recognised as EU eligible in Greece and Spain.
+|-
+|{{Flag|Bosnia and Herzegovina}}
+|-
+|{{Flag|Serbia}}
+|-
+|{{Flag|North Macedonia}}
+|{{Maybe}}
+|As of 2018, Macedonians are recognised as EU eligible in Hungary and Spain.
+|-
+| rowspan="3" |[[Deep and Comprehensive Free Trade Area|DCFTA]]
+|{{Flag|Georgia}}
+| rowspan="3" {{Maybe}}
+| rowspan="3" |As of 2018, Georgians, Moldovans and Ukrainians are recognised as EU eligible in Hungary and Spain.
+|-
+|{{Flag|Moldova}}
+|-
+|{{Flag|Ukraine}}
+|-
+|
+|{{Flag|Russia}}
+| rowspan="2" {{Maybe}}
+| rowspan="2" |As of 2018, Russian and Turkish players are recognised as EU eligible in Greece, Hungary and Spain.
+|-
+|
+|{{Flag|Turkiye}}
+|-
+|
+|{{Flag|Kazakhstan}}
+|{{Maybe}}
+|As of 2018, Kazakh players are recognised as EU eligible in Hungary.
+|-
+|
+|{{Flag|Kyrgyzstan}}
+| rowspan="2" {{Maybe}}
+| rowspan="2" |As of 2018, the [[French Football Federation]] recognises Kyrgyz and Uzbek citizens as EU eligible.
+|-
+|
+|{{Flag|Uzbekistan}}
+|}
+
+== National league restrictions ==
+Various European leagues maintain rules related to EU status: as of 2008, Swedish teams may only have three non-EU players on the pitch, and German lower divisions could only have three non-EU players. The same year, clubs in Belarus' first division could register four non-EU players and have three on the pitch, while there were no restrictions in its second division. Conversely, clubs in Bulgaria's second division could not have any non-EU players; in its first division they could register five non-EU players and all could play. Italy's third division did not allow non-EU players, while its second division clubs could sign one and in the first division they could have five. Spain's third division did not allow non-EU players except those already registered in teams that were relegated; first division teams could have three players and second division teams could have two.<ref name=":1">[https://www.rdes.it/FOREIGN_PLAYERS36.pdf "I. EUROPE" ''in'' Rivista di Diritto ed Economia dello Sport]</ref>
+
+In Finland, Iceland and the Czech Republic, there were no registration limits for professional non-EU players, but a club could only field three. Ukraine had no registration limits; its first division clubs could field seven non-EU players and its second division clubs could field three. In Slovakia and Croatia they could field four; Denmark could field only three, but treated Cotonou players as EU players. French first division clubs could sign four non-EU players, while its second and third divisions were limited to two; Romanian, Swiss, Israeli and Greek first division teams could have five non-EU players, and in their second divisions they could have three. Similarly, in Hungary clubs had no registration limits but first division teams could field five non-EU players, with second division teams able to play three. Russian clubs had no registration limits, with its first division teams able to field seven non-EU players, and the second division could field three. Turkish first division clubs could sign eight foreign players and field six, while its second division could only sign two foreign players under the age of 21. Norway allowed up to eleven non-Norwegian players of any origin, providing the club had at least two homegrown players in its remaining squad. In 2008, the Netherlands, Serbia, Poland, Portugal, the Republic of Ireland, Northern Ireland, Wales, Scotland and England had no restrictions on non-EU players.<ref name=":1" /> Following Brexit, all non-British players must meet requirements of a points-based system to play in British leagues.<ref>{{Cite web |last=Association |first=The Football |title=Plan agreed on entry requirements for overseas players in England post-Brexit in 2021 |url=https://www.thefa.com/news/2020/dec/01/gbe-points-based-system-launched-011220 |access-date=2023-11-06 |website=www.thefa.com |language=en}}</ref>
+
+== See also ==
+* [[Serie_A#Non-EU_players|Non-EU players in Serie A]]
+* [[La_Liga#Eligibility_of_non-EU_players|EU eligibility in La Liga]]
+* [[Homegrown Player Rule (UEFA)]]
+* [[6+5 rule]]
+
+== References ==
+{{Reflist}}
+
+[[Category:Association football in Europe]]
+[[Category:Association football terminology]]

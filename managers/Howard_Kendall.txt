@@ -1,0 +1,395 @@
+{{short description|English footballer and manager}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox football biography
+| name           = Howard Kendall
+| image          = Howard Kendall 1990 or 1991 Saint and Greavsie (non-free for Wikipedia).jpg
+| caption        = Kendall on ''[[Saint and Greavsie]]'', 1990
+| fullname       = Howard Kendall
+| birth_date     = {{birth date|1946|5|22|df=y}}
+| birth_place    = [[Ryton, Tyne and Wear|Ryton]], England<ref name=bleacherreport>{{cite web|url=http://bleacherreport.com/articles/6928-the-difference-between-king-kevin-keegan-and-howard-kendall|title=The Difference Between King Kevin Keegan and Howard Kendall|publisher=The Bleacher Report|access-date=27 January 2010|first= Eddy |last=Shearyadi}}</ref>
+| height = {{height|ft=5|in=7}}<ref>{{cite book |url=https://archive.org/details/rothmansfootball00roll |url-access=registration |title=Rothmans Football Yearbook 1980–81 |editor-first=Jack |editor-last=Rollin |publisher=[[Queen Anne Press]]|location=London |year=1980 |isbn=0362020175 |page=[https://archive.org/details/rothmansfootball00roll/page/66 66]}}</ref>
+|death_date      = {{death date and age|2015|10|17|1946|5|22|df=y}}
+|death_place     = [[Southport]], England
+| youthyears1    = 1961–1963| youthclubs1 = [[Preston North End F.C.|Preston North End]]
+| position       = [[Midfielder]]
+| years1         = 1963–1967| clubs1 = [[Preston North End F.C.|Preston North End]]|caps1 = 104 |goals1 = 13
+| years2         = 1967–1974| clubs2 = [[Everton F.C.|Everton]]                    |caps2 = 229 |goals2 = 21
+| years3         = 1974–1977| clubs3 = [[Birmingham City F.C.|Birmingham City]]    |caps3 = 115 |goals3 = 16
+| years4         = 1977–1979| clubs4 = [[Stoke City F.C.|Stoke City]]              |caps4 = 82  |goals4 = 9
+| years5         = 1979–1981| clubs5 = [[Blackburn Rovers F.C.|Blackburn Rovers]]  |caps5 = 79  |goals5 = 6
+| years6         = 1981     | clubs6 = [[Everton F.C.|Everton]]                    |caps6 = 4   |goals6 = 0
+| totalcaps = 613| totalgoals = 65
+| manageryears1  = 1979–1981  | managerclubs1  = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| manageryears2  = 1981–1987  | managerclubs2  = [[Everton F.C.|Everton]]
+| manageryears3  = 1987–1989  | managerclubs3  = [[Athletic Bilbao]]
+| manageryears4  = 1989–1990  | managerclubs4  = [[Manchester City F.C.|Manchester City]]
+| manageryears5  = 1990–1993  | managerclubs5  = [[Everton F.C.|Everton]]
+| manageryears6  = 1994       | managerclubs6  = [[Skoda Xanthi F.C.|Xanthi]]
+| manageryears7  = 1995       | managerclubs7  = [[Notts County F.C.|Notts County]]
+| manageryears8  = 1995–1997  | managerclubs8  = [[Sheffield United F.C.|Sheffield United]]
+| manageryears9  = 1997–1998  | managerclubs9  = [[Everton F.C.|Everton]]
+| manageryears10 = 1998–1999  | managerclubs10 = [[Ethnikos Piraeus F.C.|Ethnikos Piraeus]]
+}}
+
+'''Howard Kendall''' (22 May 1946 – 17 October 2015) was an English [[association football|footballer]] and manager.
+
+Kendall joined [[Preston North End F.C.|Preston North End]] as an apprentice and stayed with the club when he turned professional. He was a runner-up in the [[1964 FA Cup Final|1964 FA Cup]] with Preston, and at 17 years 345 days old was the youngest player to play in a [[Wembley Stadium (1923)|Wembley]] final. In 1967, he joined [[Everton F.C.|Everton]], where he played as a midfielder with [[Alan Ball (footballer)|Alan Ball]] and [[Colin Harvey (footballer)|Colin Harvey]], the trio gaining the nickname "The Holy Trinity". With Everton, Kendall won the [[List of English football champions|First Division]] title, the [[FA Community Shield|Charity Shield]] and was again an FA Cup runner-up. He became Everton club captain for three years, before being sold to [[Birmingham City F.C.|Birmingham City]] in 1974. Kendall joined Stoke City in 1977, where he became a player-coach and helped the club achieve promotion from the Second Division.
+
+Kendall's managerial career began as a [[player-manager]] with [[Blackburn Rovers F.C.|Blackburn Rovers]] in 1979. He returned to Everton in 1981, again as a player-manager, but retired from playing after four games. With Everton, he won two [[Football League]] titles, an FA Cup, three [[FA Community Shield|Charity Shields]], and the [[1985 European Cup Winners' Cup Final|1985 European Cup Winners' Cup]], as well as a league runners-up place and reached two further FA Cup finals and a [[Football League Cup|League Cup]] final. In 1987, Kendall left to manage Spanish club [[Athletic Bilbao]]. He was sacked in 1989, but quickly returned to management with [[Manchester City F.C.|Manchester City]]. After less than a year in Manchester, he returned to Everton but, after three mid-table seasons, he resigned and spent a short time as manager of Greek side [[Skoda Xanthi F.C.|Xanthi]]. After a few months spent as manager of Notts County, Kendall joined [[Sheffield United F.C.|Sheffield United]], saving the club from [[relegation]] and taking them to the 1997 play-off final. He returned to Everton for the third time as manager in June 1997, but left the club by mutual consent a year later, having only managed to avoid relegation on the final day of the season. His final managerial position was a four-month position in Greece, where he took charge of [[Ethnikos Piraeus F.C.|Ethnikos Piraeus]], but was sacked with the team last in the league. 
+
+Kendall is a member of the [[League Managers Association]]'s "Hall of Fame", the [[English Football Hall of Fame]], and listed as an "Everton Giant." Kendall remains the last English manager to win a [[UEFA Champions League|UEFA]] competition with an English club.
+
+==Playing career==
+Born in [[Ryton, Tyne and Wear|Ryton]], Kendall joined [[Preston North End F.C.|Preston North End]] as an apprentice in 1961. He began playing professionally in May 1963 and played in the [[1964 FA Cup Final]] against [[West Ham United F.C.|West Ham United]]. At the time, he was the youngest player to appear in a Wembley final,<ref name=nationalfootball>{{cite web|url=http://www.nationalfootballmuseum.com/pages/fame/Inductees/howardkendall.htm|title=Howard Kendall|first=Robert|last=Galvin|publisher=[[National Football Museum]]|access-date=27 January 2010 |archive-url=https://web.archive.org/web/20071115234647/http://www.nationalfootballmuseum.com/pages/fame/Inductees/howardkendall.htm |archive-date=15 November 2007}}</ref> due to the regular left-half [[Ian Davidson (footballer born 1937)|Ian Davidson]] being suspended by the club for an unauthorised trip to Scotland. He was aged 17 years 345 days and was the youngest finalist since [[James F. M. Prinsep|James Prinsep]] played for [[Clapham Rovers F.C.|Clapham Rovers]] in the [[1879 FA Cup Final|1879 final]] aged 17 years 245 days. Preston North End lost the final in the last minute.
+
+Originally a [[defender (football)|defender]], Kendall was wanted by [[Bill Shankly]] at [[Liverpool F.C.|Liverpool]]. Liverpool failed to provide the funds, so he joined Everton for £85,000 in March 1967<ref name=nationalfootball/><ref name=focus>{{cite magazine|magazine=[[When Saturday Comes]]|date=May 2021|page=24|title=Focus on Howard Kendall}}</ref> where he was moved into midfield with [[Alan Ball (footballer)|Alan Ball]] and [[Colin Harvey (footballer)|Colin Harvey]]. The trio gained the nickname "The Holy Trinity".<ref name=mirrorprofile>{{cite web|url=http://www.mirrorfootball.co.uk/archive/Howard-Kendall-previously-unseen-pictures-of-the-Preston-Everton-Birmingham-Stoke-and-Blackburn-legend-plus-original-Daily-Mirror-features-and-stories-from-our-archive-article997.html|title=Howard Kendall: One third of the Holy Trinity |work=[[Daily Mirror]]|access-date=27 January 2010 |archive-url=https://web.archive.org/web/20140428123829/http://www.mirrorfootball.co.uk/archive/Howard-Kendall-previously-unseen-pictures-of-the-Preston-Everton-Birmingham-Stoke-and-Blackburn-legend-plus-original-Daily-Mirror-features-and-stories-from-our-archive-article997.html |archive-date=28 April 2014}}</ref> They were a major component of the Everton team that reached the [[1968 FA Cup Final]], which they lost. They went on to win the [[Football League First Division|First Division]] title in the [[1969–70 in English football|1969–70]] season. In the [[1970–71 Everton F.C. season|1970–71]] season, Everton won the [[1970 FA Charity Shield|1970 Charity Shield]], with Kendall scoring the winning goal. During the next three seasons, Kendall [[Captain (association football)|captained]] Everton as the side struggled to build on winning the league, with a 17th-place finish in the [[1972–73 in English football|1972–73]] season.<ref name=mirrorprofile/> He was sold to [[Birmingham City F.C.|Birmingham City]] in February 1974 and he spent four seasons at [[St Andrew's (stadium)|St Andrew's]] helping Birmingham stay in the First Division and reach the FA Cup semi-final in [[1974–75 FA Cup|1975]].<ref name="eplay">{{cite web|title=Players - Howard Kendall|url=http://www.evertonfc.com/players/h/hk/howard-kendall|website=Everton FC|access-date=12 November 2015}}</ref><ref name=focus/>
+
+Kendall joined [[Stoke City F.C.|Stoke City]] in August 1977 for a fee of £40,000.<ref name="Oatcake"/> Stoke City, under the management of [[George Eastham]], had the task of regaining their place in the top flight following relegation.<ref name="Oatcake"/> Poor results in the early [[1977–78 Stoke City F.C. season|1977–78]] season saw Eastham sacked and replaced by [[Alan Durban]] in February 1978. Durban appoint Kendall as player-coach, who thrived in the role and his performances earned him the club's inaugural [[Stoke City F.C. Player of the Year|player of the year]] award.<ref name="Oatcake"/> Durban built the team around Kendall for the [[1978–79 Stoke City F.C. season|1978–79]] season. Stoke City finished in third-place, gaining promotion back to the First Division.<ref name="Oatcake"/> Despite Durban wanting Kendall to continue playing for him in the First Division, Kendall decided to join Third Division [[Blackburn Rovers F.C.|Blackburn Rovers]] as player-manager.<ref name="Oatcake">{{cite web|title=Stoke City Heroes - Howard Kendall|url=http://theoatcake.wordpress.com/2012/12/14/stoke-city-heroes-howard-kendall/|work=The Oatcake Archive|date=14 December 2012|access-date=26 February 2013}}</ref>
+
+Kendall never played for [[England national football team|England]] at senior level despite being included in several squads. However, he won caps at Schoolboy, Youth and Under-23 level, captaining the England Youth side to victory in the [[1964 UEFA European Under-18 Championship|1964 Little World Cup Final]].<ref name="eplay" />
+
+== Style of play ==
+
+In the same vein as his midfield partner, [[Alan Ball Jr.|Alan Ball]], Kendall was a complete and combative midfielder who was a good passer of the ball, could tackle, defend and attack. Fellow Everton teammate [[Joe Royle]] described Kendall as a fair player and praised him for being in the right place at the right time.<ref>{{cite web|url=https://www.liverpoolecho.co.uk/sport/football/football-news/everton-fc-outrageous-howard-kendall-10292425|title=Everton FC: Outrageous that Howard Kendall never won an England cap says Joe Royle|date=19 October 2015 }}</ref>
+
+==Managerial career==
+In June 1979, Kendall was assigned as player-manager at [[Blackburn Rovers]], helping them win promotion back up to the [[Football League Second Division|Second Division]] in the [[1979–80 in English football|1979–80]] season and narrowly missing out on promotion to the top tier in 1981 on goal difference.<ref name="blackburn">{{cite news|last=Wheelock|first=Paul|title=Glenn Keeley: Howard Kendall will go down as one of the great Blackburn Rovers managers|url=http://www.lancashiretelegraph.co.uk/sport/13330967.Glenn_Keeley__Howard_Kendall_will_go_down_as_one_of_the_great_Blackburn_Rovers_managers/?ref=rss|access-date=3 November 2015|work=Lancashire Telegraph|date=15 June 2015}}</ref>
+
+===First spell at Everton===
+In May 1981, Kendall returned to Everton as [[player-manager]], in the hopes of restoring the club to its former glory, although he only played four games before finally retiring as a player in December 1981.<ref name=mirrorprofile/><ref name="eplay" /> On his return to [[Goodison Park]] as manager, he made 7 signings, including goalkeeper [[Neville Southall]] from [[Bury F.C.|Bury]] – who would go on to spend 17 years at the club and play a major part in five major trophy successes. Over the next two seasons, he signed more players - including right winger [[Trevor Steven]] and midfielder [[Peter Reid]]. Everton finished 8th in Kendall's first season as manager and an improved 7th a year later, but began the [[1983–84 in English football|1983–84]] season poorly, winning just 6 of their first 21 league games and standing on the brink of the relegation zone.<ref>{{Cite web |url=http://www.evertonfc.com/content/history/players-and-managers/managers/howard-kendall |title=Howard Kendall &#124; Everton Football Club |access-date=12 November 2015 |archive-url=https://web.archive.org/web/20150924004503/http://www.evertonfc.com/content/history/players-and-managers/managers/howard-kendall |archive-date=24 September 2015 |url-status=dead }}</ref>
+
+Kendall was reportedly on the verge of being sacked,<ref name=bleacherreport/> but the second half of the season was a very different story. Helped by the £250,000 signing of [[Wolverhampton Wanderers F.C.|Wolves]] striker [[Andy Gray (footballer, born 1955)|Andy Gray]] in November, Everton's league form improved. They once again finished 7th and reached the [[1984 Football League Cup Final|League Cup]] final (losing to [[Liverpool F.C.|Liverpool]] in a replay) and went on to win the [[1984 FA Cup Final|FA Cup]] (beating [[Watford F.C.|Watford]] 2–0) at the end of the season.<ref name="cup84">{{cite web|url=https://www.theguardian.com/football/that-1980s-sports-blog/2015/oct/20/howard-kendall-everton-fa-cup-1984|title=How Howard Kendall saved his job at Everton and won the FA Cup in 1984|date=20 October 2015|work=The Guardian|access-date=20 October 2015}}</ref>	
+In the [[1984–85 in English football|1984–85]] season, Everton won the league title, finishing 13 points clear of runners-up Liverpool, and the [[UEFA Cup Winners' Cup|European Cup-Winners' Cup]], defeating Austrian side [[SK Rapid Wien|Rapid Vienna]], and reached the final of the [[FA Cup]] again.<ref name="mang1">{{cite news|title=Howard Kendall, Everton FC manager - obituary|url=https://www.telegraph.co.uk/news/obituaries/11945782/Howard-Kendall-Everton-FC-manager-obituary.html|access-date=12 November 2015|work=The Telegraph|issue=21 October 2015}}</ref><ref name="mang2">{{cite web|title=Managers - Howard Kendall|url=http://www.evertonfc.com/content/history/players-and-managers/managers/howard-kendall|website=Everton FC|access-date=12 November 2015|archive-url=https://web.archive.org/web/20150924004503/http://www.evertonfc.com/content/history/players-and-managers/managers/howard-kendall|archive-date=24 September 2015|url-status=dead}}</ref> Everton narrowly failed to win both the league and the FA Cup in [[1985–86 in English football|1985–86]] – runners-up in both to Liverpool – but in the [[1986–87 in English football|1986–87]] season, once again won the league, nine points clear of [[Merseyside derby|their local rivals]] as well as a third consecutive [[FA Community Shield|Charity Shield]], as the [[Merseyside]] clubs continued their stranglehold on the English game.<ref name="mang1" /><ref name="mang2" /><ref name="lg87">{{cite web|last1=Lacey|first1=David|title=Everton's league winners in 1986-87 were worthy of 'unstinted praise'|url=https://www.theguardian.com/football/blog/2013/oct/04/everton-1987-first-division-winners-unstinted-praise|website=The Guardian|date=4 October 2013|access-date=12 November 2015}}</ref>
+
+During his first spell at [[Goodison Park]], he built an almost entirely new team which proved itself as one of the finest of the whole decade. He brought in younger players such as Peter Reid and Trevor Steven from smaller clubs to give them the opportunity to prove that they could compete at the highest level, and was largely successful.<ref>{{cite web|title=Legends - Trevor Steven|url=http://toffeeweb.com/history/legends/Steven.asp|website=Toffee Web|access-date=12 November 2015}}</ref> He also brought in established star players such as Andy Gray, who was instrumental in a season and a half after joining them in November 1983, his goals transforming a struggling side into FA Cup winners and then league champions and European Cup Winners' Cup winners.<ref>{{cite web|title=Legends - Andy Gray|url=http://toffeeweb.com/history/legends/Gray.asp|website=Toffee Web|access-date=12 November 2015}}</ref> He then sold Gray to [[Aston Villa F.C.|Aston Villa]] and brought in [[Gary Lineker]], who scored 38 goals in the [[1985–86 in English football|1985–86 season]], albeit narrowly failing to win the major trophies. Everton had toppled Manchester United as league leaders in early February before being overhauled by Liverpool during the final stages of the season, surrendering the title to their local rivals on the final weekend of the season. They were then beaten 3–1 in an all-Merseyside FA Cup final.<ref>{{cite web|title=Legends - Gary Lineker|url=http://toffeeweb.com/history/legends/Lineker.asp|website=Toffee Web|access-date=12 November 2015}}</ref>
+
+Kendall left Everton in June 1987, frustrated by [[Heysel disaster|the ban from Europe of English clubs]],<ref>{{cite news |url=https://www.wsc.co.uk/reviews/61-Managers/11043-love-affairs-marriage |title=Love Affairs & Marriage |first=Simon |last=Hart |website=When Saturday Comes |date=January 2014 |access-date=24 August 2020}}</ref> to manage [[Athletic Bilbao]] in Spain.<ref name=bleacherreport/> As well as the missed opportunity of more European success with Everton, the ban on English clubs in European competitions was a major factor in some of England's leading players moving overseas during this time – including [[Gary Lineker]], who signed for [[FC Barcelona|Barcelona]] after just one season at [[Goodison Park]]. The ban on English clubs resulted in Everton twice missing out on competing in the [[European Cup]].
+
+===Athletic Bilbao and Manchester City===
+Kendall's time in Bilbao was not a great success, hindered by [[Athletic Bilbao signing policy|limitations on the players he could sign]] for the [[Basque people|Basque]] club,<ref name=mirrorprofile/> though his popularity with the supporters was boosted by his assurances that he would not seek to change their traditions.<ref>[https://www.athletic-club.eus/en/news/2020/11/12/howard-kendall-a-blue-with-the-heart-of-a-lion Howard Kendall: a Blue with the heart of a Lion], Athletic Bilbao, 12 November 2020</ref> He did manage to lead Bilbao to a fourth place finish in [[La Liga]] in his first season, and qualify for the following season's [[UEFA Cup]],<ref>{{cite web|last=Gleeson|first=Paul|title=Howard Kendall on Bilbao|url=http://spielmagazine.com/blog/test-blog-seven|website=Spiel Magazine|access-date=4 November 2015}}</ref> where they were eliminated by [[Juventus FC|Juventus]]. He turned down an offer to manage [[Newcastle United F.C.|Newcastle United]] in November 1988 in order to remain in Spain, but was sacked a year later on 15 November 1989, after a poor run of results<ref name=bleacherreport/> and speculation began immediately about where his next job would be. There were frequent reports that he would be the next [[England national football team|England]] manager when [[Bobby Robson]] eventually departed.<ref>{{cite web|url=https://news.google.com/newspapers?id=mEVAAAAAIBAJ&pg=6640,5556189&dq=howard-kendall&hl=en|title=The Glasgow Herald - Google News Archive Search|work=google.com}}</ref> On 7 December 1989,<ref>{{cite web|url=https://news.google.com/newspapers?id=PDRAAAAAIBAJ&pg=2257,2450217&dq=howard-kendall&hl=en|title=The Glasgow Herald - Google News Archive Search|work=google.com}}</ref> he returned to England as manager of [[Manchester City F.C.|Manchester City]] and secured their survival with a comfortable 14th-place finish.<ref>{{cite web|url=http://www.statto.com/football/teams/manchester-city/1989-1990|title=Manchester City Home Page for the 1989-1990 season - Statto.com|author=Statto Organisation Ltd|work=Statto.com|url-status=live|archive-url=https://web.archive.org/web/20110520052356/http://www.statto.com/football/teams/manchester-city/1989-1990|archive-date=20 May 2011}}</ref> Kendall's name had also been linked to [[Manchester United F.C.|Manchester United]], whose disappointing form that season was leading to media talk – as well as calls from fans – for manager [[Alex Ferguson]] to be sacked. In the event, Ferguson kept his job and went on to guide United to numerous trophies until his retirement 23 years later.<ref>{{cite news|last=Ogden |first=Mark |url=https://www.telegraph.co.uk/sport/football/teams/manchester-united/6943187/Sir-Alex-Fergusons-defining-moment-came-thanks-to-Mark-Robins-goal-20-years-ago.html |title=Sir Alex Ferguson's defining moment came thanks to Mark Robins' goal 20 years ago |work=The Daily Telegraph |date=2010-01-07}}</ref>
+
+With the announcement in late May that Bobby Robson would step down as England manager after the [[1990 FIFA World Cup]], Kendall's name was inevitably mentioned by the press as a likely successor.<ref>{{cite web|url=https://news.google.com/newspapers?id=W65UAAAAIBAJ&pg=4224,2921958&dq=howard-kendall&hl=en|title=New Straits Times - Google News Archive Search|work=google.com}}</ref> However, he quickly dismissed the speculation and declined an offer by [[The Football Association]] to be interviewed for the role,<ref>{{cite news| url=https://pqasb.pqarchiver.com/thestar/access/471988431.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Jun+02%2C+1990&author=Mary+Ormsby+Toronto+Star&pub=Toronto+Star&desc=%27New+Rossi%27+benched+and+Italy%27s+on+edge&pqatl=google | archive-url=https://archive.today/20130201092218/http://pqasb.pqarchiver.com/thestar/access/471988431.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Jun+02,+1990&author=Mary+Ormsby+Toronto+Star&pub=Toronto+Star&desc='New+Rossi'+benched+and+Italy's+on+edge&pqatl=google | url-status=dead | archive-date=1 February 2013 | title='New Rossi' benched and Italy's on edge | date=2 June 1990 | work=Toronto Star}}</ref> which ultimately went to [[Graham Taylor (footballer)|Graham Taylor]]. Kendall was suggested again as a possible choice for the England job after Taylor resigned in November 1993, but [[Terry Venables]] was appointed.<ref>{{cite news| url=https://pqasb.pqarchiver.com/thestar/access/472089581.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Jul+16%2C+1990&author=AP&pub=Toronto+Star&desc=England+names+Taylor+coach&pqatl=google | archive-url=https://web.archive.org/web/20121106120715/http://pqasb.pqarchiver.com/thestar/access/472089581.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Jul+16,+1990&author=AP&pub=Toronto+Star&desc=England+names+Taylor+coach&pqatl=google | url-status=dead | archive-date=6 November 2012 | title=England names Taylor coach | date=16 July 1990 | work=Toronto Star}}</ref>
+
+===Return to Everton===
+He returned to Everton for a second spell as manager on 5 November 1990 following the sacking of [[Colin Harvey]] a week prior, who was re-appointed to the club as his assistant.<ref>{{cite web|url=https://news.google.com/newspapers?id=7mxPAAAAIBAJ&pg=6816,2272628&dq=howard-kendall&hl=en|title=New Straits Times - Google News Archive Search|work=google.com}}</ref> This was despite the fact he had built a strong Manchester City side that was near the top of the First Division table, and had only just held their [[Manchester derby|cross-city]] rivals [[Manchester United F.C.|Manchester United]] to a thrilling 3–3 draw at [[Maine Road]].<ref>{{cite news| url=https://www.independent.co.uk/sport/football/news-and-comment/manchester-united-v-manchester-city-fa-cup-preview-1789608.html?action=Gallery&ino=9 | title=Manchester City v Manchester United: The greatest meetings | location=London | work=The Independent | date=14 April 2011 | first1=Simon | last1=Rice}}</ref> He famously justified the move by saying that Manchester City was just an affair, but Everton was his marriage.<ref name=mirrorprofile/> By this stage, Everton were battling against relegation to the Second Division, but he managed to turn their season around and they finished 9th and also reached the FA Cup quarter-finals, defeating Liverpool in the fifth round.
+
+In August 1991, he signed 30-year-old striker [[Peter Beardsley]] from [[Liverpool F.C.|Liverpool]] for £1million, in what proved to be a successful transfer as the ageing striker excelled at [[Goodison Park]], scoring 32 goals in two seasons before signing for [[Newcastle United F.C.|Newcastle United]]. Three months later he added another new striker to the revamped Everton attack, when he paid £1.5million for [[Rangers F.C.|Rangers]] striker [[Mo Johnston]], but this signing was less successful and Johnston was given a free transfer two years later, after failing to attract buyers.<ref>{{Cite web |url=http://secure.evertonfc.com/players/m/mj/maurice-johnston |title=Maurice Johnston &#124; Everton Football Club |access-date=7 May 2019 |archive-date=7 May 2019 |archive-url=https://web.archive.org/web/20190507223521/http://secure.evertonfc.com/players/m/mj/maurice-johnston |url-status=dead }}</ref>
+
+Everton could only manage mid-table league finishes in 1992 and 1993 and Kendall finally resigned on 4 December 1993, after a poor run of form in the league and following a dispute with the board of directors, who had blocked his attempt to sign [[Manchester United F.C.|Manchester United]] striker [[Dion Dublin]].<ref>{{cite news|url=https://www.independent.co.uk/news/people/profiles/howard-kendall-bolt-from-the-blue-1935322.html |title=Howard Kendall: Bolt from the Blue |newspaper=[[The Independent]]|date=2010-04-04}}</ref>
+
+===Later years===
+After leaving Everton for the second time, Kendall took charge of [[Greece|Greek]] club [[Xanthi FC|Xanthi]] for a short and largely unsuccessful period. In January 1995, Kendall returned to English football, taking over at First Division [[Notts County F.C.|Notts County]] who were struggling badly after a nightmare start to the season, but under Kendall's leadership there was an improvement, with County winning their first two games under his tenure. However, a series of rows with chairman Derek Pavis led to Kendall being sacked in April 1995 – their poor form continued after his departure and the team were relegated to Division Two at the end of the season. Subsequently, Kendall joined [[Sheffield United F.C.|Sheffield United]] in December 1995, saving the club from relegation and then taking them to the 1997 play-off final, where they lost to [[Crystal Palace F.C.|Crystal Palace]].<ref name="sutd">{{cite news|last=Rowbottom|first=Mike|title=Football: Hopkin's late hit has Palace glad all over|url=https://www.independent.co.uk/sport/football-hopkins-late-hit-has-palace-glad-all-over-1263790.html|access-date=4 November 2015|newspaper=[[The Independent]]}}</ref> Kendall returned to Everton for a third time as manager in June 1997, but left the club by mutual consent at the end of the season, having only managed to avoid relegation on the final day of the season. His third spell was marked by turmoil within the club, working for then chairman, Peter Johnson.
+
+Kendall moved to [[Greece|Greek]] side [[Ethnikos Piraeus F.C.|Ethnikos Piraeus]], but was sacked in March 1999, after only four months in charge and with the club 8 points adrift at the bottom of the Greek First Division. It was Kendall's last role in football management, although in 2001 he revealed that he had "had offers" from a number of English clubs which he rejected, and he expressed interest in the [[Republic of Ireland national football team|Republic of Ireland]] managers' job, which was eventually given to Giovanni Trapattoni. Kendall remains the last English manager to win a European competition with an English club. He was inducted into the [[English Football Hall of Fame]] in 2005, in recognition of his contribution as a manager to the English game.<ref name=nationalfootball/>
+
+==Death==
+Kendall died on 17 October 2015 of a heart attack<ref>{{Cite web|url=https://www.toffeeweb.com/season/15-16/news/30993.html|title=Howard Kendall, Everton Legend, dies aged 69|website=Toffeeweb.com|access-date=23 October 2021}}</ref> at the [[Southport and Formby District General Hospital]] at the age of 69.<ref>{{cite web|url=http://www.eurosport.co.uk/football/premier-league/2015-2016/howard-kendall-dies-aged-69_sto4953176/story.shtml|title=Howard Kendall dies aged 69|date=17 October 2015|work=Eurosport British}}</ref><ref>{{cite web|url=https://www.theguardian.com/football/2015/oct/18/howard-kendall|title=Howard Kendall obituary|date=18 October 2015|work=The Guardian|access-date=20 October 2015}}</ref>
+
+==Career statistics==
+===As a player===
+Source:<ref>{{ENFA}}</ref>
+
+{| class=wikitable style="text-align: center"
+|+ Appearances and goals by club, season and competition
+|-
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|[[FA Cup]]
+!colspan="2"|[[EFL Cup|League Cup]]
+!colspan="2"|Other{{ref label|Other|A|}}
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals!!Apps!!Goals
+|-
+|rowspan="6"|[[Preston North End F.C.|Preston North End]]
+|[[1962–63 in English football|1962–63]]
+|[[Football League Second Division|Second Division]]
+|2||0||0||0||0||0||0||0||2||0
+|-
+|[[1963–64 in English football|1963–64]]
+|Second Division
+|9||1||5||1||0||0||0||0||14||2
+|-
+|[[1964–65 in English football|1964–65]]
+|Second Division
+|29||7||2||1||1||0||0||0||32||8
+|-
+|[[1965–66 in English football|1965–66]]
+|Second Division
+|39||4||6||0||3||0||0||0||48||4
+|-
+|[[1966–67 in English football|1966–67]]
+|Second Division
+|25||1||1||0||2||0||0||0||28||1
+|-
+!colspan="2"|Total
+!104!!13!!14!!2!!6!!0!!0!!0!!124!!15
+|-
+|rowspan="9"|[[Everton F.C.|Everton]]
+|[[1966–67 in English football|1966–67]]
+|[[Football League First Division|First Division]]
+|4||0||0||0||0||0||0||0||4||0
+|-
+|[[1967–68 in English football|1967–68]]
+|First Division
+|38||6||6||1||2||2||0||0||46||9
+|-
+|[[1968–69 in English football|1968–69]]
+|First Division
+|29||1||3||0||4||0||0||0||36||1
+|-
+|[[1969–70 in English football|1969–70]]
+|First Division
+|36||4||1||0||4||1||0||0||41||5
+|-
+|[[1970–71 in English football|1970–71]]
+|First Division
+|40||2||6||2||0||0||7||3||53||7
+|-
+|[[1971–72 in English football|1971–72]]
+|First Division
+|35||4||4||0||0||0||0||0||39||4
+|-
+|[[1972–73 in English football|1972–73]]
+|First Division
+|40||4||2||0||1||0||0||0||43||4
+|-
+|[[1973–74 in English football|1973–74]]
+|First Division
+|7||0||1||0||0||0||0||0||8||0
+|-
+!colspan="2"|Total
+!229!!21!!23!!3!!11!!3!!7!!3!!270!!30
+|-
+|rowspan="5"|[[Birmingham City F.C.|Birmingham City]]
+|[[1973–74 Birmingham City F.C. season|1973–74]]
+|First Division
+|15||1||0||0||0||0||0||0||15||1
+|-
+|[[1974–75 Birmingham City F.C. season|1974–75]]
+|First Division
+|39||4||6||1||1||0||6||0||52||5
+|-
+|[[1975–76 Birmingham City F.C. season|1975–76]]
+|First Division
+|36||8||1||0||2||0||0||0||39||8
+|-
+|[[1976–77 Birmingham City F.C. season|1976–77]]
+|First Division
+|25||3||2||1||1||0||0||0||28||4
+|-
+!colspan="2"|Total
+!115!!16!!9!!2!!4!!0!!6!!0!!134!!18
+|-
+|rowspan="3"|[[Stoke City F.C.|Stoke City]]
+|[[1977–78 Stoke City F.C. season|1977–78]]
+|Second Division
+|42||7||2||0||1||0||0||0||45||7
+|-
+|[[1978–79 Stoke City F.C. season|1978–79]]
+|Second Division
+|40||2||1||0||5||1||0||0||46||3
+|-
+!colspan="2"|Total
+!82!!9!!3!!0!!6!!1!!0!!0!!91!!10
+|-
+|rowspan="3"|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|[[1979–80 in English football|1979–80]]
+|[[Football League Third Division|Third Division]]
+|41||2||6||0||4||1||2||0||53||3
+|-
+|[[1980–81 in English football|1980–81]]
+|Second Division
+|38||4||0||0||3||0||2||0||43||4
+|-
+!colspan="2"|Total
+!79!!6!!6!!0!!7!!1!!4!!0!!96!!7
+|-
+|rowspan="2"|[[Everton F.C.|Everton]]
+|[[1981–82 in English football|1981–82]]
+|First Division
+|4||0||1||0||1||0||0||0||6||0
+|-
+!colspan="2"|Total
+!4!!0!!1!!0!!1!!0!!0!!0!!6!!0
+|-
+!colspan="3"|Career total
+!613!!65!!56!!7!!35!!5!!17!!3!!721!!80
+|}
+
+{{refbegin}}
+:A.&nbsp;{{note|Other}} The "Other" column constitutes appearances and goals in the [[Anglo-Scottish Cup]], [[UEFA Champions League|European Cup]], [[FA Community Shield|FA Charity Shield]] and [[Texaco Cup]].
+{{refend}}
+
+===As a manager===
+{| class=wikitable style="text-align: center"
+|+ Managerial record by team and tenure
+|-
+!rowspan=2|Team
+!rowspan=2|From
+!rowspan=2|To
+!colspan=5|Record
+|-
+!{{abbr|P|Matches played}}!!{{abbr|W|Matches won}}!!{{abbr|D|Matches drawn}}!!{{abbr|L|Matches lost}}!!{{abbr|Win %|Win percentage}}
+|-
+|align=left|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|align=left|1 June 1979
+|align=left|1 June 1981
+{{WDL|105|48|33|24|decimals=1}}
+|-
+|align=left|[[Everton F.C.|Everton]]
+|align=left|1 June 1981
+|align=left|18 June 1987
+{{WDL|338|183|78|77|decimals=1}}
+|-
+|align=left|[[Athletic Bilbao]]
+|align=left|18 June 1987
+|align=left|11 November 1989
+{{WDL|102|44|29|29|decimals=1}}
+|-
+|align=left|[[Manchester City F.C.|Manchester City]]
+|align=left|6 December 1989
+|align=left|5 November 1990
+{{WDL|39|13|18|8|decimals=1}}
+|-
+|align=left|Everton
+|align=left|5 November 1990
+|align=left|4 December 1993
+{{WDL|162|63|40|59|decimals=1}}
+|-
+|align=left|[[Xanthi F.C.|Skoda Xanthi]]
+|align=left|1 July 1994
+|align=left|30 October 1994
+{{WDL|10|5|3|2|decimals=1}}
+|-
+|align=left|[[Notts County F.C.|Notts County]]
+|align=left|12 January 1995
+|align=left|1 April 1995
+{{WDL|15|4|4|7|decimals=1}}
+|-
+|align=left|[[Sheffield United F.C.|Sheffield United]]
+|align=left|12 December 1995
+|align=left|27 June 1997
+{{WDL|82|34|27|21|decimals=1}}
+|-
+|align=left|Everton
+|align=left|27 June 1997
+|align=left|25 June 1998
+{{WDL|42|11|13|18|decimals=1}}
+|-
+|align=left|[[Ethnikos Piraeus F.C.|Ethnikos Piraeus]]
+|align=left|3 December 1998
+|align=left|18 March 1999
+{{WDL|13|0|5|8|decimals=1}}
+|-
+!colspan=3|Total<ref>{{cite web|title=Howard Kendall|url=http://www.soccerbase.com/managers/manager.sd?manager_id=620|website=Soccerbase|access-date=17 October 2015}}</ref>
+{{WDLtot|908|405|250|253|decimals=1}}
+|}
+
+==Honours==
+===Player===
+'''Preston North End'''
+*[[FA Cup]] runner-up: [[1963–64 FA Cup|1963–64]]<ref name=nationalfootball />
+
+'''Everton'''
+*[[Football League First Division]]: [[1969–70 Football League First Division|1969–70]]<ref name=mirrorprofile />
+*[[FA Charity Shield]]: [[1970 FA Charity Shield|1970]]<ref>{{cite book|last=Groom|first=Andy|title=101 Interesting Facts on Everton: Learn About the Boys From Goodison Park|date=2014|publisher=Apex Publishing Limited|isbn=9781910295212|url=https://books.google.com/books?id=YJy5BAAAQBAJ&q=1970+fa+charity+shield+everton+chelsea&pg=PA27|access-date=11 November 2015}}</ref>
+*FA Cup runner-up: [[1967–68 FA Cup|1967–68]]<ref>{{cite web|title=verton v West Bromwich Albion, 18 May 1968|url=http://www.11v11.com/matches/everton-v-west-bromwich-albion-18-may-1968-212711/|website=11 v 11}}</ref>
+
+'''Stoke City'''
+*[[Football League Second Division]] third-place promotion: [[1978–79 Football League Second Division|1978–79]]<ref name="Oatcake"/>
+
+'''Individual'''
+*[[Stoke City F.C. Player of the Year|Stoke City Player of the Year]]: [[1977–78 Stoke City F.C. season|1977–78]]<ref name="Oatcake" />
+
+===Manager===
+'''Blackburn Rovers'''
+*[[Football League Third Division]] runner-up: [[1979–80 Football League Third Division|1979–80]]<ref name="blackburn" />
+
+'''Everton'''
+*Football League First Division: [[1984–85 Football League First Division|1984–85]],<ref name="mang1" /> [[1986–87 Football League First Division|1986–87]]<ref name="mang1" />
+*FA Cup: [[1983–84 FA Cup|1983–84]]<ref name="cup84" />
+*FA Charity Shield: [[1984 FA Charity Shield|1984]], [[1985 FA Charity Shield|1985]], [[1986 FA Charity Shield|1986]] (shared)<ref name="toff">{{cite web|title=Howard Kendall|url=http://toffeeweb.com/club/managers/Kendall.php|website=Toffee Web|access-date=18 October 2015}}</ref>
+*[[UEFA Cup Winners' Cup|European Cup Winners' Cup]]: [[1984–85 European Cup Winners' Cup|1984–85]]<ref name="mang1" /><ref name="mang2" />
+
+'''Notts County'''
+*[[Anglo-Italian Cup]]: [[1994–95 Anglo-Italian Cup|1994–95]]<ref>{{cite news|title=Love Affairs & Marriage|url=http://www.wsc.co.uk/reviews/61-Managers/11043-love-affairs-marriage|access-date=4 November 2015|work=When Saturday Comes}}</ref>
+
+'''Individual'''
+*English Manager of the Year: [[1984–85 in English football|1984–85]],<ref name="mang2" /> [[1986–87 in English football|1986–87]]<ref name="lg87" />
+*[[Premier League Manager of the Month]]: [[1997–98 FA Premier League#Monthly awards|January 1998]]<ref>{{cite web |url=https://www.premierleague.com/managers/198/Howard-Kendall/overview |title=Manager profile: Howard Kendall |publisher=Premier League |access-date=15 September 2018}}</ref>
+
+== See also ==
+* [[List of English football championship winning managers]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20060515213500/http://www.nationalfootballmuseum.com/News/Hall%20of%20Fame%202005%20Inductees.htm English football Hall of Fame 2005 inductees]
+* {{Soccerbase manager|620}}
+* {{BDFutbol manager|4121}}
+* [http://www.athletic-club.eus/en/history-coaches/33/howard-kendall.html Athletic Bilbao manager profile]
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{1978–79 Football League Second Division PFA Team of the Year}}
+{{Stoke City F.C. Player of the Year}}
+{{UEFA Cup Winners' Cup winning managers}}
+{{English Football First Tier League Championship winning managers}}
+{{FA Cup winning managers}}
+{{Gwladys Street's Hall of Fame}}
+{{English Football Hall of Fame}}
+}}
+{{Navboxes
+|title= Howard Kendall managerial positions
+|list1=
+{{Blackburn Rovers F.C. managers}}
+{{Everton F.C. managers}}
+{{Athletic Bilbao managers}}
+{{Manchester City F.C. managers}}
+{{Xanthi F.C. managers}}
+{{Notts County F.C. managers}}
+{{Sheffield United F.C. managers}}
+{{Ethnikos Piraeus F.C. managers}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kendall, Howard}}
+[[Category:1946 births]]
+[[Category:2015 deaths]]
+[[Category:Athletic Bilbao managers]]
+[[Category:Birmingham City F.C. players]]
+[[Category:Blackburn Rovers F.C. managers]]
+[[Category:Blackburn Rovers F.C. players]]
+[[Category:English football managers]]
+[[Category:English men's footballers]]
+[[Category:England men's under-23 international footballers]]
+[[Category:Everton F.C. managers]]
+[[Category:Everton F.C. players]]
+[[Category:English expatriate football managers]]
+[[Category:English expatriate sportspeople in Spain]]
+[[Category:Expatriate football managers in Greece]]
+[[Category:Expatriate football managers in Spain]]
+[[Category:La Liga managers]]
+[[Category:Manchester City F.C. managers]]
+[[Category:Notts County F.C. managers]]
+[[Category:Premier League managers]]
+[[Category:Preston North End F.C. players]]
+[[Category:Sheffield United F.C. managers]]
+[[Category:Stoke City F.C. players]]
+[[Category:English Football League players]]
+[[Category:English Football Hall of Fame inductees]]
+[[Category:Sportspeople from Ryton, Tyne and Wear]]
+[[Category:Footballers from Tyne and Wear]]
+[[Category:Xanthi F.C. managers]]
+[[Category:Ethnikos Piraeus F.C. managers]]
+[[Category:English Football League representative players]]
+[[Category:Men's association football midfielders]]
+[[Category:Footballers from County Durham]]
+[[Category:20th-century English sportsmen]]

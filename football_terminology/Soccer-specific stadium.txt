@@ -1,0 +1,868 @@
+{{Short description|Type of sports stadium}}
+{{Use mdy dates|date=April 2025}}
+{{Use American English|date=May 2017}}
+
+{{Multiple image |perrow=2 |total_width=400 |image1=Nashville SC vs Portland Timbers by cornfield948 (20220705094553).jpg |image2=Louisville City match at Lynn Family Stadium 2023.jpg |image3=Wanderers Grounds, home to the HFX Wanderers FC in 2024.jpg |image4=Rowdies Soccer Config 2015.jpg |footer=Types of soccer-specific stadiums in North America (left–right, top–bottom): large stadiums ([[Geodis Park]]), smaller "boutique" stadiums ([[Lynn Family Stadium]]), "modular" stadiums with [[bleacher]]s ([[Wanderers Grounds]]), and converted former [[ballpark]]s ([[Al Lang Stadium]]).}}
+
+A '''soccer-specific stadium''', mainly in the [[United States]] and [[Canada]],<ref>{{cite book |last=Sakiewicz |first=Edward Paul |year=2006 |title=A Comparative Study of Enterprise Risk Management and Decision Making Criteria Used in Developing Soccer-specific Stadiums for Major League Soccer |chapter=Chapter I: Introduction |page=24 |publisher=Capella University |isbn=9780542914812 |url=https://books.google.com/books?id=0finZwj9-LYC |via=[[Google Books]] |access-date=August 1, 2015}}</ref> is a sports stadium either purpose-built or fundamentally redesigned for [[soccer]] and whose primary function is to host soccer matches, as opposed to a [[multi-purpose stadium]] which is for a variety of sports. A soccer-specific stadium may host other sporting events (such as [[lacrosse]], [[American football]] and [[Rugby football|rugby]]) and concerts, but the design and purpose of a soccer-specific stadium is primarily for soccer. Some facilities (for example [[SeatGeek Stadium]], [[Toyota Stadium (Texas)|Toyota Stadium]] and [[Historic Crew Stadium]]) have a permanent stage at one end of the stadium used for staging concerts.
+
+A soccer-specific stadium typically has amenities, dimensions and scale suitable for soccer in North America, including a scoreboard, video screen, luxury suites and possibly a roof. The field dimensions are within the range found optimal by [[FIFA]]: {{convert|110|–|120|yd|m}} long by {{convert|64|–|75|m|yd|-1|order=flip}} wide.<ref>{{cite web|url=https://www.fifa.com/mm/document/affederation/generic/81/42/36/lawsofthegame%5f2010%5f11%5fe.pdf |archive-url=https://web.archive.org/web/20100704211500/http://www.fifa.com/mm/document/affederation/generic/81/42/36/lawsofthegame_2010_11_e.pdf |url-status=dead |archive-date=July 4, 2010 |title=Laws of the Game 2010/2011 |publisher=FIFA |page=7 |access-date=October 9, 2010}} Although the official [[Laws of the Game (association football)|Laws of the Game]] allow for pitches in adult matches to be {{convert|90|-|120|m|yd|-1|order=flip}} long by {{convert|45|-|90|m|yd|-1|order=flip}} wide. The more restrictive range is specified for international matches like the ones used in the [[FIFA World Cup]].</ref> These soccer field dimensions are wider than the regulation [[American football]] field width of {{convert|53+1/3|yd|m}}, or the {{convert|65|yd|m|adj=on}} width of a [[Canadian football]] field. The playing surface typically consists of [[grass]] as opposed to [[artificial turf]], as the latter is generally disfavored for soccer matches since players are more susceptible to injuries.<ref>{{cite web|date=September 10, 2014|url=http://www.foxsports.com/soccer/story/uswnt-stars-not-backing-down-on-stance-artificial-playing-surface-2015-women's-world-cup-091014|title=USWNT stars not backing down on artificial playing surface stance|author=Fox Sports|work=FOX Sports|access-date=October 9, 2014}}</ref> However, some soccer-specific stadiums, such as Portland's [[Providence Park]] and Creighton University's [[Morrison Stadium]], do have artificial turf.
+
+The [[seating capacity]] is generally between 18,000 and 30,000 for a [[Major League Soccer]] franchise,<ref>{{cite news |last=Andrews |first=Phil |date=December 31, 2005 |title=Philadelphia's Field of Dreams: MLS' Newest Home |url=http://bleacherreport.com/articles/317174-philadelphias-field-of-dreams-mls-newest-home |work=[[Bleacher Report]] |access-date=August 1, 2015}}</ref> or smaller for college or [[minor league]] soccer teams. This is in comparison to the much larger American football stadiums that mostly range between 60,000 and 80,000 in which the [[North American Soccer League (1968–84)|original North American Soccer League]] teams played and most MLS teams occupied during the league's inception.<ref>{{cite news |date=May 12, 2012 |title=M.L.S. Continues to Bolster Growing Brand With New Stadium in Houston |url=https://www.nytimes.com/2012/05/13/sports/soccer/mls-keeps-moving-up-as-houston-dynamo-open-stadium.html |newspaper=[[The New York Times]] |agency=[[Associated Press]] |access-date=August 1, 2015}}</ref> As opposed to gridiron-style football stadiums, where the front row of seats is elevated several feet above the field of play to allow spectators to see over the heads of substitute players and coaches on the sidelines, soccer-specific venues typically have the front row closer to the level of the pitch.<ref>{{cite news|last=Schrotenboer|first=Brent|title=Chargers plan to play in smallest 'NFL stadium' for next two seasons|url=https://www.usatoday.com/story/sports/nfl/chargers/2017/01/12/chargers-stubhub-center-los-angeles-relocation-mls-la-galaxy/96479520/|newspaper=[[USA Today]]|date=January 12, 2017|access-date=February 25, 2017}}</ref><ref>{{cite news |url=https://inews.co.uk/news/long-reads/tottenham-hotspur-white-hart-lane-new-stadium-football/ |title=Spurs are starting a stadium design revolution in Tottenham|first=Rob |last=Hastings |date= January 24, 2017|work=iNews|access-date=July 20, 2018 }}</ref>
+
+==History==
+[[File:Mapfre_Stadium_(Columbus,_Ohio)_-_aerial_photo.jpg|thumb|Columbus Crew Stadium (now [[Historic Crew Stadium]]) was the first soccer-specific stadium in MLS.]]
+In the 1970s, 1980s and 1990s, first-division professional soccer leagues in the United States, such as the North American Soccer League and Major League Soccer, primarily used [[American football]] fields, many of which were oversized in terms of seating capacity and undersized in terms of the width of the soccer field; they often used [[artificial turf]] (none of which, at the time, were approved for international soccer under FIFA rules).{{citation needed|date=November 2013}} Although many of the [[baseball park]]s had smaller capacities, natural grass, and a wider field, these parks were generally in use during summer, when North American–based soccer leagues, such as Major League Soccer, also hold their seasons, and the irregular field dimensions and sightlines were often considered undesirable.
+
+Soccer-specific stadiums first came into use in the 1990s, after the [[multi-purpose stadium]] era.<ref name="dispatch1">{{cite news |last=Arace |first=Michael |date=September 10, 2013 |title=Michael Arace commentary: Aging Crew Stadium still has a big advantage |url=http://www.dispatch.com/content/stories/sports/2013/09/10/aging-crew-stadium-still-has-a-bigadvantage.html |newspaper=[[The Columbus Dispatch]] |access-date=August 1, 2015}}</ref><ref>{{cite news |last=Granillo |first=Larry |date=September 14, 2009 |title=Football, Baseball, and the Era of the "Superstadium" |url=http://wezen-ball.com/2009-articles/football-baseball-and-the-era-of-the-qsuperstadiumq.html |work=Wezen-Ball |access-date=August 1, 2015}}</ref>
+
+The term "soccer-specific stadium" was coined by [[Lamar Hunt]], who financed the construction of [[Columbus Crew Stadium]], the first soccer-specific stadium constructed specifically for Major League Soccer.<ref name="dispatch1"/> In the 2000s, other Major League Soccer teams in the United States began constructing their own stadiums. Canada's first soccer-specific stadium was [[BMO Field]] in [[Toronto]], home to [[Toronto FC]]. This stadium was renovated to accommodate [[Canadian football]] for the 2016 and subsequent seasons.<ref>{{cite web |title=BMO Field |date=August 2, 2013 |url=http://www.stadiumguide.com/bmofield/ |publisher=The Stadium Guide |access-date=August 1, 2015}}</ref> The distinction is less prominent in Canada, where MLS's attendance figures are comparable to those of the domestic [[Canadian Football League]], and the CFL's wider field means fewer compromises must be made to accommodate both; [[Tim Hortons Field]] was built purposely to both soccer specifications and CFL regulations. Of the three Canadian cities that host both MLS and CFL teams, only one (Montreal) has separate stadiums for each.
+
+==Major League Soccer (MLS)==
+{{See also|List of Major League Soccer stadiums}}
+
+===Current MLS soccer-specific stadiums===
+{| class="wikitable sortable"
+|-
+! Stadium
+! Club(s)
+! City
+! Capacity
+! Opened
+|-
+| [[Allianz Field]]
+| [[Minnesota United FC]]
+| [[Saint Paul, Minnesota|Saint Paul]], Minnesota
+| 19,400
+| 2019
+|-
+| [[America First Field]]
+| [[Real Salt Lake]]
+| [[Sandy, Utah|Sandy]], Utah
+| 20,213
+| 2008
+|-
+| [[Audi Field]]
+| [[D.C. United]]
+| [[Washington, D.C.|Washington]], D.C.
+| 20,000
+| 2018
+|-
+| [[BMO Field]]
+| [[Toronto FC]]
+| [[Toronto]], Ontario
+| 28,180
+| 2007
+|-
+| [[BMO Stadium]]
+| [[Los Angeles FC]]
+| [[Los Angeles]], California
+| 22,000
+| 2018
+|-
+| [[Children's Mercy Park]]
+| [[Sporting Kansas City]]
+| [[Kansas City, Kansas|Kansas City]], Kansas
+| 18,467
+| 2011
+|-
+| [[Energizer Park]]
+| [[St. Louis City SC]]
+| [[St. Louis]], Missouri
+| 22,423
+| 2022
+|-
+| [[Dick's Sporting Goods Park]]
+| [[Colorado Rapids]]
+| [[Commerce City]], Colorado
+| 18,061
+| 2007
+|-
+| [[Dignity Health Sports Park]]
+| [[LA Galaxy]]
+| [[Carson, California|Carson]], California
+| 27,000
+| 2003
+|-
+| [[Chase Stadium]]
+| [[Inter Miami CF]]
+| [[Fort Lauderdale]], Florida
+| 21,550
+| 2019
+|-
+| [[Inter&Co Stadium]]
+| [[Orlando City SC]]
+| [[Orlando, Florida|Orlando]], Florida
+| 25,500
+| 2017
+|-
+| [[Geodis Park]]
+| [[Nashville SC]]
+| [[Nashville]], Tennessee
+| 30,000
+| 2022
+|-
+| [[Lower.com Field]]
+| [[Columbus Crew]]
+| [[Columbus, Ohio|Columbus]], Ohio
+| 20,371
+| 2021
+|-
+| [[PayPal Park]]
+| [[San Jose Earthquakes]]
+| [[San Jose, California|San Jose]], California
+| 18,000
+| 2015
+|-
+| [[Shell Energy Stadium]]
+| [[Houston Dynamo FC]]
+| [[Houston]], Texas
+| 22,039
+| 2012
+|-
+| [[Providence Park]]
+| [[Portland Timbers]]
+| [[Portland, Oregon|Portland]], Oregon
+| 25,218
+| 1926{{refn|group=n|name=POR|Was made soccer-specific following renovations in 2011.  Previously used for football and baseball.}}
+
+|-
+| [[Q2 Stadium]]
+| [[Austin FC]]
+| [[Austin, Texas|Austin]], Texas
+| 20,738
+| 2021
+|-
+| [[Saputo Stadium]]
+| [[CF Montréal]]
+| [[Montreal]], Quebec
+| 19,619
+| 2008
+|-
+| [[Sports Illustrated Stadium]]
+| [[New York Red Bulls]]
+| [[Harrison, New Jersey|Harrison]], New Jersey
+| 25,000
+| 2010
+|-
+| [[Subaru Park]]
+| [[Philadelphia Union]]
+| [[Chester, Pennsylvania|Chester]], Pennsylvania
+| 18,500
+| 2010
+|-
+| [[Toyota Stadium (Texas)|Toyota Stadium]]
+| [[FC Dallas]]
+| [[Frisco, Texas|Frisco]], Texas
+| 19,096
+| 2005
+|-
+| [[TQL Stadium]]
+| [[FC Cincinnati]]
+| [[Cincinnati]], Ohio
+| 26,000
+| 2021
+|}
+
+===Under construction===
+{| class="wikitable sortable"
+|-
+! Stadium
+! Club(s)
+! City
+! Proposed capacity
+! Potential opening date
+|- style="background:#f4f4f4;"
+|-
+| [[Miami Freedom Park]]
+| [[Inter Miami CF]]
+| [[Miami]], Florida
+| 25,000
+| 2026
+|-
+| [[Etihad Park (New York City)|Etihad Park]]
+| [[New York City FC]]
+| [[New York City]], New York
+| 25,000
+| 2027
+|}
+
+==National Women's Soccer League (NWSL)==
+{{See also|List of National Women's Soccer League stadiums}}
+
+===Current NWSL soccer-specific stadiums===
+{| class="wikitable sortable"
+|-
+! Stadium
+! Club(s)
+! City
+! Capacity
+! Opened
+|-
+| [[Audi Field]]
+| [[Washington Spirit]]
+| [[Washington, D.C.|Washington]], D.C.
+| 20,000
+| 2018
+|-
+| [[BMO Stadium]]
+| [[Angel City FC]]
+| [[Los Angeles]], California
+| 22,000
+| 2018
+|-
+| [[CPKC Stadium]]
+| [[Kansas City Current]]
+| [[Kansas City, Missouri|Kansas City]], Missouri
+| 11,500
+| 2024
+|-
+| [[Inter&Co Stadium]]
+| [[Orlando Pride]]
+| [[Orlando, Florida|Orlando]], Florida
+| 25,500
+| 2017
+|-
+| [[Lynn Family Stadium]]
+| [[Racing Louisville FC]]
+| [[Louisville]], Kentucky
+| 11,700
+| 2021
+|-
+| [[Shell Energy Stadium]]
+| [[Houston Dash]]
+| [[Houston]], Texas
+| 22,039
+| 2012
+|-
+| [[Providence Park]]
+| [[Portland Thorns FC]]
+| [[Portland, Oregon|Portland]], Oregon
+| 25,218
+| 2011
+|-
+| [[SeatGeek Stadium]]
+| [[Chicago Red Stars]]
+| [[Bridgeview]], Illinois
+| 20,000
+| 2006
+|-
+| [[Sports Illustrated Stadium]]
+| [[NJ/NY Gotham FC]]
+| [[Harrison, New Jersey|Harrison]], New Jersey
+| 25,000
+| 2010
+|-
+| [[WakeMed Soccer Park]]
+| [[North Carolina Courage]]
+| [[Cary, North Carolina|Cary]], North Carolina
+| 10,000
+| 2002
+|}
+
+==United Soccer League (USL)==
+
+===Current USL Pro soccer-specific stadiums===
+All [[USL Championship]] teams and [[USL League One]] teams have been required to play in self-owned, soccer-specific stadiums by the 2025 season. The following is a list of current USL stadiums, including the women's professional league [[USL Super League]], that are soccer-specific stadiums:
+
+{| class="wikitable sortable"
+|-
+! Stadium
+! Club(s)
+! City
+! Capacity
+! Opened
+|-
+| [[Al Lang Stadium]]
+| [[Tampa Bay Rowdies]]
+| [[St. Petersburg, Florida|St. Petersburg]], Florida
+| style="text-align:center;"| 7,227
+| 1947 (2015 renovation){{refn|group=n|name=TB|Almost exclusively as a baseball park for over 60 years. However, since the Rowdies moved to the facility in 2011, it has been reconfigured to better host soccer.}}
+|-
+| [[American Legion Memorial Stadium]]
+| [[Carolina Ascent FC]],
+[[Charlotte Independence]]
+| [[Charlotte, North Carolina|Charlotte]], North Carolina
+| style="text-align:center;"| 10,500
+| 1934 (2019–2021 renovation)
+|-
+| [[Breese Stevens Field]]
+| [[Forward Madison FC]]
+| [[Madison, Wisconsin|Madison]], Wisconsin
+| style="text-align:center;"| 5,000
+| 1926
+|-
+| [[Cardinale Stadium]]
+| [[Monterey Bay FC]]
+| [[Seaside, California|Seaside]], California
+| style="text-align:center;"| 6,000 
+| 2022
+|-
+| [[Cashman Field]]
+| [[Las Vegas Lights FC]]
+| [[Las Vegas]], Nevada
+| style="text-align:center;"| 9,334
+| 1983 (2019–2020 renovation){{refn|group=n|name=LV|The stadium was originally built in 1983 for the [[Las Vegas Aviators|Las Vegas Stars and Las Vegas 51s]] baseball team. It has been renovated into a soccer-specific stadium with baseball moved to [[Las Vegas Ballpark]].}}
+|-
+|[[Centreville Bank Stadium]]
+|[[Rhode Island FC]]
+|[[Pawtucket, Rhode Island|Pawtucket]], Rhode Island
+| style="text-align:center;"|10,500
+|2025
+|-
+| [[Championship Soccer Stadium]]
+| [[Orange County SC]]
+| [[Irvine, California|Irvine]], California
+| style="text-align:center;"| 5,000 
+| 2017
+|-
+| [[CHI Memorial Stadium]]
+| [[Chattanooga Red Wolves SC]]
+| [[Chattanooga]], Tennessee
+| style="text-align:center;"| 5,500 
+| 2020
+|-
+| [[Heart Health Park]]
+| [[Sacramento Republic FC]]
+| [[Sacramento]], California
+| style="text-align:center;" | 11,242
+| 2014
+|-
+| [[Highmark Stadium (Pennsylvania)|Highmark Stadium]]
+| [[Pittsburgh Riverhounds SC]]
+| [[Pittsburgh]], Pennsylvania
+| style="text-align:center;" | 5,000 
+| 2013
+|-
+|[[The Hangar (Lancaster, California)|Lancaster Municipal Stadium]]
+|[[AV Alta FC]]
+|[[Lancaster, Pennsylvania|Lancaster]], California
+| style="text-align: center;" |5,300
+|1996 (2025 renovation){{refn|group=n|name=AV|Previously a baseball stadium for the [[Lancaster JetHawks]]. Following the folding of the JetHawks due to the reconfiguration of Minor League Ballpark, the stadium was renovated for soccer.}}
+|-
+|[[Lexington SC Stadium]]
+|[[Lexington SC]]
+|[[Lexington, Kentucky|Lexington]], Kentucky
+| style="text-align: center;" |7,500
+|2024
+|-
+| [[Lynn Family Stadium]]
+| [[Louisville City FC]]
+| [[Louisville]], Kentucky
+| style="text-align:center;" | 11,700 
+| 2020
+|-
+|[[One Spokane Stadium]]
+|[[Spokane Velocity]],
+[[Spokane Zephyr FC]]
+|[[Spokane]], Washington
+| style="text-align:center;"|5,000
+|2023
+|-
+| [[Tormenta Stadium|Optim Health System Field]]
+| [[South Georgia Tormenta FC]]
+| [[Statesboro]], Georgia
+| style="text-align:center;"| 5,300
+| 2022
+|-
+| [[Patriots Point Soccer Complex]]
+| [[Charleston Battery]]
+| [[Mount Pleasant, South Carolina|Mount Pleasant]], South Carolina
+| style="text-align:center;"| 3,500 
+| 2000
+|-
+| [[Phoenix Rising Soccer Stadium]]
+| [[Phoenix Rising FC]]
+| [[Phoenix, Arizona|Phoenix]], Arizona
+| style="text-align:center;"| 10,000
+| 2023
+|-
+|[[Riverfront Stadium (Tampa)|Riverfront Stadium]]
+|[[Tampa Bay Sun FC]]
+|[[Tampa, Florida|Tampa]], Florida
+| style="text-align: center;" |5,000
+|2025
+|-
+| [[Segra Field]]
+| [[Loudoun United FC]]
+| [[Leesburg, Virginia|Leesburg]], Virginia
+| style="text-align:center;"| 5,000 
+| 2019
+|-
+| [[Tormenta Stadium]]
+| [[South Georgia Tormenta FC]]
+| [[Statesboro]], Georgia
+| style="text-align:center;"| 5,300 
+| 2022
+|-
+| [[Toyota Field]]
+| [[San Antonio FC]]
+| [[San Antonio]], Texas
+| style="text-align:center;"| 8,296 
+| 2013
+|-
+| [[Trinity Health Stadium]]
+| [[Hartford Athletic]]
+| [[Hartford]], Connecticut
+| style="text-align:center;"|5,500
+| 1960 (2019 renovation)
+|-
+| [[WakeMed Soccer Park]]
+| [[North Carolina FC]]
+| [[Cary, North Carolina|Cary]], North Carolina
+| style="text-align:center;"| 10,000
+| 2002
+|-
+| [[Weidner Field]]
+| [[Colorado Springs Switchbacks]]
+| [[Colorado Springs]], Colorado
+| style="text-align:center;"| 8,000 
+| 2021
+|}
+
+=== Stadiums under construction ===
+{| class="wikitable sortable"
+|+
+!Stadium
+!Club(s)
+!City
+!Planned capacity
+!Potential opening date
+|-
+| [[AlumniFi Field]]
+| [[Detroit City FC]]
+| [[Detroit]], Michigan
+| 14,000
+| 2027
+|-
+|[[Republic FC Stadium|Railyards Stadium]]
+|[[Sacramento Republic FC]]
+|Sacramento, California
+|12,000
+|2027
+|-
+| [[Eleven Park]]
+| [[Indy Eleven]]
+| [[Indianapolis]], Indiana
+| 20,000
+| TBD
+|}
+
+===Proposed USL soccer-specific stadiums===
+{| class="wikitable sortable"
+|-
+! Stadium
+! Club(s)
+! City
+! Proposed capacity
+|- style="background:#f4f4f4;"
+|-
+| [[Pro Iowa Stadium]]
+| [[USL Pro Iowa]]
+| [[Des Moines]], Iowa
+| 6,100
+|-
+| [[Iron District Stadium]]
+| [[USL Milwaukee]]
+| [[Milwaukee]], Wisconsin
+| 8,000
+|}
+
+==NCAA (Division I)==
+{{Incomplete list|date=August 2017}}
+{| class="wikitable sortable"
+|-
+! Stadium
+! Team(s)
+! City
+! Capacity
+! Opened
+|-
+| [[Albert-Daly Field]]
+| [[William & Mary Tribe]]
+| [[Williamsburg, Virginia]]
+| 1,000
+| 2004
+|-
+| [[Ambrose Urbanic Field]]
+| [[Pittsburgh Panthers]]
+| [[Pittsburgh, Pennsylvania]]
+| 735
+| 2011
+|-
+| [[BBVA Field]]
+| [[UAB Blazers]]
+| [[Birmingham, Alabama]]
+| 5,000
+| 2015
+|-
+| [[Belson Stadium]]
+| [[St. John's Red Storm]]
+| [[Queens, New York]]
+| 2,600
+| 2001
+|-
+| [[Bill Armstrong Stadium]]
+| [[Indiana Hoosiers]]
+| [[Bloomington, Indiana]]
+| 6,500
+| 1981
+|-
+| [[Columbia Soccer Stadium]]
+| [[Columbia Lions]]
+| [[Manhattan, New York]]
+| 3,500
+| 1985
+|-
+|[[Dick Dlesk Soccer Stadium]]
+|[[West Virginia Mountaineers]]
+|[[Morgantown, West Virginia]]
+|1,600
+|2004
+|-
+| [[Dr. Mark & Cindy Lynn Stadium]] 
+| [[Louisville Cardinals]]
+| [[Louisville, Kentucky]]
+| 5,300
+| 2014
+|-
+| [[Elizabeth Lyle Robbie Stadium]]
+| [[Minnesota Golden Gophers]]
+| [[Falcon Heights, Minnesota]]
+| 1,000
+| 1999
+|-
+| [[Ellis Field (Texas A&M)|Ellis Field]]
+| [[Texas A&M Aggies women's soccer|Texas A&M Aggies]]
+| [[College Station, Texas]]
+| 3,500
+| 1994
+|-
+| [[Eugene E. Stone III Stadium (Columbia, South Carolina)|Eugene E. Stone III Stadium]]
+| [[South Carolina Gamecocks]]
+| [[Columbia, South Carolina]]
+| 5,000
+| 1981
+|-
+| [[Razorback Field (Fayetteville, Arkansas)|Razorback Field]]
+| [[Arkansas Razorbacks]]
+| [[Fayetteville, AR]]
+| 1,500
+| 1992
+|-
+| [[Eugene E. Stone III Stadium (Greenville, South Carolina)|Eugene E. Stone III Stadium]]
+| [[Furman Paladins]]
+| [[Greenville, South Carolina]]
+| 3,000
+| 1995
+|-
+| [[Harder Stadium]]
+| [[UC Santa Barbara Gauchos men's soccer|UC Santa Barbara Gauchos]]
+| [[Santa Barbara, California]]
+| 17,000
+| 1966
+|-
+| [[Hermann Stadium]]
+| [[Saint Louis Billikens]]
+| [[St. Louis, Missouri]]
+| 6,050
+| 1999
+|-
+| [[Hofstra University Soccer Stadium]]
+| [[Hofstra Pride]]
+| [[Hempstead, New York]]
+| 1,600
+| 2003
+|-
+| [[Hurricane Soccer & Track Stadium]]
+| [[Tulsa Golden Hurricane]]
+| [[Tulsa, Oklahoma]]
+| 2,000
+| 2003
+|-
+| [[John Crain Field]]
+| [[Oklahoma Sooners]]
+| [[Norman, Oklahoma]]
+| 3,500
+| 2000
+|-
+| [[Lamar Soccer Complex]]
+| [[Lamar Lady Cardinals]]
+| [[Beaumont, Texas]]
+| 500
+| 2009
+|-
+| [[Mazzella Field]]
+| [[Iona Gaels]]
+| [[New Rochelle, New York]]
+| 2,400
+| 1989
+|-
+| [[Mean Green Village]]
+| [[North Texas Mean Green]]
+| [[Denton, Texas]]
+| 1,000
+| 2006
+|-
+| [[Merlo Field]]
+| [[Portland Pilots]]
+| [[Portland, Oregon]]
+| 4,892
+| 1990
+|-
+| [[Mike Rose Soccer Complex]]
+| [[Memphis Tigers]] 
+| [[Memphis, Tennessee]]
+| 2,500
+| 2001
+|-
+| [[Morrison Stadium]]
+| [[Creighton Bluejays]]
+| [[Omaha, Nebraska]]
+| 6,000
+| 2003
+|-
+| [[Morrone Stadium]]
+| [[UConn Huskies]]
+| [[Storrs, Connecticut]]
+| 5,100
+| 1969
+|-
+| [[Nicholls Soccer Complex]]
+| [[Nicholls State Colonels]]
+| [[Thibodaux, Louisiana]]
+| 1,000
+| 1998
+|-
+| [[Old Dominion Soccer Complex]]
+| [[Old Dominion Monarchs and Lady Monarchs]]
+| [[Norfolk, Virginia]]
+| 4,000
+| 1990
+|-
+| [[Riggs Field]]
+| [[Clemson Tigers]]
+| [[Clemson, South Carolina]]
+| 6,500
+| 1915
+|-
+| [[Roberts Stadium (Soccer stadium)|Roberts Stadium]]
+| [[Princeton Tigers]]
+| [[Princeton, New Jersey]]
+| 2,356
+| 2008
+|-
+| [[SU Soccer Stadium]]
+| [[Syracuse Orange]]
+| [[Syracuse, New York]]
+| 1,500
+| 1996
+|-
+| [[CIBER Field at the University of Denver Soccer Stadium|University of Denver Soccer Stadium]]
+| [[Denver Pioneers]]
+| [[Denver, Colorado]]
+| 2,000
+| 2009
+|-
+| [[UNCG Soccer Stadium]]
+| [[UNC Greensboro Spartans|University of North Carolina at Greensboro]]
+| [[Greensboro, North Carolina]]
+| 3,540
+| 1990
+|-
+| [[Veterans Memorial Soccer Complex]]
+| [[Marshall Thundering Herd]]
+| [[Huntington, West Virginia]]
+| 1,006
+| 2013
+|-
+| [[Waipio Peninsula Soccer Stadium]]
+| [[Hawaii Rainbow Wahine|Hawai{{okina}}i Rainbow Wahine]] 
+| [[Waipio, Hawaii|Waipi{{okina}}o, Hawaii]]
+| 4,500
+| 2000
+|-
+| [[Yurcak Field]]
+| [[Rutgers Scarlet Knights]]
+| [[Piscataway, New Jersey]]
+| 5,000
+| 1994
+|-
+|[[Ole Miss Soccer Stadium]]
+|[[Ole Miss Rebels]]
+|[[Oxford, Mississippi]]
+|1,500
+|1997
+|}
+
+==Other soccer-specific stadiums==
+{| class="wikitable sortable"
+|-
+! Stadium
+! Team(s)
+! Division
+! City
+! Capacity
+! Opened
+|-
+| [[City Park Stadium]]
+| [[Westchester Flames]]
+| [[USL2]]
+| [[New Rochelle, New York]]
+| 1,845
+| 1970s
+|-
+| [[Historic Crew Stadium]]
+| [[Columbus Crew 2]]
+| [[MLS Next Pro]]
+| [[Columbus, Ohio]]
+| 20,000
+| 1999
+|-
+| [[King George V Park]]
+| [[National Stadium]]<br>[[Memorial University of Newfoundland|Memorial Sea-Hawks]]
+| [[CONCACAF]]<br>[[U Sports]]
+| [[St. John's, Newfoundland and Labrador]]
+| 6,400
+| 1925
+|-
+| [[Lusitano Stadium]]
+| [[Western Mass Pioneers]]
+| [[USL2]]
+| [[Ludlow, Massachusetts]]
+| 3,000
+| 1918
+|-
+| [[Macpherson Stadium, North Carolina|Macpherson Stadium]]
+| [[North Carolina Fusion U23]]
+| [[USL2]]
+| [[Browns Summit, North Carolina]]
+| 7,000
+| 2002
+|-
+| [[Metropolitan Oval]]
+| 
+| 
+| [[Queens, New York]]
+| 1,500
+| 1925 (2001 renovation)
+|-
+| [[Orange Beach Sportsplex]]
+| Local teams, [[SEC Women's Soccer Tournament]]
+| Local
+| [[Orange Beach, Alabama]]
+| 1,500
+| 2001
+|-
+| [[Starfire Sports]]
+| 
+| 
+| [[Tukwila, Washington]]
+| 4,500
+| 2002
+|-
+| [[Switchbacks Training Stadium]]
+|
+|
+| [[Colorado Springs, Colorado]]
+| 5,000
+| 1985
+|-
+| [[Uihlein Soccer Park]]
+| [[MSOE Raiders]]
+| [[NCAA]]
+| [[Milwaukee, Wisconsin]]
+| 7,000
+| 1994
+|-
+| [[Virginia Beach Sportsplex]]
+| [[Virginia Beach United FC]]
+| [[USL2]]
+| [[Virginia Beach, Virginia]]
+| 10,500
+| 1999
+|-
+| [[Wallis Annenberg Stadium]]
+| [[UCLA Bruins|UCLA Bruins teams]]
+|
+| [[Los Angeles, California]]
+| 2,145
+| 2018
+|-
+| [[WRAL Soccer Center]]
+| [[Raleigh CASL Elite|CASL teams]]
+| [[Raleigh CASL Elite|CASL]]
+| [[Raleigh, North Carolina]]
+| 3,200
+| 1990
+|}
+
+===Past soccer-specific stadiums===
+{| class="wikitable"
+|-
+! Stadium
+! Club(s)
+! City
+! Capacity
+! Opened
+! Years used
+! Status
+|-
+| [[Mark's Stadium]] 
+| [[Fall River F.C.]]
+| [[Tiverton (CDP), Rhode Island]]
+| 15,000
+| 1922
+| 1922–1950s
+| vacant grass lot
+|-
+|| [[Kennesaw State University Stadium]]
+| [[Kennesaw State Owls]]
+| [[Kennesaw, Georgia]]
+| 8,318
+| 2010
+| 2010–present
+| converted to a multi-purpose stadium in 2015 after [[Kennesaw State University]] launched their [[American football|football]] program
+|-
+| [[Lockhart Stadium]]
+| [[Miami Fusion]], [[Fort Lauderdale Strikers (2006–2016)|Fort Lauderdale Strikers]]
+| [[Fort Lauderdale, FL]]
+| 17,417
+| 1959
+| 1959–2019
+| converted to a SSS in 1998 for the Miami Fusion's expansion year, torn down in 2019 to make way for [[Chase Stadium]]
+|-
+|}
+
+==Other countries==
+[[File:Myyrmäen jalkapallostadion.JPG|thumb|The [[Myyrmäki Football Stadium]] in [[Vantaa]], [[Finland]]]]
+The term "football-specific stadium" is sometimes used in countries where the sport is known as football rather than soccer, although the term is not common in countries where association football is the dominant sport and thus football-specific stadiums are quite common. The term tends to have a slightly different meaning in these countries, usually referring to a stadium without an [[Sport of athletics|athletics]] [[running track|track]] surrounding the field.<ref>{{cite news |title=Exclusive: We will beat Olympic Stadium claim Tottenham |url=https://www.insidethegames.biz/articles/8542/exclusive-we-will-beat-olympic-stadium-claim-tottenham |access-date=July 24, 2023 |work=insidethegames.biz |date=December 23, 2009}}</ref><ref>{{cite news |title=Buenos Aires: Symbolic revamp at El Monumental |url=http://stadiumdb.com/news/2020/09/buenos_aires_symbolic_revamp_at_el_monumental |access-date=July 24, 2023 |work=StadiumDB.com |date=September 10, 2020}}</ref> Some soccer stadiums in Europe are also used for other sports, including rugby, American football, and field hockey. The problem with oversized stadiums designed for another sport is particularly visible in European American football leagues and conflicts between teams sharing the stadium (a notable example are [[Eintracht Braunschweig]] and the [[Braunschweig Lions]] which share a stadium) and (often municipal) owners of the stadiums sometimes arise, leading to attempts at single sport-specific venues.<ref>{{cite news |title=Luxembourg: Only stadium with running track to be demolished? |url=http://stadiumdb.com/news/2012/11/luxembourg_only_stadium_with_running_track_to_be_demolished |access-date=July 24, 2023 |work=StadiumDB.com |date=November 21, 2011}}</ref>
+
+[[File:Adelaide United FC vs. Sydney FC at Hindmarsh Stadium - April 2023.JPG|thumb|left|The [[Hindmarsh Stadium]] in [[Adelaide]], [[South Australia]]]]
+In Australia, the term has much the same meaning as in the United States. The dominance of [[Australian rules football]] in the southern states means that unlike in [[New South Wales]] and [[Queensland]], rectangular stadiums and grounds capable of hosting top level [[A-League]] soccer are rare. [[Hindmarsh Stadium]] in Adelaide, South Australia is an example of such a soccer-specific stadium. Being built in the 1960s and progressively updated, the vast majority of matches played there are soccer, with very rare rugby league or rugby union games. The [[Wyndham City Stadium]] and Wyndham Regional Football Facility are also examples. Many of the lower-tier state league clubs own their own venues, which also qualify as soccer-specific.
+
+==See also==
+* [[List of soccer stadiums in the United States]]
+* [[List of soccer stadiums in Canada]]
+* [[List of football (soccer) stadiums by capacity]]
+* [[List of Major League Soccer stadiums]]
+* [[List of NASL stadiums]]
+* [[List of National Women's Soccer League stadiums]]
+* [[List of Women's Professional Soccer stadiums]]
+
+==Notes==
+{{Reflist|group=n}}
+
+==References==
+{{Reflist}}
+
+{{Major League Soccer stadiums}}{{USL Venues}}{{USL League One venues}}{{National Women's Soccer League stadiums}}{{USL Super League venues}}{{Soccer in the United States}}
+{{Soccer in Canada}}
+{{Authority control}}
+
+[[Category:Association football venues]]
+[[Category:Association football terminology]]
+[[Category:Lists of association football stadiums|*Soccer]]
+[[Category:Lists of soccer stadiums in Canada]]
+[[Category:Lists of soccer stadiums in the United States| Specific]]
+[[Category:Stadiums]]

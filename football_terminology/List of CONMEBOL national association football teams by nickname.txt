@@ -1,0 +1,135 @@
+{{Short description|none}}
+{{Use dmy dates|date = March 2020}}
+
+The following is a list of [[nickname]]s of [[CONMEBOL|South American Football Confederation]] (CONMEBOL) national [[association football]] teams.
+
+== Nicknames ==
+
+* Nicknames in ''italics'' are commonly used in English.
+
+{| class="wikitable sortable"
+!Team
+!Nickname
+!English translation
+!Notes
+!{{Tooltip|Ref.|Reference}}
+|-
+|{{fb|ARG}}
+|La Albiceleste
+|The White and Sky-Blue
+|The Argentinian flag has 3 equal stripes, the white and blue stripe represent the sky clouds and the yellow sun in the middle.
+|<ref>"La trama secret de la designation de Maradona," La Gaceta, 29 October 2008, http://www.lagaceta.com.ar</ref>
+|-
+|{{fb|BOL}}
+|La Verde
+|The Green
+|In 1957, the Bolivian Football Federation decided to use one of the colors in the Flag of Bolivia. Given red and yellow were used by many of the other South American countries, green became the primary color, leading to the nickname "La Verde" ("The Green").
+|<ref name="topendsports.com4">{{cite web|url=http://www.topendsports.com/sport/soccer/team-nicknames.htm|title=Football (Soccer) Team Nicknames|website=Topendsports.com}}</ref>
+|-
+| rowspan="3" |{{fb|BRA}}
+|Canarinho
+|''The Little Canary''
+|In reference to the yellow shirt.
+|<ref name="topendsports.com4"/>
+|-
+|A Seleção
+|The Team
+|Seleção means national team in Portuguese.
+|<ref>{{cite web|url=http://mashable.com/2014/06/09/world-cup-nicknames/#Wu8m0ocVfEq4|title=The Complete Guide to World Cup Team Nicknames|last=Magdaleno|first=Alex|website=Mashable.com|date=10 June 2014 }}</ref>
+|-
+|Verde-Amarela
+|The Green and Yellow
+|The flag of Brazil also known in Portuguese as Verde e amarela ("The Green and Yellow").
+|<ref name="topendsports.com4"/>
+|-
+| rowspan="2" |{{fb|CHI}}
+|La Roja
+|The Red One
+| rowspan="2" |The Chile national football team wears Red Jerseys, Blue shorts and white socks. The color scheme of red, white, and blue has been in use since 1947.
+|<ref>{{Cite web|url=http://noticias.123.cl/|title=Archived copy|url-status=dead|archive-url=https://web.archive.org/web/20180722111254/http://noticias.123.cl/|archive-date=22 July 2018|access-date=29 April 2019}}</ref>
+|-
+|''El equipo de todos''
+|Everyone's team
+|<ref>{{Cite web|url=http://bettinghits.co.uk/chile-vs-peru/|archive-url=https://web.archive.org/web/20190702145116/http://bettinghits.co.uk/chile-vs-peru/|url-status=usurped|archive-date=2 July 2019|title=Chile vs Peru Prediction. Sure Bet tips & H2H|website=|access-date=2 July 2019}}</ref>
+|-
+| rowspan="2" |{{fb|COL}}
+|Los Cafeteros
+|The Coffee Growers
+|Colombian coffee is renowned around the world for its quality and delicious taste.
+|<ref>{{Cite news|url=https://elcomercio.pe/deporte-total/futbol-mundial/colombia-carlos-queiroz-presentado-entrenador-seleccion-cafetera-noticia-nndc-605393|title=Colombia: Carlos Queiroz presentado como entrenador de la selección 'cafetera'|last=Elcomercio.pe|first=Redacción|date=7 February 2019|website=El Comercio|language=es|access-date=8 February 2019}}</ref>
+|-
+|La Tricolor
+|The [[Flag of Colombia|Tricolour]]
+|The national flag of Colombia symbolizes Colombian independence from Spain, gained on 20 July 1810. It is a horizontal tricolor of yellow, blue and red.
+|<ref>{{Cite web|url=https://www.goal.com/es/noticias/oficial-carlos-queiroz-es-el-nuevo-dt-de-colombia/hasl900jsudm1vi8bxd360t2f|title=OFICIAL: Carlos Queiroz es el nuevo DT de Colombia {{!}} Goal.com|website=www.goal.com|language=es|access-date=8 February 2019}}</ref>
+|-
+|{{fbw|COL}} (Women's)
+|Las Chicas Superpoderosas
+|''[[The Powerpuff Girls]]''
+|In reference to the popular Powerpuff Girls cartoon, in which super-powered little girls set out to save the world.
+|<ref>[http://www.elcolombiano.com/bancoconocimiento/j/juegosolimpicos_seleccion-colombia-femenina/juegosolimpicos_seleccion-colombia-femenina.asp Colombia debuta este miércoles en los Olímpicos con las Chicas Superpoderosas] {{webarchive|url=https://archive.today/20130122083702/http://www.elcolombiano.com/bancoconocimiento/j/juegosolimpicos_seleccion-colombia-femenina/juegosolimpicos_seleccion-colombia-femenina.asp|date=22 January 2013}}</ref><ref>{{Cite web|url=https://dialogo-americas.com/en/articles/london-2012-colombian-powerpuff-girls-look-gold|title=London 2012: Colombian 'Powerpuff Girls' look for gold|website=Dialogo Americas|language=en|access-date=8 February 2019}}</ref>
+|-
+|{{fb|ECU}}
+|La Tri / Tricolor
+|The Tricolour
+|The Flag of Ecuador has a horizontal tricolor of yellow blue and red with the National Coat of Arms superimposed at the center.
+|<ref name="nytimes72">{{cite news|url=http://worldcup.blogs.nytimes.com/2006/06/08/team-nickname-guide/|title=World Cup '06: Team Nickname Guide|date=8 July 2011|work=[[The New York Times]]|accessdate=11 July 2018}}</ref>
+|-
+| rowspan="2" |{{fb|PAR}}
+|La Albirroja
+|The White-Red
+|From the Paraguayan Flag which is white and red.
+|<ref name="nytimes72"/>
+|-
+|Los Guaraníes
+|The [[Guaraní people|Guaraní]]
+|From their ancestors. Many modern Paraguayans are descendants of the intermingling of the Spanish and Guarani.
+|<ref name="nytimes72" />
+|-
+|{{fb|PER}}
+|La Blanquirroja
+|The White-Red
+|From the Peruvian flag which is white and red.
+|<ref name="topendsports.com4"/>
+|-
+| rowspan="2" |{{fb|URU}}
+|La Celeste (Olímpica)
+|The (Olympic) Sky Blue
+|From the Uruguay flag which has sky blue and white colors.
+|<ref name="topendsports.com4"/><ref>"Futbol, habilidad, goles," 22 October 2008, http://www.elpais.com.uy</ref>
+|-
+|Los [[Charrúa]]s
+|The Charrúa
+|Indigenous people living in present-day Uruguay.
+|<ref name="topendsports.com4"/>
+|-
+| rowspan="3" |{{fb|VEN}}
+|La Vinotinto
+|The Burgundy
+|Because of the traditional burgundy color of their shirts.
+|<ref>{{cite web|url=http://www.el-nacional.com/www/site/detalle_noticia.php?q=nodo/49309|title=El Nacional.com|date=28 September 2011|url-status=dead|archive-url=https://web.archive.org/web/20110928032914/http://www.el-nacional.com/www/site/detalle_noticia.php?q=nodo%2F49309|archive-date=28 September 2011|accessdate=26 August 2018}}</ref>
+|-
+|''Los Llaneros''
+|The Plainsmen
+|A llanero is a South American herder. The name is taken from the Llanos grasslands occupying western-central Venezuela.
+|<ref name="topendsports.com4"/>
+|-
+|''La Remolacha Mecanica''
+|The Clockwork Beet
+|From the sugar beetroot.
+|<ref name="topendsports.com4" />
+|}
+
+== See also ==
+
+* [[List of national association football teams by nickname]]
+
+== References ==
+{{Reflist}}
+
+{{Association football terminology}}
+
+{{DEFAULTSORT:National Association Football Teams By Nickname CONMEBOL}}
+[[Category:Lists of association football national teams|Nickname CONMEBOL]]
+[[Category:Nicknamed groups of association football players|National CONMEBOL]]
+[[Category:Lists of nicknames]]

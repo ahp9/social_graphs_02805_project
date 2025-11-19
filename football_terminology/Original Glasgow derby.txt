@@ -1,0 +1,640 @@
+{{Short description|Football rivalry in Glasgow, Scotland}}
+{{Use dmy dates|date=October 2020}}
+{{Infobox football derby
+| name                    = Glasgow derby
+| image                   =  
+| caption                 = 
+| city or region          = [[Glasgow]], Scotland
+| first contested         = 1875 <br />[[Exhibition game#Association football|Charity game for fire victims]]
+| mostrecent              = 9 February 2025<br />[[2024–25 Scottish Cup|Scottish Cup]]<br />Rangers 0–1 Queen's Park
+| nextmeeting             = 
+| team1                   = [[Queen's Park F.C.|Queen's Park]]
+| team2                   = [[Rangers F.C.|Rangers]]
+| total                   = 108
+| most wins               = Rangers (79)
+| largestvictory          = Rangers 8–0 Queen's Park<br />([[1973–74 Scottish Cup]])
+| map_location            = Scotland Glasgow
+| map_label2              = [[Ibrox Stadium|Ibrox]] (Rangers)
+| map_mark2               = blue pog.svg
+| coordinates2            = {{coord|55|51|11.54|N|4|18|33.33|W|display=inline}}
+| map_label2_position     = left
+| map_label3              = [[Hampden Park]] (Queen's Park)
+| map_mark3               = Black pog.svg
+| coordinates3            = {{coord|55|49|33|N|4|15|7|W|display=inline}}
+| map_label3_position     = bottom
+| map_caption             = Location of the two teams' stadia in [[Glasgow]]
+|team1logo=|team2logo=}}
+{| class="infobox"
+|{{football kit
+ | pattern_la = _queenspark1819h
+ | pattern_b = _queenspark2021h
+ | pattern_ra = _queenspark1819h
+ | leftarm   = FFFFFF
+ | body     = FFFFFF
+ | rightarm  = FFFFFF
+ | shorts   = FFFFFF
+ | socks   = 000000
+ | title    = Queen's Park
+}}
+|{{football kit
+| pattern_la = 
+| pattern_b =  
+| pattern_ra = 
+| pattern_so = _redhorizontal
+| leftarm = 0000FF
+| body = 0000FF
+| rightarm = 0000FF
+| shorts = FFFFFF
+| socks = 000000
+| title       = Rangers
+}}
+|}
+The '''Original Glasgow derby''' is the name for the old rivalry between crosstown Scottish [[association football|football]] clubs [[Queen's Park F.C.|Queen's Park]] and [[Rangers F.C.|Rangers]], both based in [[Glasgow]]. The two clubs are two of the most successful in the [[Scottish Cup]], and the rivalry between them was one of the more intense in the early years of Scottish football, before being overtaken by the [[Old Firm]] rivalry from the 1900s onwards. The highest [[Scottish Cup]] attendance figure for the fixture was recorded on 18 January 1930 at [[Hampden Park]] for the first round, when 95,722 fans attended. The two clubs met in the top flight for last time during [[1957–58 Scottish Football League|1957–58]], the final season before Queen's Park's relegation. The club retained their amateur status from their foundation in 1867 until 2019, which meant it was extremely difficult to compete at the highest level and the intensity of the derby dramatically declined after 1958 as the ''Spiders'' never returned to the top tier.<ref name=ageold>{{cite web|last=Smith |first=Andrew |url=http://www.scotsman.com/scotland-on-sunday/sport/rangers-v-queen-s-park-renewing-an-age-old-rivalry-1-2575574 |title=Rangers v Queen's Park: Renewing an age-old rivalry |publisher=The Scotsman |date=14 October 2012 |access-date=23 December 2020}}</ref>
+
+On 20 October 2012, the old derby was revived again in league football after 54 years in the [[Scottish Third Division]] following Rangers' expulsion from the top flight in 2012 – the attendance figure for their first meeting was a world record for a fourth division match at the time as 49,463 fans were present at [[Ibrox Stadium]] to see fourth placed Rangers overcome early leaders Queen's Park 2–0.<ref name=rfcqp12>{{cite web|url=https://www.bbc.co.uk/sport/football/20018521
+|title=Rangers 2-0 Queen's Park|website=BBC Sport |date=20 October 2012 |access-date=21 December 2020}}</ref> Their first league fixture at Hampden since 1958 took place 29 December 2012, attracting 30,117 fans.<ref name=qprfc12>{{cite web|url=https://www.bbc.co.uk/sport/football/20857984|title=Queen's Park 0-1 Rangers|website=BBC Sport |date=29 December 2012 |access-date=21 December 2020}}</ref> This was the first five-figure attendance Queen’s Park had recorded for 29 years and would have been higher if the stadium was not operating at reduced capacity due to upgrading work on the North Stand.<ref name=capacity>[https://www.dailyrecord.co.uk/sport/football/football-news/rangers-return-clash-with-queens-park-1391993.amp Rangers return clash with Queen's Park has Hampden capacity cut], Daily Record, 22 October 2012 </ref>
+
+The most recent meeting between the clubs was a Fifth Round [[Scottish Cup]] match played on 9 February 2025. Despite being the away team from a lower division, Queen's Park ran out 1–0 winners: a result described as both "One of the greatest shocks in Scottish football history"<ref name="Sky2025"/> and also "one of the biggest upsets in Rangers' history, up alongside Cup defeats to Berwick Rangers and Hamilton".<ref name="Independent2025"/>
+
+==History==
+===1875–1900: Early years===
+A match between the two clubs officially came to records in an 1875 friendly to raise money for the victims of a huge fire in Bridgeton that had claimed many lives. After meeting in the final of the inaugural [[Glasgow Merchants Charity Cup]] in 1877, the first major competitive fixture between the sides was a [[1878–79 Scottish Cup]] quarter-final tie on 22 March 1879 at the [[Hampden Park (1873–83)|first Hampden Park]] with Rangers winning 1–0 and advancing to the semifinal. That game was nine years before [[Celtic F.C.|Celtic]] even came into existence.<ref>{{cite web|url=https://beyondthelastman.com/2013/02/27/nostalgia-for-lost-glasgow-derbies/|title=Nostalgia For Lost Glasgow Derbies|author=Craig McCracken|website=Beyond The Last Man|date=27 February 2013}}</ref> In the 1879–80 season Queen's Park recorded their largest victory against their rivals in a Cup replay, dominating the match 5–1 on 27 September 1879 at the first Hampden in front of 5,000 spectators. The first match finished in a 0–0 draw a week earlier at Rangers' home at [[Kinning Park (sports ground)|Kinning Park]], in front of 7,000 fans. Two years later on 30 September 1882 Queen's Park would beat their rivals again by 3-2 in second round of the Scottish Cup at the first Hampden.
+
+[[File:Robert Smyth McColl c1901.jpg|thumb|[[Robert Smyth McColl]] had two spells at Queen's Park and one at Rangers]]
+In 1890 Rangers were part of the [[1890–91 Scottish Football League|inaugural league season]] in Scottish football and Queen's Park joined the league 10 years later in 1900, remaining there with some interruptions until 1958. But between 1895 and 1899 and the two clubs would face each other in the [[Glasgow Football League]]: Rangers won the title in 1896 and 1898 and Queen's Park in 1897. They also played against each other in the [[Glasgow Cup]]: in 1898<ref>{{cite web|url=http://www.qpfc.com/matchdetails/1898_99/rann1.htm|title=Glasgow Cup 1898|website=QPFC.com}}</ref> Rangers beat Queen's Park 4–0 in the final and the next year the ''Spiders'' took their revenge winning the local trophy with a narrow 1–0 victory.
+
+Queen's Park started competing in the [[Scottish Cup]] from its first edition in [[1873–74 Scottish Cup|1873–74]] and proved the most successful team for the first three decades of Scottish football,<ref name=ageold/> winning the trophy 10 times. That success instantly made the ''Spiders'' one of the best supported football clubs in [[Glasgow]]. Rangers started competing in the Scottish Cup in [[1874–75 Scottish Cup|1874–75]] which for a second consecutive time finished with Queen's Park as the winners. The latter won the cup for the last time in [[1892–93 Scottish Cup|1893]], beating Celtic in the final. On the other hand the ''Gers'' won it for first time the following year in [[1893–94 Scottish Cup|1894]], overcoming Queen's Park in the semi-final after a replay, though it took them until [[1947–48 Scottish Cup|1948]] to reach 11 wins and surpass their old rivals' record (Celtic had done so by [[1924–25 Scottish Cup|1925]]).
+
+===1900–1939: Division One===
+From 1900 until 1939 the two teams would play every year against each other in the [[Scottish League Division One]] – with the exception of the [[1922–23 in Scottish football|1922–23]] when Queen's Park competed in the second division. Their first meeting in the top flight took place at [[Ibrox Park]] on 29 September 1900, with Rangers winning the match 3–2 in front of 16,000 spectators. On 22 October 1904 Rangers recorded their largest victory at the time beating their rivals home 5–0 in the league. Nevertheless in the [[1907–08 Rangers F.C. season|1907–08 season]] Queen's Park held Rangers to a 1–1 draw on 30 September 1907 in the first tied league game between the two, and on 2 November 1907 they won 3–1 at Ibrox for a first ever league victory in the derby.
+
+[[File:Alan Lauder Morton.jpg|thumb|[[Alan Morton]] played over 200 times for Queen's Park and over 400 times for Rangers]]
+After many years without a derby win Queen's Park would succeed with a victorious away performance on 10 March 1926 with a 2–1 scoreline, just their fourth league derby win at the time. They reached the semi-finals of the Scottish Cup in [[1927–28 Scottish Cup|1928]] but lost 2–1 to holders Celtic at Ibrox;<ref>[https://jimcraigcsc.wordpress.com/2014/03/24/if-you-know-the-history-24th-march-1928-celtic-2-queens-park-1-scottish-cup-semi-final/ If You Know The History – 24th March 1928 Celtic 2 Queen’s Park 1 Scottish Cup Semi-final], Jim Craig Celtic Supporter's Club, 24 March 2014</ref> they would have faced Rangers in the final, but instead it was an Old Firm affair (the ''Gers'' won 4–0 to lift the trophy for the first time since [[1903 Scottish Cup Final|1903]], the 25-year hiatus being almost as lengthy as that of Queen's Park at the time).<ref>[http://www.thecelticwiki.com/page/1928-04-14%3A+Rangers+4-0+Celtic%2C+Scottish+Cup The Scottish Cup. {{!}} Victory of Glasgow Rangers], The Times, 16 April 1928, via The Celtic Wiki</ref> They did meet in the 1932 [[Glasgow Cup]] final which attracted 50,000 fans to the stadium in a match that the ''Gers'' won easily, 3–0. The [[1938–39 Scottish Division One|1938–39 season]] was the last one before [[World War II]] with Rangers winning the title and Queen's Park finishing at the bottom of the table – but they were never relegated as there was no official football action the following year.
+
+===1939–1946: Wartime===
+During the World War II the two clubs faced each other in the [[1939–40 Scottish War Emergency League]], the [[Southern Football League (Scotland)|Southern Football League]], and the [[Southern League Cup (Scotland)|Southern Football League Cup]] from 1940 until 1946; Rangers won all three trophies several times. The league cup tournament was divided in groups of four and the two rivals met in the [[1944–45 Southern League Cup (Scotland)|1944–45 season]] when they faced each other in the semi-final match at Hampden which Rangers won 3–0 on 21 April 1945 in front of 70,000 spectators. They also met in the [[Summer Cup (Scottish football)|Summer Cup]].
+
+===1946–1958: Post-war===
+In 1946 the football action resumed officially but Queen's Park were relegated for a second time in its history in 1948. The Original Glasgow derby was resumed eight years later in the [[1956–57 Scottish Division One|1956–57 season]] with Queen's Park returning to the highest tier and playing in a memorable battle with Rangers which ended in a 6–4 victory for the [[Govan]] side, who went on to win the title.<ref name="SPFL">{{Cite web |url=https://spfl.co.uk/news/robb-enjoyed-being-thrust-into-1957-meeting |title=Robb enjoyed being thrust into 1957 meeting – Scottish Professional Football League |website=spfl.co.uk |date=28 December 2012|access-date=24 December 2020}}</ref><ref name=thriller>[https://www.dailyrecord.co.uk/sport/football/football-news/queens-park-legend-jimmy-robb-1507054.amp Queen's Park legend Jimmy Robb: I only played against Rangers in 1957 thriller after Johnny Valentine failed to show up], Alan Marshall, Daily Record, 27 December 2012 </ref> The last season the two teams competed in the top flight was in [[1957–58 Scottish Division One|1957–58]] with Queen's Park finishing bottom of the table and Rangers as runners-up. This was [[Alex Ferguson]]'s debut campaign with Queen's Park, and he would later join Rangers in 1967.
+
+===1958–1992: Decline===
+Following Queen's Park's relegation the derby lost its importance as [[Glasgow]]'s biggest fixture after the [[Old Firm]] matches. Their next meeting was in the [[1973–74 Scottish Cup]] when Rangers achieved their biggest victory ever against the ''Spiders'': 8–0. On 12 March 1983, the ''Gers'' won narrowly 2–1 at Hampden Park in the quarter-finals of the Scottish Cup in front of 13,716 fans.<ref>[https://news.google.com/newspapers?id=ocFAAAAAIBAJ&sjid=7qUMAAAAIBAJ&pg=1594%2C2692584 Jolly old Queen's refuse to lie down], [[James Traynor]], ''The Glasgow Herald'', 14 March 1983</ref> The two rivals still faced each other in the increasingly irrelevant [[Glasgow Cup]] during the 1980s. Their last meeting prior to Rangers' 2012 removal from the top tier took place on 20 August 1991 in the [[Scottish League Cup]] when they beat Queen's Park 6–0 at Ibrox in the second round of the competition in front of a crowd of 32,230 fans.
+
+===2012–13: A brief revival===
+In 2012, Rangers endured severe financial difficulties, and its [[Administration and liquidation of The Rangers Football Club plc|holding company was put into liquidation]] while the team had to apply for entry to the bottom (fourth) tier of the Scottish league. That development meant that the two old rivals would be in the same division for the first time since the 1957–58 season. Both would be fighting for promotion in the [[2012–13 Scottish Third Division]]. Another historical local club, [[Clyde F.C.|Clyde]], was part of the league that season, bringing in a glimpse of the glorious past of Glaswegian football. On 29 December 2012 Queen's Park came close to their first draw against the ''Gers'' in 70 years (since the 1932–33 season), but [[Fraser Aird]] scored in the 92nd minute to give Rangers a 1–0 win at [[Hampden Park]]. Overall, Rangers won all four fixtures against Queen's Park, finishing as champions while the ''Spiders'' qualified for the play-offs but failed to win promotion.
+
+===2014–15 League Cup===
+On 26 August 2014 Queen's Park hosted Rangers in the first round of the [[2014–15 Scottish League Cup]] at the [[Excelsior Stadium]] in [[Airdrie, North Lanarkshire|Airdrie]] (Hampden was being used for the [[2014 Commonwealth Games]] at the time). That season Rangers were competing just one level higher than their opponents as they attempted to climb back through the divisions of Scottish football (this was achieved after three promotions in four seasons). They managed to beat Queen's Park 2–1 and advanced to the semi-final, where they lost to Celtic.
+
+===2024–25 Scottish Cup: A historic upset===
+On 9 February 2025, Rangers hosted Queen's Park at [[Ibrox Stadium]] in the fifth round of the [[2024–25 Scottish Cup]]. In the shock of the tournament, a second half strike by Seb Drozd, a stout defensive performance from the ''Spiders'' and a last-minute penalty save by goalkeeper [[Calum Ferrie]] from [[James Tavernier]] gave Scotland's oldest team an 1–0 away victory and a spot in the quarter-finals for the first time in [[1982–83 Scottish Cup|42 years]].<ref name="Sky2025">{{cite web|url=https://www.skysports.com/football/news/34782/13306284/rangers-0-1-queens-park-seb-drozd-and-calum-ferrie-the-heroes-as-rangers-dumped-out-of-scottish-cup-after-shock-ibrox-loss |title=Rangers 0-1 Queen's Park: Seb Drozd and Calum Ferrie the heroes as Rangers dumped out of Scottish Cup after shock Ibrox loss |publisher=Sky Sports |date=9 February 2025 |access-date=9 February 2025 }}</ref><ref name="Guardian2025">{{Cite news |last=Murray |first=Ewan |date=2025-02-09 |title=Calum Ferrie the hero as Queen's Park shock Rangers with win at Ibrox |url=https://www.theguardian.com/football/2025/feb/09/rangers-queens-park-scottish-cup-fifth-round-match-report |access-date=2025-02-10 |work=The Guardian |issn=0261-3077}}</ref><ref>{{Cite web |title=Rangers vs Queen's Park: Scottish Cup stats & head-to-head |url=https://www.bbc.co.uk/sport/football/live/crm71jddmp7t |date=2025-02-09|access-date=2025-02-09 |website=BBC Sport }}</ref> The result marked the first Scottish Cup victory for Queen's Park over Rangers [[1882–83 Scottish Cup#Second round|since 1882]],<ref name="Guardian2025"/> Rangers' first defeat against lower league opposition since their infamous [[Berwick Rangers F.C. 1–0 Rangers F.C.|loss to Berwick Rangers]] in the [[1966–67 Scottish Cup]], and the first home defeat to lower league opposition in the competition in their entire history.<ref name="Independent2025">{{Cite web |date=2025-02-09 |title=Queen's Park pull off seismic Scottish Cup shock as Rangers make 'unacceptable' exit |url=https://www.independent.co.uk/sport/football/scottish/rangers-queens-park-scottish-cup-b2695024.html |access-date=2025-02-10 |website=The Independent }}</ref>
+
+==Honours==
+{| class="wikitable sortable"  style="width:auto; margin:auto;"
+|-
+!|[[Queen's Park F.C.|Queen's Park]]
+!|Competition
+!|[[Rangers F.C.|Rangers]]
+|- style="text-align:center;"
+|colspan="4" |'''Domestic'''
+|- style="text-align:center;"
+| - || [[List of Scottish football champions|Scottish first-tier League]] || 55
+|- style="text-align:center;"
+| 2 || [[List of winners of the Scottish Championship and predecessors|Scottish second-tier League]] || 1
+|- style="text-align:center;"
+| 1 || [[List of winners of the Scottish League One and predecessors|Scottish third-tier League]] || 1
+|- style="text-align:center;"
+| 2 || [[List of winners of the Scottish League Two and predecessors|Scottish fourth-tier League]] || 1
+|- style="text-align:center;"
+| 10 || [[Scottish Cup]] || 34
+|- style="text-align:center;"
+| - || [[Scottish League Cup]] || 28
+|- style="text-align:center;"
+| - || [[Scottish Challenge Cup]] || 1
+|- style="text-align:center;"
+| 8 || [[Glasgow Merchants Charity Cup]] || 32
+|- style="text-align:center;"
+| 1 || [[Glasgow Football League]] || 2
+|- style="text-align:center;"
+| 4 || [[Glasgow Cup]] || 44
+|- style="text-align:center;"
+| - || [[Drybrough Cup]] || 1
+|- style="text-align:center;"
+| 12 || [[Scottish Amateur Cup]] || -
+|-align="center"
+| '''39''' || '''Aggregate''' || '''155'''
+|- style="text-align:center;"
+|colspan="4" |'''European and Worldwide'''
+|- style="text-align:center;"
+| — || [[UEFA Cup Winners' Cup]] || 1
+|-align="center"
+| - || '''Aggregate''' || '''1'''
+|-align="center"
+| '''39''' || '''Total Aggregate''' || '''156'''
+|}
+
+==All-time head-to-head record==
+''Updated on 9 February 2025''<ref name=fsqprfclist/>
+
+{|class="wikitable sortable" style="text-align:center"
+|-
+!Competition
+!First match
+!width=60|Played
+!width=60|Rangers
+!width=60|Queen's Park
+!width=60|Draw
+|-
+|align=left|[[Scottish football league system|Scottish Division One]]
+|1900 
+|84 
+|62
+|9
+|13
+|-
+|align=left|[[List of winners of the Scottish League Two and predecessors|Scottish Third Division]]
+|2012
+|4
+|4
+|0
+|0
+|-
+|align=left|[[Scottish Cup]]
+|1879
+|16
+|9
+|3
+|4
+|-
+|align=left|[[Scottish League Cup|League Cup]]
+|1946 
+|4
+|4
+|0 
+|0 
+|- class="sortbottom"
+!colspan=2 align=left|Totals
+!108
+!79
+!12
+!17
+|}
+{{notelist}}
+
+===Defunct minor competitions===
+There are a number of matches between the two clubs that are not recognised in the official records.
+
+{|class="wikitable sortable" style="text-align:center font-size:80%"
+|-
+!Competition
+!Years
+!width=60|Played
+!width=60|Rangers
+!width=60|Queen's Park
+!width=60|Draw
+|-
+|align=left|[[Glasgow Cup]]{{efn|The [[Glasgow Cup]] continued to be contested during World War I and World War II}}
+|align=center|1887–1987
+|align=center|40 
+|align=center|31
+|align=center|6
+|align=center|5 
+|-
+|align=left|[[Glasgow Merchants Charity Cup]]{{efn|The [[Glasgow Merchants Charity Cup]] continued to be contested during World War I and World War II}}<ref>{{cite web|url=http://www.scottish-football-historical-archive.co.uk/glasgowcharitycup.html|title=Glasgow Merchants' Charity Cup|website=Scottish Football Historical Archive|archive-url=https://web.archive.org/web/20160810062341/http://www.scottish-football-historical-archive.co.uk/glasgowcharitycup.html|archive-date=10 August 2016|access-date=25 September 2018|url-status=live}}</ref><ref>{{cite web|url=http://www.qpfc.com/playrec/mcc/rangers.htm|title=qapfc merchant cup}}</ref>
+|align=center|1892–1961
+|align=center|31
+|align=center|19
+|align=center|9
+|align=center|3
+|-
+|align=left|[[Glasgow Football League|Glasgow League]] / [[Inter City Football League|Inter City League]]
+|align=center|1895–1906
+|align=center|18
+|align=center|11
+|align=center|3
+|align=center|4
+|-
+|align=left|[[Lord Provost's Rent Relief Cup|Lord Provost's Cup]]<ref>[https://web.archive.org/web/20170227070616/http://www.scottish-football-historical-archive.co.uk/glasgow-rent-cup.htm Glasgow Lord Provost's Rent Relief Cup], Scottish Football Historical Archive</ref>
+|align=center|1921
+|align=center|1
+|align=center|1
+|align=center|0
+|align=center|0
+|- class="sortbottom"
+!colspan=2 align=left|Totals
+!90
+!62
+!18
+!12
+|}
+{{notelist}}
+
+===Wartime competitions===
+During the [[Second World War]], the Scottish Football League and Scottish Cup were suspended and in their place unofficial regional league competitions were set up and they were mostly dominated by Rangers.
+
+{|class="wikitable sortable" style="text-align:center font-size:80%"
+|-
+!Competition 
+!Years
+!width=60|Played
+!width=60|Rangers
+!width=60|Queen's Park
+!width=60|Draw
+|-
+|align=left|[[1939–40 Scottish War Emergency League#Western division|Emergency Western League]]
+|align=center|1939–1940
+|align=center|2
+|align=center|2
+|align=center|0
+|align=center|0
+|-
+|align=left|[[Southern Football League (Scotland)|Southern League]]
+|align=center|1940–1946
+|align=center|12
+|align=center|8
+|align=center|2
+|align=center|2
+|-
+|align=left|[[Southern League Cup (Scotland)|Southern League Cup]]
+|align=center|1940–1946
+|align=center|1
+|align=center|1
+|align=center|0
+|align=center|0
+|-
+|align=left|[[Summer Cup (Scottish football)|Summer Cup]]<ref>{{cite web|url=http://sfha.org.uk/summercup.htm|title=Summer Cup], Scottish Football Historical Archive}}</ref>
+|align=center|1940–1946
+|align=center|0
+|align=center|0
+|align=center|0
+|align=center|0
+|- class="sortbottom"
+!colspan=2 align=left|Totals
+!15
+!11
+!2
+!2
+|}
+{{notelist}}
+
+== Biggest wins ==
+<ref name=fsqprfclist>[https://www.fitbastats.com/queenspark/team_results_list.php?opposition=7&from=134&to=150&competition=0&venue=0&update=Update (Queen's Park) Results Against Rangers], FitbaStats </ref>
+===Queen's Park===
+'''[[Scottish Football League|League]]'''
+* Queen's Park [[1927–28 Rangers F.C. season|3–1]] Rangers on 29 October 1927
+
+'''[[Scottish Cup]]'''
+* Queen's Park [[1879–80 Scottish Cup|5–1]] Rangers on 27 September 1879
+
+'''[[Scottish League Cup]]'''
+*''Queen's Park have never beaten Rangers in the Scottish League Cup''
+
+'''[[Glasgow Cup]]''' 
+* Rangers 0–3 Queen's Park on 7 November 1891
+* Rangers 0–3 Queen's Park on 15 September 1906
+
+===Rangers===
+'''[[Scottish Football League|League]]''' 
+* Rangers [[1909–10 Rangers F.C. season|7–1]] Queen's Park on 20 November 1909
+* Queen's Park [[1913–14 Rangers F.C. season|0–6]] Rangers on 28 February 1914
+
+'''[[Scottish Cup]]'''
+* Rangers [[1973–74 Rangers F.C. season|8–0]] Queen's Park on 26 January 1974
+
+'''[[Scottish League Cup|League Cup]]'''
+* Rangers [[1991–92 Rangers F.C. season|6–0]] Queen's Park on 20 August 1991
+
+'''[[Glasgow Cup]]'''
+* Rangers 7–1 Queen's Park on 14 October 1968
+
+==Match with most goals==
+* Queen's Park [[1956–57 Rangers F.C. season|4–6]] '''Rangers''' on 22 April 1957, [[Scottish Football League]]<ref name="SPFL"/><ref name=thriller/>
+
+==Attendances==
+The highest ever attendance between the two old rivals was recorded in the first round of the [[1929–30 Scottish Cup]] on 18 January 1930 at [[Hampden Park]]: 95,722 spectators were present. One year earlier, on 12 January 1929 the Original Glasgow derby attracted 60,000 who watched Rangers beat Queen's Park 4–0. On 21 April 1945, in a [[Southern League Cup (Scotland)|Southern League Cup]] semi-final during wartime, 70,000 flocked to the [[Celtic Park]] to watch Rangers beat Queen's Park 3–0 to advance to the final. In total, in at least nine games, the attendance was between 40,000 and 95,000, the most recent being in 2013 in the [[Scottish Third Division]]: on 20 October 2012, 49,463 fans revived the atmosphere of the old derby at [[Ibrox Stadium]], a figure that at the time was a world record for a fourth division match.<ref name=rfcqp12/><ref name=capacity/> When the two teams met in the [[1973–74 Scottish Cup]], their first cup meeting in 20 years Rangers easily beat second-tier Queen's Park at Hampden, still attracting 19,000 fans to the national stadium to watch the game.
+
+===Highest attendances===
+{| class="wikitable" style="text-align: center;"
+!Date
+!Match
+!Venue
+!Attendance
+!Competition
+|-
+|align="left"|[[1929–30 Rangers F.C. season|18 January 1930]]
+|align="left"|[[Queen's Park F.C.|Queen's Park]] 0–1 [[Rangers F.C.|Rangers]]
+|[[Hampden Park]]
+|95,722	
+|align="left"|[[1929–30 Scottish Cup|Scottish Cup first round]]
+|-
+|align="left"|[[1944–45 Rangers F.C. season|21 April 1945]]
+|align="left"|[[Rangers F.C.|Rangers]] 3–0 [[Queen's Park F.C.|Queen's Park]]
+|align="left"|[[Celtic Park]]
+|70,000		
+|align="left"|[[1944–45 Southern League Cup (Scotland)|Southern League Cup semi-final]]
+|-
+|align="left"|[[1928–29 Rangers F.C. season|12 January 1929]]
+|align="left"|Queen's Park 0–4 Rangers
+|align="left"|Hampden Park
+|60,000	
+|align="left"|[[1928–29 Scottish Division One]]
+|-
+|align="left"|[[1931–32 Rangers F.C. season|17 October 1931]]
+|align="left"|Queen's Park 0–3 Rangers
+|align="left"|Hampden Park
+|50,376
+|align="left"|[[Glasgow Cup]] final
+|-
+|align="left"|[[1918–19 Rangers F.C. season|31 May 1919]]
+|align="left"|Queen's Park 1–2 Rangers
+|align="left"|Hampden Park
+|50,000
+|align="left"|[[Glasgow Merchants Charity Cup]] final
+|-
+|align="left"|[[2012–13 Rangers F.C. season|20 October 2012]]<ref name=rfcqp12/><ref name=capacity/>
+|align="left"|Rangers 2–0 Queen's Park
+|align="left"|[[Ibrox Stadium]]
+|49,463		
+|align="left"|[[2012–13 Scottish Third Division]]
+|-
+|align="left"|[[2012–13 Rangers F.C. season|13 February 2013]]
+|align="left"|Rangers 4–0 Queen's Park
+|align="left"|Ibrox Stadium
+|46,104		
+|align="left"|[[2012–13 Scottish Third Division]]
+|-
+|align="left"|[[1932–33 Rangers F.C. season|13 February 1933]]
+|align="left"|Queen's Park 1–3 Rangers
+|align="left"|Hampden Park
+|45,217	
+|align="left"|[[1932–33 Scottish Cup|Scottish Cup second round, replay 2]]
+|-
+|align="left"|[[1908–09 Rangers F.C. season|20 February 1909]]
+|align="left"|Rangers 1–0 Queen's Park
+|align="left"|Ibrox Park
+|45,000
+|align="left"|[[1908–09 Scottish Cup|Scottish Cup quarter-final]]
+|-
+|align="left"|[[1919–20 Rangers F.C. season|22 November 1919]]
+|align="left"|Queen's Park 0–0 Rangers
+|align="left"|Hampden Park
+|45,000
+|align="left"|[[1919–20 Scottish Football League]]
+|}
+
+==Individual records==
+===Highest goalscorers===
+''As of end of the [[2019–20 in Scottish football|2019–20]] season.<ref>{{cite web|url=http://www.qpfc.com/playrec/league/rangers.htm|title=qpfc vs rangers}}</ref> Including Southern league.''
+* '''League games only'''
+{| class="wikitable sortable" style="text-align: center; font-size:100%"
+|-
+!width=10|Rank
+!width=150|Name
+!width=80|Club
+!width=20|Goals
+!width=50|Years
+|-
+|1
+|align=left|[[Andy Cunningham (footballer)|Andy Cunningham]]
+|bgcolor="#1E90FF"|Rangers
+|'''14'''
+|1915-1928
+|-
+|2
+|align=left|[[Willie Reid (footballer, born 1884)|Willie Reid]]
+|bgcolor="#1E90FF"|Rangers
+|11
+|1909-1920
+|-
+|rowspan="3" |3
+|align=left|[[Bob McPhail]]
+|bgcolor="#1E90FF"|Rangers
+|10
+|1927-1940
+|-
+|align=left|[[Jimmy Smith (footballer, born 1911)|Jimmy Smith]]
+|bgcolor="#1E90FF"|Rangers
+|10
+|1928-1946
+|-
+|align=left|[[Alex Venters]]
+|bgcolor="#1E90FF"|Rangers
+|10
+|1933-1946
+|-
+|6
+|align=left|[[Jimmy Fleming (footballer, born 1901)|Jimmy Fleming]]
+|bgcolor="#1E90FF"|Rangers
+|9
+|1925-1934
+|-
+|rowspan="3" |7
+|align=left|[[Robert Hamilton (Scottish footballer)|Robert Hamilton]]
+|bgcolor="#1E90FF"|Rangers
+|7
+|1897-1906
+|-
+|align=left|[[James Marshall (footballer, born 1908)|James Marshall]]
+|bgcolor="#1E90FF"|Rangers
+|7
+|1925-1934
+|-
+|align=left|[[Torry Gillick]]
+|bgcolor="#1E90FF"|Rangers
+|7
+|1933-1935, 1945-1951
+|-
+|rowspan="3" |10
+|align=left|[[Johnny Hubbard]]
+|bgcolor="#1E90FF"|Rangers
+|6
+|1949-1959
+|-
+|align=left|[[Jimmy Duncanson]]
+|bgcolor="#1E90FF"|Rangers
+|6
+|1946-1950
+|-
+|align=left|[[Willie Waddell]]
+|bgcolor="#1E90FF"|Rangers
+|6
+|1939-1955
+|-
+|}
+*''Queen's Park topscorer was [[James McAlpine]] with 5 goals (1919-1934).''
+
+==Finals==
+The two old rivals have met in several final and semifinal games, from 1877 until 1957.
+
+===Scottish Cup===
+{{See also|List of Scottish Cup finals}}
+The [[Scottish Cup]] was first played in [[1873–74 Scottish Cup|1874]] and Queen's Park were the inaugural winners, lifting 10 trophies between 1874 and 1893. Their decision to stick with amateurism and not turn professional meant that more success in the competition was impossible to come by. Nevertheless, it was over 40 years later, in 1936, that Rangers equalled the ''Spiders''' record (Celtic overtook it in 1925). The two clubs never played against each other in a final but they clashed in three semi-finals: Rangers beat Queen's Park to advance to the final in [[1878–79 Scottish Cup|1879]], [[1893–94 Scottish Cup|1894]] (in a replay) and in [[1932–33 Scottish Cup|1933]] (after two replays).
+
+===Glasgow Cup===
+{{See also|Glasgow Cup}}
+Rangers beat Queen's Park in the finals of 1898, 1932, 1940 and 1985. On the other hand Queen's Park won the 1899 final against their rivals. In total, Rangers won 44 trophies and the ''Spiders'' 4, with their last one being in 1946.
+
+{| class="wikitable" style="text-align: center;"
+|-
+! width=100| Club<ref name="GMC Cup">{{cite web | url=https://www.sfha.org.uk/glasgowcharitycup.htm | title=Glasgow Merchants' Charity Cup (1876–1966) | publisher=SFHA | access-date=25 June 2016 | archive-date=26 November 2020 | archive-url=https://web.archive.org/web/20201126085824/http://sfha.org.uk/glasgowcharitycup.htm | url-status=dead }}</ref><ref name="SFHA Results">{{cite web | url=https://sfha.org.uk/glasgowcharitycup.htm | title=RESULTS: Glasgow Merchants' Charity Cup (1876–1966) | publisher=SFHA | access-date=18 October 2020 | archive-date=26 November 2020 | archive-url=https://web.archive.org/web/20201126085824/http://sfha.org.uk/glasgowcharitycup.htm | url-status=dead }}</ref>
+! width=40| Finals won
+! width=250| Winning years
+|-
+| align=left| [[Rangers F.C.|Rangers]]
+|4
+|1898, 1932, 1940, 1985
+|-
+| align=left| [[Queen's Park F.C.|Queen's Park]]
+| 1
+| 1899
+|-
+|}
+
+===Glasgow Merchants Charity Cup===
+{{See also|Glasgow Merchants Charity Cup}}
+Queen's Park were also the first ever winners of the Glasgow Merchants Charity Cup in 1877. They beat Rangers in the final on their first five meetings in 1877, 1878, 1880, 1881 and 1883. The next final they faced each other was in 1906. Rangers won that and the next 8 against Queen's Park, with the last being in 1957. In the 1922-23 Glasgow Merchants Charity Cup, Queen's Park reached the final against the ''Gers'' though they were playing in the second division that season. Overall, Rangers lifted the trophy 32 times and Queen's Park 8. The latter were the record holders for 31 years until 1908 when Celtic won their 9th. Between 1891, the year of their last trophy and 1957 they played in 18 finals, losing all of them.
+
+{| class="wikitable" style="text-align: center;"
+|-
+! width=100| Club<ref name="GMC Cup"/><ref name="SFHA Results"/>
+! width=40| Finals won
+! width=350| Winning years
+|-
+| align=left| [[Rangers F.C.|Rangers]]
+|9
+|1906, 1919, 1922, 1923, 1928, 1931, 1933, 1955, 1957
+|-
+| align=left| [[Queen's Park F.C.|Queen's Park]]
+| 5
+| 1877, 1878, 1880, 1881, 1883
+|-
+|}
+
+==Notable players who played for both clubs==
+{| class="wikitable" style="text-align: center;"
+!Player
+!Queen's Park
+!Rangers
+|-
+|align="left"|{{fbaicon|SCO}} [[William Aitken (footballer)|William Aitken]]
+|align="left"|1916 to 1918
+|align="left"|1918 to 1919
+|- 
+|align="left"|{{fbaicon|SCO}} [[Cammy Bell]] 
+|align="left"|2020
+|align="left"|2013 to 2016
+|-
+|align="left"|{{fbaicon|SCO}} [[James Bowie (footballer)|James Bowie]]<ref name=een28/>
+|align="left"|1908 to 1910
+|align="left"|1910 to 1922
+|- 
+|align="left"|{{fbaicon|SCO}} [[Bobby Brown (footballer, born 1923)|Bobby Brown]]
+|align="left"|1939 to 1946
+|align="left"|1946 to 1956
+|- 
+|align="left"|{{fbaicon|SCO}} [[Robert Campbell (footballer, born 1883)|Bob Campbell]]<ref name=een28>[https://www.londonhearts.com/scores/images/1928/1928081126.htm Queen's Park Players and Professionalism. {{!}} Hampden to Ibrox], Edinburgh Evening News, 11 August 1928, via London Hearts Supporters Club</ref>
+|align="left"|1904 to 1905
+|align="left"|1906 to 1914 
+|- 
+|align="left"|{{fbaicon|SCO}} [[Billy Chalmers]]<ref name=een28/>
+|align="left"|1922 to 1924
+|align="left"|1924 to 1928
+|- 
+|align="left"|{{flagicon|SCO}} [[Sammy Cox]]
+|align="left"|1944 to 1946
+|align="left"|1946 to 1956
+|- 
+|align="left"|{{fbaicon|SCO}} [[Alex Ferguson]]
+|align="left"|1957 to 1960
+|align="left"|1967 to 1969
+|-
+|align="left"|{{fbaicon|SCO}} [[George Gillespie (footballer)|George Gillespie]]
+|align="left"|1883 to 1891
+|align="left"|1876 to 1883
+|-
+|align="left"|{{fbaicon|SCO}} [[Derek Grierson]]
+|align="left"|1948 to 1952
+|align="left"|1952 to 1956
+|-
+|align="left"|{{fbaicon|SCO}} [[Alexander Hamilton (footballer, born 1865)|Alexander Hamilton]]
+|align="left"|1884 to 1889
+|align="left"|1882 to 1884
+|-
+|align="left"|{{fbaicon|SCO}} [[James Hamilton (football forward)|James Hamilton]]
+|align="left"|1884 to 1894
+|align="left"|1894 to 1895
+|-
+|align="left"|{{fbaicon|SCO}} [[Robert Hamilton (Scottish footballer)|Robert Hamilton]]<ref name=een28/>
+|align="left"|1896 to 1897
+|align="left"|1897 to 1906
+|-
+|align="left"|{{fbaicon|SCO}} [[John Little (footballer)|John Little]]
+|align="left"|1948 to 1951
+|align="left"|1951 to 1962
+|- 
+|align="left"|{{fbaicon|SCO}} [[James Logan (footballer, born 1884)|James Logan]]
+|align="left"|1903 to 1904
+|align="left"|1912 to 1917
+|- 
+|align="left"|{{fbaicon|SCO}} [[Robert Smyth McColl|Bob McColl]]<ref name=een28/>
+|align="left"|1894 to 1901,<br>1907 to 1912
+|align="left"|1904 to 1907
+|- 
+|align="left"|{{fbaicon|SCO}} [[Alan Morton]]<ref name=een28/>
+|align="left"|1913 to 1920
+|align="left"|1920 to 1933
+|-
+|align="left"|{{fbaicon|SCO}} [[Max Murray]]
+|align="left"|1953 to 1955
+|align="left"|1955 to 1962   
+|-
+|align="left"|{{fbaicon|SCO}} [[Willie Nicholson]]
+|align="left"|1924 to 1929
+|align="left"|1929 to 1935   
+|-
+|align="left"|{{fbaicon|SCO}} [[Peter Pursell]]<ref name=een28/>
+|align="left"|1913 to 1914
+|align="left"|1914 to 1919
+|-
+|align="left"|{{fbaicon|SCO}} [[Andrew Richmond (footballer)|Andrew Richmond]]<ref name=een28/>
+|align="left"|1903 to 1910,<br>1913
+|align="left"|1910 to 1913
+|- 
+|align="left"|{{fbaicon|SCO}} [[Donald Sillars]]
+|align="left"|1891 to 1894
+|align="left"|1890 to 1891
+|-
+|align="left"|{{fbaicon|SCO}} [[Johnny Valentine (footballer)|Johnny Valentine]]
+|align="left"|1953 to 1957
+|align="left"|1957 to 1958
+|-
+|}
+
+==See also==
+{{div col|colwidth=27em}}
+* [[Sport in Glasgow]]
+* [[Association football culture]]
+* [[List of sports rivalries]]
+* [[List of association football rivalries]]
+* [[Sport in Scotland]]
+* [[Timeline of Glasgow history]]
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==External links==
+
+{{Queen's Park F.C.}}
+{{Rangers F.C.}}
+{{United Kingdom Football Derbies}}
+{{Football in Glasgow}}
+{{Glasgow}}
+
+[[Category:Football derbies in Scotland]]
+[[Category:Queen's Park F.C.]]
+[[Category:Rangers F.C.]]
+[[Category:Association football terminology]]
+[[Category:Recurring sporting events established in 1875]]
+[[Category:1875 establishments in Scotland]]
+[[Category:Football in Glasgow]]

@@ -1,0 +1,285 @@
+{{Short description|Codified rules helping define association football}}
+{{Redirect|LOTG|the Nashville concert series|Live on the Green Music Festival|the film|Legend of the Guardians: The Owls of Ga'Hoole}}
+{{Use dmy dates|date=November 2022}}
+
+The '''Laws of the Game''' are the codified rules of [[association football]]. The laws mention the number of players a team should have, the game length, the size of the field and ball, the type and nature of fouls that referees may penalise, the offside law, and many other laws that define the sport. During a match, it is the task of the [[referee (association football)|referee]] to interpret and enforce the Laws of the Game.
+
+There were various attempts to codify rules among the various types of [[football]] in the mid-19th century. The extant Laws date back to 1863 where a ruleset was formally adopted by the newly formed [[The Football Association|Football Association]] (FA) and written by its first secretary, [[Ebenezer Cobb Morley]]. Over time, the Laws have been amended, and since 1886 they have been maintained by the [[International Football Association Board]] (IFAB).
+
+The Laws are the only rules of association football [[FIFA]] permits its members to use.<ref>{{Cite web|url=https://digitalhub.fifa.com/m/5719680f43690dc9/original/adzakrcd0dv7fqefmss0-pdf.pdf|title=FIFA Statutes - July 2012 edition|publisher=FIFA|quote=Each Member of FIFA shall play Association Football in compliance with the Laws of the Game issued by IFAB. Only IFAB may lay down and alter the Laws of the Game.|archive-url=https://web.archive.org/web/20211105034525/https://digitalhub.fifa.com/m/5719680f43690dc9/original/adzakrcd0dv7fqefmss0-pdf.pdf|archive-date=5 November 2021|url-status=live}}</ref> The Laws currently allow some minor optional variations which can be implemented by national football associations, including some for play at the lowest levels, but otherwise almost all organised football worldwide is played under the same ruleset. Within the United States, [[Major League Soccer]] used a distinct ruleset during the 1990s<ref>{{Cite news|last=Maurer|first=Pablo|title=How U.S. soccer experimented with 10 changes to the game before launching MLS|work=The New York Times|date=28 April 2020 |url=https://www.nytimes.com/athletic/1780920/2020/04/28/how-u-s-soccer-experimented-with-10-changes-to-the-game-before-launching-mls/|access-date=2021-11-08|language=en|archive-date=11 October 2022|archive-url=https://web.archive.org/web/20221011183356/https://theathletic.com/1780920/2020/04/28/how-u-s-soccer-experimented-with-10-changes-to-the-game-before-launching-mls/|url-status=live}}</ref> and the [[National Federation of State High School Associations]] and [[National Collegiate Athletic Association]] still use rulesets that are comparable to, but different from, the IFAB Laws.<ref>{{Cite web|title=A COMPARATIVE STUDY OF RULES AND LAWS|url=https://www.nfhs.org/media/4860175/2021-soccer-guide-ncaa-nfhs-ifab.pdf|url-status=dead|website=National Federation of State High School Associations|archive-url=https://web.archive.org/web/20210929161444/https://www.nfhs.org/media/4860175/2021-soccer-guide-ncaa-nfhs-ifab.pdf|archive-date=29 September 2021}}</ref>
+
+== List of Laws==
+The Laws of the Game consist of seventeen individual laws, each law containing several rules and directions:<ref name=":0">{{Cite web |title=Laws of the Game 22/23 |url=https://www.fifplay.com/downloads/documents/laws-of-the-game-2022-2023.pdf |website=[[International Football Association Board]]}}</ref>
+* Law 1: [[Football pitch|The Field of Play]]
+* Law 2: [[Ball (association football)|The Ball]]
+* Law 3: [[Association football#Players, equipment, and officials|The Players]]
+* Law 4: [[Kit (association football)|The Players' Equipment]]
+* Law 5: [[Referee (association football)|The Referee]]
+* Law 6: [[Assistant referee (association football)|The Other Match Officials]]
+* Law 7: [[Association football#Duration and tie-breaking methods|The Duration of the Match]]
+* Law 8: The Start and Restart of Play
+** Covers the [[Kick-off (association football)|kick-off]] and [[dropped-ball]]; other methods of restarting play are covered in other laws.
+* Law 9: [[Ball in and out of play|The Ball In and Out of Play]]
+* Law 10: [[Determining the Outcome of a Match (association football)|Determining the Outcome of a Match]]
+* Law 11: [[Offside (association football)|Offside]]
+* Law 12: [[Fouls and misconduct|Fouls and Misconduct]]
+* Law 13: [[Free kick (association football)|Free Kicks]]
+* Law 14: [[Penalty kick (association football)|The Penalty Kick]]
+* Law 15: [[Throw-in|The Throw-in]]
+* Law 16: [[Goal kick|The Goal Kick]]
+* Law 17: [[Corner kick|The Corner Kick]]
+
+=== Permitted variations ===
+All high-level association football is played according to the same laws. The Laws permit some variation for youth, veterans, disability and grassroots football, such as shortening the length of the game and the use of [[Penalty box|temporary dismissals]].<ref name=":0" /> 
+
+===Presentation and interpretation===
+In 1997, a major revision dropped whole paragraphs and clarified many sections to simplify and strengthen the principles. These laws are written in English [[Common Law]] style and are meant to be guidelines and goals of principle that are then clarified through practice, tradition, and enforcement by the [[referee (association football)|referees]].
+
+The actual law book had long contained 50 pages more of material, organised in numerous sections, that included many diagrams but were not officially part of the main 17 laws. In 2007, many of these additional sections along with much of the material from the [[FIFA]] Questions and Answers (Q&A), were restructured and put into a new "Additional Instructions and Guidelines for the Referee" section. In the 2016/2017 revision of the Laws, the material from this section was folded into the Laws themselves.
+
+Referees are expected to use their judgement and [[common sense]] in applying the laws; this is colloquially known as "Law 18".<ref name="S4D">{{cite book|author1=United States Soccer Federation Inc.|author2=Michael Lewis|title=Soccer for dummies|date=2000|publisher=IDG Books Worldwide|location=Foster City, CA|isbn=1118053575|url=https://books.google.com/books?id=lp7ZmTfl_ckC|access-date=5 June 2014}}</ref>
+
+===Jurisdiction and change management===
+The laws are administered by the [[International Football Association Board]] (IFAB). They meet at least once a year to debate and decide any changes to the text as it exists at that time. The meeting in winter generally leads to an update to the laws on 1 July of each year that take effect immediately.<ref name="IFAB2" /> A minimum of six of the eight-seat IFAB board needs to vote to accept a rule change. Four seats are held by [[FIFA]] to represent their 200+ member Nations, with the other four going to each of the British associations (the [[Football Association|FA]] representing England, the [[Scottish Football Association|SFA]] representing Scotland, [[Football Association of Wales|FAW]] representing Wales and the [[Irish Football Association|IFA]] representing Northern Ireland), meaning that no change can be made without FIFA's approval, but FIFA cannot change the Laws without the approval of at least two of the British governing bodies.<ref name="IFAB2">{{cite web|url=https://www.fifa.com/about-fifa/ifab/about-ifab.html|archive-url=https://web.archive.org/web/20150905193502/http://www.fifa.com/about-fifa/ifab/about-ifab.html|url-status=dead|archive-date=5 September 2015|title=The IFAB: How it works|publisher=FIFA|access-date=2013-04-19}}</ref>
+
+==History==
+{{see also|History of association football}}
+{{further|Kick-off (association football)#History|Dropped-ball#History|Scoring in association football#History|Determining the Outcome of a Match (association football)#History|Offside (association football)#History|Free kick (association football)#History|Penalty kick (association football)#History|Throw-in#History|Goal kick#History|Corner kick#History}}
+
+===Pre-1863===
+
+In the nineteenth century, the word "football" could signify a wide variety of games in which players attempted to move a ball into an opponent's goal.  The first published rules of "football" were those of [[Rugby School]] (1845), which permitted extensive handling, quickly followed by the [[Eton field game]] (1847), which was much more restrictive of handling the ball. Between the 1830s and 1850s, a number of sets of rules were created for use at [[Cambridge University]] – but they were generally not published at the time, and many have subsequently been lost.  The first detailed sets of rules published by football ''clubs'' (rather than a school or university) were those of [[Sheffield F.C.]] (written 1858, published 1859) which codified [[Sheffield Rules|a game]] played for 20 years until being discontinued in favour of the Football Association code, and those of [[Melbourne FC]] (1859) which are the [[origins of Australian rules football]]. By the time the Football Association met in late 1863, many different sets of rules had been published, varying widely on such questions as the extent to which the ball could be handled, the treatment of offside, the amount of physical contact allowed with opponents, and the height at which a goal could be scored.<ref>{{cite book |last=Harvey |first=Adrian |title=Football, the first hundred years |publisher=Routledge |year=2005 |isbn=978-0-415-35018-1 |location=London}}</ref>
+
+===1863 rules===
+{{wikisource|Laws_of_the_Game_(1863)|1863 Laws of the Game}}{{Further|English public school football games}}[[File:Original laws of the game 1863.jpg|right|thumb|An early draft of the original hand-written 'Laws of the Game' drawn up on behalf of [[The Football Association]] by Ebenezer Cobb Morley in 1863 on display at the [[National Football Museum]], Manchester.]]
+
+In 1863, some football clubs followed the example of [[Rugby School]] by allowing the ball to be carried in the hands, with players allowed to "[[Hacking (rugby)|hack]]" (kick in the shins) opponents who were carrying the ball. Other clubs forbade both practices.  During the FA meetings to draw up the first version of the laws, there was an acrimonious division between the "hacking" and "non-hacking" clubs. An FA meeting of 17 November 1863 discussed this question, with the "hacking" clubs predominating.<ref name="harvey">Harvey (2005), pp. 135–139</ref> A further meeting was scheduled in order to finalise ("settle") the laws.<ref name="nov_24">{{cite news |title=The Football Association |work=Bell's Life in London |date=1863-11-28 |page=6 |url=https://commons.wikimedia.org/wiki/File:The_Football_Association_(Bells_Life_in_London)_1863-11-28.png |access-date=17 July 2019 |archive-date=20 September 2023 |archive-url=https://web.archive.org/web/20230920175802/https://commons.wikimedia.org/wiki/File:The_Football_Association_(Bells_Life_in_London)_1863-11-28.png |url-status=live }}</ref> At this crucial 24 November meeting, the "hackers" were again in a narrow majority. During the meeting, however, the FA's secretary [[Ebenezer Cobb Morley]] brought the delegates' attention to a [[Cambridge rules#1863|recently published set of football laws from Cambridge University]] which banned carrying and hacking.<ref name="nov_24"/> Discussion of the Cambridge rules, and suggestions for possible communication with Cambridge on the subject, served to delay the final "settlement" of the laws to a further meeting, on 1 December.<ref>{{cite news |title=The Football Association |work=Bell's Life in London |date=1863-11-28 |page=6 |url=https://commons.wikimedia.org/wiki/File:The_Football_Association_(Bells_Life_in_London)_1863-11-28.png |quote=The {{sc|President}} pointed out that the vote just passed to all intents and purposes annulled the business of the evening, whereupon Mr. {{sc|Alcock}} said it was too late to proceed further, and moved that the meeting do adjourn till Tuesday next, 1 Dec., and it was so resolved. |access-date=17 July 2019 |archive-date=20 September 2023 |archive-url=https://web.archive.org/web/20230920175802/https://commons.wikimedia.org/wiki/File:The_Football_Association_(Bells_Life_in_London)_1863-11-28.png |url-status=live }}</ref><ref name="dec_1"/> A number of representatives who supported rugby-style football did not attend this additional meeting,<ref>Harvey (2005), pp. 144-145</ref> resulting in hacking and carrying being banned.<ref name="dec_1">{{cite news |title=The Football Association |work=Supplement to Bell's Life in London |date=1863-12-05 |page=1 |url=https://commons.wikimedia.org/wiki/File:The_Football_Association_(Bell%27s_Life_in_London),_1863-12-05.png |access-date=17 July 2019 |archive-date=23 March 2019 |archive-url=https://web.archive.org/web/20190323130817/https://commons.wikimedia.org/wiki/File%3AThe_Football_Association_%28Bell%27s_Life_in_London%29%2C_1863-12-05.png |url-status=live }}</ref>
+
+[[Francis Maule Campbell|Francis Campbell]] of [[Blackheath F.C.]], the most prominent "hacking" club, accused FA President [[Arthur Pember]], Morley, and their allies of managing 24 November meeting improperly in order to prevent the "pro-hacking" laws from being adopted.<ref>{{cite news |title=The Football Association |work=Supplement to Bell's Life in London |date=1863-12-05 |page=1 |url=https://commons.wikimedia.org/wiki/File:The_Football_Association_(Bell%27s_Life_in_London),_1863-12-05.png |quote={{sc|Mr Campbell}}: [...] When the last meeting was held for the express purpose [...] of settling the proposed laws, they ought to have gone on with the rules as proposed by the association, and not taken the course they did as to the Cambridge rules, but the resolution and amendments had been proposed and passed in the way they had been without being properly put to the meeting, because it was found that the "hacking" party were too strong}}</ref> Pember strongly denied such an "accusation of ungentlemanly conduct".  The verdicts of later historians have been mixed:  Young accuses Campbell of "arrogance",<ref>{{cite book |last=Young |first=Percy M. |url=https://archive.org/details/historyofbritish0000youn/page/136/mode/2up |title=A History of British Football |publisher=Arrow Books |year=1968 |isbn=0-09-907490-7 |location=London |pages=136 |url-access=registration}}</ref> while Harvey supports Campbell's allegations, accusing the non-hackers of a "coup" against the pro-hacking clubs.<ref>Harvey (2005), p. 144</ref> Blackheath, along with the other "hacking" clubs, would leave the FA as a result of this dispute.
+
+The final version of the FA's laws was formally adopted and published in December 1863.  Some notable differences from the modern game are listed below:
+* There was no crossbar. Goals could be scored at any height (as today in Australian rules football).
+* While most forms of handling were forbidden, players were allowed to catch the ball (provided they did not run with it or throw it). A [[fair catch]] was rewarded with a free kick (a feature that today survives in various forms in Australian rules football, rugby union and American football).
+* There was a strict offside rule, under which any player ahead of the kicker was in an offside position (similar to today's offside rule in rugby union). The only exception was when the ball was kicked from behind the goal line.
+* The throw-in was awarded to the first player (on either team) to touch the ball after it went out of play. The ball had to be thrown in at right-angles to the touchline (as today in rugby union).
+* There was no corner-kick. When the ball went behind the goal-line, there was a situation somewhat similar to rugby: if an attacking player first touched the ball after it went out of play, then the attacking team had an opportunity to take a free kick at goal from a point fifteen yards behind the point where the ball was touched (somewhat similar to a [[Try (rugby)|conversion]] in rugby). If a defender first touched the ball, then the defending team kicked the ball out from on or behind the goal line (equivalent to the goal-kick).
+* Teams changed ends every time a goal was scored.
+* The rules made no provision for a goal-keeper, match officials, punishments for infringements of the rules, duration of the match, half-time, number of players, or pitch-markings (other than flags to mark the boundary of the playing area).
+
+At its meeting on 8 December 1863, the FA agreed that, as reported in ''Bell's Life in London'', John Lillywhite would publish the Laws.<ref name="HistoryFA">{{cite web|title=The History of The FA|url=http://www.thefa.com/about-football-association/history|publisher=The Football Association|access-date=6 June 2014|archive-date=25 January 2013|archive-url=https://web.archive.org/web/20130125012322/http://www.thefa.com/about-football-association/history|url-status=live}}</ref> The [[1863–64 Barnes F.C. season|first game to be played under the new rules]] occurred eleven days later between [[Barnes Football Club|Barnes]] and [[Richmond F.C.|Richmond]].<ref name="HistoryFA" />
+Adoption of the laws was not universal among English football clubs. The Sheffield Rules continued to be used by many. Additionally, in preference for hacking as well as handling of the ball, several clubs, such as Blackheath, decided against being part of the FA in its early years and would later form the [[Rugby Football Union]] in 1871.<ref name="FIFAlaws1863topresent" />
+
+===IFAB created===
+Minor variations between the rules used in [[England]] (the jurisdiction of the Football Association) and the other [[Home Nations]] of the [[United Kingdom]] – [[Scotland]], [[Wales]] and [[Ireland]] – led to the creation of the [[International Football Association Board]] to oversee the rules for all the home nations. Their first meeting was in 1886.<ref name="IFAB1">{{cite web | url=https://www.fifa.com/classicfootball/history/the-laws/IFAB.html | archive-url=https://web.archive.org/web/20130217095522/http://www.fifa.com/classicfootball/history/the-laws/IFAB.html | url-status=dead | archive-date=17 February 2013 | title=The International FA Board (IFAB) | publisher=FIFA | access-date=2013-04-19}}</ref> Before this, teams from different countries had to agree to which country's rules were used before playing.
+
+===FIFA adoption===
+When the international football body on the continent [[FIFA]] was founded in Paris in 1904, it immediately declared that FIFA would adhere to the rules laid down by the IFAB. The growing popularity of the international game led to the admittance of FIFA representatives to the IFAB in 1913. Up until 1958, it was still possible for the [[United Kingdom|British]] associations to vote together to impose changes against the wishes of FIFA. This changed with the adoption of the current voting system whereby FIFA's support is necessary, but not sufficient, for any amendment to pass.<ref name="IFAB2" />
+
+===Notable amendments===
+{{Wikisource|Laws of the Game|has=text of early versions of the Laws of Game from 1863 to 1927}}
+Notable amendments to the rules include:<ref name="FIFAlaws1863topresent">{{cite web | url=https://www.fifa.com/about-fifa/who-we-are/the-laws/index.html | archive-url=https://web.archive.org/web/20150905190811/http://www.fifa.com/about-fifa/who-we-are/the-laws/index.html | url-status=dead | archive-date=5 September 2015 | title=FIFA – History – the Laws – From 1863 to the Present Day | publisher=FIFA | access-date=16 August 2018}}</ref><ref>{{cite web|url=https://www.fifa.com/classicfootball/history/index.html|archive-url=https://web.archive.org/web/20070604211337/http://www.fifa.com/classicfootball/history/index.html|url-status=dead|archive-date=4 June 2007|title=FIFA History of Football|publisher=FIFA|access-date=8 December 2011|author-link=FIFA}}</ref>
+* '''1866''' – The strict rugby-style [[offside (association football)|offside rule]] is relaxed: a player is onside as long as there are three opponents between the player and the opposing goal. The award of a free kick for a [[fair catch]] (still seen in other football codes) is eliminated. A tape (corresponding to the modern crossbar) is added to the goals; previously goals could be scored at any height (as today in Australian rules football).{{efn|name="Sheff rules"|Adopted from [[Sheffield rules]]}}
+* '''1867''' – The situation when the ball goes behind the goal-line is simplified: all rugby-like elements are removed, with the defending team being awarded a goal-kick regardless of which team touched the ball.{{efn|name="Sheff rules"}}
+[[File:England v Scotland 1879.png|thumb|From 1866 to 1883, the laws provided for a tape between the goalposts]]
+* '''1870''' – All handling of the ball is forbidden (previously, players had been allowed to catch the ball). Teams change ends at half-time, but only if no goals were scored in the first half.{{efn|name="Sheff rules"}}
+* '''1871''' – Introduction of the specific position of [[Goalkeeper (association football)|goalkeeper]], who is allowed to handle the ball "for the protection of his goal".
+* '''1872''' – The indirect free kick is introduced as a punishment for a handball, the first mention of a punitive action for contravening the rules. The [[corner kick]] is introduced. Teams do not change ends after goals scored during the second half.{{efn|name="Sheff rules"}}
+* '''1873''' – The throw-in is awarded against the team who kicked the ball into touch (previously it was awarded to the first player from either team to touch the ball after it went out of play).{{efn|name="Sheff rules"}} The goalkeeper may not "carry" the ball.
+* '''1874''' – The indirect free kick, previously used only to punish handball, is extended to cover foul play and offside. The first reference to a match official (the "umpire").  Previously, team captains had generally been expected to enforce the laws.{{efn|name="Sheff rules"}}
+* '''1875''' – A goal may not be directly scored from a corner-kick or from the kick-off. Teams change ends at half-time only. The goal may have either a crossbar or tape.{{efn|name="Sheff rules"}}
+* '''1877''' – The throw-in may go in any direction (previously it had to be thrown in at right-angles to the touchline, as today in rugby union).{{efn|name="Sheff rules"}}  As a result of this change, the clubs of the [[Sheffield Football Association]] agreed to abandon their own distinctive "[[Sheffield Rules]]" and adopt the FA laws.
+* '''1878''' – A player can be offside from a throw-in.
+* '''1881''' – The referee is introduced, to decide disputes between the umpires. The caution (for "ungentlemanly behaviour") and the sending-off (for violent conduct) appear in the laws for the first time.
+* '''1883''' – The [[International Football Conference]], held between the English, Scottish, Irish and Welsh football associations in December 1882, resulted in the unification of the rules across the [[Home Nations#Association football|home nations]], which entailed several changes to the FA's laws the following year.  The throw-in finally reaches its modern form, with players required to throw the ball from above the head using two hands. A player cannot be offside from a corner kick. The goalkeeper may take up to two steps while holding the ball. The goal must have a crossbar (the option of using tape is removed).  The kick-off must be kicked forwards. The touch-line is introduced (previously, the boundary of the field of play had been marked by flags).
+* '''1887''' – The goalkeeper may not handle the ball in the opposition's half.
+* '''1888''' – The drop ball is introduced as a means of restarting play after it has been suspended by the referee.
+* '''1889''' – A player may be sent off for repeated cautionable behaviour.
+* '''1890''' – A goal may not be scored directly from a goal kick.
+[[File:Association Football Pitch 1898.png|thumb|When first introduced in 1891, the penalty was awarded for offences within 12 yards of the goal-line.]]
+* '''1891''' – The [[Penalty kick (association football)|penalty kick]] is introduced, for handball or foul play within 12 yards of the goal line. The umpires are replaced by linesmen. Pitch markings are introduced for the goal area, penalty area, centre spot and centre circle.
+* '''1897''' – The laws specify, for the first time, the number of players on each team (11) and the duration of each match (90 minutes, unless agreed otherwise).  The half-way line is introduced.  The maximum length of the ground is reduced from 200 yards to 130 yards.
+* '''1901''' – Goalkeepers may handle the ball for any purpose (previously the goalkeeper was permitted to handle the ball only "in defence of his goal").
+* '''1902''' – The goal area and penalty area assume their modern dimensions, extending six yards and eighteen yards respectively from the goal posts. The penalty spot is introduced.
+* '''1903''' – A goal may be scored directly from a free kick awarded for handball or foul play (previously all free-kicks awarded for infringements of the laws, other than penalty kicks, had been indirect). A referee may refrain from awarding a free kick or penalty in order to give advantage to the attacking team. A player may be sent off for "bad or violent language to a Referee".
+* '''1907''' – Players cannot be offside when in their own half.
+* '''1912''' – The goalkeeper may handle the ball only in the penalty area.
+* '''1920''' – A player cannot be offside from a throw-in.
+* '''1924''' – A goal may be scored directly from a corner kick.
+* '''1925''' – The offside rule is relaxed further: a player is onside as long as there are '''two''' opponents between the player and the opponents' goal-line (previously, three opponents had been required).
+* '''1931''' – The goalkeeper may take four steps (rather than two) while carrying the ball.
+* '''1937''' – The "D" is added to the pitch markings, to ensure that players do not encroach within 10 yards of the player taking a penalty kick. 
+* '''1938''' – The laws are completely rewritten and reorganised by a committee under the leadership of [[Stanley Rous]].  The rewriting introduces the schema of seventeen laws that still exists today.  A player may be sent off for "serious foul play".
+* '''1958''' – The Laws of the Game permit substitutions for injured players for the first time, but only if allowed by the competition organiser. Tactical substitutions remain prohibited.<ref>[https://web.archive.org/web/20070604211337/http://www.fifa.com/classicfootball/history/index.htmlv History of the Laws of the Game] on FIFA.com</ref>
+* '''1970''' – Introduction of [[dismissal (football)|red]] and [[caution (football)|yellow cards]]. The Laws are also amended to allow up to two unconditional substitutions per team (applied for the first time at the FIFA World Cup in Mexico).<ref>{{Cite web |title=45 days to go: The World Cup's first substitute |work=FIFA |date=29 April 2018 |access-date=18 July 2025 |url=https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/45-days-to-go-2945876 }}</ref>
+* '''1990''' – A further relaxation of the offside law: a player level with the second-last opponent is considered onside (previously, such a player would have been considered offside).  A player may be sent off for an offence that denies opponents a "clear goalscoring opportunity".
+* '''1992''' – Introduction of the [[back-pass rule]]: the goalkeeper may not handle the ball after it has been deliberately kicked to him/her by a teammate.
+* '''1993''' - Introduction of the [[golden goal]]: if either team scored a goal during extra time in a competitive match, the game ends immediately and the scoring team becomes the winner. This rule remained in place until being removed from most competitions in 2004.
+* '''1997''' – The rules are completely rewritten, for the first time since 1938.<ref>{{Cite web|url=https://www.fifa.com/news/the-new-laws-the-game-70248|archive-url=https://web.archive.org/web/20191020151838/https://www.fifa.com/news/the-new-laws-the-game-70248|url-status=dead|archive-date=20 October 2019|title=Welcome to FIFA.com News - The new Laws of the Game |publisher=FIFA}}</ref> A goal may be scored directly from the kick-off or from a goal kick.  The goalkeeper may not handle the ball after receiving it directly from a team-mate's throw-in.
+* '''2000''' – The four-step restriction on the goalkeeper handling the ball is repealed and replaced by the "six-second rule": the goalkeeper may not handle the ball for more than six seconds.  The goalkeeper may no longer be charged while holding the ball.
+* '''2004''' – The golden goal rule is eliminated.
+* '''2012''' – [[Goal-line technology]] permitted (but not required).
+* '''2016''' – The kick-off may be kicked in any direction. Fouls from "legitimate football challenges" inside the penalty area that are a "denial of an obvious goal scoring opportunity" reduced in punishment from a red card to a yellow card and the penalty kick for the foul. Fouls for "stopping a promising attack" inside the penalty area no longer attract a yellow card, only a penalty kick. These fouls can still be punished with a red or yellow card if deemed to be reckless, with excessive force or with brutality by the referee.
+* '''2017''' – Prohibition on the use of electronic devices by coaching staff removed. Microphones, earpieces, mobile phones, tablets, watches and laptops are allowed for player welfare, safety & tactical coaching reasons. Players remain restricted to use of electronic performance tracking systems, with no electronic communication devices allowed.
+* '''2018''' – [[Video assistant referee]]s permitted (but not required). A fourth substitution is permitted in [[Overtime (sports)#Association football (soccer)|extra time]].<ref name="IFAB_VAR">{{cite news|title=International Football Association Board {{!}} IFAB|url=http://www.theifab.com/news/historic-step-for-greater-fairness-in-football|access-date=3 March 2018|date=3 March 2018|archive-url=https://web.archive.org/web/20180721225556/http://www.theifab.com/news/historic-step-for-greater-fairness-in-football|archive-date=21 July 2018|url-status=dead}}</ref>
+* '''2019''' – [[Scoring in association football#Use of hands to score a goal|Goals scored by hand]], whether accidental or not, are disallowed. Attacking players can no longer interfere in defensive walls during free kicks. [[Substitute (association football)|Substituted]] players have to leave the field at the nearest goal line or touchline instead of walking to their [[technical area]]. Goal kicks put the ball into play immediately (instead of having to leave the penalty area). Team officials can also be cautioned or dismissed. During penalties, goalkeepers are only required to keep one foot on the line. The [[Dropped-ball|dropped ball]] is no longer competitive, instead being dropped for the defensive goalkeeper if in the penalty area, otherwise for the team which last touched the ball. Disallowance of goals scored by a throw from the goalkeeper introduced for all football, but mainly intended as a preventative measure in youth & small pitch football played under official laws.<ref>{{cite web | url =https://www.bbc.com/sport/football/47429316 |title=Handball rules among those changed by Ifab for next season|publisher=BBC| date=2 March 2019}}</ref><ref>{{cite web|url=https://www.skysports.com/football/news/11095/11652949/handball-rules-among-those-amended-by-international-fa-board|title=Handball rules among those amended by International FA Board|publisher=Sky Sports|date=2 March 2019|access-date=3 March 2019|archive-date=6 March 2019|archive-url=https://web.archive.org/web/20190306045708/https://www.skysports.com/football/news/11095/11652949/handball-rules-among-those-amended-by-international-fa-board|url-status=live}}</ref><ref>{{cite web | url =https://globoesporte.globo.com/blogs/bastidores-da-arbitragem/post/2019/03/13/cartoes-para-comissao-tecnica-mao-e-ate-cara-ou-coroa-veja-12-mudancas-nas-regras-do-futebol.ghtml |title=Cartões para comissão técnica, mão e até cara ou coroa: veja 12 mudanças nas regras do futebol |trans-title=Cards for the coaching staff, handball and even coin toss: see 12 changes on football rules |lang=Portuguese | first1=Sandro |last1=Meira Ricci |publisher=Globoesporte | date=13 March 2019| access-date =24 April 2019 |url-status=live |archive-url=https://web.archive.org/web/20190425013206/https://globoesporte.globo.com/blogs/bastidores-da-arbitragem/post/2019/03/13/cartoes-para-comissao-tecnica-mao-e-ate-cara-ou-coroa-veja-12-mudancas-nas-regras-do-futebol.ghtml |archive-date=Apr 25, 2019 }}</ref><ref>{{Cite web|url=https://www.dutchreferee.com/laws-of-the-game-changes-2019-2020/|title=Laws of the Game changes 2019-2020|last=Harmsel|first=Jan ter|date=2019-03-18|website=Dutch Referee Blog|language=en-GB|access-date=2019-04-26|archive-date=26 April 2019|archive-url=https://web.archive.org/web/20190426082930/https://www.dutchreferee.com/laws-of-the-game-changes-2019-2020/|url-status=live}}</ref>
+* '''2022''' - Increase in standard number of [[Substitute (association football)|substitutions]] from 3 to 5 and introduction of 3 "substitute windows" teams can use during regulation play to make their changes. These two changes were introduced in a trial form during the [[COVID-19 pandemic]] to enable an easier recovery and return to football for players who contracted COVID.
+* '''2023''' - "Kicks from the penalty mark" renamed to "Penalties (penalty shoot-out)". Cautions in regulation play & extra time are no longer carried forward into a penalty shootout. Expanded wording to clarify meaning regarding what "deliberate play" means in relation to an offside player receiving the ball from an opponent. Goal celebrations positively identified as a reason for additional playing time to be added. "Downgrade" on punishment for an offence which results in a penalty kick clarified to also apply to challenges on opponent in addition to attempts to play the ball.
+* '''2024''' - Additional substitution and sub window allowed for one player per team who is believed to have received a [[concussion]] injury, with opposition given an additional substitution and sub window. Temporary dismissal ([[sin bin]]) protocols added for optional use outside professional football. Each team now requires a mandatory [[Captain_(sports)|Captain]] who is identified with an armband. Penalty encroachment by players who aren't the kicker or the goalkeeper only penalised if their encroachment impacted play after the penalty kick.
+* '''2025''' - Goalkeepers holding onto the ball too long from normal play is changed from 6 seconds to 8 seconds, and the punishment changed from an indirect free kick inside the penalty area into an award of a corner kick to the opposition.
+
+===Titles of the laws===
+
+The 1938 rewriting of the laws introduced the scheme of 17 named laws that has lasted until today, with only minor alterations.  The history of the numbering and titles of the laws since 1938 is shown in the table below:
+
+{| class="wikitable" style="margin-left:0.2em; border: 10px;"
+
+|+
+
+|-
+! Law
+! 1938
+! 1996
+! 1997
+! 2016
+|-
+| '''1'''
+| colspan=4 | The Field of Play
+|-
+| '''2'''
+| colspan=4 | The Ball
+|-
+| '''3'''
+| colspan=2 | Number of Players
+| colspan=1 | The Number of Players
+| colspan=1 | The Players
+|-
+| '''4'''
+| colspan=2 | Players' Equipment
+| colspan=2 | The Players' Equipment
+|-
+| '''5'''
+| colspan=2 | Referees
+| colspan=2 | The Referee
+|-
+| '''6'''
+| colspan=1 | Linesmen
+| colspan=1 | Assistant Referees
+| colspan=1 | The Assistant Referees
+| colspan=1 | The Other Match Officials
+|-
+| '''7'''
+| colspan=2 | Duration of the Game
+| colspan=2 | The Duration of the Match
+|-
+| '''8'''
+| colspan=2 | The Start of Play
+| colspan=2 | The Start and Restart of Play
+|-
+| '''9'''
+| colspan=2 | Ball In and Out of Play
+| colspan=2 | The Ball In and Out of Play
+|-
+| '''10'''
+| colspan=2 | Method of Scoring
+| colspan=1 | The Method of Scoring
+| colspan=1 | Determining the Outcome of a Match
+
+|-
+| '''11'''
+| colspan=2 | Off-Side
+| colspan=21 | Offside
+|-
+| '''12'''
+| colspan=4 | Fouls and Misconduct
+|-
+| '''13'''
+| colspan=2 | Free-Kick
+| colspan=2 | Free Kicks
+|-
+| '''14'''
+| colspan=2 | Penalty-Kick
+| colspan=2 | The Penalty Kick
+|-
+| '''15'''
+| colspan=2 | Throw-In
+| colspan=2 | The Throw-In
+|-
+| '''16'''
+| colspan=2 | Goal-Kick
+| colspan=2 | The Goal Kick
+|-
+| '''17'''
+| colspan=2 | Corner-Kick
+| colspan=2 | The Corner Kick
+|-
+|}
+
+==Notes==
+
+{{notelist}}
+
+==References==
+{{reflist}}
+
+===Sources===
+* ''The Rules of Association Football, 1863: The First FA Rule Book'' Bodleian Library (2006)
+
+==External links==
+{{commons category}}
+{{Wikisource|Laws of the Game|Laws from 1863 to 1927}}
+* https://digitalhub.fifa.com/m/43dac9099a20723/original/FIFA-Legal-Handbook.pdf
+* https://digitalhub.fifa.com/m/75c63731a2f58da4/original/pywuivvlfl5aqvhsw2i7-pdf.pdf
+* https://www.fas.org.sg/wp-content/uploads/2019/04/AFC-Regulations-Governing-International-Matches-2016.pdf
+* [https://www.theifab.com/laws Laws of the Game] on the IFAB
+* [https://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-1---the-field-of-play Laws of the Game] on the [[The Football Association|FA]]
+* https://www.the-aiff.com/media/uploads/2022/07/Futsal-Laws-of-the-Game-2021_22-EN.pdf
+* https://digitalhub.fifa.com/m/7b1da24ec7a25f67/original/Futsal-Laws-of-the-Game-2024-2025.pdf
+* {{webarchive |url=https://web.archive.org/web/20060621003645/http://www.11v11.co.uk/index.php?pageID=464 |date=21 June 2006 |title=The formation of the Football Association}}
+* [https://www.theifab.com/documents/?documentType=all&language=en&years=all Historical documents, hosted by IFAB] <!-- NOTE: IFAB has a record of uploading historical documents to its website and then removing them, so please do not remove other links below -->
+* [https://web.archive.org/web/20190402112329/http://ssbra.org/training/ifab/ Documents from historical IFAB meetings]
+* Previous editions of the laws of the game available online:
+{{div col|colwidth=20em}}
+# [https://www.theifab.com/documents/?documentType=laws-of-the-game&language=en&years=all Selected historical laws of the game, hosted by IFAB]<!-- NOTE: IFAB has a record of uploading historical documents to its website and then removing them, so please do not remove other links below -->
+# [[s:Laws of the Game|1863 to 1927, hosted by Wikisource]] 
+# [https://www.army.gov.au/sites/default/files/2019-12/games_and_sports_in_the_army_1933_to_1934_0.pdf 1933] {{Webarchive|url=https://web.archive.org/web/20230114212728/https://www.army.gov.au/sites/default/files/2019-12/games_and_sports_in_the_army_1933_to_1934_0.pdf |date=14 January 2023 }} {{refn|pages 72-79 (pages 77-84 of the PDF)|group=note|name=army}}
+# [https://archive.org/stream/in.ernet.dli.2015.96245/2015.96245.Games-Sports-And-Pastimes#page/n193/mode/2up 1933] {{refn|Does not include Decisions of the International Board|group=note|name=doesnot}}
+# [https://archive.org/details/dli.ernet.28142/page/23/mode/2up 1939]
+# [https://archive.org/details/victorian-amateur-soccer-football-association-yearbook-1960/page/n53/mode/2up 1960]
+# [https://archive.org/stream/in.ernet.dli.2015.125857/2015.125857.Rules-Of-Games-And-Sports-Ed18th#page/n103/mode/2up 1968]
+# [https://archive.org/stream/in.ernet.dli.2015.146668/2015.146668.Rules-Of-Games-Annd-Sports#page/n101/mode/2up 1972]
+# [https://ssbra.org/ifab/assets/pdf/1997min.pdf 1996 and 1997]{{refn|Both laws are included in the minutes of the 1997 Annual General Meeting: 1996 laws are at pp. 7-105; 1997 laws are at pp. 106-146|group=note|name=ifab_1997}}
+# [http://web.deu.edu.tr/atiksu/ana23/kural1.pdf 2001]
+# [https://mattoid.net/data/FIFA/LOTG2002_E.pdf 2002] {{Webarchive|url=https://web.archive.org/web/20201024212417/https://mattoid.net/data/FIFA/LOTG2002_E.pdf |date=24 October 2020 }}
+# [http://web.deu.edu.tr/atiksu/ana23/fifason.pdf 2003]
+# [https://bsbproduction.s3.amazonaws.com/portals/286/fifa%20rules.pdf 2004] {{Webarchive|url=https://web.archive.org/web/20201021072226/https://bsbproduction.s3.amazonaws.com/portals/286/fifa%20rules.pdf |date=21 October 2020 }}
+# [https://docplayer.net/23990810-Laws-of-the-game-2005.html 2005]
+# [http://tiburonsoccer.org/docs/Parents/Laws%20of%20the%20%20Game.pdf 2006] {{Webarchive|url=https://web.archive.org/web/20210707061849/http://tiburonsoccer.org/docs/Parents/Laws%20of%20the%20%20Game.pdf |date=7 July 2021 }}
+# [https://invisiblecollege.weblog.leidenuniv.nl/files/2008/06/laws_of_the_game_0708_10565%5B1%5D.pdf 2007]{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}
+# [http://fscs.rampinteractive.com/battleriversoccer/files/association/FIFALawsoftheGame.pdf 2008] {{Webarchive|url=https://web.archive.org/web/20200718123227/http://fscs.rampinteractive.com/battleriversoccer/files/association/FIFALawsoftheGame.pdf |date=18 July 2020 }}
+# [https://twinsburgacsoccer.files.wordpress.com/2014/08/laws-of-the-game-2009-2010.pdf 2009]
+# [http://www.gordonsoccerclub.com.au/UserFiles/File/Rules/FIFA%20Laws%20of%20the%20Game%202010-11.pdf 2010] {{Webarchive|url=https://web.archive.org/web/20201021181358/http://gordonsoccerclub.com.au/UserFiles/File/Rules/FIFA%20Laws%20of%20the%20Game%202010-11.pdf |date=21 October 2020 }}
+# [http://files.leagueathletics.com/Text/Documents/4721/32430.pdf 2011] {{Webarchive|url=https://web.archive.org/web/20221027174408/http://files.leagueathletics.com/Text/Documents/4721/32430.pdf |date=27 October 2022 }}
+<!-- # [http://www.ayso-cr.org/media/AYSO%20FIFA%20LOTG%202012-2013.pdf 2012 (AYSO edition)] As of 2021-08-03 this 404s ) -->
+# [https://cdn.footballghana.com/resources/log2013en_neutral.pdf 2013]
+# [https://www.pdf-archive.com/2015/02/17/27-06-2014-new-lawsofthegameweben-neutral/27-06-2014-new-lawsofthegameweben-neutral.pdf 2014]
+# [https://digitalhub.fifa.com/m/3f3e15cc1ab8977b/original/datdz0pms85gbnqy4j3k-pdf.pdf 2015]
+# [http://static-3eb8.kxcdn.com/documents/60/Laws%20of%20the%20Game_16-17_Digital_Eng.pdf 2016]
+# [https://football-technology.fifa.com/media/1245/lotg_17_18_en.pdf 2017] {{Webarchive|url=https://web.archive.org/web/20210306103135/https://football-technology.fifa.com/media/1245/lotg_17_18_en.pdf |date=6 March 2021 }}
+# [https://digitalhub.fifa.com/m/50518593a0941079/original/khhloe2xoigyna8juxw3-pdf.pdf 2018]
+# [http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf 2019]
+# [https://static-3eb8.kxcdn.com/files/document-category/062020/zQvVIAswsZLqrOH.pdf 2020]
+# [https://www.fifplay.com/downloads/documents/laws-of-the-game-2020-2021.pdf 2021]
+{{div col end}}
+
+'''Notes'''
+{{reflist|group=note}}
+
+{{Association football laws}}
+{{Association football terminology}}
+{{Football codes}}
+{{Authority control}}
+
+[[Category:1863 introductions]]
+[[Category:1863 documents]]
+[[Category:Laws of association football| ]]
+[[Category:Association football terminology]]

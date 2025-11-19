@@ -1,0 +1,633 @@
+{{Short description|Procedure for insolvent football clubs}}
+{{Use British English|date=May 2013}}
+{{Use dmy dates|date=October 2020}}
+In the United Kingdom, [[Association football|football]] clubs sometimes choose to enter [[Administration (law)|administration]] ([[sanction (law)|sanction]]) when they are unable to pay off outstanding [[debt]]s. Under the [[Insolvency Act 1986]], a business will face a winding-up order bringing them to court and if it is shown that a business cannot pay debts as they fall due or cannot repay outstanding debts then the company will be classified as [[UK insolvency law#Definition|insolvent]].<ref>{{cite web|url=http://www.legislation.gov.uk/ukpga/1986/45/section/123|title=Insolvency Act 1986 (c. 45) – Part IV Winding Up of Companies Registered under the Companies Acts – Chapter VI Winding Up by the Court – Grounds and effect of winding-up petition|website=www.legislation.gov.uk |publisher=[[Office of Public Sector Information]]|access-date=13 October 2013}}</ref> '''Administration''' puts accountants "in charge of pretty much everything apart from coaching the players and picking the team".<ref name="Administration"/> For a football club in administration, the "football creditors rule" requires football-related debts such as wages owed to players and staff, and transfer fees owed to other clubs to be paid first.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/uk/7741859.stm|title=Football clubs owe tax millions |last=Grant|first=Paul|date=23 November 2008|website=news.bbc.co.uk |publisher=BBC News|access-date=26 February 2010}}</ref>
+
+==England and Wales==
+In 2000, [[ITV Digital]] bought the broadcasting rights to [[The Football League|Football League]] and [[Football League Cup|League Cup]] matches in a three-year, £315m deal.{{citation needed|date=June 2020}} In March 2002, the company went bankrupt owing the League £180&nbsp;million which it said it "cannot afford to pay".<ref>{{cite web |url=http://news.bbc.co.uk/1/hi/business/1896732.stm|title=ITV Digital goes broke|date=27 March 2002 |website=news.bbc.co.uk |publisher=BBC News|access-date=14 March 2010}}</ref> Because of this, many Football League clubs had financial problems and entered administration.<ref>{{cite web |url=http://news.bbc.co.uk/1/hi/business/1898021.stm|title=ITV Digital woes bring football crisis|date=28 March 2002 |website=news.bbc.co.uk |publisher=BBC News|access-date=14 March 2010}}</ref><ref>{{cite news|url=https://www.theguardian.com/football/2002/oct/22/newsstory.sport|title= Crisis clubs|date=22 October 2002|newspaper=[[The Guardian]]|access-date=13 October 2013 | location=London}}</ref>
+
+Before the implementation of a points deduction it was perceived that clubs had "manipulated and abused [administration] as a way of shedding debts then restructuring, and borrowing again once the hapless creditors had been fobbed off with their 8p in the pound".<ref name="Administration">{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/7305998.stm|title= Football administration|last=Farquhar|first=Gordon|date=20 March 2008 |website=news.bbc.co.uk/sport |publisher=BBC Sport |access-date=26 February 2010}}</ref> In September 2003, it was proposed that clubs entering administration would be docked 10 points. A [[Fit and proper person test|'fit and proper persons' test]] was also introduced in an attempt to prevent fraudulent activities. If a person was previously director at a club which was in "administration twice during a five-year period" or at "two different clubs that have each gone into administration in a five-year period" then they would be prevented from becoming the controlling shareholder of a [[Football League]] club.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk/5030910.stm|title= The murky world of football finances|last=Summers|first=Chris|date=28 June 2006|website=news.bbc.co.uk |publisher=BBC News|access-date=13 March 2010}}</ref> A 'fit and proper persons' test was also introduced for directors of [[Premier League]] clubs.<ref>{{cite web|url=http://www.premierleague.com/staticFiles/12/66/0,,12306~91666,00.pdf#page=17 |title=The F.A. Premier League: Charter Report 2004/05 |publisher=[[Premier League]] |access-date=13 October 2013 |url-status=dead |archive-url=https://web.archive.org/web/20110818150113/http://www.premierleague.com/staticFiles/12/66/0%2C%2C12306~91666%2C00.pdf |archive-date=18 August 2011 }}</ref> In November 2009, [[Stephen Vaughan, Sr.]] became the first director to fail the 'fit and proper persons' test.<ref>{{cite news|url=https://www.theguardian.com/football/2009/nov/18/chester-city-fit-proper-person-test|title=Chester City chief becomes first owner to fail fit and proper person test|last= Conn|first=David|date=18 November 2009|newspaper=[[The Guardian]]|access-date=13 October 2013 | location=London}}</ref>
+
+To ease financial problems for clubs that had been relegated, "parachute payments" were introduced to give time to adapt to the financial gulf between divisions.<ref>{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/points-threat-to-clubs-choosing-administration-580968.html|title=Points threat to clubs choosing administration|last=Warshaw|first=Andrew|date=24 September 2003|newspaper=[[The Independent]]|access-date=26 February 2010 | location=London| archive-url= https://web.archive.org/web/20100409015315/http://www.independent.co.uk/sport/football/news-and-comment/points-threat-to-clubs-choosing-administration-580968.html| archive-date= 9 April 2010 | url-status= dead}}</ref> The deductions of 10 points in the [[Football League]] and 9 points in the [[Premier League]] were ratified in 2004, with the rule in place from the start of the 2004–05 season.<ref>{{cite news|url=http://breaking.tcm.ie/archives/2004/0115/sport/chairmen-to-agree-points-deductions-129765.html|title=Chairmen to agree points deductions|date=15 January 2004|newspaper=Breaking News|publisher=[[Thomas Crosbie Holdings]]|access-date=26 February 2010|archive-date=18 July 2011|archive-url=https://web.archive.org/web/20110718110904/http://breaking.tcm.ie/archives/2004/0115/sport/chairmen-to-agree-points-deductions-129765.html|url-status=dead}}</ref><ref name="PL">{{cite news|url=https://www.theguardian.com/football/2004/jan/30/newsstory.sport14|title=Crisis clubs will lose nine points|last=Chaudhary|first=Vivek|date=20 January 2004|newspaper=[[The Guardian]]|access-date=13 October 2013 | location=London}}</ref> The League also adopted rules that prevented any side from being in administration for either two successive seasons or eighteen consecutive months.<ref name="Wrexham"/> The reason for the deduction being a point less in the Premier League was that the teams play eight fewer fixtures than Football League clubs.<ref name="PL"/> The first club to incur this new penalty were [[EFL League One|League One]] side [[Wrexham F.C.]] who entered administration on 3 December 2004.<ref name="Wrexham">{{cite web|url=http://news.bbc.co.uk/1/hi/wales/4064257.stm|title= Wrexham FC in administration|date=3 December 2004|website=news.bbc.co.uk |publisher=BBC News|access-date=26 February 2010}}</ref>
+
+[[Leeds United A.F.C.|Leeds United]] filed for administration with only a few days remaining in the [[2006–07 Football League Championship|2006–07 season]], which automatically triggered a 10-point penalty. This placed Leeds at the bottom of the table and relegated the club, but they were extremely likely to have been relegated anyway. By entering administration during the 2006–07 season, they hoped to avoid starting the [[2007–08 Football League#League One|2007–08 season]] on −10 points. The following week, [[Boston United F.C.|Boston United]] entered administration in the final minutes of a defeat to [[Wrexham A.F.C.|Wrexham]] which ensured they were relegated to the [[Football Conference]], meaning they likewise avoided starting the following season on -10 points (though they would find themselves being double-relegated to the Conference North for unrelated reasons).<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/boston_united/6738469.stm |title=Boston suffer new demotion blow |website=news.bbc.co.uk/sport |date=10 June 2007 |publisher=BBC Sport }}</ref> The Football League saw both cases as clubs trying to exploit a loophole, and changed the rules. From 2007–08, any club entering administration after the fourth Thursday in March would have their 10-point deduction suspended until the following season. If the club is relegated the points will be deducted from their tally at the start of next season. If the club stays up the 10 points will be taken off their final total.
+<ref name="Loophole">{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/6736997.stm|title=League closes 10-point loophole |date=9 June 2007|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010}}</ref>
+
+On 26 February 2010, [[Portsmouth F.C.|Portsmouth]] became the first Premier League club to enter administration.<ref name="Portsmouth"/>
+
+===Football creditors rule===
+In a situation of insolvency, the "football creditors rule" means that debts to other clubs or players are prioritised and must be paid in full before the club is eligible to compete again in the league.<ref name="Lawyer">{{cite web|last=Plainer|first=Adam|title=Paying by the rules|url=http://www.thelawyer.com/paying-by-the-rules/1003055.article|publisher=[[The Lawyer]]|access-date=31 May 2010|date=11 January 2010| archive-url= https://web.archive.org/web/20100512172003/http://www.thelawyer.com/paying-by-the-rules/1003055.article| archive-date= 12 May 2010 | url-status= live}}</ref> The [[Enterprise Act 2002]] made reforms to the insolvency act and, from 15 September 2003, the altered procedures for administration were implemented.<ref name="Ent02">{{cite web|title=Frequently Asked Questions about the Enterprise Act: Company|url=http://www.insolvency.gov.uk/faq/faqeactc.htm|publisher=[[Insolvency Service|The Insolvency Service]]|access-date=31 May 2010|archive-url=https://web.archive.org/web/20100505053545/http://www.insolvency.gov.uk/faq/faqeactc.htm|archive-date=5 May 2010|url-status=dead}}</ref> Most notably it abolished the Crown's preferential right to recover unpaid taxes ahead of other creditors.<ref>{{cite web|title=Enterprise Act changes to be introduced in June|url=http://www.out-law.com/page-3501|date=24 April 2003|website=www.OUT-LAW.com|access-date=31 May 2010}}</ref> As such, [[HM Revenue and Customs]] (HMRC) is now often not paid in full (between 2003 and 2010, outstanding unpaid taxes to the HMRC amounted to £30 million).<ref name="Guardian">{{cite news|title=Crunched creditors call time on living the dream|first=Dave|last=Conn|url=https://www.theguardian.com/football/david-conn-inside-sport-blog/2010/feb/10/portsmouth-cardiff-hmrc-winding-up|newspaper=[[The Guardian]]|date=10 February 2010|access-date=13 October 2013|location=London}}</ref> This legality of the football creditors rule was challenged in 2004 in ''[[Inland Revenue Commissioners v The Wimbledon Football Club Ltd]]''. However, it was found that "full payment to football creditors (out of third party funds) ahead of preferential creditors did not infringe the provisions of section s4(4)(a) of the Act" and "differential treatment may be necessary to secure the continuation of the company's business and may be regarded as supportable".<ref>{{cite web|title=Company Voluntary Arrangements |first=John |last=Verrill |url=http://www.dundas-wilson.com/publications/dw_cms_4894.pdf |publisher=[[Dundas & Wilson]] |date=1 September 2008 |access-date=31 May 2010 |url-status=dead |archive-url=https://web.archive.org/web/20111002071144/http://www.dundas-wilson.com/publications/dw_cms_4894.pdf |archive-date=2 October 2011 }}</ref>
+
+In 2011 HMRC brought another challenge to the football creditors rule in the High Court, this time on the basis that it breached fundamental principles of insolvency law, including the [[pari passu]] rule that all unsecured creditors should be paid on a proportionate basis. However, in May 2012 the court rejected the challenge as it found that the rule was not a deliberate evasion of insolvency law.<ref>{{cite news|title=HM Revenue and Customs v The Football League Ltd [2012] EWHC 1372 (Ch)|url=http://www.bailii.org/ew/cases/EWHC/Ch/2012/1372.html}}</ref>
+
+===List of clubs in England and Wales that have entered administration or CVA===
+{| class="wikitable sortable"
+!Club
+!Entered<br/>administration/CVA
+!Exited<br/>administration/CVA
+!League(s)
+!Deduction(s)
+|-
+|[[Bradford City A.F.C.|Bradford City]]
+|1983
+|1983<BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://companycheck.co.uk/company/00098271/BRADFORD-CITY-ASSOCIATION-FOOTBALL-CLUB1908LIMITEDTHE/companies-house-data |title=THE BRADFORD CITY ASSOCIATION FOOTBALL CLUB 1908 LIMITED |publisher=CompanyCheck |accessdate=14 February 2023}}</ref>
+|[[Football League Third Division|Third Division]]
+|None
+|-
+|[[Charlton Athletic F.C.|Charlton Athletic]]
+|{{dts|1984|February|format=dmy}}<ref name="Charlton"/><ref>{{cite news|url=https://www.telegraph.co.uk/sport/football/teams/portsmouth/7322715/Portsmouth-join-host-of-clubs-who-have-entered-administration.html|title=Portsmouth join host of clubs who have entered administration|date=26 February 2010|newspaper=[[The Daily Telegraph]]|access-date=21 October 2010|location=London}}</ref>
+|{{dts|1984|March|format=dmy}}{{refn|Charlton was reformed under Charlton Athletic (1984) Ltd.<ref name="Charlton">{{cite web|url=http://www.cafc.co.uk/personality.ink?page=7577|title=16. Charlton 3 Grimsby 3|publisher=[[Charlton Athletic F.C.]]|access-date=14 March 2010|archive-url=https://web.archive.org/web/20100414175810/http://www.cafc.co.uk/personality.ink?page=7577|archive-date=14 April 2010|url-status=dead}}</ref>|group="nb"}}
+(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://companycheck.co.uk/company/00261113/CHARLTON-ATHLETIC-FOOTBALL-COMPANY-LIMITED/companies-house-data |title=CHARLTON ATHLETIC FOOTBALL COMPANY LIMITED |publisher=CompanyCheck |accessdate=14 February 2023}}</ref>
+|[[Football League Second Division|Second Division]]
+|None
+|-
+|[[Chelsea F.C.|Chelsea]]
+|Administrative Receiver appointed:<br>{{dts|1993|May|14|format=dmy}}<ref name="Bower, Tom 2003">{{cite book | author=Bower, Tom | title=Broken Dreams: Vanity, Greed and the Souring of British Football| publisher=Simon and Schuster| year=2003| isbn=978-0-743-22079-8}}</ref>
+|{{dts|1992|August|format=dmy}}<ref name="Bower, Tom 2003"/>
+(Old company [[liquidation|dissolved]])<ref>{{cite web |url= https://www.companiesintheuk.co.uk/company/cfac/filing-history |title=CFAC LIMITED |publisher= companiesintheuk.co.uk|accessdate=9 March 2024}}</ref>
+|[[Premier League]]
+|None
+|-
+|[[Middlesbrough F.C.|Middlesbrough]]
+|{{dts|1986|May|21|format=dmy}}
+|{{dts|1986|July|format=dmy}}<ref name="Middlesbrough"/>{{refn|Middlesbrough was reformed under Middlesbrough Football & Athletic Company (1986) Ltd.<ref name="Middlesbrough">{{cite web|url=http://www.mfc.co.uk/page/club/club-history/0,,1~352502,00.html|title=Winners at Last! 1986 to present|publisher=[[Middlesbrough F.C.]]|access-date=13 October 2013|archive-url=https://web.archive.org/web/20120726204352/http://www.mfc.co.uk/page/club/club-history/0,,1~352502,00.html|archive-date=26 July 2012|url-status=dead}}</ref>|group="nb"}}
+(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://companycheck.co.uk/company/00036633/MIDDLESBROUGH-FOOTBALL-AND-ATHLETIC-COMPANY-LIMITED/companies-house-data |title=MIDDLESBROUGH FOOTBALL AND ATHLETIC COMPANY LIMITED|publisher=CompanyCheck |accessdate=14 February 2023}}</ref>
+
+|[[Football League Third Division|Third Division]]
+|None
+|-
+|[[Tranmere Rovers F.C.|Tranmere Rovers]]
+|1987<ref>{{cite news |url=http://www.liverpooldailypost.co.uk/news/liverpool-news/wirral-businessman-tranmere-rovers-key-5441251 |title=Wirral businessman and Tranmere Rovers key man Frank Corfe dies | first=Nick | last=Hilton |newspaper=Liverpool Daily Post |date=27 January 2012|access-date=13 October 2013}}</ref>
+|1987<ref>{{cite news |url=https://www.telegraph.co.uk/sport/football/teams/tranmere-rovers/5941880/Tranmere-Rovers-put-up-for-sale-on-eBay.html |title=Tranmere Rovers put up for sale on eBay | first=Jonathan | last=Liew |newspaper=The Daily Telegraph|date=30 July 2009|access-date=13 October 2013}}</ref>
+|[[Football League Fourth Division|Fourth Division]]
+|None
+|-
+|[[Newport County A.F.C.|Newport County]]
+|1989<ref name="Newport">{{cite news |title=Newport County complete remarkable return to Football league |url=https://www.thetimes.com/sport/football/article/newport-county-complete-remarkable-return-to-football-league-6tpmd9wph0q |access-date=22 September 2020 |newspaper=[[The Times]] |date=1 August 2013}}</ref>
+|{{dts|1989|February|format=dmy}}<br/>[[Liquidation|Dissolved]]<ref name="Newport"/>
+|[[Conference National|Football Conference]]
+|None
+|-
+|[[Walsall F.C.|Walsall]]
+|1990
+|−
+|−
+|None
+|-
+|[[Northampton Town F.C.|Northampton Town]]
+|1992
+|−
+|−
+|None
+|-
+|[[Kettering Town F.C.|Kettering Town]]
+|1992
+|−
+|−
+|None
+|-
+|[[Aldershot F.C.|Aldershot]]
+|1992
+|−
+|−
+|None
+|-
+|[[Maidstone United F.C. (1897)|Maidstone United]]
+|1992
+|−
+|−
+|None
+|-
+|[[Hartlepool United F.C.|Hartlepool United]]
+|1994
+|−
+|−
+|None
+|-
+|[[Barnet F.C.|Barnet]]
+|1994
+|−
+|−
+|None
+|-
+|[[Exeter City F.C.|Exeter City]]
+|1994
+|−
+|−
+|None
+|-
+|[[Gillingham F.C.|Gillingham]]
+|1995
+|−
+|−
+|None
+|-
+|[[Doncaster Rovers F.C.|Doncaster Rovers]]
+|1997
+|−
+|−
+|None
+|-
+|[[Millwall F.C.|Millwall]]
+|{{dts|1997|January|21|format=dmy}}
+|{{dts|1997|June|format=dmy}}<BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://opencorporates.com/companies/gb/00042175 |title=WEELSCOOT LIMITED |publisher=OpenCorporates |accessdate=19 February 2022}}</ref>
+|[[Football League Second Division|Second Division]]
+|None
+|-
+|[[A.F.C. Bournemouth|Bournemouth]]
+|1997
+|−
+|−
+|None
+|-
+|[[Crystal Palace F.C.|Crystal Palace]]
+|1998
+|{{dts|2000|July|format=dmy}}
+|[[Football League Second Division|Second Division]]
+|None
+|-
+|[[Chester City F.C.|Chester City]]
+|{{dts|1998|October|format=dmy}}<ref name="Chester"/>
+|{{dts|1999|July|format=dmy}}<ref>{{cite web|url=http://www.chester-city.co.uk/archive.asp |title=Chester City – A Brief History |publisher=[[Chester City F.C.]] |access-date=13 March 2010 |archive-url=https://web.archive.org/web/20100327161505/http://www.chester-city.co.uk/archive.asp |archive-date=27 March 2010 |url-status=dead }}</ref>
+|[[Football League Third Division|Third Division]]
+|None
+|-
+|[[Portsmouth F.C.|Portsmouth]]
+|1998
+|1999
+|Second Division
+|None
+|-
+|[[Hull City A.F.C.|Hull City]]
+|{{dts|2001|February|7|format=dmy}}<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/h/hull_city/1158192.stm|title=Hull earn temporary reprieve|date=7 February 2001|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=31 May 2010}}</ref>
+|{{dts|2001|March|12|format=dmy}}<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/h/hull_city/1216281.stm|title=Hull bounce back from the brink|date=12 March 2001|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=31 May 2010}}</ref>{{refn|Hull were renamed under Hull City AFC (Tigers) Ltd.<ref>{{cite web
+ |url=http://www.hullcityafc.net/page/History/
+ |access-date=25 November 2012
+ |title=History of the Tigers
+ |date=10 May 2011
+ |publisher=[[Hull City A.F.C.]]
+ |archive-url=https://web.archive.org/web/20110718110902/http://www.hullcityafc.net/page/History/0%2C%2C10338%2C00.html
+ |archive-date=18 July 2011
+ |url-status=dead
+}}</ref>|group="nb"}}
+|[[Football League Third Division|Third Division]]
+|None
+|-
+|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|{{dts|2001|April|2|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/q/qpr/1256872.stm|title=QPR put into administration|date=2 April 2001|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=14 March 2010}}</ref>
+|{{dts|2002|November|17|format=dmy}}<ref>{{cite web|url=http://www.qpr.co.uk/page/NewsDetail/0,,10373~221505,00.html |archive-url=https://web.archive.org/web/20120320071531/http://www.qpr.co.uk/page/NewsDetail/0%2C%2C10373~221505%2C00.html |archive-date=20 March 2012 |title=Loftus Road plc comes out of Administration |publisher=Queens Park Rangers FC |date=17 November 2002 |access-date=13 October 2013 |url-status=dead }}</ref>
+|[[Football League First Division|First Division]]
+|None
+|-
+|[[Bury F.C.|Bury]]
+|{{dts|2002|March|1|format=dmy}}<ref name="Conn-08Mar2020">{{cite news |last1=Conn |first1=David |title=Shakers putting their faith in buckets |url=https://www.independent.co.uk/sport/football/football-league/shakers-putting-their-faith-buckets-9167258.html |access-date=3 December 2020 |newspaper=Independent |date=8 March 2002 }}{{Dead link|date=August 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|−
+|[[Football League Second Division|Second Division]]<br>[[Football League Third Division|Third Division]]
+|None
+|-
+|[[Halifax Town A.F.C.|Halifax Town]]
+|{{dts|2002|April|9|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/h/halifax_town/1919824.stm|title=Shaymen face administration|date=9 April 2002|website=news.bbc.co.uk /sport|publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|{{dts|2003|March|28 (Dissolved )format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/h/halifax_town/2895627.stm|title=Halifax administration ends|date=28 March 2003 |website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|[[Football League Third Division|Third Division]]<br>[[Conference National|Football Conference]]
+|None
+|-
+|[[Bradford City A.F.C.|Bradford City]]
+|{{dts|2002|May|16|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/bradford_city/1991450.stm|title=Bradford City in administration|date=16 May 2002|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=28 February 2010}}</ref>
+|{{dts|2002|August|1|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/bradford_city/2165922.stm|title=Bradford future secure|date=1 August 2002|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=28 February 2010}}</ref>
+|[[Football League First Division|First Division]]
+|None
+|-
+|[[Notts County F.C.|Notts County]]
+|{{dts|2002|June|format=dmy}}
+|{{dts|2003|December|format=dmy}}<ref>{{Cite web|date=2003-12-04|title=Notts County finally out of administration|url=https://www.independent.co.uk/sport/football/football-league/notts-county-finally-out-of-administration-81086.html|access-date=2020-06-23|website=The Independent|language=en}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://companycheck.co.uk/company/00032208/NOTTS-INCORPORATED-FOOTBALL-CLUB-LIMITEDTHE/companies-house-data |title=NOTTS INCORPORATED FOOTBALL CLUB LIMITED(THE) |publisher=CompanyCheck |accessdate=19 February 2022}}</ref>
+|[[Football League Third Division|Third Division]]
+|None
+|-
+|[[Barnsley F.C.|Barnsley]]
+|{{dts|2002|October|3|format=dmy}}<ref>{{cite news|url=https://www.telegraph.co.uk/sport/3035550/Barnsley-fall-into-administration.html|title=Barnsley fall into administration|date=3 October 2002|newspaper=The Telegraph|access-date=13 July 2012}}</ref>
+|{{dts|2003|October|25|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/barnsley/3208833.stm|title=Ridsdale seals Barnsley deal|date=25 October 2003|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=13 July 2012}}</ref>
+|[[Football League Second Division|Second Division]]
+|None
+|-
+|[[Leicester City F.C.|Leicester City]]
+|{{dts|2002|October|21|format=dmy}}<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/business/2349397.stm|title=Leicester City put into administration|date=22 October 2002|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|{{dts|2004|November|16|format=dmy}}<ref>{{cite web|url=http://www.lcfc.com/page/LatestNews/0,,10274~343548,00.html |archive-url=https://web.archive.org/web/20120612032940/http://www.lcfc.com/page/LatestNews/0%2C%2C10274~343548%2C00.html |archive-date=12 June 2012 |title=Adams - Out of Administration But No Loan Signings |publisher=Leicester City FC |date=17 November 2004 |access-date=13 October 2013 |url-status=dead }}</ref><BR>(Old company in [[liquidation]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/00157760 |title=FILBERT REALISATIONS NO 1 PLC |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=19 February 2021}}</ref>
+|[[Football League First Division|First Division]]
+|None
+|-
+|[[Port Vale F.C.|Port Vale]]
+|{{dts|2002|December|16|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/p/port_vale/2581571.stm|title=Vale go into administration|date=16 December 2002|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=6 January 2011}}</ref>
+|{{dts|2003|format=dmy}}<BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://companycheck.co.uk/company/00117510/PORT-VALE-FOOTBALL-CLUB-COMPANY-LIMITEDTHE/companies-house-data |title=PORT VALE FOOTBALL CLUB LIMITED THE |accessdate=27 January 2022}}</ref>
+|[[Football League Second Division|Second Division]]
+|None
+|-
+|[[York City F.C.|York City]]
+|{{dts|2002|December|18|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/y/york_city/2586881.stm|title=York go into administration|date=18 December 2002|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|{{dts|2003|March|26|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/y/york_city/2885945.stm|title=Trust deal inches York to safety|date=26 March 2003|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=
+https://www.companysearchesmadesimple.com/company/uk/00183969/york-city-association-football-athletic-club-p-l-c-the/ |title=YORK CITY ASSOCIATION FOOTBALL & ATHLETIC CLUB P L C(THE) |accessdate=19 February 2022}}</ref>
+|[[Football League Third Division|Third Division]]
+|None
+|-
+|[[Luton Town F.C.|Luton Town]]
+|2003<ref>{{Cite web |title=BBC - Three Counties - Sport - Trouble at the Top: Luton Kicks Off |url=https://www.bbc.co.uk/threecounties/content/articles/2004/10/26/trouble_at_the_top_feature.shtml |access-date=2023-02-01 |website=www.bbc.co.uk}}</ref>
+|2003
+|[[Football League Second Division|Second Division]]
+|None
+|-
+|[[Derby County F.C.|Derby County]]
+|{{dts|2003|October|20|format=dmy}}<ref name="DCSS"/>
+|{{dts|2003|October|20|format=dmy}}<ref name="DCSS"/>
+|[[Football League Championship|Championship]]
+|None{{refn|Derby County Football Club did not enter administration itself but holding company, "Derby County PLC", did enter [[Receivership#United Kingdom process|administrative receivership]].<ref>{{cite web|url=http://www.dailyecho.co.uk/news/4251026.Football_League_says_Saints_will_not_be_deducted_points/|title=Southampton FC will not lose points over parent company's impending administration|first=Adrian|last=Kajumba|date=1 April 2009|newspaper=[[Southern Daily Echo]]|access-date=31 May 2010}}</ref> The company was almost instantly taken over by newly formed company, Sharmine Limited.<ref name="DCSS">{{cite news|url=https://www.theguardian.com/football/2006/apr/12/newsstory.sport10|title=Financial allegation intensifies bitter Derby battle|newspaper=The Guardian|date=12 April 2006|access-date=13 October 2013}}</ref><ref>{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/david-conn-from-abc-to-qpr-the-tangled-tale-of-how-football-gambled-its-future-530372.html |archive-url=https://web.archive.org/web/20121107082423/http://www.independent.co.uk/sport/football/news-and-comment/david-conn-from-abc-to-qpr-the-tangled-tale-of-how-football-gambled-its-future-530372.html |archive-date=2012-11-07 |url-access=limited |url-status=live|title=David Conn: From ABC to QPR, the tangled tale of how football gambled its future|first=David|last=Conn|date=9 April 2005|newspaper=[[The Independent]]|access-date=31 May 2010|location=London}}</ref>|group="nb"}}
+|-
+|[[Ipswich Town F.C.|Ipswich Town]]{{refn|Ipswich Town only entered temporary administration, this allowed existing club management to stay in place while finances were being restructured.<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/i/ipswich_town/2745131.stm|title=Ipswich reveal restructure plan|date=13 February 2003|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010}}</ref>|group="nb"}}
+|{{dts|2003|February|10|format=dmy}}<ref>{{cite news|url=https://www.telegraph.co.uk/sport/2395988/Ipswich-file-for-administration.html|title=Ipswich file for administration|date=10 February 2003|newspaper=[[The Daily Telegraph]]|access-date=26 February 2010 | location=London}}</ref>
+|{{dts|2003|May|30|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/i/ipswich_town/2950192.stm|title=Ipswich exit administration|date=30 May 2003|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010}}</ref>
+|[[Football League First Division|First Division]]
+|None
+|-
+|[[Wimbledon F.C.|Wimbledon]]
+|{{dts|2003|June|5|format=dmy}}<ref>{{cite news|url=https://www.telegraph.co.uk/sport/2405494/Wimbledon-go-into-administration.html|title=Wimbledon go into administration|date=9 June 2003|newspaper=[[The Daily Telegraph]]|access-date=15 April 2010 | location=London}}</ref>
+|{{dts|2004|June|21|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/w/wimbledon/3825865.stm|title=Wimbledon to change name|date=21 June 2004|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=15 April 2010}}</ref> (As [[Milton Keynes Dons F.C.|MK Dons]])
+|[[Football League First Division|First Division]]
+|None
+|-
+|[[Oldham Athletic A.F.C.|Oldham Athletic]]
+|{{dts|2003|August||format=dmy}}<ref>{{cite web|url=https://www.manchestereveningnews.co.uk/news/local-news/struggling-latics-given-more-time-1151342|title=Struggling Latics given more time|date=10 September 2003|access-date=9 January 2022}}</ref>
+|{{dts|2004|May|26|format=dmy}}<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/o/oldham_athletic/3455161.stm|title=Latics takeover approved|date=3 February 2004|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=9 January 2022}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://companycheck.co.uk/company/00088795/OLDHAM-ATHLETIC-ASSOCIATION-FOOTBALL-CLUB-LIMITED/companies-house-data |title=OLDHAM ATHLETIC ASSOCIATION FOOTBALL CLUB LIMITED |accessdate=9 January 2022}}</ref>
+|[[Football League Second Division|Second Division]]
+|None
+|-
+|[[Darlington F.C.|Darlington]]
+|{{dts|2003|December|23|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/d/darlington/3345801.stm|title=Darlington in administration|date=25 February 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010}}</ref>
+|{{dts|2004|May|26|format=dmy}}<ref>{{cite news|url=https://www.independent.co.uk/sport/football/news-and-comment/david-conn-creditors-call-for-investigation-after-darlington-escape-administration-565070.html |archive-url=https://web.archive.org/web/20121106143052/http://www.independent.co.uk/sport/football/news-and-comment/david-conn-creditors-call-for-investigation-after-darlington-escape-administration-565070.html |archive-date=2012-11-06 |url-access=limited |url-status=live|first=David|last=Conn|title=Creditors call for investigation after Darlington escape administration|date=29 May 2004|newspaper=[[The Independent]]|access-date=26 February 2010 | location=London}}</ref>
+|[[Football League Third Division|Third Division]]
+|None
+|-
+|[[Bradford City A.F.C.|Bradford City]]
+|{{dts|2004|February|27|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/bradford_city/3513575.stm|title=Bantams in administration|date=27 February 2004|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=28 February 2010}}</ref>
+|{{dts|2004|December|10|format=dmy}}<ref>{{cite news|url=http://www.thetelegraphandargus.co.uk/news/7996331.Rhodes_maps_out_new_era/|title=Rhodes maps out new era|date=10 December 2004|newspaper=[[Telegraph & Argus]]|access-date=13 October 2013}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/01732784 |title=BRADFORD CITY AFC (1983) LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=27 January 2022}}</ref>
+|[[Football League First Division|First Division]]<br>[[Football League One|League One]]
+|None
+|-
+|[[Wrexham F.C.|Wrexham]]
+|{{dts|2004|December|3|format=dmy}}<ref name="Wrexham"/>
+|{{dts|2006|August|3|format=dmy}}<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/wales/north_east/5241130.stm|title= Wrexham FC deal finally complete|date=3 August 2006|website=news.bbc.co.uk |publisher=BBC News|access-date=26 February 2010}}</ref>
+|[[Football League One|League One]]<br>[[Football League Two|League Two]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Cambridge United F.C.|Cambridge United]]
+|{{dts|2005|April|29|format=dmy}}<ref>{{cite web|url=https://www.bbc.co.uk/cambridgeshire/content/articles/2005/04/29/cambridge_united_administration_feature.shtml|title= Cambridge United file for administration.. is this the end of the U's?|date=9 May 2005|website=www.bbc.co.uk/cambridgeshire |publisher=BBC Cambridgeshire |access-date=27 February 2010}}</ref>
+|{{dts|2005|July|22|format=dmy}}<ref>{{cite web|url=http://www.cambridge-united.co.uk/page/NewsDetail/0,,10423~689291,00.htmll |archive-url=https://web.archive.org/web/20120229081956/http://www.cambridge-united.co.uk/page/NewsDetail/0%2C%2C10423~689291%2C00.html |archive-date=29 February 2012 |title=Cambridge United - A Fresh Start |publisher=Cambridge United FC |date=22 July 2005 |access-date=13 October 2013 |url-status=dead }}</ref>
+|[[Football League Two|League Two]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Rotherham United F.C.|Rotherham United]]
+|{{dts|2006|May|13|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/r/rotherham_utd/4768383.stm|title=Rotherham get 10-point deduction|date=13 May 2006|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|???
+|[[Football League One|League One]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Crawley Town F.C.|Crawley Town]]
+|{{dts|2006|June|5|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/crawley_town/5041350.stm|title=Crawley placed in administration|date=5 June 2006|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=14 March 2010}}</ref>
+|{{dts|2007|August|10|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/crawley_town/6931377.stm|title=Crawley Town conclude their CVA|date=10 August 2007|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=14 March 2010}}</ref>
+|[[Conference National]]
+|−{{nts|6}}&nbsp;pts{{refn|The Conference had no policy of automatic points deductions but, having failed to confirm payment of [[2006–07 Football Conference|the previous season]]'s CVA, the club were docked 6 points prior to the [[2007–08 Football Conference|2007–08 season]] for "bringing the Blue Square League into disrepute".<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/crawley_town/6935073.stm|title=Crawley hit by six-point penalty|date=7 August 2007|website=news.bbc.co.uk |publisher=BBC Sport|access-date=14 March 2010}}</ref>|group="nb"}}
+|-
+|[[Boston United F.C.|Boston United]]
+|{{dts|2007|April|25|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/boston_united/6670393.stm|title=League confirm Boston deduction|date=18 May 2007|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|{{dts|2008|May|20|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_conf/7411041.stm|title=Boston come out of administration|date=20 May 2008|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|[[Football League Two|League Two]]
+|−{{nts|10}}&nbsp;pts{{refn|Due to Boston United's financial problems they were not placed in the [[Conference National]] when they were relegated but demoted straight to the [[Conference North]].<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/boston_united/6738469.stm|title= Boston suffer new demotion blow|date=10 June 2007|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>|group="nb"}}
+|-
+|[[Leeds United F.C.|Leeds United]]
+|{{dts|2007|May|4|format=dmy}}<ref name="Leeds">{{cite web|url=http://news.bbc.co.uk/1/hi/business/6624731.stm|title= Leeds Utd call in administrators|date=4 May 2007|website=news.bbc.co.uk |publisher=BBC News|access-date=26 February 2010}}</ref>
+|{{dts|2007|July|11|format=dmy}}<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/business/6292746.stm|title=Leeds United resold to Ken Bates|date=11 July 2007|website=news.bbc.co.uk |publisher=BBC News|access-date=26 February 2010}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/00170600 |title=LEEDS UNITED ASSOCIATION FOOTBALL CLUB LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=25 September 2021}}</ref>
+|[[Football League Championship|Championship]]<br/>[[Football League One|League One]]
+|−{{ntsh|25}}10&nbsp;pts<br/>−15&nbsp;pts{{refn|Leeds United were originally deducted 10&nbsp;pts,<ref name="Leeds"/> but they were deducted 15&nbsp;pts for not exiting administration via a [[Company Voluntary Arrangement]].<ref>{{cite news|url=http://www.timesonline.co.uk/tol/sport/football/football_league/article3858103.ece|archive-url=https://web.archive.org/web/20081011215240/http://www.timesonline.co.uk/tol/sport/football/football_league/article3858103.ece|url-status=dead|archive-date=11 October 2008|title=Ken Bates fumes after Leeds United points ruling is upheld|last=Broadbent |first=Rick|date=2 May 2008|newspaper=[[The Times]]|access-date=26 February 2010 | location=London}}</ref>|group="nb"}}
+|-
+|[[Luton Town F.C.|Luton Town]]
+|{{dts|2007|November|22|format=dmy}}<ref name="Luton10">{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/l/luton_town/7108271.stm|title= Luton suffer 10-point deduction|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010 | date=22 November 2007}}</ref>
+|{{dts|2008|July|28|format=dmy}}<ref>{{cite web|url=http://www.lutontoday.co.uk/sport/hatters-set-to-exit-administration-1-1030387|title=Hatters set to exit administration|date=28 July 2008|publisher=Luton Today|access-date=13 October 2013|archive-date=16 October 2013|archive-url=https://web.archive.org/web/20131016061101/http://www.lutontoday.co.uk/sport/hatters-set-to-exit-administration-1-1030387|url-status=dead}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/04977080 |title=LUTON TOWN FOOTBALL CLUB LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=9 January 2022}}</ref>
+|[[Football League One|League One]]<br/>[[Football League Two|League Two]]
+|−{{ntsh|30}}10&nbsp;pts<br/>−20&nbsp;pts{{refn|Luton Town were docked 10 points in the [[2007–08 Football League|2007–08 League One season]].<ref name="Luton10"/> Unable to agree to a CVA and exit administration, Luton were docked a further 20 points at the start of the [[2008–09 Football League|2008–09 League Two season]] (this was in addition to 10 more points deducted for misconduct).<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/l/luton_town/7500435.stm|title= Luton to face 30-point deduction|date=10 July 2008|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>|group="nb"}}
+|-
+|[[A.F.C. Bournemouth|Bournemouth]]
+|{{dts|2008|February|8|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/bournemouth/7233678.stm|title=Bournemouth enter administration|date=8 February 2008|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010}}</ref>
+|{{dts|2008|July|18|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/bournemouth/7512222.stm|title=New Bournemouth owners revealed|date=18 July 2008|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/03333372 |title=BOURNEMOUTH & BOSCOMBE ATHLETIC COMMUNITY FOOTBALL CLUB LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=9 January 2022}}</ref>
+|[[Football League One|League One]]<br>[[Football League Two|League Two]]
+|−{{ntsh|27}}10&nbsp;pts<br/>−17&nbsp;pts{{refn|Bournemouth were originally deducted 10&nbsp;pts for the [[2007–08 Football League|2007–08 season]].<ref name="Bournemouth">{{cite web|url=http://www.afcb.co.uk/page/ClubHistory/0,,10324,00.html |title=AFC Bournemouth – A History in the Making |date=6 May 2009 |publisher=AFC Bournemouth |access-date=26 February 2010 |url-status=dead |archive-url=https://web.archive.org/web/20090826062549/http://www.afcb.co.uk/page/ClubHistory/0%2C%2C10324%2C00.html |archive-date=26 August 2009 }}</ref> Having failed to exit administration or to agree to a CVA before the start of the [[2008–09 Football League|2008–09 season]], they started that side with −17 points.<ref name="Bournemouth"/>|group="nb"}}
+|-
+|[[Rotherham United F.C.|Rotherham United]]
+|{{dts|2008|March|18|format=dmy}}<ref name="Rotherham">{{cite web|url=http://www.themillers.co.uk/club/history/|title=History |date=16 February 2012|publisher=Rotherham United FC |access-date=13 October 2013}}</ref>
+|{{dts|2008|format=dmy}}[https://archive.today/20130203203827/http://www.teamtalk.com/football/story/0,16368,1803_5597959,00.html]<BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/00158654 |title=ROTHERHAM UNITED FOOTBALL CLUB LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=25 September 2021}}</ref>
+|[[Football League One|League Two]]
+|−{{ntsh|27}}10&nbsp;pts<br/>−17&nbsp;pts{{refn|Rotherham were originally deducted 10&nbsp;pts for the [[2007–08 Football League|2007–08 season]].<ref name="Rotherham"/> Having failed to exit administration or to agree to a CVA before the start of the [[2008–09 Football League|2008–09 season]], they started that side with −17 points.<ref name="Rotherham"/>|group="nb"}}
+|-
+|[[Halifax Town A.F.C.|Halifax Town]]
+|{{dts|2008|March|26|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/h/halifax_town/7296448.stm|title=Halifax apply for administration|date=14 March 2008|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|{{dts|2008|June|13|format=dmy}}<ref>{{cite web |url=http://www.halifaxafc.co.uk/page/SupportersTrustDetail/0,,10437~1328189,00.html |title=HTST Advise Town Accepted into Unibond |date=13 June 2008 |publisher=[[F.C. Halifax Town]] |access-date=27 February 2010 |archive-url=https://web.archive.org/web/20100328133057/http://www.halifaxafc.co.uk/page/SupportersTrustDetail/0%2C%2C10437~1328189%2C00.html |archive-date=28 March 2010 |url-status=dead }}</ref>
+|[[Conference National]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Darlington F.C.|Darlington]]
+|{{dts|2009|February|25|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/d/darlington/7909576.stm|title=Darlington enter administration|date=25 February 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010}}</ref>
+|{{dts|2009|August|7|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/d/darlington/8189266.stm|title=Darlington out of administration|date=7 August 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010}}</ref>
+|[[Football League Two|League Two]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Southampton F.C.|Southampton]]
+|{{dts|2009|April|2|format=dmy}}<ref name="Southampton1">{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/s/southampton/7976473.stm|title=Southampton future 'in jeopardy'|date=2 April 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010}}</ref><ref name="Southampton2">{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/s/southampton/8014811.stm|title=Penalised Saints face relegation|date=23 April 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|{{dts|2009|July|8|format=dmy}}<ref>{{cite web|url=http://www.saintsfc.co.uk/page/NewsDetail/0,,10280~1716797,00.html |archive-url=https://web.archive.org/web/20120308220127/http://www.saintsfc.co.uk/page/NewsDetail/0%2C%2C10280~1716797%2C00.html |archive-date=8 March 2012 |title=Administrator Confirms SFC Sold! |publisher=Southampton FC |date=8 July 2008 |access-date=13 October 2013 |url-status=dead }}</ref>
+|[[Football League Championship|Championship]]<br/>[[Football League One|League One]]
+|{{hs|−}}{{ntsh|10}}N/A<br/>−10&nbsp;pts{{refn|Southampton were deducted 10&nbsp;pts when it was found that the football club was "inextricably linked as one economic entity"<ref name="Southampton2"/> to the holding company [[Southampton Leisure Holdings PLC]] which had gone into administration on 2 April 2009.<ref name="Southampton1"/> As Southampton were relegated in the [[2008–09 Football League#Championship|2008–09 Championship season]] the points were deducted at the start of the [[2009–10 Football League#League One|2009–10 League One season]].|group="nb"}}
+|-
+|[[Stockport County F.C.|Stockport County]]
+|{{dts|2009|April|30|format=dmy}}<ref>{{cite news|url=https://www.theguardian.com/football/2009/apr/30/stockport-county-administration-football|title=Stockport enter administration after failing to pay creditors|date=30 April 2009|newspaper=[[The Guardian]]|access-date=13 October 2013 | location=London}}</ref>
+|{{dts|2010|June|18|format=dmy}}<ref>{{cite web |url=http://www.football-league.co.uk/footballleaguenews/20100618/statement-on-stockport-county_2246528_2074271 |archive-url=https://web.archive.org/web/20100623010121/http://www.football-league.co.uk/footballleaguenews/20100618/statement-on-stockport-county_2246528_2074271 |archive-date=23 June 2010 |title=STATEMENT ON STOCKPORT COUNTY |publisher= Football League|date=18 June 2010 |access-date=13 October 2013}}</ref>
+|[[Football League One|League One]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Chester City F.C.|Chester City]]
+|{{dts|2009|May|17|format=dmy}}<ref name="Chester">{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chester/8054327.stm|title=Chester move into administration|date=17 May 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=13 March 2010}}</ref>
+|{{dts|2010|March|10|format=dmy}}{{refn|As Chester City were expelled from the Football Conference on 26 February 2010 having breached five Conference rules.<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chester/8538236.stm|title= Chester City expelled from Football Conference|date=26 February 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=13 March 2010| archive-url= https://web.archive.org/web/20100304233243/http://news.bbc.co.uk/sport1/hi/football/teams/c/chester/8538236.stm| archive-date= 4 March 2010 | url-status= live}}</ref> On 8 March 2010 their results were expunged<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_conf/8499219.stm|title= Chester City results erased from Blue Square Premier|date=8 March 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=13 March 2010| archive-url= https://web.archive.org/web/20100313133459/http://news.bbc.co.uk/sport1/hi/football/eng_conf/8499219.stm| archive-date= 13 March 2010 | url-status= live}}</ref> and on 10 March 2010 the club was [[Liquidation|wound-up]] at the High Court.<ref>{{cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/c/chester/8559704.stm|title= Chester City wound up in High Court|date=10 March 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=13 March 2010| archive-url= https://web.archive.org/web/20100312115001/http://news.bbc.co.uk/sport1/hi/football/teams/c/chester/8559704.stm| archive-date= 12 March 2010 | url-status= live}}</ref>|group="nb"}}<br/>[[Liquidation|Dissolved]]
+|[[Conference National]]
+|−25&nbsp;pts{{refn|Chester City entered administration just weeks after they were relegated in the [[2008–09 Football League Two|2008–09 League Two season]]. The club were therefore docked 25 points at the start of the [[2009–10 Football Conference#Conference National|2009–10 Conference National season]]:<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chester/8184045.stm|title= Chester hit by 25-point penalty|date=6 August 2009 |website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=13 March 2010}}</ref> the automatic 10-point deduction and a further 15-point deduction due to investigations of financial irregularities by owner [[Stephen Vaughan, Sr.]]<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chester/8200674.stm|title=Chester permitted to start season|date=13 August 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=13 March 2010}}</ref>|group="nb"}}
+|-
+|[[Northwich Victoria F.C.|Northwich Victoria]]
+|{{dts|2009|May|15|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/n/northwich_victoria/8057130.stm|title=Northwich go into administration|date=19 May 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=24 October 2010}}</ref>
+|{{dts|2010|May|16|format=dmy}}<ref>{{cite news|url=http://www.northwichguardian.co.uk/sport/vics/8177409.Q_A_Part_Two__Northwich_Victoria_vs_the_Football_Conference/|title=Rules of the game; the battle lines are drawn over Appendix E|last=Simpson|first=Andrew|date=20 May 2010|newspaper=[[Northwich Guardian]]|publisher=[[Newsquest]]|access-date=13 October 2013}}</ref>{{refn|Northwich Victoria Football Club (2004) Ltd. was renamed Northwich Victoria Football Club (2007) Ltd.<ref>{{cite news|url=http://www.northwichguardian.co.uk/sport/vics/8382890.Vics_still_wait_on_FA_Cup_cash/|title=Northwich Victoria will meet the FA to discuss prize money owed to the club|last=Simpson|first=Andrew|date=9 September 2010|newspaper=[[Northwich Guardian]]|publisher=[[Newsquest]]|access-date=13 October 2013}}</ref>|group="nb"}}
+|[[Conference National]]
+|−10&nbsp;pts{{refn|Northwich Victoria were initially subject to the automatic 10-point deduction. Furthermore, because they came out of administration "without paying its creditors (including but not limited to football creditors) in full",<ref>{{cite news|url=http://www.northwichguardian.co.uk/sport/vics/8161354.Vics_prepare_for_Conference_showdown/|title=Northwich Victoria face their own doomsday scenario in fight with Football Conference|last=Simpson|first=Andrew|date=12 May 2010|newspaper=[[Northwich Guardian]]|publisher=[[Newsquest]]|access-date=24 October 2010}}</ref> they were expelled from the Conference and placed in the [[Northern Premier League Premier Division]].<ref>{{cite web |url=http://www.thefa.com/TheFA/Disciplinary/NewsAndFeatures/2010/northwich-100610 |archive-url=https://archive.today/20120731044005/http://www.thefa.com/TheFA/Disciplinary/NewsAndFeatures/2010/northwich-100610 |url-status=dead |archive-date=31 July 2012 |title=Northwich Victoria decision |publisher= FA|date=10 June 2010 |access-date=13 October 2013}}</ref>|group="nb"}}
+|-
+|[[Farsley Celtic F.C.|Farsley Celtic]]
+|{{dts|2009|June|30|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_conf/8123914.stm|title=Farsley receive stay of execution|date=2 July 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=25 May 2010}}</ref>
+|{{dts|2010|March|10|format=dmy}}<br/>[[Liquidation|Dissolved]]<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_conf/8559656.stm|title=Farsley Celtic finally disbanded|date=10 March 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=25 May 2010}}</ref>
+|[[Conference North]]
+|−{{nts|10}}&nbsp;pts<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_conf/8238570.stm|title=Farsley Celtic saved from closure|date=4 September 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=25 May 2010}}</ref>
+|-
+|[[Salisbury City F.C.|Salisbury City]]
+|{{dts|2009|September|3|format=dmy}}<ref>{{cite news|url=http://www.salisburyjournal.co.uk/sport/salisburycityfc/scfcnews/4582541.Salisbury_City_deducted_ten_points___Luton_preview/|title=Salisbury City deducted ten points / Luton preview|date=4 September 2009|newspaper=[[Salisbury Journal]]|access-date=2 March 2010}}</ref>
+|{{dts|2010|February|26|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport1/hi/football/teams/s/salisbury/8538938.stm|title=Salisbury City nearly out of administration|date=26 February 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=24 October 2010}}</ref><ref name="Salisbury appeal"/>
+|[[Conference National]]
+|−{{nts|10}}&nbsp;pts{{refn|Salisbury City were initially subject to the automatic 10-point deduction. Furthermore, they failed to "pay all creditors in full by the second Saturday in May" which carried a two division demotion placing them in the [[Southern Football League Premier Division]].<ref name="Salisbury appeal">{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/teams/s/salisbury/8733410.stm|title=Salisbury City lose their appeal against demotion|date=10 June 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=31 August 2010}}</ref><ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/s/salisbury/8694467.stm|title=Salisbury City facing double demotion over unpaid debts|date=20 May 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=31 August 2010}}</ref>|group="nb"}}
+|-
+|[[Weymouth F.C.|Weymouth]]
+|{{dts|2009|October|28|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_conf/8329448.stm|title=Weymouth set for administration|date=28 October 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=31 August 2010}}</ref>
+|{{dts|2009|November|27|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/eng_conf/8383066.stm|title=Rolls signs deal to save Weymouth|date=27 November 2009|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=31 August 2010}}</ref>
+|[[Conference South]]
+|None
+|-
+|[[Crystal Palace F.C.|Crystal Palace]]
+|{{dts|2010|January|26|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/crystal_palace/8481549.stm|title=Championship side Crystal Palace go into administration|date=27 January 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010| archive-url= https://web.archive.org/web/20120315091032/http://news.bbc.co.uk/sport1/hi/football/teams/c/crystal_palace/8481549.stm| archive-date=15 March 2012| url-status= live}}</ref>
+|20 August 2010<ref>{{cite web|title=Palace Exit Administration |url=http://www.cpfc.co.uk/page/News/0,,10323~2128098,00.html |publisher=Crystal Palace FC |access-date=20 August 2010 |date=20 August 2010 |archive-url=https://web.archive.org/web/20100823045424/http://www.cpfc.co.uk/page/News/0%2C%2C10323~2128098%2C00.html |archive-date=23 August 2010 |url-status=live }}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/03951645 |title=CRYSTAL PALACE F.C. (2000) LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=19 February 2021}}</ref>
+|[[Football League Championship|Championship]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Portsmouth F.C.|Portsmouth]]
+|{{dts|2010|February|26|format=dmy}}<ref name="Portsmouth">{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/p/portsmouth/8538457.stm|title=Pompey become first top-flight club in administration|date=26 February 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=26 February 2010| archive-url= https://web.archive.org/web/20160112203559/http://news.bbc.co.uk/sport1/hi/football/teams/p/portsmouth/8538457.stm| archive-date=12 January 2016| url-status= live}}</ref>
+|{{dts|2010|October|24|format=dmy}}<ref>{{cite web |title=Portsmouth sale approved by Football League|url=https://news.bbc.co.uk/sport2/hi/football/teams/p/portsmouth/9121791.stm|date=24 October 2010|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=24 October 2010| archive-url= https://web.archive.org/web/20101026153951/http://news.bbc.co.uk/sport1/hi/football/teams/p/portsmouth/9121791.stm| archive-date= 26 October 2010 | url-status= live}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/03747237 |title=PORTSMOUTH CITY FOOTBALL CLUB LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=19 February 2021}}</ref>
+|[[Premier League]]
+|−{{nts|9}}&nbsp;pts
+|-
+|[[Plymouth Argyle F.C.|Plymouth Argyle]]
+|{{dts|2011|March|4|format=dmy}}<ref name="Plymouth">{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/p/plymouth_argyle/9414349.stm|title=Plymouth Argyle go into administration|date=4 March 2011|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=4 March 2011| archive-url= https://web.archive.org/web/20110305051953/http://news.bbc.co.uk/sport1/hi/football/teams/p/plymouth_argyle/9414349.stm| archive-date= 5 March 2011 | url-status= live}}</ref>
+|{{dts|2011|October|31|format=dmy}}<ref>{{cite web |title=James Brent's Plymouth Argyle takeover completed|url=https://www.bbc.co.uk/sport/football/15490571|date=31 October 2011|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=31 October 2011}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/00110819 |title=PLYMOUTH ARGYLE FOOTBALL COMPANY LIMITED(THE) |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=19 February 2021}}</ref>
+|[[Football League One|League One]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Rushden & Diamonds F.C.|Rushden and Diamonds]]
+|{{dts|2011|July|7|format=dmy}}<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/14012770|title=Rushden & Diamonds enter administration|date=7 July 2011|website=www.bbc.co.uk/sport |publisher=BBC Sport |access-date=7 July 2011}}</ref>
+|{{dts|2011|July|8|format=dmy}}<br/>[[Liquidation|Dissolved]]<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/teams/rushden-and-diamonds|archive-url=https://web.archive.org/web/20120321020216/http://www.bbc.co.uk/sport/football/teams/rushden-and-diamonds|url-status=dead|archive-date=21 March 2012|title=Rushden & Diamonds|date=8 July 2011|website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=8 July 2011}}</ref>
+|[[Conference National]]
+| None
+|-
+|[[Darlington F.C.|Darlington]]
+|{{dts|2012|January|3|format=dmy}}<ref>{{cite news|url=https://www.theguardian.com/football/2012/jan/03/darlington-administration-third-time|title=Darlington placed into administration for third time in nine years|date=3 January 2012|newspaper=The Guardian|access-date=3 January 2012}}</ref>
+|{{dts|2012|June|21|format=dmy}}<br/>Dissolved<ref>{{cite news |title=DFC 1883 Ltd relegation appeal dimissed (sic) |url=https://www.itv.com/news/tyne-tees/story/2012-06-21/dfc-1883-ltd-relegation-appeal-dimissed/ |access-date=8 May 2019 |publisher=ITV News |date=21 June 2012}}</ref>
+|[[Conference National]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Portsmouth F.C.|Portsmouth]]
+|{{dts|2012|February|17|format=dmy}}<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/16943651|title=Portsmouth Football Club back in administration|date=17 February 2012|website=www.bbc.co.uk/sport |publisher=BBC Sport |access-date=17 February 2012}}</ref>
+|{{dts|2013|April|19|format=dmy}}<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/22167294 |first=Nabil |last=Hassan |title=Portsmouth come out of administration|date=19 April 2013|website=www.bbc.co.uk/sport |publisher=BBC Sport |access-date=20 April 2013}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/07264768 |title=PORTSMOUTH FOOTBALL CLUB (2010) LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=9 January 2022}}</ref>
+|[[Football League Championship|Championship]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Port Vale F.C.|Port Vale]]
+|{{dts|2012|March|9|format=dmy}}<ref>{{cite news|title=Port Vale: Administrator Bob faces a sense of deja-vu|url=http://www.thisisstaffordshire.co.uk/Port-Vale-Administrator-Bob-faces-sense-deja-vu/story-15432970-detail/story.html|access-date=8 March 2012|newspaper=[[The Sentinel (Staffordshire)|The Sentinel]]|date=8 March 2012}}</ref>
+|{{dts|2012|November|20|format=dmy}}<ref>{{cite web|title=Port Vale exit administration as Paul Wildes completes takeover|url=https://www.bbc.co.uk/sport/football/20415308|access-date=21 November 2012|website=www.bbc.co.uk/sport |publisher=BBC Sport|date=20 November 2012}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/04669703 |title=PORT VALE (VALIANT 2001) FOOTBALL CLUB LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=27 January 2022}}</ref>
+|[[Football League Two|League Two]]
+|−{{nts|10}}&nbsp;pts
+|-
+|[[Coventry City F.C.|Coventry City]]
+|{{dts|2013|March|21|format=dmy}}<ref name = "cov 10 points">{{cite web|title=Coventry City to be docked 10 points after High Court hearing|url=https://www.bbc.co.uk/sport/football/21946966|access-date=27 March 2013 |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=26 March 2013}}</ref>
+|{{dts|2013|June|14|format=dmy}}<ref>{{cite web|last=Scott |first=Ged |url=https://www.bbc.co.uk/sport/football/22913459 |title=BBC Sport – Coventry City administrator Paul Appleton accepts Otium bid |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=14 June 2013 |access-date=2 August 2013 |archive-url=https://web.archive.org/web/20130618085720/http://www.bbc.co.uk/sport/0/football/22913459 |archive-date=18 June 2013 |url-status=live}}</ref><BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/00094305 |title=COVENTRY CITY FOOTBALL CLUB (HOLDINGS) LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=25 September 2021}}</ref>
+|[[Football League One|League One]]<br/>[[Football League One|League One]]
+|−{{nts|10}}&nbsp;pts<ref name = "cov 10 points"/><ref>{{cite web|title=Coventry City deducted 10 points by the Football League|url=https://www.bbc.co.uk/sport/football/21970140|access-date=28 March 2013 |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=28 March 2013}}</ref><br/>−10&nbsp;pts<ref>{{cite news|title=Coventry City: Football League docks Sky Blues 10 points|url=https://www.bbc.co.uk/sport/football/23548760|date=2 August 2013}}</ref><br>
+|-
+|[[Aldershot Town F.C.|Aldershot Town]]
+|{{dts|2013|May|2|format=dmy}}<ref name = "Ald in Administration">{{cite web|title=Relegated club goes into administration|url=https://www.bbc.co.uk/sport/football/22383276|access-date=2 May 2013 |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=2 March 2013}}</ref>
+|31 July 2014<BR>(Old company [[liquidation|dissolved]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/02711473 |title=ALDERSHOT TOWN F.C. (1992) LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=19 February 2022}}</ref>
+|[[Football League Two|League Two]]<br />Conference National
+|N/A<br />-10 pts
+|-
+|[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|{{dts|2019|May|13|format=dmy}}<ref>{{cite news |url=https://www.theboltonnews.co.uk/sport/17636580.bolton-wanderers-officially-enter-into-administration/ |first=Marc |last=Iles |title=Bolton Wanderers officially enter into administration |newspaper=The Bolton News |date=13 May 2019 |access-date=13 May 2019}}</ref>
+|{{dts|2019|August|28|format=dmy}}<ref>{{cite news |url=https://www.theboltonnews.co.uk/news/17866367.bolton-wanderers-takeover-completed-football-ventures-consortium/|first=Marx |last=Iles |title=Bolton Wanderers takeover completed by Football Ventures consortium|newspaper=The Bolton News |date=28 August 2019|access-date=28 August 2019}}</ref><BR>(Old company in [[liquidation]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/00043026 |title=BWFC2019 LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=25 September 2021}}</ref>
+|[[Football League Championship|Championship]]<br />[[Football League One|League One]]
+|N/A<br />−{{nts|12}}&nbsp;pts<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/48257398 |title=Bolton Wanderers appoint administrators and face 12-point deduction |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=13 May 2019 |access-date=14 May 2019}}</ref>
+|-
+|[[Bury F.C.|Bury]]
+|{{dts|2019|July|18|format=dmy}}<ref>{{Cite web|url=https://talksport.com/football/efl/575023/bury-hit-with-12-point-deduction/|title=Bury hit with big point deduction after agreeing CVA to secure financial future|date=18 July 2019}}</ref>
+|CVA terminated on 9 March 2020; new CVA sought.<ref name="BBC-16Mar2020">{{cite web|title=Bury owner Steve Dale renews attempts to settle debts after initial CVA terminated |url=https://www.bbc.co.uk/sport/football/51913317 |access-date=17 March 2020 |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=16 March 2020}}</ref>
+|[[Football League One|League One]]
+|−{{nts|12}}&nbsp;pts<ref>{{Cite news|url=https://www.bbc.co.uk/sport/football/49034775|title=Bury deducted 12 points by EFL |website=www.bbc.co.uk/sport |publisher=BBC Sport}}</ref>
+|-
+|[[Rhyl F.C.|Rhyl]]
+|{{dts|2020|April|27|format=dmy}}<ref name=Rhyl>[https://www.consultancy.uk/news/24451/rhyl-fc-collapses-citing-covid-19-impact consultancy: "Rhyl FC collapses citing Covid-19 impact"]</ref>
+|{{dts|2020|April|27|format=dmy}}<br>[[Liquidation|Dissolved]]<ref name=Rhyl/>
+|[[Cymru North]]
+|None{{refn|All results expunged due to Rhyl dissolving|group="nb"}}
+|-
+|[[Wigan Athletic F.C.|Wigan Athletic]]
+|{{dts|2020|July|1|format=dmy}}<ref name="Stone-01Jul2020">{{cite web|last1=Stone |first1=Simon |title=Wigan Athletic: Championship club goes into administration |url=https://www.bbc.co.uk/sport/football/53247333 |access-date=1 July 2020 |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=1 July 2020}}</ref>
+|{{dts|2021|March|30|format=dmy}}<ref>[https://www.bbc.co.uk/sport/football/56574975 BBC Sport: "Wigan Athletic: Abdulrahman Al-Jasmi takeover of League One strugglers completed"]</ref><BR>(Old company in [[liquidation]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/00270043 |title=LATICS REALISATIONS LIMITED |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=25 September 2021}}</ref>
+|[[Football League Championship|Championship]]<br>[[Football League One|League One]]
+|−{{nts|12}} pts<ref name="Stone-01Jul2020"/><br>N/A
+|-
+|[[Bury F.C.|Bury]]
+|{{dts|2020|November|27|format=dmy}}<ref name="Lord-27Nov2020">{{cite news |last1=Lord |first1=Adam |title=Bury FC placed in administration as part of 'rescue' plan |url=https://www.burytimes.co.uk/news/18904831.bury-fc-placed-administration-part-rescue-plan/ |access-date=3 December 2020 |newspaper=Bury Times |date=27 November 2020}}</ref>
+|{{dts|2022|5|1|format=dmy}}<ref>[https://www.buryfcss.co.uk/bury-back/ Bury FC: "Bury FC Are Coming Back"]</ref>
+|N/A
+|N/A
+|-
+|[[Derby County F.C.|Derby County]]
+|{{dts|2021|September|22|format=dmy}}<ref name="Formal Administration">{{cite web|title=Derby County: Championship Club formally enter administration|url=https://www.bbc.co.uk/sport/football/58649432|access-date=22 September 2021|website=www.bbc.co.uk/sport |publisher=BBC Sport|date=22 September 2021}}</ref>
+|1 July 2022<ref>{{Cite web |date=1 July 2022 |title=Derby County: David Clowes completes takeover of League One club |url=https://www.bbc.co.uk/sport/football/61927037 |access-date=1 July 2022 |website=BBC Sport}}</ref>
+|[[Football League Championship|Championship]]
+|−{{nts|12}} pts<ref name="Formal Administration" />
+|-
+|[[Torquay United F.C.|Torquay United]]
+|{{dts|2024|April|5|format=dmy}}<ref name="Torquay Admin">{{cite news |title=Torquay United: Administration confirmed for National League South side |url=https://www.bbc.co.uk/sport/football/68742377 |access-date=8 May 2024 |work=BBC Sport |date=5 April 2024}}</ref>
+|31 May 2024<ref name="Torquay Admin Exit">{{cite news |title= Creditors approve Torquay United takeover |url= https://www.bbc.co.uk/sport/football/articles/cedd9z04k4no |access-date=19 October 2024 |work=BBC Sport |date=31 May 2024}}</ref>
+|[[National League South]]
+|−{{nts|10}} pts<ref name="Torqauy Deduction">{{cite news |title=Torquay United docked 10 points in National League South after financial issues |url=https://www.bbc.co.uk/sport/football/68553988 |access-date=8 May 2024 |work=BBC Sport |date=13 March 2024}}</ref>
+|-
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|{{dts|2025|October|24|format=dmy}}<ref name"Sheffield Wednesday">{{cite news |title=Sheffield Wednesday placed in administration |url=https://www.bbc.co.uk/sport/football/articles/c1lqmmml533o |access-date=24 October 2025 |work=BBC Sport |date=24 October 2025}}</ref>
+|
+|[[EFL Championship|Championship]]
+|–{{nts|12}} pts<ref name="Sheffield Wednesday Deduction">{{cite news |title=Sheffield Wednesday: Championship club deducted 12 points after filing for administration |url=https://www.skysports.com/football/news/11688/13456407/sheffield-wednesday-championship-club-file-for-administration |access-date=24 October 2025 |work=Sky Sports |date=24 October 2025}}</ref>
+|}
+
+===Company voluntary arrangement===
+Football clubs may also negotiate a [[Company voluntary arrangement]] (CVA). While not strictly the same as administration, the EFL regards a CVA as an insolvency event and imposes a 12-points deduction. Debts to football creditors also need to be settled in full, if league membership is to be retained.<ref name=BBC-25Jul2019>{{cite web|title=Bury: EFL warns club could be expelled if financial assurances are not provided |url=https://www.bbc.co.uk/sport/football/49110053 |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=25 July 2019 |access-date=20 August 2019}}</ref> In July 2019, [[Bury F.C.|Bury]] owner Steve Dale agreed a CVA with creditors to avoid the club going into administration; the club were deducted 12 points ahead of the 2019&ndash;20 season,<ref name=BBC-25Jul2019/> but Dale's failure to provide the EFL with full details of the CVA led to Bury's opening fixtures being suspended ahead of a possible expulsion from the League.<ref name="BBC-15Aug2019">{{cite web|title=Bury: Shakers' fixture at Rotherham called off by English Football League |url=https://www.bbc.co.uk/sport/football/49356357 |access-date=15 August 2019 |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=15 August 2019}}</ref> On 27 August 2019, the EFL announced that Bury's membership of the league had been withdrawn.<ref>{{cite web|url=https://www.efl.com/news/2019/august/bury-fc-membership-of-the-league-withdrawn/|title=Bury FC: Membership of the League withdrawn|website=www.efl.com|language=en-gb|access-date=2019-08-27}}</ref><ref name="BBC270819">{{cite web |title=Bury expelled by English Football League after takeover collapses |url=https://www.bbc.co.uk/sport/football/49451896 |publisher=BBC |date=27 August 2019}}</ref> On 27 November 2020, Dale placed the club into administration.<ref name="Lord-27Nov2020"/>
+
+==Scotland==
+Following the adoption of a points sanction in the [[The Football League|English Football League]], a similar rule was proposed for adoption by the [[Scottish Premier League]] (SPL) in December 2003.<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/scot_prem/3331583.stm|title=SPL debate administration penalty |date=18 December 2003 |website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=1 March 2010}}</ref> It was announced in January 2004 that SPL clubs going into administration in the [[2004–05 Scottish Premier League|2004–05 season]] would be subject to a 10-point deduction and be prevented from signing new players. With [[Motherwell F.C.|Motherwell]] and [[Dundee F.C.|Dundee]] already in administration at the time, it was decided that if "they are not in the process of coming out of administration by 31 May", the deduction would be applied at the start of the following season.<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/scot_prem/3418773.stm|title=Dundee face point deduction|date=22 January 2004|website=news.bbc.co.uk/sport |publisher=BBC Sport|access-date=1 March 2010}}</ref> Furthermore, the [[Scottish Football Association]] would not allow clubs in administration to play in European competition.<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/football/scot_prem/3415935.stm |title=Uefa blow for cash-strapped clubs |date=21 January 2004 |website=news.bbc.co.uk/sport |publisher=BBC Sport |access-date=1 March 2010}}</ref> Both Motherwell and Dundee met the required conditions to avoid the deduction of points.<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/d/dundee/3749583.stm |title=Dundee rescue plan agreed |date=26 May 2004 |website=news.bbc.co.uk/sport |publisher=BBC Sport |access-date=1 March 2010}}</ref> The 10-point penalty was subsequently applied to [[Gretna F.C.|Gretna]] in the 2007&ndash;08 season<ref name="Administration"/> and [[Rangers F.C.|Rangers]] in 2011&ndash;12.<ref name = "simply the bust"/>
+
+Although the [[Scottish Football League]] (SFL) had no automatic deduction of points for clubs going into administration, it reserved the right to "deduct championship points before or during a season and/or to impose a player registration embargo on any club".<ref>{{cite book|title=Scottish Football League Handbook 2009–2010|publisher=[[Scottish Football League]]|pages=148|chapter=Constitution and Rules|url=http://www.scottishfootballleague.com/res/documents/SFL/SFLHandbook/SFL%20Constitution%20and%20Rules2.pdf}}{{Dead link|date=September 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> This meant that its penalties for insolvency varied; [[Dundee F.C.|Dundee]] were docked 25 points in the 2010&ndash;11 season because it was the second time they had entered administration in a relatively short period.<ref name = "changes">{{cite news |url=https://www.telegraph.co.uk/sport/football/scottish-football/10365208/SPFL-clubs-that-go-into-administration-could-be-relegated.html |title=SPFL clubs that go into administration could be relegated |first=Ewing |last=Grahame |newspaper=The Daily Telegraph|date=9 October 2013 |access-date=18 December 2013}}</ref> The SFL also had the power to place a team in the bottom tier ([[Scottish Football League Third Division|Third Division]]) if there were any doubts that the club could fulfill their fixtures for the forthcoming season.<ref>{{cite web|title=Livi relegated to Division Three |url=https://news.bbc.co.uk/sport2/hi/football/teams/l/livingston/8179998.stm |website=news.bbc.co.uk/sport |publisher=BBC Sport |access-date=8 November 2011 |date=5 August 2009}}</ref>
+
+The [[administration and liquidation of The Rangers Football Club Plc]] prompted much discussion in Scotland about what sanctions (if any) are appropriate for an insolvent club.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/17975013 |title=SPL board can't win over Rangers decision - Stephen Thompson |date=6 May 2012 |access-date=18 December 2013 |website=www.bbc.co.uk/sport |publisher=BBC Sport }}</ref> When Rangers entered administration in February 2012, the club was docked 10 points in the [[2011&ndash;12 Scottish Premier League]]. The SPL clubs agreed to amend the penalty for administration to the greater of 10 points or one third of the club's tally in the previous season.<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/18263819 |title=SPL: Clubs set new financial fair play rules at Hampden meeting |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=30 May 2012 |access-date=18 December 2013}}</ref> Rangers attempted to agree a CVA with its creditors, but this offer was rejected by HMRC in June 2012.<ref name = "liquidation">{{cite web|url=https://www.bbc.co.uk/sport/football/18407309 |title=Rangers to re-form after creditors' deal is rejected |first1=Alasdair |last1=Lamont |first2=Chris |last2=McLaughlin |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=12 June 2012 |access-date=18 December 2013}}</ref> The business and assets of Rangers were instead sold to a new company.<ref name = "liquidation"/> One of Rangers' assets was its membership of the SPL, but this could not be transferred without the approval of the other SPL clubs.<ref name = "liquidation"/> Rangers' application for transfer was rejected by a 10&ndash;1 majority.<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/18703183 |title=Rangers newco refused SPL entry after chairmen vote |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=4 July 2012 |access-date=18 December 2013}}</ref> The SPL attempted to negotiate a deal with the SFL whereby Rangers would enter the First Division (second tier).<ref name = "sfl3"/> This was rejected by SFL clubs, who instead voted for Rangers to be granted associate membership of the SFL and a place in the Third Division (fourth tier).<ref name = "sfl3">{{cite web|url=https://www.bbc.co.uk/sport/football/18813407 |title=Rangers: Charles Green accepts Division Three vote |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=13 July 2012 |access-date=18 December 2013}}</ref>
+
+When the SPL and SFL merged to form the [[Scottish Professional Football League]] (SPFL) in 2013, the penalty for entering administration was standardised as 15 points.<ref name = "hearts"/> [[Heart of Midlothian F.C.|Hearts]] entered administration days before the leagues merged and were docked 15 points for the 2013&ndash;14 season under the old SPL rules, as they had earned 44 points in the 2012&ndash;13 season.<ref name = "hearts">{{cite web |url=http://sport.stv.tv/football/clubs/hearts/229830-qa-what-will-happen-to-hearts-now-they-are-in-administration/ |title=Q&A: What will happen to Hearts now they are in administration? |first=Grant |last=Russell |website=www.sport.stv.tv |publisher=STV Sport |date=19 June 2013 |access-date=18 December 2013 }}{{Dead link|date=August 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===List of clubs in Scotland that have entered administration===
+{{Incomplete list|date=February 2011}}
+{| class="wikitable sortable"
+!Club
+!Entered<br/>administration
+!Exited<br/>administration
+!League(s)
+!Deduction(s) and/or other sanctions
+|-
+|[[Queen's Park F.C.|Queen's Park]]
+|{{dts|2000|January|10|format=dmy}}<ref>{{cite web|url=https://www.theguardian.com/football/2000/jan/11/newsstory.sport |title=Queen's Park peril clouds Hampden future |date=11 January 2000 |newspaper=The Guardian |first=Mark |last=Tallentire |access-date=29 August 2018}}</ref>
+|{{dts|2000|April|3|format=dmy}}<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/scotland/699144.stm |title=SFA takes Hampden control |date=3 April 2000 |website=www.bbc.co.uk/news |publisher=BBC News |access-date=29 August 2018}}</ref>
+|[[Scottish Football League Third Division|Third Division]]
+|None
+|-
+|[[Greenock Morton F.C.|Greenock Morton]]
+|{{dts|2000|December|15|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/m/morton/1071078.stm |title=Morton call in the administrator |date=15 December 2000 |website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=1 March 2010}}</ref>
+|{{dts|2001|August|8|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/scotland/1475810.stm |title=Morton are saved|date=8 August 2001|website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=1 March 2010}}</ref>
+|[[Scottish Football League First Division|First Division]]
+|None
+|-
+|[[Clydebank F.C. (1965)|Clydebank]]
+|{{dts|2000|December|23|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/clydebank/1083531.stm |title=Clydebank future in doubt again |date=23 December 2000 |website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=1 March 2010}}</ref>
+|{{dts|2002|July|9|format=dmy}}<br>Became [[Airdrie United F.C.|Airdrie United]]<ref>{{cite web |url=https://news.bbc.co.uk/sport2/hi/scotland/2118528.stm |title=Airdrie buy Bankies |date=9 July 2002 |access-date=1 March 2010 |website=www.bbc.co.uk/sport |publisher=BBC Sport}}</ref>
+|[[Scottish Football League Second Division|Second Division]]
+|None
+|-
+|[[Airdrieonians F.C. (1878)|Airdrieonians]]
+|
+|{{dts|2002|May|21|format=dmy}}<br/>[[Liquidation|Dissolved]]<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/a/airdrieonians/2000634.stm |title=New hope as Airdrieonians die |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=21 May 2002 |access-date=1 March 2010}}</ref>
+|[[Scottish Football League First Division|First Division]]
+|None
+|-
+|[[Motherwell F.C.|Motherwell]]
+|{{dts|2002|April|24|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/scotland/1948121.stm |title=Motherwell in turmoil|date=24 April 2002|website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|{{dts|2004|April|20|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/m/motherwell/3601421.stm|title='Well end administration|date=20 April 2004|website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=1 March 2010}}</ref>
+|[[Scottish Premier League|SPL]]
+|None
+|-
+|[[Dundee F.C.|Dundee]]
+|{{dts|2003|November|25|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/d/dundee/3286019.stm |title=Dundee sack 25 staff|date=25 November 2003|website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=27 February 2010}}</ref>
+|{{dts|2004|August|6|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/scot_prem/3538032.stm|title=Dundee 0–1 Hearts|date=7 August 2004|website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=1 March 2010}}</ref>
+|[[Scottish Premier League|SPL]]
+|None
+|-
+|[[Livingston F.C.|Livingston]]
+|{{dts|2004|February|3|format=dmy}}<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/l/livingston/3449367.stm |title=Livi in administration |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=3 February 2004 |access-date=28 February 2010}}</ref>
+|{{dts|2005|May|13|format=dmy}}<ref name = "livingston">{{cite web |url=http://www.livingstonfc.co.uk/club/club_profile.php |title=Livingston FC Profile |publisher=Livingston FC |access-date=27 February 2010| archive-url= https://web.archive.org/web/20100323073823/http://www.livingstonfc.co.uk/club/club_profile.php| archive-date= 23 March 2010 | url-status= live}}</ref>
+|[[Scottish Premier League|SPL]]
+|None
+|-
+|[[Gretna F.C.|Gretna]]
+|{{dts|2008|March|10|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/g/gretna/7285324.stm |title=Irons saddened by Gretna plight |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=10 March 2008 |access-date=10 March 2010}}</ref>
+|{{dts|2008|August|8|format=dmy}}<br/>[[Liquidation|Dissolved]]<ref>{{cite news|url=http://www.cumberland-news.co.uk/1.218555 |last=Little |first=Amanda |title=Liquidation signals the final nail in Gretna coffin |newspaper=[[The Cumberland News]] |date=8 August 2008 |access-date=28 February 2010 |url-status=dead |archive-url=https://web.archive.org/web/20090314001628/http://www.cumberland-news.co.uk/1.218555 |archive-date=14 March 2009 }}</ref>
+|[[Scottish Premier League|SPL]]
+|−{{nts|10}}&nbsp;pts<ref name="Administration"/> <br> [[Promotion and relegation|Demoted]] to [[Scottish Football League Third Division|Third Division]]<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/g/gretna/7426281.stm |website=www.bbc.co.uk/sport |publisher=BBC Sport |title=Gretna demoted to Division Three |date=29 May 2008 |access-date=28 February 2010}}</ref>
+|-
+|[[Livingston F.C.|Livingston]]
+|{{dts|2009|July|24|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/l/livingston/8130333.stm |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=24 July 2009 |access-date=28 February 2010 |title=Livi to go into administration}}</ref>
+|{{dts|2009|August|13|format=dmy}}<ref>{{Cite web|url=http://www.footballeconomy.com/content/two-clubs-start-season-late|title=Two Clubs Start Season Late – Football Economy|date=15 August 2009 }}</ref>
+|[[Scottish Football League First Division|First Division]]
+|[[Promotion and relegation|Demoted]] to [[Scottish Football League Third Division|Third Division]]<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/l/livingston/8179998.stm |title=Livi relegated to Division Three |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=5 August 2009 |access-date=28 February 2010}}</ref>
+|-
+|[[Dundee F.C.|Dundee]]
+|{{dts|2010|October|14|format=dmy}}<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/d/dundee/9085810.stm |title=Dundee enter administration and face liquidation threat|date=14 October 2010|website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=14 October 2010|first=Jim|last=Spence| archive-url= https://web.archive.org/web/20101014062724/http://news.bbc.co.uk/sport1/hi/football/teams/d/dundee/9085810.stm| archive-date= 14 October 2010 | url-status= live}}</ref>
+|{{dts|2011|May|12|format=dmy}}<ref>{{cite web|url=http://www.dundeefc.co.uk/news_detail.asp?newsid=1663 |title=Dundee exit administration |publisher=Dundee FC |access-date=23 June 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111004222712/http://www.dundeefc.co.uk/news_detail.asp?newsid=1663 |archive-date=4 October 2011 }}</ref>
+|[[Scottish Football League First Division|First Division]]
+|−{{nts|25}}&nbsp;pts<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/football/teams/d/dundee/9146206.stm|title=Dundee hit with 25-point penalty|date=1 November 2010|website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=1 November 2010| archive-url= https://web.archive.org/web/20101102082458/http://news.bbc.co.uk/sport1/hi/football/teams/d/dundee/9146206.stm| archive-date= 2 November 2010 | url-status= live}}</ref>
+|-
+||[[Rangers F.C.|Rangers]]
+|{{dts|2012|February|14|format=dmy}}<ref name = "simply the bust">{{cite web|url=https://www.bbc.co.uk/news/uk-scotland-glasgow-west-17026172|title=Rangers Football Club enters administration|date=14 February 2012|website=www.bbc.co.uk/news |publisher=BBC News|access-date=14 February 2012}}</ref>
+|{{dts|2012|June|14|format=dmy}}<ref name = "charles green">{{cite web |url=https://www.bbc.co.uk/news/uk-scotland-glasgow-west-18447530 |title=Charles Green completes Rangers purchase despite Walter Smith bid |publisher=BBC News |website=www.bbc.co.uk/news |date=14 June 2012 |access-date=23 September 2012}}</ref><br/>(old company in [[liquidation]])<ref>{{cite web |url=https://find-and-update.company-information.service.gov.uk/company/SC004276 |title=RFC 2012 P.L.C. |publisher=Companies House |website=find-and-update.company-information.service.gov.uk |accessdate=25 September 2021}}</ref>
+|[[Scottish Premier League|SPL]]
+|−{{nts|10}}&nbsp;pts<ref>{{cite news |url=https://www.theguardian.com/football/2012/feb/14/rangers-administrator-court-financial-crisis |title=Rangers appoint administrators and incur 10-point deduction |newspaper=The Guardian |date=14 February 2012 |access-date=3 October 2020}}</ref>&nbsp; After the business and assets of Rangers were sold to a new company,<ref name = "charles green"/> the SPL member clubs refused an application for the Rangers SPL membership share to also be transferred to the new Rangers company.<ref>{{cite web |url=https://www.itv.com/news/update/2012-07-04/rival-teams-block-rangers-from-playing-in-scottish-premier-league/ |title=Rival teams block Rangers from playing in Scottish Premier League |publisher=ITV News |date=4 July 2012 |access-date=3 October 2020}}</ref> Rangers were instead accepted into the [[Scottish Football League Third Division|Third Division]] ([[Scottish football league system|fourth tier]]) for the [[2012–13 Rangers F.C. season|2012&ndash;13]] season.<ref>{{cite web|url=https://www.itv.com/news/2012-07-13/rangers-demoted-to-3rd-division-after-debt-crisis |title=Rangers demoted to 3rd division after debt crisis |publisher=ITV News |date=13 July 2012 |access-date=3 October 2020}}</ref>
+|-
+||[[Dunfermline Athletic F.C.|Dunfermline Athletic]]
+|{{dts|2013|March|27|format=dmy}}<ref>{{cite web|url=https://www.bbc.co.uk/sport/football/21936883 |title=Dunfermline set for cuts as interim administration is granted|date=27 March 2013 |website=www.bbc.co.uk/sport |publisher=BBC Sport |access-date=27 March 2013}}</ref>
+|{{dts|2013|December|13|format=dmy}}<ref>{{cite news|url=http://www.dailyrecord.co.uk/sport/football/football-news/pars-officially-out-administration-eight-2924224 |title=Pars are officially out of administration eight months after club's future was thrown in doubt |date=13 December 2013 |publisher=Trinity Mirror |newspaper=Daily Record |access-date=13 December 2013}}</ref>
+|[[Scottish Football League First Division|First Division]]
+|−{{nts|15}}&nbsp;pts<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/22085474 |title=Dunfermline docked 15 points following administration |website=www.bbc.co.uk/sport |publisher=BBC Sport |access-date=9 April 2013 |date=9 April 2013}}</ref>
+|-
+||[[Heart of Midlothian F.C.|Heart of Midlothian]]
+|{{dts|2013|June|19|format=dmy}}<ref name = "hearts placed">{{cite web|url=https://www.bbc.co.uk/sport/football/22953448|title=Hearts placed into administration and deducted 15 points|date=19 June 2013|website=www.bbc.co.uk/sport |publisher=BBC Sport|access-date=19 June 2013}}</ref>
+|{{dts|2014|June|11|format=dmy}}<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/27794267 |title=Hearts: Club exit administration, signing ban lifted |first=Brian |last=McLauchlin |website=www.bbc.co.uk/sport |publisher=BBC Sport |date=11 June 2014 |access-date=11 June 2014}}</ref>
+|[[Scottish Premier League|SPL]]
+|−{{nts|15}}&nbsp;pts<ref name = "hearts placed"/>
+|-
+|[[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]]
+|{{dts|2024|October|22|format=dmy}}<ref name = "inverness caley placed">{{cite web|url=https://www.bbc.com/news/articles/cm24gr1rrnpo|title=Inverness Caley Thistle goes into administration|date=22 October 2024 |access-date=22 October 2024 |website=BBC News}}</ref>
+|{{dts|2025|June|5|format=dmy}}<ref>{{cite web|url=https://www.bbc.co.uk/news/articles/cp98y1n8mkko|title=Inverness Caledonian Thistle exits administration |website=BBC News|date=12 September 2025 |access-date=12 September 2025}}</ref>
+|[[Scottish League One|League One]]
+|−15 pts, additional −5 pts at start of following season
+|-
+|[[Dumbarton F.C.|Dumbarton]]
+|{{dts|2024|November|18|format=dmy}}<ref name = "dumbarton fc placed">{{cite web|url=https://dumbartonfootballclub.com/quantuma-appointed-as-administrators-of-dumbarton-football-club/|title=Quantuma appointed as administrators of Dumbarton Football Club|date=19 October 2024 |access-date=19 October 2024}}</ref>
+|{{dts|2025|June|12|format=dmy}} (old company dissolved)<ref>{{Cite web |date=2025-06-12 |title=Rescue plan set to see Dumbarton reformed as newco following liquidation |url=https://www.heraldscotland.com/sport/25234854.rescue-plan-set-see-dumbarton-reformed-newco-liquidation/ |access-date=2025-06-12 |website=The Herald |language=en}}</ref>
+|[[Scottish League One|League One]]
+|−15 pts, additional −5 pts at start of following season<ref name="dumbarton fc penalty">{{Cite web|url=https://www.bbc.co.uk/sport/football/articles/cn8ld8z1nv8o|title=Scottish League 1 Dumbarton enter administration|website=www.bbc.co.uk|date=19 November 2024 |access-date=2024-11-19}}</ref> Original company dissolved, replaced by new company, retained SPFL membership.
+|-
+|}
+
+==Clubs in other sports that have entered administration==
+{| class="wikitable sortable"
+!Club
+!Entered<br/>administration
+!Exited<br/>administration
+!Sport
+!League(s)
+!Deduction(s)
+|-
+| [[Crusaders Rugby League|Crusaders RL]]
+| {{dts|2010|November|12|format=dmy}}<ref name="Crusaders enter">{{cite news|url=https://www.theguardian.com/sport/2010/nov/12/crusaders-administration-super-league-wrexham |title=Crusaders in administration but Wrexham Village aim to secure future |first=Andy |last=Wilson |newspaper=The Guardian |date=12 November 2010 |access-date=13 October 2013 |location=London}}</ref>
+| {{dts|2010|December|27|format=dmy}}<ref name="Crusaders exit">{{Cite web|url=https://www.bbc.co.uk/news/uk-wales-north-east-wales-12074927|title = Wrexham's Crusaders out of administration|website=www.bbc.co.uk/news |publisher= BBC News|date = 24 December 2010}}</ref>
+| [[Rugby League]]
+| [[Super League]]
+| −{{nts|4}}&nbsp;pts<ref>{{cite web|url=https://news.bbc.co.uk/sport2/hi/rugby_league/super_league/celtic_crusaders/9277648.stm |title=Crusaders suffer points deduction |website=news.bbc.co.uk/sport |publisher=BBC Sport |date=10 December 2010 |access-date=24 October 2011}}</ref>
+|-
+| [[Wakefield Trinity]]
+| {{dts|2010|December|1|format=dmy}}<ref name="Wildcats enter">{{cite web|url=https://news.bbc.co.uk/sport2/hi/rugby_league/super_league/wakefield/9383611.stm |title=Wakefield Trinity Wildcats enter administration |website=news.bbc.co.uk/sport |publisher=BBC Sport |date=1 December 2010 |access-date=24 October 2011}}</ref>
+| {{dts|2011|February|17|format=dmy}}<ref name="Wildcats exit">{{cite web|url=https://www.theguardian.com/sport/2011/feb/17/wakefield-wildcats-andrew-glover |title=Wakefield Wildcats out of administration after sale goes through |newspaper=The Guardian |location=London |date=17 February 2011 |access-date=12 October 2013}}</ref>
+| [[Rugby League]]
+| [[Super League]]
+| −{{nts|4}}&nbsp;pts<ref>{{cite news|url=https://www.theguardian.com/sport/2011/feb/18/wakefield-docked-four-points-administration |title=Wakefield docked four points for going into administration |newspaper=The Guardian |location=London |date=18 February 2011 |access-date=13 October 2013}}</ref>
+|}
+
+==Notes==
+{{reflist|group="nb"}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[https://web.archive.org/web/20130725190537/http://www.footballclubsinadministration.com/ Football Clubs In Administration]
+
+[[Category:Association football terminology]]
+[[Category:Laws of association football]]
+[[Category:History of association football]]
+[[Category:Insolvency]]

@@ -1,0 +1,199 @@
+{{Short description|Nickname for Scottish football team of 1928}}
+{{Use British English|date=December 2022}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox football match
+|                   title = 
+|                   image = 
+|                   event = [[1928 British Home Championship]]
+|                   team1 = [[England national football team|England]]
+|        team1association = {{flagicon|ENG|size=30px}}
+|              team1score = 1
+|                   team2 = [[Scotland national football team|Scotland]]
+|        team2association = {{flagicon|SCO|size=30px}}
+|              team2score = 5
+|                 details = 
+|                    date = 31 March 1928
+|                 stadium = [[Wembley Stadium (1923)|Wembley Stadium]]
+|                    city = [[London]]
+|      man_of_the_match1a = 
+|                 referee = [[Willie Bell (referee)|Willie Bell]] ([[Scottish Football Association|Scotland]])
+|              attendance = 80,868
+|                previous = 
+|                    next = 
+}}
+The '''Wembley Wizards''' is the nickname for the [[Scotland national football team]] that defeated 
+[[England national football team|England]] 5–1 at [[Wembley Stadium (1923)|Wembley]] in the [[1928 British Home Championship]].<ref name = "auld enemy"/><ref name=bbc20>{{cite web |url=https://www.bbc.co.uk/sport/football/52089989 |title=England 1-5 Scotland: The day the Wembley Wizards were born |first=Richard |last=Winton |website=BBC Sport |publisher=BBC |date=31 March 2020 |access-date=1 April 2020}}</ref>
+
+==Background==
+Scotland had failed to win either of their previous matches in the [[1928 British Home Championship]], losing 1–0 to [[Ireland national football team (1882–1950)|Ireland]] at [[Hampden Park]] and drawing 2–2 with [[Wales national football team|Wales]] in [[Wrexham]].<ref name = "bbc sporting nation">{{cite web |url=http://www.bbc.co.uk/scotland/sportscotland/asportingnation/article/0021/ |title=Wembley Wizards 1928 |publisher=[[BBC]] |access-date=7 August 2010}}</ref><ref name=bbc20/> England had lost their first two games, 2–0 to Ireland in [[Belfast]] and 2–1 in [[Burnley]] to the eventual champions Wales. England's recent record against Scotland was poor, having only won once against Scotland in the 1920s.<ref name = "bbc sporting nation"/> That solitary win had come in the previous match between the teams, a 2–1 win at Hampden in the [[1927 British Home Championship]] that gave England a share of the championship with Scotland.
+
+The [[Scottish Football League XI]] had lost 6–2 to [[the Football League]] at Hampden on 10 March.<ref name = "league int">{{cite web |url=http://www.londonhearts.com/scores/images/1928/1928031001.htm |title=Hearts and Scottish Football Reports For Sat 10 Mar 1928 Page 01 of 12 |publisher=londonhearts.com |access-date=7 August 2010}}</ref> An international trial match was played on the following Tuesday between the [[Home Scots v Anglo-Scots|''Anglos'' and ''Home Scots'']].<ref name = "league int"/><ref group = "note">Scottish players playing in the [[The Football League|English league]], opposing Scottish players playing in the [[Scottish Football League|Scottish league]].</ref> The two sides for that game, a 1–1 draw on 13 March, were as follows:<ref>[http://www.londonhearts.com/scores/images/1928/1928031301.htm Trial Match Report], www.londonhearts.com</ref><ref name=bbc20/>
+
+'''Home Scots''': [[Jack Harkness (footballer, born 1907)|Jack Harkness]] ([[Queen's Park F.C.|Queen's Park]]); [[Dougie Gray]] ([[Rangers F.C.|Rangers]]), [[Willie McStay (footballer born 1890)|Willie McStay]] (captain, [[Celtic F.C.|Celtic]]); [[James Kennedy (footballer)|James Kennedy]] ([[Falkirk F.C.|Falkirk]]), [[Alex Lambie]] ([[Partick Thistle F.C.|Partick Thistle]]), [[Tully Craig]] (Rangers); [[Peter Gavigan]] ([[St Johnstone F.C.|St Johnstone]]), [[Stewart Chalmers]] (Queen's Park), [[David McCrae]] ([[St Mirren F.C.|St Mirren]]), [[Bob McPhail]] ([[Airdrieonians F.C. (1878)|Airdrieonians]]), [[Adam McLean (footballer)|Adam McLean]] (Celtic).
+
+'''Anglo Scots''': [[Jock Crawford]] ([[Blackburn Rovers F.C.|Blackburn Rovers]]); [[James Nelson (Scottish footballer)|James Nelson]] ([[Cardiff City F.C.|Cardiff City]]), [[John Smith (footballer, born 1898)|John Smith]] ([[Middlesbrough F.C.|Middlesbrough]]); [[Johnny Duncan (footballer)|Johnny Duncan]] ([[Leicester City F.C.|Leicester City]]), [[Tom Bradshaw (footballer born 1904)|Tom Bradshaw]] ([[Bury F.C.|Bury]]), [[Jimmy McMullan]] ([[Manchester City F.C.|Manchester City]]); [[David Robbie (Scottish footballer)|David Robbie]] (Bury), [[Arthur Lochhead]] ([[Leicester City F.C.|Leicester City]]), [[Tommy Jennings]] ([[Leeds United A.F.C.|Leeds United]]), [[Alex James (footballer)|Alex James]] ([[Preston North End F.C.|Preston North End]]), [[George McLachlan]] (Cardiff City).
+
+A large crowd gathered outside the [[Scottish Football Association]] offices to hear the official announcement of the team to face England.<ref name = "bbc sporting nation"/> The selection came as a surprise and caused much controversy, as regulars [[Davie Meiklejohn]], [[Jimmy McGrory]], [[Bob McPhail]] and [[Willie McStay (footballer born 1890)|Willie McStay]] were omitted.<ref name = "bbc sporting nation"/><ref name=bbc20/> The Anglos appeared to be favoured, with eight players from [[The Football League]] selected to play.<ref name = "bbc sporting nation"/> [[Tom Bradshaw (footballer born 1904)|Tom Bradshaw]] had been picked to make his international debut; he would have the unenviable task of marking [[Dixie Dean]], the prolific [[Everton F.C.|Everton]] goalscorer.<ref name = "bbc sporting nation"/> [[Hughie Gallacher]] was also selected despite having not played for two months<ref name = "bbc sporting nation"/> due to serving a suspension for pushing a referee into a bath.<ref name=bbc20/>
+
+The Scottish media was unimpressed by the selection, with the ''[[Daily Record (Scotland)|Daily Record]]'' commenting simply that "it's not a great side."<ref name = "bbc sporting nation"/> Four of the England side were playing for [[Huddersfield Town F.C.|Huddersfield Town]], one of the strongest League sides at the time, and [[Dixie Dean]] was nearing the end of his record 60-goal league season. The received opinion was that England would win, as the Scottish side were not only considered to be less talented than their counterparts, but also less physically powerful.<ref name = "bbc sporting nation"/> Of the forward line of [[Alex Jackson (footballer born 1905)|Alex Jackson]], [[Jimmy Dunn (footballer, born 1900)|James Dunn]], Gallacher, [[Alex James (footballer)|Alex James]] and [[Alan Morton]], Jackson was the tallest at just {{height|ft=5|in=7}}.<ref name = "bbc sporting nation"/>
+
+Nonetheless, there was still great excitement in Scotland ahead of the game, with 11 special trainloads of supporters travelling from Glasgow to London on the Friday night before the game.<ref name = "bbc sporting nation"/><ref name=bbc20/> The Scottish players stayed at the Regent Palace hotel, where the captain [[Jimmy McMullan]] said: "The [SFA] President (Robert Campbell)<ref>{{cite web |url=http://www.perthstjohnstonefc.co.uk/history-legends.php#rcampbell |title=Robert Campbell |work=perthstjohnstonefc.co.uk |publisher=St Johnstone FC |access-date=26 November 2013 |first=Alastair |last=Blair |archive-date=12 October 2014 |archive-url=https://web.archive.org/web/20141012113147/http://www.perthstjohnstonefc.co.uk/history-legends.php#rcampbell |url-status=dead }}</ref> wants us to discuss football but you all know what's expected of you tomorrow. All I've got to say is, go to your bed, put your head on your pillow and pray for rain."<ref name = "bbc sporting nation"/> Rain would mean a heavy pitch, which would suit the small Scottish forwards.<ref name = "bbc sporting nation"/> McMullan's prayers were answered as London awoke to heavy rain.<ref name = "bbc sporting nation"/><ref name=bbc20/>
+
+==The match==
+[[File:Wembley wizards duke york.jpg|thumb|250px|'The Wembley Wizards' being introduced to the Duke of York before the match]]
+The game had a dramatic opening, with [[Billy Smith (footballer born 1895)|Billy Smith]] hitting the post in the first attack of the game with Scottish goalkeeper [[Jack Harkness (footballer, born 1907)|Jack Harkness]] beaten.<ref name = "auld enemy">{{cite web |url=http://www.scottishfa.co.uk/scottish_football.cfm?page=132 |title=Auld Enemy |publisher=[[Scottish Football Association]] |access-date=7 August 2010}}</ref><ref name = "bbc sporting nation"/> Scotland immediately responded; [[Alan Morton]] received the ball on the left wing and crossed for [[Alex Jackson (footballer born 1905)|Alex Jackson]] to head in the opening goal after just three minutes.<ref name = "auld enemy"/><ref name = "bbc sporting nation"/><ref name=bbc20/> The performances of Morton and Jackson on the wings forced English defenders wide to combat them, which left space for Dunn, Gallacher and James to exploit.<ref name = "bbc sporting nation"/> A resolute performance by the English defence kept Scotland at bay for most of the first half, but with just one minute remaining before half-time, Alex James beat [[Ted Hufton]] in the England goal with a left-foot shot.<ref name = "auld enemy"/><ref name=bbc20/>
+
+What followed in the second half was one of the most memorable 45 minutes in Scottish football history. Conditions did not improve, yet the Scots raised their game further, dominating the game.<ref name = "auld enemy"/> The third Scottish goal, 20 minutes into the second half, was similar to their first, as Morton took the ball almost to the corner flag before sending over another precision cross which Jackson met with his head.<ref name = "auld enemy"/><ref name = "bbc sporting nation"/> Moments after this third goal, James made the score 0–4, ably assisted by Gallacher.<ref name = "auld enemy"/><ref name = "bbc sporting nation"/> Jackson converted another cross from Morton with five minutes left on the clock to complete his hat-trick and to make the score 0–5.<ref name = "auld enemy"/><ref name = "bbc sporting nation"/><ref name=bbc20/> England were well beaten but, with a minute to go, [[Bob Kelly (footballer)|Bob Kelly]] struck a free-kick past [[Jack Harkness (footballer, born 1907)|Jack Harkness]] to make the final score England 1–5 Scotland.<ref name = "auld enemy"/><ref name = "bbc sporting nation"/> At the end of the game the rain-sodden crowd applauded the away team's performance.<ref name = "auld enemy"/>
+
+{{football box |
+ | date = 31 March 1928
+ | time = 12:30
+ | team1 = {{fb-rt|ENG}}
+ | score = 1–5
+ | report =
+ | team2 = {{fb|SCO}}
+ | goals1 = [[Bob Kelly (footballer)|Bob Kelly]] {{goal|89}}
+ | goals2 = [[Alex Jackson (footballer born 1905)|Alex Jackson]] {{goal|3||65||85}}<br /> [[Alex James (footballer)|Alex James]] {{goal|44||74}}
+ | stadium = [[Wembley Stadium (1923)|Wembley Stadium]], [[London]]
+|attendance=80,868
+ | referee = Willie Bell ([[Scottish Football Association|Scotland]])<ref group = "note">The practice of an 'away' side providing the referee was well established in the 1920s. Scottish referee [[Tom Doughray]] had refereed the England v Scotland matches played in 1920, 1922, 1924 and 1926.</ref> }}
+ 
+{| width=92%
+|-
+|{{Football kit
+ |pattern_la = 
+ |pattern_b  = _collar
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _2whitestripes
+ |leftarm    = ffffff
+ |body       = ffffff
+ |rightarm   = ffffff
+ |shorts     = 000066
+ |socks      = 000000
+ |title      = England
+}}
+|{{Football kit
+ |pattern_la =
+ |pattern_b  = _whitecollarplain
+ |pattern_ra =
+ |pattern_sh =
+ |pattern_so = _2whitestripes
+ |leftarm    = 000066
+ |body       = 000066
+ |rightarm   = 000066
+ |shorts     = ffffff
+ |socks      = 000066
+ |title      = Scotland
+}}
+|}
+{{col-begin}}
+{{col-2}}
+{| style="font-size:90%; margin:0.2em auto;" cellspacing="0" cellpadding="0"
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||''' ''' ||[[Ted Hufton]] <small>([[West Ham United F.C.|West Ham United]])</small>
+|-
+|FB ||''' ''' ||[[Roy Goodall]] <small>([[Huddersfield Town F.C.|Huddersfield Town]])</small> ([[Captain (association football)|c]])
+|-
+|FB ||''' ''' ||[[Herbert Jones (footballer, born 1896)|Herbert Jones]] <small>([[Blackburn Rovers F.C.|Blackburn Rovers]])</small>
+|-
+|RH ||''' ''' ||[[Willis Edwards]] <small>([[Leeds United F.C.|Leeds United]])</small>
+|-
+|CH ||''' ''' ||[[Tom Wilson (footballer, born 1896)|Thomas Wilson]] <small>([[Huddersfield Town F.C.|Huddersfield Town]])</small>
+|-
+|LH ||''' ''' ||[[Henry Healless]] <small>([[Blackburn Rovers F.C.|Blackburn Rovers]])</small>
+|-
+|RW ||''' ''' ||[[Joe Hulme]] <small>([[Arsenal F.C.|Arsenal]])</small>
+|-
+|IR ||''' '''||[[Bob Kelly (footballer)|Bob Kelly]] <small>([[Huddersfield Town F.C.|Huddersfield Town]])</small>
+|-
+|CF ||''' '''||[[Dixie Dean]] <small>([[Everton F.C.|Everton]])</small>
+|-
+|IL ||''' ''' ||[[Joe Bradford]] <small>([[Birmingham City F.C.|Birmingham]])</small>
+|-
+|LW ||''' ''' ||[[Billy Smith (footballer born 1895)|Billy Smith]] <small>([[Huddersfield Town F.C.|Huddersfield Town]])</small>
+|-
+|}
+{{col-2}}
+{| cellspacing="0" cellpadding="0" style="font-size:90%; margin:auto;"
+|colspan=4|
+|-
+!width=25| !!width=25|
+|-
+|GK ||''' ''' ||[[Jack Harkness (footballer, born 1907)|Jack Harkness]] <small>([[Queen's Park F.C.|Queen's Park]])</small>
+|-
+|FB ||''' ''' ||[[James Nelson (Scottish footballer)|James Nelson]] <small>([[Cardiff City F.C.|Cardiff City]])</small>
+|-
+|FB ||''' ''' ||[[Tommy Law]] <small>([[Chelsea F.C.|Chelsea]])</small>
+|-
+|RH ||''' ''' ||[[Jimmy Gibson (footballer born 1901)|Jimmy Gibson]] <small>([[Aston Villa F.C.|Aston Villa]])</small>
+|-
+|CH ||''' ''' ||[[Tom Bradshaw (footballer born 1904)|Tom Bradshaw]] <small>([[Bury F.C.|Bury]])</small>
+|-
+|LH ||''' ''' ||[[Jimmy McMullan]] <small>([[Manchester City F.C.|Manchester City]])</small> ([[Captain (association football)|c]])
+|-
+|RW ||''' ''' ||[[Alex Jackson (footballer born 1905)|Alex Jackson]] <small>([[Huddersfield Town F.C.|Huddersfield Town]])</small>
+|-
+|IR ||''' ''' ||[[Jimmy Dunn (footballer, born 1900)|James Dunn]] <small>([[Hibernian F.C.|Hibernian]])</small>
+|-
+|CF ||''' ''' ||[[Hughie Gallacher]] <small>([[Newcastle United F.C.|Newcastle United]])</small>
+|-
+|IL ||''' '''||[[Alex James (footballer)|Alex James]] <small>([[Preston North End F.C.|Preston North End]])</small>
+|-
+|LW ||''' '''||[[Alan Morton]] <small>([[Rangers F.C.|Rangers]])</small>
+|-
+|}
+{{col-end}}
+
+==Aftermath==
+
+When asked for his comment after the game, Alex James simply beamed a smile and said, "We could have had ten!"
+
+Back in Scotland the pubs did rather well and the newspapers were not slow in piling praise on the heads of those little no-hopers of the Scottish side. ''The Glasgow Herald'' was a typical example when they said: "Want of height was looked upon as a handicap to the Scots' attack, but the Scottish forwards had the ability and skill of such high degree as to make their physical shortcomings of little consequence." Scotland skipper Jimmy McMullan took time out from the after match celebrations to comment on the way he saw the game:
+
+<blockquote>
+I want to emphasise that all our forwards are inherently clever. ... But I wish to say that the English tactics were wrong. The Saxon wing-halves paid more attention to the wingers than the inside forwards – therefore the latter were given a lot of space. It is a common thing in England to let wing halves, and not fullbacks, mark the wingers. It doesn’t pay and I don’t know why they pursue it.</blockquote>
+
+It was a gentlemanly comment, as he did not belittle the English effort or try to elevate his own side to the abnormal, but merely made an observation which was probably just about right. By adopting those tactics, England placed themselves at the mercy of a much-underrated Scotland attack. The rain made matters worse for England too.
+
+It was also a historic day in the story of Wembley Stadium. In a booklet published by the stadium owners in 1945, the story is told like this:<ref name=autogeneratedHG>[http://www.qosfc.com/AboutUs/OurHistory/QueensLegends/HughieGallacher/tabid/181/language/en-GB/Default.aspx Wembley Wizards report in Hughie Gallacher profile]  {{webarchive |url=https://web.archive.org/web/20110723070946/http://www.qosfc.com/AboutUs/OurHistory/QueensLegends/HughieGallacher/tabid/181/language/en-GB/Default.aspx |date=23 July 2011 }}</ref>
+
+<blockquote>
+English football fans shudder when the year 1928 is mentioned. The traditional enemy, Scotland came to Wembley and gave the Sassenachs a first class lesson in the art of playing football. So much so that, to this day, that Scottish team is still spoken of as 'The Wembley Wizards'.<ref name=autogeneratedHG />
+
+All Scotland seemed to come to town for that match, and the fans actually brought their own scaling ladders to make sure of getting into the stadium. As a result of this, Wembley afterwards became a barbed wire fortress.<ref name=autogeneratedHG />
+
+The King and Queen of Afghanistan were among the mammoth crowd who saw the Scots make rings around England. It was Scotland’s day without a doubt. Alan Morton, Glasgow Rangers' Wee Blue Devil, and Alex Jackson, then with Huddersfield and later with Chelsea, were on the Scottish wings and the English defenders just couldn’t do anything about them. Also of course there was the great Alex James – he of long pants who rarely scored a goal but made openings for hundreds.
+</blockquote>
+
+[[Ivan Sharpe]], the ex-player and writer, commented on the victory for the ''[[Athletic News]]'': "England were not merely beaten. They were bewildered – run to a standstill, made to appear utterly inferior by a team whose play was as cultured and beautiful as I ever expect to see."<ref name=autogeneratedHG /><ref name=bbc20/> More than 30 years later he was still writing the same thing, adding that he had never seen a performance to match it in all the time that he had been watching football.
+
+The Wizards were never selected again en masse for an international match.<ref name = "bbc sporting nation"/> [[Tom Bradshaw (footballer born 1904)|Tom Bradshaw]] never played another game for Scotland, despite effectively marking Dixie Dean out of the game.<ref name = "bbc sporting nation"/><ref name=bbc20/> Bradshaw was the last surviving member of the victorious Scotland side, dying in February 1986 at the age of 82, four months after the death of goalkeeper Jack Harkness at the age of 78. The last survivor from the losing side was Joe Hulme, who died in September 1991 at the age of 87.
+
+==Notes==
+<references group="note" />
+
+==References==
+{{Reflist}}
+
+*{{cite book | author=Joannou, Paul | title=Wembley Wizards| publisher=Mainstream Publishing| year=1990| isbn=1-85158-320-3}}
+*[http://www.englandstats.com/matchreport.php?mid=159 englandstats.com Match details]
+*[http://www.londonhearts.com/scotland/games/19280331.html londonhearts.com Match details]
+*[http://www.londonhearts.com/scores/images/1928/ww.htm Contemporary Match Reports] {{Webarchive|url=https://web.archive.org/web/20080507234308/http://www.londonhearts.com/scores/images/1928/ww.htm |date=7 May 2008 }}
+
+{{England national football team matches}}
+{{Scotland national football team matches}}
+
+[[Category:Scotland national football team matches]]
+[[Category:England national football team matches]]
+[[Category:Nicknamed groups of association football players]]
+[[Category:England–Scotland football rivalry]]
+[[Category:1927–28 in Scottish football]]
+[[Category:1927–28 in English football]]
+[[Category:Sports events at Wembley Stadium]]
+[[Category:March 1928 sports events in the United Kingdom]]
+[[Category:Football matches in England]]
+[[Category:1928 in sport in London]]
+[[Category:British Home Championship]]

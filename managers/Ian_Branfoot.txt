@@ -1,0 +1,92 @@
+{{Short description|English footballer and manager}}
+{{Use dmy dates|date=February 2024}}
+{{Use British English|date=June 2016}}
+{{Infobox football biography
+| name = Ian Branfoot
+| image = 
+| caption = 
+| full_name = Ian Grant Branfoot
+| birth_date = {{birth date and age|1947|1|26|df=y}}
+| birth_place = [[Gateshead]], England
+| height = 
+| position = [[Full-back (association football)|Full-back]]
+| youthyears1 = 
+| youthclubs1 = [[Gateshead F.C.|Gateshead]]
+| years1 = 1965–1969
+| clubs1 = [[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+| caps1 = 36
+| goals1 = 0
+| years2 = 1969–1973
+| clubs2 = [[Doncaster Rovers F.C.|Doncaster Rovers]]
+| caps2 = 156
+| goals2 = 5
+| years3 = 1973–1977
+| clubs3 = [[Lincoln City F.C.|Lincoln City]]
+| caps3 = 166
+| goals3 = 11
+| totalcaps = 358
+| totalgoals = 16
+| manageryears1 = 1984–1989
+| managerclubs1 = [[Reading F.C.|Reading]]
+| manageryears2 = 1991–1994
+| managerclubs2 = [[Southampton F.C.|Southampton]]
+| manageryears3 = 1994–1996
+| managerclubs3 = [[Fulham F.C.|Fulham]]
+| nationalyears1 = 
+| nationalteam1 = 
+| nationalcaps1 = 
+| nationalgoals1 = 
+}}
+'''Ian Grant Branfoot''' (born 26 January 1947<ref name=fl>{{NeilBrownPlayers|player/ianbranfoot}}</ref>) is an English former [[association football|football]] player and manager.
+
+Born in [[Gateshead]], he played as a [[full-back (association football)|full-back]], and after starting at [[Gateshead F.C.|Gateshead]] joined [[Sheffield Wednesday F.C.|Sheffield Wednesday]],<ref name=fl/> making his [[Football League]] debut in 1965. After 42 senior appearances for the club he left in [[1969–70 Football League|1969–70]] for [[Doncaster Rovers F.C.|Doncaster Rovers]].<ref name=fl/> He made over 150 League appearances for Rovers, and after moving to [[Lincoln City F.C.|Lincoln City]] in 1973–74, he went on to make over 150 league appearances for the Imps as well.<ref name=fl/>
+
+Branfoot was manager of [[Reading F.C.|Reading]] from 31 January 1984 to 23 October 1989.<ref name=sbm>{{soccerbase manager|624}}</ref> He must rank as one of Reading's most successful managers, leading Reading to promotion from Division 4 to Division 3 in 1984 based on the good work of Maurice Evans, and then promotion from Division 3 to Division 2 as champions in 1986. This last achievement included a record breaking start to the season of 13 straight wins. The club maintained a 13th position the next season but were relegated in 1988. However, in the same season that they won the [[Full Members Cup]] beating Luton Town 4–1 at Wembley.<ref>{{cite book| first=Alan| last=Sedunary| year=2008| title=The Little Book of Reading FC| isbn=9781859836583}}</ref>
+
+He became manager of [[Southampton F.C.|Southampton]] in June 1991, remaining in this position until January 1994. He then managed [[Fulham F.C.|Fulham]] between 1994 and 1996.<ref name=sbm/> Branfoot later had a spell at [[Sunderland A.F.C.|Sunderland]] as academy director and at [[Leeds United F.C.|Leeds United]] as a scout. He also coached at [[Winchester College]].<ref>{{cite news| title=Where Are They Now? We catch up with Reading's 1985-86 Division Three champions|  newspaper=The Football League Paper| date=13 August 2017| first=Neil| last=Fissler| url=https://www.pressreader.com/uk/the-football-league-paper/20170813/textview| via=PressReader}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.adrianbullock.com/swfc/stats/play0063.htm Sheff Wed player stats at Adrianbullock.com]
+
+{{Navboxes
+| title = Awards
+| bg = gold
+| fg = navy
+| list1 = 
+{{1973–74 Football League Fourth Division PFA Team of the Year}}
+{{1975–76 Football League Fourth Division PFA Team of the Year}}
+{{Reading F.C. Hall of Fame}}
+}}
+{{Navboxes
+| title = Managerial positions
+| list1 = 
+{{Reading F.C. managers}}
+{{Southampton F.C. managers}}
+{{Fulham F.C. managers}}
+}}
+
+{{DEFAULTSORT:Branfoot, Ian}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Footballers from Gateshead]]
+[[Category:English men's footballers]]
+[[Category:Men's association football full-backs]]
+[[Category:English Football League players]]
+[[Category:Sheffield Wednesday F.C. players]]
+[[Category:Doncaster Rovers F.C. players]]
+[[Category:Lincoln City F.C. players]]
+[[Category:English football managers]]
+[[Category:English Football League managers]]
+[[Category:Premier League managers]]
+[[Category:Reading F.C. managers]]
+[[Category:Southampton F.C. managers]]
+[[Category:Fulham F.C. managers]]
+<!--[[Category:Crystal Palace F.C. non-playing staff]] Unsourced/not mentioned in article-->
+[[Category:Sunderland A.F.C. non-playing staff]]
+[[Category:Leeds United F.C. non-playing staff]]
+
+
+{{England-footy-defender-1940s-stub}}

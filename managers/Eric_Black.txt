@@ -1,0 +1,290 @@
+{{Short description|Scottish footballer (born 1963)}}
+{{other uses}}
+{{Use British English|date=September 2025}}
+{{Use dmy dates|date=September 2025}}
+{{Infobox football biography
+| name = Eric Black
+| image = 
+| full_name = John Eric Black<ref>[https://www.scotlandspeople.gov.uk/record-results?search_type=people&dl_cat=statutory&dl_rec=statutory-births&surname=Black%20&surname_so=exact&forename=Eric%20&forename_so=starts&sex=M&from_year=1960&to_year=1965&record_type=stat_births Statutory registers - Births - Search results], [[ScotlandsPeople]]</ref>
+| birth_date = {{birth date and age|df=y|1963|10|1}}
+| birth_place = [[Bellshill]], Scotland
+| height = 5ft 8in<ref name=afcht/>
+| position = [[Striker (association football)|Striker]]
+| youthyears1 = 1980–1981
+| youthclubs1 = [[Aberdeen F.C. Reserves and Academy|Aberdeen]]
+| years1 = 1981–1986
+| clubs1 = [[Aberdeen F.C.|Aberdeen]]
+| caps1 = 115
+| goals1 = 45
+| years2 = 1986–1991
+| clubs2 = [[FC Metz|Metz]]
+| caps2 = 86
+| goals2 = 26
+| totalcaps = 201
+| totalgoals = 71
+| nationalyears1 = 1982–1985
+| nationalteam1 = [[Scotland national under-21 football team|Scotland U21]]<ref>{{cite web |url=http://www.fitbastats.com/scotlandu21/player.php?playerid=97 |title=[Scotland U21 player] Eric Black |work=www.fitbastats.com |access-date=11 October 2012}}</ref>
+| nationalcaps1 = 8
+| nationalgoals1 = 2
+| nationalyears2 = 1987
+| nationalteam2 = [[Scotland national football team|Scotland]]
+| nationalcaps2 = 2
+| nationalgoals2 = 0
+| manageryears1 = 2001–2002
+| managerclubs1 = [[Motherwell F.C.|Motherwell]]
+| manageryears2 = 2003–2004
+| managerclubs2 = [[Coventry City F.C.|Coventry City]]
+| manageryears3 = 2007
+| managerclubs3 = [[Birmingham City F.C.|Birmingham City]] (caretaker)
+| manageryears4 = 2011
+| managerclubs4 = [[Sunderland A.F.C.|Sunderland]] (caretaker)
+| manageryears5 = 2012
+| managerclubs5 = [[Blackburn Rovers F.C.|Blackburn Rovers]] (caretaker)
+| manageryears6 = 2015
+| managerclubs6 = [[Rotherham United F.C.|Rotherham United]] (caretaker)
+| manageryears7 = 2016
+| managerclubs7 = [[Aston Villa F.C.|Aston Villa]] (caretaker)
+}}
+'''John Eric Black''' (born 1 October 1963) is a Scottish former professional [[association football|football]] player and coach. Black played as a [[striker (association football)|striker]] for [[Aberdeen F.C.|Aberdeen]] and [[FC Metz|Metz]], winning major trophies with both clubs, and earned two international caps for the [[Scotland national football team|Scotland national team]]. He was forced to retire from playing at a relatively early age and became a coach, working as a [[Manager (association football)|manager]] at [[Motherwell F.C.|Motherwell]] and [[Coventry City F.C.|Coventry City]].
+
+==Playing career==
+Born in [[Bellshill]], [[Lanarkshire]], Black spent his early life in the [[Glasgow]] area before his family moved north to [[Nigg, Highland]] due to his father's job in the offshore oil industry, and he signed for [[Aberdeen F.C.|Aberdeen]] in 1980 (a week after [[Bryan Gunn]] who came from the same part of the country).<ref name=convo19>[https://www.afc.co.uk/2019/12/31/in-conversation-with-eric-black/ AFC FPS {{!}} In Conversation With Eric Black], Aberdeen FC RedMatchday Programme, 31 December 2019</ref> He won the Scottish 2nd XI Cup with the reserves.<ref>{{cite web | url = https://afcheritage.org/matches/match-report?id=9931 |title = ABERDEEN 2 - 1 CELTIC (2nd XI Final 2nd Leg) | website = AFC Heritage |access-date = 30 May 2023 }}</ref> Black was heavily involved in the most successful era of Aberdeen's history under the management of [[Alex Ferguson]], the pinnacle being their victory in the [[UEFA Cup Winners' Cup|European Cup Winners' Cup]] in 1983 with a [[1983 European Cup Winners' Cup Final|2–1 win]] over [[Real Madrid C.F.|Real Madrid]], in which the then 19-year-old Black scored the first goal.<ref>{{cite web |url=https://www.bbc.co.uk/news/uk-scotland-22456162 |title=Fergie's greatest triumph? - How Aberdeen conquered European football |first=Steven |last=Brocklehurst |work=BBC News |publisher=BBC |date=9 May 2013 |access-date=30 May 2016}}</ref><ref name="FS"/><ref>{{cite web | url=https://www.theneweuropean.co.uk/brexit-news/jason-solomons-on-the-three-kings-film-6317744 | title=The three kings: The footballers who transformed Britain | date=13 November 2020 | website=theneweuropean.co.uk | accessdate=11 August 2021}}</ref> Black's main assets were his strength in the air (despite not being particularly tall) and goalscoring instincts.<ref name=afcht>[http://www.afcheritage.org/Team/CurrentSquad/player_show.cfm?player_id=236 Eric Black], AFC Heritage Trust</ref><ref name=convo19/> In February 1983, Black scored a hat-trick in a 3–1 win against [[Celtic F.C.|Celtic]],<ref>{{cite web |url=http://www.afc.co.uk/news/7344.php#.V0vL94-cFYc |title=Aberdeen v Celtic: the history |work=www.afc.co.uk |publisher=Aberdeen FC |date=30 January 2016 |access-date=30 May 2016}}</ref> as of 2020 still the last visiting player to score three at [[Celtic Park]].<ref name=convo19/><ref name=walked19/> He made 180 appearances (30 as substitute) in all competitions for Aberdeen and scored 70 goals between 1981 and 1986, winning two [[Scottish Football League]] titles, three [[Scottish Cups]] and a [[Scottish League Cup]] as well the Cup Winners' Cup and the [[European Super Cup]] in 1983.<ref name=afcht/> He missed out on a potential fourth Scottish Cup medal when he was overlooked for the [[1986 Scottish Cup Final|1986 final]] having already agreed to move abroad.<ref name=convo19/>
+
+In summer 1986, Black joined [[FC Metz|Metz]] in France.<ref>{{Cite web|url=https://www.eveningexpress.co.uk/fp/sport/football/english-football/dons-legend-black-resigns-over-back-issues/|title=Dons legend Eric Black resigns from Southampton over back issues|last=Reporter|website=Evening Express|date=16 November 2016 |access-date=24 January 2019}}</ref> He had initially agreed a deal in principle with [[Arsène Wenger]] to join [[AS Monaco FC|Monaco]], but this fell through when Wenger was not released from his previous club contract at that time as had been anticipated.<ref name="FS"/> After five seasons (1986 to 1991) with Metz, during which he won the Summer Cup (forerunner of the [[Coupe de la Ligue|League Cup]]) within weeks of arriving in 1986 and the [[Coupe de France|French Cup]] in [[1988 Coupe de France Final|1988]] (and off the field became a father to two children),<ref name="FS"/> Black was forced to retire from the game aged 27 due to a chronic back problem.<ref name = "Fergie">{{cite book |url=https://books.google.com/books?id=jJFl52Whw34C&q=eric+black+retire+back+injury&pg=PA224  |title=The Boss: The Many Sides of Alex Ferguson |author=Michael Crick |author-link=Michael Crick |page=224 |year=2003 |publisher=Simon and Schuster|isbn=9780743429917 }}</ref> Alex Ferguson later admitted that injury problems suffered by Black and other young players he had managed at Aberdeen were due to them playing an excessive number of games at a young age.<ref name = "Fergie"/> In all, Black made 95 appearances for Metz, scoring 34 goals.<ref>[https://www.fcmetz.com/black-eric Eric Black], FC Metz</ref>
+
+==Coaching career==
+Black was a coach and assistant manager at Celtic, leaving the club when head coach [[John Barnes (footballer)|John Barnes]] was sacked in February 2000.<ref>{{cite web |url=https://news.bbc.co.uk/2/hi/uk_news/scotland/637415.stm |title=Barnes forced out |work=BBC News |publisher=BBC |date=10 February 2000 |access-date=30 May 2016}}</ref> Black was appointed manager of [[Motherwell F.C.|Motherwell]] in October 2001.<ref>{{Cite web| url = https://news.bbc.co.uk/sport2/hi/scotland/1593921.stm| title = Motherwell go for Black| publisher = BBC |work=BBC Sport| date = 16 October 2001| access-date = 24 November 2007}}</ref> He was appointed [[Coventry City F.C.|Coventry City]] manager in January 2004, following the resignation of [[Gary McAllister]].<ref>{{Cite web | url = https://news.bbc.co.uk/sport2/hi/football/teams/c/coventry_city/3400079.stm | title = Black named Coventry boss | publisher = BBC Sport | date = 15 January 2004 | access-date = 24 November 2007}}</ref> Black was sacked by Coventry for "being inconsistent", despite a 5–2 win against [[Gillingham F.C.|Gillingham]].{{citation needed|date=May 2016}} and 6-1 away to Walsall. This angered many fans who believed that Black had brought an attractive and highly effective style of football back to the club and was merely being moved on for a bigger name (he was succeeded by [[Peter Reid]], who proved to be a major disappointment).{{citation needed|date=May 2016}}
+
+Black joined [[Birmingham City F.C.|Birmingham City]] in July 2004 as assistant manager to [[Steve Bruce]].<ref>{{Cite web| url = https://news.bbc.co.uk/sport2/hi/football/teams/b/birmingham_city/3873271.stm | title = Black moves to Blues | publisher = BBC Sport | date = 7 July 2004 | access-date = 24 November 2007 }}</ref> He managed one game as caretaker manager, after Bruce joined [[Wigan Athletic F.C.|Wigan Athletic]], before leaving [[St Andrew's (stadium)|St Andrew's]] in November 2007.<ref name=BirminghamStart>{{cite news |url=https://news.bbc.co.uk/sport2/hi/football/teams/w/wigan_athletic/7105078.stm |title=Bruce confirmed as Wigan manager |publisher=BBC Sport |date=23 November 2007 |access-date=30 May 2016}}</ref><ref name=BirminghamEnd>{{cite news | url = https://news.bbc.co.uk/sport2/hi/football/teams/b/birmingham_city/7115146.stm | title = Birmingham lose caretaker Black | publisher = BBC Sport | date = 27 November 2007 | access-date = 30 May 2016}}</ref> He was assistant manager to Bruce at [[Sunderland A.F.C.|Sunderland]] from June 2009 and was appointed caretaker manager following the departure of Bruce.<ref name=SunderlandStart>{{cite news | url=https://www.bbc.co.uk/sport/football/15975008 | title=Sunderland sack Steve Bruce as manager | publisher=BBC Sport | date=30 November 2011 | access-date=30 May 2016}}</ref> In his only game in charge, Sunderland were beaten 2–1 by [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]].<ref>{{cite news | url=https://news.bbc.co.uk/sport2/hi/football/eng_prem/15908061.stm | title=Sunderland lose to Wolves | date=4 December 2011 | publisher=BBC Sport | access-date=4 December 2011}}</ref> Black left Sunderland on 6 December 2011.<ref>{{cite web | url=http://www.safc.com/news/20111206/oneill-confirms-backroom-additions_2256213_2539149 | title=Black leaves Sunderland | date=6 December 2011 | access-date=6 December 2011}}</ref>
+
+Black was appointed assistant manager to [[Steve Kean]] at [[Blackburn Rovers F.C.|Blackburn Rovers]] in January 2012.<ref>{{cite web | url=https://www.bbc.co.uk/sport/football/16627725 | title=Eric Black to join Blackburn Rovers as Steve Kean's new assistant | publisher=BBC Sport | date=19 January 2012 | access-date=26 January 2012}}</ref> He was caretaker manager at Blackburn after the departure of Kean.<ref>{{cite web |url=https://www.bbc.co.uk/sport/av/football/19991896 |title=Blackburn Rovers: Eric Black focused on first-team matters |work=BBC Sport |publisher=BBC |date=18 October 2012 |access-date=30 May 2016}}</ref>
+
+Black was an advisor at [[Blackpool F.C.|Blackpool]] to caretaker manager [[Barry Ferguson]] in 2014.<ref name = "wigan coach"/> Black was appointed as a coach at Wigan in July 2014.<ref name = "wigan coach">{{cite news |url=https://www.bbc.co.uk/sport/football/28164749 |title=Wigan Athletic: Eric Black returns as first team coach |publisher=BBC Sport |date=4 July 2014 |access-date=4 July 2014}}</ref>
+
+In July 2015, Black was named as first team coach of [[Football League Championship|Championship]] side [[Rotherham United F.C.|Rotherham United]].<ref name = "rotherham coach">{{cite news |url=https://www.bbc.co.uk/sport/football/33443912 |title=Eric Black: Rotherham United appoint First Team Coach |publisher=BBC Sport |date=8 July 2015 |access-date=8 July 2015}}</ref> Black was appointed caretaker manager of Rotherham in September 2015, after manager [[Steve Evans (footballer, born 1962)|Steve Evans]] left the club.<ref>{{cite news |url=http://www.coventrytelegraph.net/sport/football/transfer-news/former-coventry-city-boss-eric-10148770 |title=Former Coventry City boss Eric Black takes temporary charge at Rotherham United |first=Aidan |last=McCartney |newspaper=Coventry Telegraph |date=28 September 2015 |access-date=29 September 2015}}</ref> Black left Rotherham in January 2016 and was then appointed first team coach at [[Aston Villa F.C.|Aston Villa]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/35399523 |title=Aston Villa: Eric Black named as first-team coach |publisher=BBC Sport |date=26 January 2016 |access-date=2 February 2016}}</ref> He was appointed Villa manager on a temporary basis after [[Rémi Garde]] left by mutual consent in March 2016.<ref name=Villa>{{cite news |url=https://www.bbc.co.uk/sport/football/35855813 |title=Remi Garde: Aston Villa manager leaves after 147 days in charge |publisher=BBC Sport |date=29 March 2016 |access-date=30 May 2016}}</ref> Black left Villa in June 2016 following the appointment of [[Roberto Di Matteo]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/36590497 |title=Eric Black: Aston Villa's former caretaker boss leaves club |work=BBC Sport |publisher=BBC |date=21 June 2016 |access-date=22 June 2016}}</ref>
+
+Black joined [[Southampton F.C.|Southampton]] on 30 June 2016, as assistant manager to [[Claude Puel]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/football/36642502 |title=Claude Puel: Southampton appoint Frenchman as manager on three-year deal |work=BBC Sport |publisher=BBC |date=30 June 2016 |access-date=3 July 2016}}</ref> On 29 September, ''[[The Daily Telegraph]]'' alleged that Black had offered advice to a third-party player ownership consortium on how to bribe lower league clubs.<ref>{{Cite news|url=https://www.telegraph.co.uk/news/2016/09/29/how-southamptons-eric-black-advised-businessmen-how-to-bribe-low/|title = How Southampton's Eric Black advised 'businessmen' how to bribe lower league staff to get players for fictitious agency|newspaper = The Telegraph|date = 29 September 2016|last1 = Team|first1 = Investigations}}</ref> An investigation by Southampton FC cleared Black of any wrongdoing, as the newspaper refused to provide any evidence to substantiate their allegation.<ref>{{cite news |url=http://www.dailyecho.co.uk/news/14940642.Saints_clear_assistant_Black_of_wrongdoing/ |title=Southampton clear assistant manager Eric Black of wrongdoing following internal investigation |date=1 December 2016 |access-date=22 July 2017 |work=Southern Daily Echo}}</ref> He resigned in December 2017 for personal reasons, with the club citing ongoing back problems due to injuries sustained during his playing career.<ref>{{cite web |url=http://www.skysports.com/football/news/11700/11179751/southampton-first-team-coach-eric-black-resigns-due-to-personal-reasons |title=Southampton first team coach Eric Black resigns due to personal reasons |work=Sky Sports |date=21 December 2017 |access-date=21 December 2017}}</ref> 18 months after leaving that post, he confirmed he no longer wished to be involved in professional coaching and was happy to have left the intense football environment after nearly four decades.<ref name=walked19>[https://www.scotsman.com/sport/football/celtic/latest-celtic-news/aberdeen-icon-eric-black-why-he-walked-away-football-1419891?amp Aberdeen icon Eric Black on why he walked away from football], The Scotsman, 13 April 2019</ref>
+
+== Playing statistics ==
+
+=== Club ===
+{| class="wikitable" style="text-align:center"
+|+Appearances and goals by club, season and competition<ref>{{Cite web |title=Aberdeen Football Club Heritage Trust - Player Profile |url=https://afcheritage.org/Team/CurrentSquad/player_show.cfm?player_id=236 |access-date=21 March 2023 |website=afcheritage.org}}</ref><ref>{{Cite web |title=Eric BLACK - Attaquant |url=https://www.fcmetz.com/black-eric |access-date=21 March 2023 |website=Football Club de Metz |language=fr}}</ref>
+!rowspan="2"|Club
+!rowspan="2"|Season
+!colspan="3"|League
+!colspan="2"|National cup{{efn|Includes [[Scottish Cup]], [[Coupe de France]]}}
+!colspan="2"|League cup{{efn|Includes [[Scottish League Cup]]}}
+!colspan="2"|Europe
+!colspan="2"|Other
+!colspan="2"|Total
+|-
+!Division!!Apps!!Goals!!Apps!!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+!Apps
+!Goals
+|-
+|rowspan="7"|[[Aberdeen F.C.|Aberdeen]]
+|[[1980–81 Aberdeen F.C. season|1980–81]]
+|rowspan="6"|[[Scottish Premier Division]]
+|0||0||0||0||0||0||0||0||colspan="2"|–||0||0
+|-
+|[[1981–82 Aberdeen F.C. season|1981–82]]
+|13||3||2||0||0||0||2{{efn|name=UC|Appearances in [[UEFA Cup]]}}||1||colspan="2"|–||17||4
+|-
+|[[1982–83 Aberdeen F.C. season|1982–83]]
+|31||12||5||1||8||3||8{{efn|name=UCWC|Appearances in [[UEFA Cup Winners' Cup]]}}||3||colspan="2"|–||52||19
+|-
+|[[1983–84 Aberdeen F.C. season|1983–84]]
+|18||6||7||1||6||5||6{{efn|name=UCWC}}||0||1{{efn|Appearance in [[European Super Cup]]}}||0||38||12
+|-
+|[[1984–85 Aberdeen F.C. season|1984–85]]
+|27||16||6||1||0||0||2{{efn|name=EC|Appearances in [[European Cup]]}}||2||colspan="2"|–||35||19
+|-
+|[[1985–86 Aberdeen F.C. season|1985–86]]
+|26||8||5||2||4||4||4{{efn|name=EC}}||1||colspan="2"|–||39||15
+|-
+!colspan="2"|Total
+!115!!45!!25!!5!!18!!12!!22!!7!!1!!0!!181!!69
+|-
+|rowspan="6"|[[FC Metz]]
+|[[1986–87 French Division 1|1986–87]]
+|rowspan="5"|[[French Division 1]]
+|19||10||0||0||0||6||colspan="2"|–||colspan="2"|–||19+||16
+|-
+|[[1987–88 French Division 1|1987–88]]
+|28||8||7||1||colspan="2"|–||colspan="2"|–||colspan="2"|–||35||9
+|-
+|[[1988–89 French Division 1|1988–89]]
+|12||2||1||0||colspan="2"|–||colspan="2"|–||colspan="2"|–||13||2
+|-
+|[[1989–90 French Division 1|1989–90]]
+|23||6||1||1||colspan="2"|–||colspan="2"|–||colspan="2"|–||24||7
+|-
+|[[1990–91 French Division 1|1990–91]]
+|4||0||0||0||colspan="2"|–||colspan="2"|–||colspan="2"|–||4||0
+|-
+!colspan="2"|Total
+!86!!26!!9!!2!!0!!6!!colspan="2"|–!!colspan="2"|–!!95+!!34
+|-
+!colspan="3"|Career total
+!201!!71!!34!!7!!18+!!18!!22!!7!!1!!0!!276+!!103
+|}
+{{notelist}}
+
+=== International ===
+{| class="wikitable" style="text-align:center"
+
+|+Appearances and goals by national team and year<ref>{{Cite web |title=Eric Black {{!}} Scotland {{!}} Scottish FA |url=https://www.scottishfa.co.uk/players/?pid=7 |access-date=21 March 2023 |website=www.scottishfa.co.uk}}</ref>
+!National team
+!Year
+!Apps
+!Goals
+|-
+|[[Scotland national football team|Scotland]]
+|1987
+|2
+|0
+|-
+! colspan="2" |Total
+!2
+!0
+|}
+
+==Managerial statistics==
+{{updated|2 June 2016}}
+
+{| class=wikitable style="text-align: center"
+|+ Managerial record by team and tenure
+|-
+!rowspan=2|Team
+!rowspan=2|From
+!rowspan=2|To
+!colspan=5|Record
+!rowspan=2|{{abbr|Ref|Reference}}
+|-
+!{{abbr|P|Matches played}}!!{{abbr|W|Matches won}}!!{{abbr|D|Matches drawn}}!!{{abbr|L|Matches lost}}!!{{abbr|Win %|Win percentage}}
+|-
+|align=left|[[Motherwell F.C.|Motherwell]]
+|align=left|16 October 2001
+|align=left|24 April 2002
+{{WDL|27|7|4|16|decimals=1}}
+|<ref name=SB>{{cite web |title=Managers: Eric Black |url=http://www.soccerbase.com/managers/manager.sd?manager_id=1750 |work=Soccerbase |publisher=Centurycomm |access-date=27 March 2017}}</ref>
+|-
+|align=left|[[Coventry City F.C.|Coventry City]]
+|align=left|11 December 2003
+|align=left|3 May 2004
+{{WDL|26|12|4|10|decimals=1}}
+|<ref name=SB/>
+|-
+|align=left|[[Birmingham City F.C.|Birmingham City]] (caretaker)
+|align=left|23 November 2007
+|align=left|27 November 2007
+{{WDL|1|0|0|1|decimals=1}}
+|<ref name=BirminghamStart/><ref name=BirminghamEnd/><ref name=SB/>
+|-
+|align=left|[[Sunderland A.F.C.|Sunderland]] (caretaker)
+|align=left|30 November 2011
+|align=left|5 December 2011
+{{WDL|1|0|0|1|decimals=1}}
+|<ref name=SunderlandStart/><ref name=SB/><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/15997197 |title=Martin O'Neill named Sunderland manager |publisher=BBC Sport |date=3 December 2011 |access-date=30 May 2016}}</ref>
+|-
+|align=left|[[Blackburn Rovers F.C.|Blackburn Rovers]] (caretaker)
+|align=left|28 September 2012
+|align=left|31 October 2012
+{{WDL|6|2|3|1|decimals=1}}
+|<ref name=SB/><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/20152740 |title=Blackburn Rovers: Henning Berg appointed manager at Ewood Park |publisher=BBC Sport |date=31 October 2012 |access-date=30 May 2016}}</ref>
+|-
+|align=left|[[Rotherham United F.C.|Rotherham United]] (caretaker)
+|align=left|28 September 2015
+|align=left|9 October 2015
+{{WDL|1|0|0|1|decimals=1}}
+|<ref name=SB/><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/34380186 |title=Steve Evans: Rotherham United part company with manager |publisher=BBC Sport |date=28 September 2015 |access-date=30 May 2016}}</ref>
+|-
+|align=left|[[Aston Villa F.C.|Aston Villa]] (caretaker) 
+|align=left|29 March 2016
+|align=left|2 June 2016
+{{WDL|7|0|1|6|decimals=1}}
+|<ref name=Villa/><ref name=SB/>
+|-
+!colspan=3|Total
+{{WDLtot|69|21|12|36|decimals=1}}
+!—
+|}
+
+==Honours==
+'''Aberdeen'''<ref name="FS">{{cite web|url=https://www.footballscotland.co.uk/features/long-reads/aberdeens-eric-black-moving-metz-16123215|title=Aberdeen's Eric Black on moving to Metz and how that night in Paris was as good as Gothenburg|website=Football Scotland|date=16 April 2019|access-date=15 April 2020}}</ref>
+*[[List of Scottish football champions|Scottish Premier Division]]: [[1983–84 Scottish Premier Division|1983–84]], [[1984–85 Scottish Premier Division|1984–85]]
+*[[Scottish Cup]]: [[1981–82 Scottish Cup|1981–82]], [[1982–83 Scottish Cup|1982–83]], [[1983–84 Scottish Cup|1983–84]]
+*[[Scottish League Cup]]: [[1985–86 Scottish League Cup|1985–86]]
+*[[European Cup Winners' Cup]]: [[1982–83 European Cup Winners' Cup|1982–83]]
+*[[European Super Cup]]: [[1983 European Super Cup|1983]]
+
+'''Metz'''<ref name="FS" />
+*[[Coupe de la Ligue]]: 1985–86
+*[[Coupe de France]]: [[1988 Coupe de France Final|1987–88]]
+
+'''Southampton'''
+*[[EFL Cup]] runner-up: [[2016–17 EFL Cup|2016–17]] (assistant manager; received medal at club annual awards evening){{citation needed|date=November 2020}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://londonhearts.com/scotland/players/ericblack.html Eric Black's Scotland statistics]
+
+{{Navboxes
+| title = Managerial positions
+| list1 = 
+{{Motherwell F.C. managers}}
+{{Coventry City F.C. managers}}
+{{Birmingham City F.C. managers}}
+{{Sunderland A.F.C. managers}}
+{{Blackburn Rovers F.C. managers}}
+{{Rotherham United F.C. managers}}
+{{Aston Villa F.C. managers}}
+}}
+
+{{authority control}}
+{{DEFAULTSORT:Black, Eric}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:Footballers from Bellshill]]
+[[Category:Scottish men's footballers]]
+[[Category:Scottish expatriate men's footballers]]
+[[Category:Scotland men's under-21 international footballers]]
+[[Category:Scotland men's B international footballers]]
+[[Category:Scotland men's international footballers]]
+[[Category:Aberdeen F.C. players]]
+[[Category:FC Metz players]]
+[[Category:Scottish Football League players]]
+[[Category:Ligue 1 players]]
+[[Category:Expatriate men's footballers in France]]
+[[Category:Scottish football managers]]
+[[Category:Motherwell F.C. managers]]
+[[Category:Coventry City F.C. managers]]
+[[Category:Birmingham City F.C. managers]]
+[[Category:Sunderland A.F.C. managers]]
+[[Category:Blackburn Rovers F.C. managers]]
+[[Category:Rotherham United F.C. managers]]
+[[Category:Aston Villa F.C. managers]]
+[[Category:Scottish Premier League managers]]
+[[Category:English Football League managers]]
+[[Category:Premier League managers]]
+[[Category:Celtic F.C. non-playing staff]]
+[[Category:Birmingham City F.C. non-playing staff]]
+[[Category:Wigan Athletic F.C. non-playing staff]]
+[[Category:Sunderland A.F.C. non-playing staff]]
+[[Category:Blackburn Rovers F.C. non-playing staff]]
+[[Category:Blackpool F.C. non-playing staff]]
+[[Category:Rotherham United F.C. non-playing staff]]
+[[Category:Aston Villa F.C. non-playing staff]]
+[[Category:Scottish expatriate sportspeople in France]]
+[[Category:Southampton F.C. non-playing staff]]
+[[Category:Men's association football forwards]]
+[[Category:Scottish football coaches]]

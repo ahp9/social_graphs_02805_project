@@ -1,0 +1,281 @@
+{{Short description|Split season format for Spanish-speaking sports leagues}}
+{{redirect|Clausura|the Roman fortification|clausurae}}
+{{multiple issues|
+{{cleanup reorganize|date=July 2013}}
+{{more citations needed|date=December 2010}}
+}}
+[[File:AperturaClausura.svg|thumb|250px|
+{{legend|#f7941d|Apertura and Clausura seasons that occur across two calendar years; second half of one year and first half of the next}}
+{{legend|#39b54a|Apertura and Clausura seasons that occur within a calendar year}}
+{{legend|#00aeef|Apertura and Clausura that are only parts of a larger tournament}}
+]]
+The '''''{{lang|es|Apertura}}''''' ({{IPA|es|apeɾˈtuɾa|}}) and '''''{{lang|es|Clausura}}''''' ({{IPA|es|klawˈsuɾa|}}) tournaments is a split [[Season (sports)|season]] format for Spanish-speaking [[sports league]]s. It is a relatively recent innovation for many [[Latin America]]n [[soccer|football]] [[sports league|leagues]] in which the traditional [[association football]] season from August to May is divided in two sections per [[season (sports)|season]], each with its own [[champion]].  ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}'' are the [[Spanish language|Spanish]] words for "opening" and "closing".  In French-speaking [[Ligue Haïtienne|Haiti]], these are known as the ''{{lang|fr|Ouverture}}'' and the ''{{lang|fr|Fermeture}}'', while in English-speaking [[Premier League of Belize|Belize]], they are respectively the ''Opening'' and ''Closing'' seasons. When used in the United States and Canada, they are known as the ''Spring Championship'' and ''Fall Championship'' ({{Langx|fr|Championnat de printemps; Championnat d'automne}}).
+
+== The Americas ==
+The ''{{lang|es|Apertura}}'' is held in the first half of the calendar year in [[Bolivian Primera División|Bolivia]], [[Categoría Primera A|Colombia]], [[Ligue Haïtienne|Haiti]], [[Paraguayan Primera División|Paraguay]] and [[Uruguayan Primera División|Uruguay]] while it is held in the second half of the calendar year in [[Costa Rican Primera División|Costa Rica]], [[Salvadoran Primera División|El Salvador]], [[Liga Nacional de Fútbol de Guatemala|Guatemala]], [[Liga Nacional de Fútbol Profesional de Honduras|Honduras]], [[Liga MX|Mexico]] and [[Nicaraguan Primera División|Nicaragua]].
+
+The words ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}'' are used in most Latin American countries. Some, however, use different terminology:
+* Colombia: ''{{lang|es|Apertura}}'' and ''{{lang|es|Finalización}}''
+* Costa Rica: ''{{lang|es|Invierno}}'' and ''{{lang|es|Verano}}'' (Spanish for "winter" and "summer"); until the 2016–17 season.
+
+In most leagues, each tournament constitutes a national championship in itself. On the other hand, in the leagues of Nicaragua, Peru, and Uruguay, the winners of the ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}'' play each other in a playoff for the season title, or there is a final stage where teams qualify based on placements in the ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}''. Thus, two championship titles are awarded per year in the first group of leagues, and only one in the second. In Mexico and [[Superliga Colombiana|Colombia]], for instance, the winners of each tournament play each other at the beginning of the following season for another title, but this is a rather minor season curtain-raiser, akin to national [[Super Cup]]s in [[UEFA|European]] leagues. Some ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}'' tournaments also have second stages to decide the winner.
+
+In leagues with 12 or fewer teams, each ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}'' has a double round-robin format, as a means to fill in the gaps caused by the lack of elimination cup competitions as in most European countries. In leagues with 16 or more teams, each tournament has a single round-robin format.
+
+Relegations, if any, are done on an [[aggregate score|aggregate]] basis; usually the combined table for both tournaments determine relegation placements. In some leagues, the average points over the previous two or three seasons are used to determine relegation.
+
+Peru abolished its ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}'' format after the 2008 season but brought it back for the 2014 season. Ecuador adopted the ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}'' in 2005 featuring two champions in the season, however, its subsequent tournaments renamed the ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}'' as first and second stages, respectively, with the top placed teams advancing to a third stage to determine the champion and international qualification. Starting in 2009, the Ecuadorian championships were decided by a final between stage or group winners, maintaining the half-year tournament format.
+
+=== Argentina ===
+* Argentina: Starting in 2012–13, ''{{lang|es|Inicial}}'' and ''{{lang|es|Final}}'' (Spanish for "initial" and "final").
+[[Argentine Football Association]] (AFA) president [[Julio Grondona]] proposed in December 2008 the return to a single championship per season format,<ref>{{cite web |url=http://www.ambitoweb.com/noticia.asp?id=434871&seccion=Deportes&fecha=25/12/2008 |title=Grondona reconoció que quiere volver a los 'torneos largos' |publisher=Ambitoweb.com |date=November 21, 2007 |access-date=April 13, 2009 |archive-url=https://web.archive.org/web/20090123134747/http://www.ambitoweb.com/noticia.asp?id=434871&seccion=Deportes&fecha=25%2F12%2F2008 |archive-date=January 23, 2009 |url-status=live }}</ref> and at the conclusion of the [[2014 Argentine Primera División|2014 ''{{lang|es|Primera|nocat=y}}'' season]] this happened, with the [[2015 Argentine Primera División|2015 season]] taking a European style year long season from February to December. The AFA later decided to change its season to one spanning two calendar years; as such, the [[2016 Argentine Primera División|2016 season]] is an abbreviated tournament held from February to May, followed by an August-to-June season from 2016–17 forward.
+
+=== Belize ===
+The [[Premier League of Belize]], created in 2012 by the merger of two rival top-level leagues, began a split season in 2012–13. The Opening Season takes place in the second half of the calendar year, with the Closing Season following in the first half of the next calendar year. Like most Latin American leagues, it crowns two separate champions in each season. However, its format is significantly different from that of most other leagues, being more similar to the system used by [[Major League Soccer]] in the United States and Canada.
+
+In the first split season (2012–13), the league's 12 teams were divided into two six-team zones. During the first half of the season, every team played a double round-robin within its zone, plus single games against four teams from the opposite zone, resulting in a 14-game schedule. The top two teams from each zone qualified for a playoff round, with the top team from each zone matched against the second-place team from the other zone in the two-legged semifinals. The semifinal winners advanced to a two-legged final. In the second half of the season, only eight of the initial 12 teams competed; all teams played a double round-robin in that half of the season, followed by a four-team knockout playoff (again two-legged throughout).
+
+The number of teams participating in the top flight dropped to seven for the 2013–14 season. Each half of that season will have the same format as the 2013 Closing Season.
+
+=== Brazil ===
+The [[Campeonato Brasileiro Série A|Brazilian national league]] is a notable tournament in Latin America not to split the season into two parts, using a single-season double round-robin format to decide the champions, similar to those in European leagues, though played between May and December. Brazilian clubs also participate in the [[Brazilian Football State Championship|state leagues]] from January to April, some of which do feature a split season format. Brazil also has, unlike most Latin American nations, a [[Copa do Brasil|national cup]].
+
+In [[1967 in Brazilian football|1967]] and [[1968 in Brazilian football|1968]], the [[Taça Brasil]] and [[Torneio Roberto Gomes Pedrosa]] were run in the same year, making these years ''de facto'' Apertura and Clausura seasons. Both tournaments' winners are recognized as Brazilian champions.
+
+=== Canada ===
+For the 2019 season only, the [[Canadian Premier League]] adopted a split-season format divided into Spring and Fall seasons. The winner of each part of the season advances to the [[2019 Canadian Premier League Finals|Canadian Premier League Finals]]. Following the traditional standard for soccer in the United States and Canada, the season is entirely contained within a calendar year, running April to November. The CPL did not follow a simple double round-robin format; the spring season was an uneven 10 match season, while the fall season was a triple round robin, 18 match season.
+
+=== United States ===
+
+The second incarnation of the [[North American Soccer League (2011–2017)|North American Soccer League]] adopted a split-season format in 2013, divided into Spring and Fall Championships. Like other soccer leagues in the United States and Canada, the season was entirely contained within a calendar year.<ref name="Guardian-NASL">{{cite news |last=Williams |first=Jack |date=August 15, 2015 |title=NASL's split-season model, now in third year, offers unpredictable thrills |url=https://www.theguardian.com/football/2015/aug/15/nasls-split-season-model-now-in-third-year-offers-unpredictable-thrills |work=[[The Guardian]] |accessdate=November 2, 2024}}</ref> Beginning in 2014, the winner of each season qualified for the playoffs along with the two teams with the best records in the combined seasons; the two season winners previously qualified directly for the [[Soccer Bowl (2011–2017)|Soccer Bowl]] championship.<ref name="Guardian-NASL"/> The seasons were unbalanced, with the fall season completing a full double round-robin while the shorter spring season only had single round-robin.<ref>{{cite magazine |last=Straus |first=Brian |date=February 27, 2014 |title=NASL helps own cause in altering playoff format as MLS expansion threatens markets |url=https://www.si.com/soccer/2014/02/27/nasl-playoff-format-bill-peterson |magazine=[[Sports Illustrated]] |accessdate=November 2, 2024}}</ref><ref>{{cite news |date=January 18, 2016 |title=Carmelo Anthony's Puerto Rico FC to make NASL debut on July 2 |url=https://www.espn.com/soccer/story/_/id/37451431/carmelo-anthony-puerto-rico-fc-debut-nasl-july-2 |publisher=ESPN |accessdate=November 2, 2024}}</ref> The NASL cancelled its Spring 2018 season after it lost Division II sanctioning from the [[United States Soccer Federation]] and later ceased operations amid a legal challenge against the federation.<ref>{{cite news |date=February 27, 2018 |title=NASL cancels complete 2018 season after court ruling |url=https://www.espn.com/soccer/story/_/id/37546777/nasl-cancels-complete-2018-season-court-ruling |publisher=ESPN |accessdate=November 2, 2024}}</ref><ref>{{cite news |last=Carlisle |first=Jeff |date=June 13, 2024 |title=U.S. Soccer must face trial over MLS, NASL competition |url=https://www.espn.com/soccer/story/_/id/40340801/us-soccer-face-trial-mls-nasl-competition |publisher=ESPN |accessdate=November 2, 2024}}</ref>
+
+The third-division [[National Independent Soccer Association]] debuted in 2019 with a split season format that was played from fall to spring. The fall and spring seasons both had their own playoffs to determine the league champions.<ref>{{cite news |date=June 5, 2020 |title=NISA sets format for fall season to begin on Aug. 8 |url=https://www.socceramerica.com/nisa-sets-format-for-fall-season-to-begin-on-aug/ |work=[[Soccer America]] |url-access=subscription |accessdate=November 2, 2024}}</ref><ref>{{cite news |last=Zeigler |first=Mark |date=July 17, 2019 |title=San Diego soccer team 1904 FC is back, with new league and giant stadium |url=https://www.sandiegouniontribune.com/2019/07/17/san-diego-soccer-team-1904-fc-is-back-with-new-league-and-giant-stadium/ |work=[[San Diego Union-Tribune]] |accessdate=November 2, 2024}}</ref> The format was abandoned following the [[Fall 2021 National Independent Soccer Association season|Fall 2021 season]] as the league moved to a spring-to-fall single-season schedule.<ref>{{cite news |last=Lewis |first=Michael |date=September 14, 2021 |title=So much for that idea: NISA moves to spring/fall format |url=https://www.frontrowsoccer.com/2021/09/14/so-much-for-that-idea-nisa-moves-to-spring-fall-format/ |work=Front Row Soccer |accessdate=November 2, 2024}}</ref>
+
+==Elsewhere==
+=== Soviet Union ===
+The USSR Championship in football among "exhibition teams" (later "teams of masters") started in 1936. Its first season (1936) contained a split-season format for all four tiers of the championship including Groups (A, B, V, and Ghe). In 1976 a split-season format was once again revived for the [[Soviet Top League|Top League]] only and for a single season. On both occasions the seasons were conducted in a single [[round-robin tournament]].
+
+=== Belgium ===
+In Belgium a large reform of the [[Belgian football league system]] was performed in 2016, which reduced the number of professional teams to 24, with only 8 teams remaining at the second level, called [[Belgian First Division B]]. From the [[2016–17 Belgian First Division B|2016–17 season]] until the [[2019–20 Belgian First Division B|2019–20 season]], the 8 teams played two tournaments, with the winners of both tournaments playing a two-legged playoff to determine the overall champion. This format was abolished for the [[2020–21 Belgian First Division B|2020–21 season]], and the competition reverted to a traditional format played from August to April.
+
+=== Japan ===
+For most of its history (except in 1996) the [[J. League]] in [[Japan]] had a similar system for its [[J1 League|first division]], although it was called 1st Stage and 2nd Stage. The seasons became unified in 2005, partially to avoid conflicts with the [[Emperor's Cup]]. It briefly resumed the same format for 2015 and 2016 seasons.
+
+The [[Japan Football League]], at the fourth tier, briefly introduced the format from 2014 to 2019.
+
+=== Singapore ===
+The first season of [[Singapore Premier League|S.League]] in [[1996 S.League|1996]] was played in split seasons and a playoff model, with the first series being named Tiger Beer Series, and the second series being named Pioneer Series. Winners of both series then played each other at the end of the season in a championship Playoff, with the winner of the Playoff being crowned the first champion of S.League. This split seasons format has not been used since the first season.
+
+===South Korea===
+
+The [[K-League]] of [[South Korea]] also had the same system in 1984, 1986, 1995, 2004, 2005, and 2006. In 2007, it again became unified because of confusion among fans.
+
+=={{lang|es|Apertura}} and {{lang|es|Clausura}} by country==
+All the following leagues are their country's top national division (Div 1) unless otherwise indicated.
+{| class="wikitable"
+|-
+! Country
+! League
+! Champions
+! Calendar
+! Seasons
+|-
+|align=center colspan="5"|'''[[CONMEBOL]]'''
+|-
+| {{ARG}}
+| {{lang|es|[[Argentine Primera División|Primera División]]}}
+| Both
+| European (August–June)<br/>American (January–December)
+| 1990/91–2014<br/>2025–present
+|-
+| {{BOL}}
+| {{lang|es|[[Bolivian Primera División|División de Fútbol Profesional]]}}
+| One
+| European (August–May)<br/>American (January–December)
+| 1991–2017<br/>2018–present<ref>In 2021, a year-long championship was held due to the effects of the [[COVID-19 pandemic in Bolivia|COVID-19 pandemic]].</ref>
+|-
+| {{CHI}}
+| {{lang|es|[[Chilean Primera División|Primera División]]}}
+| One
+| European (July–June)<br/>American (January–December)
+| 2013/14–2017<br/>1997, 2002–2009, 2011–2012<ref>In 2010, only one championship was held due to [[2010 Chilean earthquake|the devastating earthquake]] that struck Chile that year. The country changed from the American to the European calendar beginning in 2013–14. To manage this change, the 2013 season consisted of only one championship, which the league called {{lang|es|Transición}} ("Transition").</ref>
+|-
+| {{COL}}
+| {{lang|es|[[Categoría Primera A|Primera A]]}}
+| Both
+| American (February–December)
+| 2002–present
+|-
+| {{ECU}}
+| {{lang|es|[[Ecuadorian Serie A|Serie A]]}}
+| One (Both in 2005)
+| American (February–December)
+| 2005–present
+|-
+| {{PAR}}
+| {{lang|es|[[Paraguayan Primera División|Primera División]]}}
+| Both (Since 2007)
+| American (February–December)
+| 1996–present
+|-
+| {{PER}}
+| {{lang|es|[[Peruvian Primera División|Primera División]]}}
+| One
+| American (February–November)
+| 1997–2008, 2014–present
+|-
+| {{URU}}
+| {{lang|es|[[Uruguayan Primera División|Primera División]]}}
+| One
+| European (August–June)<br/>American (January–December)
+| 1994–2016<br/>2017–present
+|-
+| {{VEN}}
+| {{lang|es|[[Venezuelan Primera División|Primera División]]}}
+| One
+| European (July–May)<br/>American (January–December)
+| 1986/87–2015<br/>2016–2019, 2024–present
+|-
+|align=center colspan="5"|'''[[CONCACAF]]'''
+|-
+| {{BLZ}}
+| [[Premier League of Belize|Premier League]]
+| Both (Since 2012–13)
+| European (August–May)
+| 2012/13–present
+|-
+| {{CAN}}
+| [[Canadian Premier League]]
+| One
+| American (April–October)
+| 2019
+|-
+| {{CRC}}
+| {{lang|es|[[Costa Rican Primera División|Primera División]]}}
+| Both
+| European (August–May)
+| 2007/08–present
+|-
+| {{SLV}}
+| {{lang|es|[[Primera División de El Salvador|Primera División]]}}
+| Both
+| European (August–June)
+| 1998/99–present
+|-
+| {{GUA}}
+| {{lang|es|[[Liga Guate]]}}
+| Both
+| European (July–May)
+| 1999/00–present
+|-
+| {{GUY}}
+| [[GFF Elite League|Elite League]]
+| One
+| European (September–June)
+| 2015/16–present
+|-
+| {{HTI}}
+| {{lang|fr|[[Ligue Haïtienne]]}}
+| Both (Since 2002, except in 2005–06)
+| American (April–November)
+| 2002, 2003, 2004/05, 2007–present<ref>Haiti adopted the two–stage season in 2002. In 2004, it changed its season to align with the European football calendar, conducting the {{lang|fr|Ouverture}} in 2004 and the {{lang|fr|Fermeture}} in 2005. The 2005–06 season saw only one championship contested. In 2007, the league returned to the American calendar and a two–stage season.</ref>
+|-
+| {{HON}}
+| {{lang|es|[[Liga Nacional de Fútbol Profesional de Honduras|Liga Nacional de Fútbol]]}}
+| Both (Since 1997–98)
+| European (August–May)
+| 1997/98–present
+|-
+| {{MEX}}
+| {{lang|es|[[Liga MX]]}}
+| Both
+| European (July–May)
+| 1996/97–present
+|-
+| {{NCA}}
+| {{lang|es|[[Liga Primera]]}}
+| One
+| European
+| 2004/05–present
+|-
+| {{PAN}}
+| {{lang|es|[[Liga Panameña de Fútbol|Liga de Fútbol]]}}
+| Both (Since 2007)
+| European (July–May)
+| 2001/02–present
+|-
+| rowspan="2" | {{USA}}
+| [[North American Soccer League (2011–2017)|NASL]] (defunct, Div 2)
+| One
+| American (April–November)
+| 2013–2017
+|-
+|[[National Independent Soccer Association|NISA]] (Div 3)
+|One
+|European (August–June)
+|2019–2021
+|-
+|align=center colspan="5"|'''[[Asian Football Confederation|AFC]]'''
+|-
+|rowspan="2"| {{JPN}}
+| [[J1 League]]
+| One
+| American (March–November)
+| 1993–1995, 1997–2005, 2015–2016
+|-
+| [[Japan Football League]] (Div 4)
+| One
+| American (March–November)
+| 2014–2019
+|-
+| {{SIN}}
+| [[Singapore Premier League|S.League]]
+| One
+| American (April-November)
+| 1996
+|-
+| {{KOR}}
+| [[K League Classic]]
+| One
+| American (March–November)
+| 1984, 1986, 1995, 2004, 2005, 2006
+|-
+
+|align=center colspan="5"|'''[[UEFA]]'''
+|-
+| {{BEL}}
+| [[Belgian First Division B|First Division B]] (Div 2)
+| One
+| European (August–May)
+| 2016/17–2019/20
+|-
+|{{Flag icon|Malta}} [[Malta]]
+|[[Maltese Premier League]]
+|One
+|European (August–May)
+|2024/25–present
+|-
+| {{URS}}
+| {{lang|es|[[Soviet Top League|Top League]] (Group A)}}
+| Both
+| American (January–December)
+| 1936, 1976
+|-
+|}
+
+==Other sports==
+In baseball, the [[Double-A (baseball)|Double-A]] [[Southern League (1964–2020)|Southern]] and [[Texas League]]s in the [[United States]] both use a similar system, dividing the March–October regular season in half, with records being cleared mid-season, and the top teams mid-season and at the end of the season clinching spots in the playoff for the league [[pennant (sports)|pennant]] (the remainder of playoff slots being filled by [[wildcard (sport)|wild cards]]). This system is used in some Single-A leagues, as well. The March–September [[Chinese Professional Baseball League]] and winter [[Mexican Pacific League]] also follow the same structure, using a team's win record in each stage to determine which advance to the playoffs. Japan's [[Pacific League]] had a split season format from 1973 to 1982, with a mini-playoff between the two winners to determine the league's champion.
+
+While [[Little League Baseball]] does not mandate any specific scheduling format to be used by local leagues, it recommends dividing the regular season in half and having the first-half winner play against the second-half winner at the end of the season for the championship.<ref>{{cite web |url=http://www.littleleague.org/leagueofficers/Tips_Successful_League/2013-2014/Spring-SchedulingGamesPractices.htm |title=Spring: Scheduling Games/Practices |access-date=2015-03-17 |url-status=dead |archive-url=https://web.archive.org/web/20150302001834/http://www.littleleague.org/leagueofficers/Tips_Successful_League/2013-2014/Spring-SchedulingGamesPractices.htm |archive-date=2015-03-02 }}</ref>
+
+The [[Philippine Basketball Association]] also conducts a split season similar in many ways to the ''{{lang|es|Apertura}}'' and ''{{lang|es|Clausura}}''.
+
+All [[League of Legends]] leagues operate on a split-season system, with one split in the spring and one in the summer. The summer is reserved for the spring split playoffs and the [[Mid-Season Invitational]], while the fall is reserved for the summer split playoffs and the [[League of Legends World Championship]]. Qualification to the World Championship is decided in one of two ways: finishing within the top three within the second split playoffs (for the [[League Championship Series (esports)|LCS]]) or, for the [[League of Legends Champions Korea|LCK]] and [[League of Legends Pro League|LPL]], either winning the second split or through a system that awards points based on a team's performance in each of the splits, with the best non-qualified teams entering the regional finals for the last one or two spots. Unlike most other split-season formats, the summer split is more important than the spring split; coming second in the summer split is worth as many points as winning the spring split. The [[League of Legends EMEA Championship|LEC]] has three splits, winter, spring and summer, as well as an end-of-season tournament called Season Finals which decides which teams qualify for the World Championship.
+
+The first four seasons of the [[National Hockey League]] used a half-season system, with the winners of the two half-seasons playing in the league final.<ref>{{Cite web|url=https://www.sportsnet.ca/hockey/nhl/nhl-stanley-cup-playoff-format-history-changes-seeds-division-rivalry-how-playoffs-work/|title = NHL playoff format history: Pros and cons of all 26 tweaks – Sportsnet.ca|archive-url=https://web.archive.org/web/20170403133907/https://www.sportsnet.ca/hockey/nhl/nhl-stanley-cup-playoff-format-history-changes-seeds-division-rivalry-how-playoffs-work/|archive-date=2017-04-03|url-status=live}}</ref>
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Apertura And Clausura}}
+[[Category:Association football terminology]]

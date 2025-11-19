@@ -1,0 +1,187 @@
+{{about|the series of football matches|the series of rugby union matches|1945–46 Victory Internationals}}
+The term '''Victory International''' or '''Victory Internationals'''  refers to two series of international [[association football|football]] matches played by the national football teams of [[England national football team|England]], [[Scotland national football team|Scotland]], [[Ireland national football team (1882–1950)|Ireland]] and [[Wales national football team|Wales]] at the end of both the [[First World War|First]] and  [[Second World War]]s. The matches were organised to celebrate the ''Victory'' of the Allied Powers in both wars. The term specifically refers to those matches played after the conflicts were over, making them distinct from the wartime internationals which were played during the course of the wars.
+
+Among the games regarded as Victory Internationals were those played as part of the [[1945–46 British Victory Home Championship]]. The 1945–46 season also saw England play Victory internationals against [[France national football team|France]], [[Switzerland national football team|Switzerland]] and [[Belgium national football team|Belgium]]. Scotland also played the latter two national teams. The status of these internationals is open to debate. England, Ireland and Wales do not recognize any of these games as full internationals. Scotland, however, does list the games against Belgium and Switzerland as full internationals. Similarly, Belgium, Switzerland and France all regard their Victory Internationals as full internationals.<ref>[https://www.rsssf.org/tablese/eng-warvic-intres.html     England – War-Time/Victory Internationals]</ref><ref>[https://www.rsssf.org/tablesf/fran-intres.html    France – List of International Matches]</ref><ref>[https://www.rsssf.org/tabless/scot-intres1950.html   Scotland – International Matches 1946–1950]</ref><ref>[http://nifootball.blogspot.co.uk/2008/02/ireland-victory-internationals-1919.html    Northern Ireland's Footballing Greats]</ref>
+
+==World War I matches (1919)==
+{{football box |
+ | date = 22 March 1919
+ | team1 = {{fb-rt|SCO}}
+ | score = 2–1
+ | team2 = {{fb|IRE}}
+ | goals1 =  [[Andrew Wilson (footballer born 1896)|Andrew Wilson]] 2
+ | goals2 = [[Billy Halligan]]
+ | stadium = [[Ibrox Park]] }}
+----
+{{football box |
+ | date = 19 April 1919<ref>[https://news.google.com/newspapers?id=_stAAAAAIBAJ&sjid=JqYMAAAAIBAJ&pg=4362%2C1915370 Association Football. | Ireland v. Scotland], The Glasgow Herald, 21 April 1919</ref>
+ | team1 = {{fb-rt|IRE}}
+ | score = 0–0
+ | team2 = {{fb|SCO}}
+ | goals1 =  
+ | goals2 = 
+ | stadium = [[Windsor Park]], [[Belfast]] }}
+----
+{{football box |
+ | date = 26 April 1919
+ | team1 = {{fb-rt|ENG}}
+ | score = 2–2
+ | team2 = {{fb|SCO}}
+ | goals1 = [[Robert Turnbull (footballer)|Robert Turnbull]]<br>[[Sydney Puddefoot]]
+ | goals2 = [[John Stewart Wright]]<br> [[James Bowie (footballer)|James Bowie]]
+ | stadium = [[Goodison Park]] }}
+----
+{{football box |
+ | date = 3 May 1919
+ | team1 = {{fb-rt|SCO}}
+ | score = 3–4
+ | team2 = {{fb|ENG}}
+ | goals1 = [[Andrew Wilson (footballer born 1896)|Andrew Wilson]] 2<br>[[Alan Morton]]
+ | goals2 = [[Arthur Grimsdell]] 2<br> [[Sydney Puddefoot]] 2
+ | stadium = [[Hampden Park]] }}
+----
+{{football box |
+ | date = 11 October  1919
+ | team1 = {{fb-rt|WAL}}
+ | score = 2– 1
+ | team2 = {{fb|ENG}}
+ | goals1 = [[Billy Meredith]]<br>[[George Wynn]]
+ | goals2 = [[Sydney Puddefoot]]
+ | stadium = [[Ninian Park]], [[Cardiff]] }}
+----
+{{football box |
+ | date = 19 October  1919
+ | team1 = {{fb-rt|ENG}}
+ | score = 2–0
+ | team2 = {{fb|WAL}}
+ | goals1 = [[Bob Whittingham]]<br>[[Joe Smith (football forward born 1889)|Joe Smith]]
+ | goals2 = 
+ | stadium = [[Victoria Ground]] }}
+
+==World War II matches (1945–46)==
+{{see also|1945–46 British Victory Home Championship}}
+
+{{football box |
+ | date = 15 September 1945
+ | team1 = {{fb-rt|IRE}}
+ | score = 0–1
+ | team2 = {{fb|ENG}}
+ | goals1 = &nbsp;
+ | goals2 = [[Stan Mortensen]]
+ | stadium = [[Windsor Park]], [[Belfast]] }}
+----
+{{football box |
+ | date = 20 October 1945
+ | team1 = {{fb-rt|ENG}}
+ | score = 0–1
+ | team2 = {{fb|WAL}}
+ | goals1 = &nbsp;
+ | goals2 = [[Aubrey Powell (footballer)|Aubrey Powell]]
+ | stadium = [[The Hawthorns]], [[West Bromwich]] }}
+----
+{{football box |
+ | date = 10 November 1945
+ | team1 = {{fb-rt|SCO}}
+ | score = 2–0
+ | team2 = {{fb|WAL}}
+ | goals1 = [[William Waddell (footballer)|William Waddell]]<br>[[Jock Dodds]]
+ | goals2 = &nbsp;
+ | stadium = [[Hampden Park]], [[Glasgow]] }}
+----
+{{football box |
+ | date = 19 January 1946
+ | team1 = {{fb-rt|ENG}}
+ | score = 2–0
+ | team2 = {{fb|BEL}}
+ | goals1 = [[Sailor Brown|Robert Brown]]<br>[[Jesse Pye]]
+ | goals2 =  
+ | stadium = [[Wembley Stadium]] }}
+----
+{{football box |
+ | date = 23 January 1946
+ | team1 = {{fb-rt|SCO}}
+ | score = 2–2
+ | team2 = {{fb|BEL}}
+ | goals1 = [[Jimmy Delaney]] 2
+ | goals2 =  [[Victor Lemberechts]]<br>[[Freddy Chaves]]
+ | stadium = [[Hampden Park]] }}
+
+----
+{{football box |
+ | date = 2 February 1946
+ | team1 = {{fb-rt|IRE}}
+ | score = 2–3
+ | team2 = {{fb|SCO}}
+ | goals1 = [[Davy Walsh]] 2
+ | goals2 = [[Billy Liddell]] 2<br>[[George Hamilton (footballer)|George Hamilton]]
+ | stadium = [[Windsor Park]], [[Belfast]] }}
+----
+{{football box |
+ | date = 13 April 1946
+ | team1 = {{fb-rt|SCO}}
+ | score = 1–0
+ | team2 = {{fb|ENG}}
+ | goals1 = [[Jimmy Delaney]]
+ | goals2 = &nbsp;
+ | stadium = [[Hampden Park]], [[Glasgow]] }}
+----
+{{football box |
+ | date = 4 May 1946
+ | team1 = {{fb-rt|WAL}}
+ | score = 0–1
+ | team2 = {{fb|IRE}}
+ | goals1 = &nbsp;
+ | goals2 = [[Paddy Sloan]]
+ | stadium = [[Ninian Park]], [[Cardiff]] }}
+----
+{{football box |
+ | date = 11 May 1946
+ | team1 = {{fb-rt|ENG}}
+ | score = 4– 1
+ | team2 = {{fb|SWI}}
+ | goals1 = [[Raich Carter]] 2<br>[[Sailor Brown|Robert Brown]]<br>[[Tommy Lawton]]
+ | goals2 = [[Hans-Peter Friedlander]]
+ | stadium = [[Stamford Bridge (stadium)|Stamford Bridge]] }}
+----
+{{football box |
+ | date = 15 May 1946
+ | team1 = {{fb-rt|SCO}}
+ | score = 3– 1
+ | team2 = {{fb|SWI}}
+ | goals1 = [[Billy Liddell]] 2<br>[[Jimmy Delaney]]
+| goals2 = [[Georges Aeby]]
+ | stadium = [[Hampden Park]] }}
+
+----
+{{football box |
+ | date = 19 May 1946
+ | team1 = {{fb-rt|FRA}}
+ | score = 2– 1
+ | team2 = {{fb|ENG}}
+ | goals1 = [[Jean Prouff]]<br>[[Ernest Vaast]]
+ | goals2 = [[Jimmy Hagan]]
+ | stadium = [[Stade Olympique de Colombes]] }}
+
+==See also==
+*[[England national football team results (unofficial matches)]]
+*[[Scotland national football team results (unofficial matches)]]
+*[[Wales wartime national football team results]]
+*[[List of Scotland wartime international footballers]]
+
+==References==
+{{Reflist}}
+
+[[Category:1918–19 in English football]]
+[[Category:1919–20 in English football]]
+[[Category:1918–19 in Scottish football]]
+[[Category:1919–20 in Scottish football]]
+[[Category:1945–46 in English football]]
+[[Category:1945–46 in Scottish football]]
+[[Category:1945–46 in Irish association football]]
+[[Category:1945–46 in European men's international football]]
+[[Category:1918–19 in European football]]
+[[Category:1919–20 in European football]]
+[[Category:Association football terminology]]
+[[Category:1945–46 in Belgian football]]
+[[Category:1945–46 in French football]]
+[[Category:Wartime association football]]

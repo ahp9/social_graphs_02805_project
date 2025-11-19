@@ -1,0 +1,35 @@
+{{Short description|Variation of association football}}
+'''Omegaball''' is a variation of [[association football]] in which three [[Five-a-side football|five-a-side]] teams play in a simultaneous competition with each other on a circular [[Pitch (sports field)|pitch]] that is 60 yards in diameter.<ref name="Omegaball explained1">{{Cite magazine|last1=Summerscales|first1=Robert|url=https://www.si.com/fannation/soccer/futbol/news/what-is-omegaball-rules-of-soccers-newest-format-explained|title= What Is OmegaBall? Rules Of Soccer's Newest Format Explained|date=April 5, 2022|magazine=Sports Illustrated}}</ref> The distance from each goal to the center location is roughly 30 yards.<ref name="Omegaball explained1"/> Each team has a goal to protect, and the goals are evenly distributed along the perimeter of a circular field.<ref name="Omegaball explained1"/>
+
+Teams accumulate one point for each goal they score against an opponent.<ref name="Omegaball explained1"/> They do not lose points for goals given up. In the case of an [[own goal]], each of the other two teams receives a point.<ref name="Omegaball explained1"/> The victor is the team that scores the highest number of points.<ref name="Omegaball explained1"/>
+
+When the ball goes out of bounds, it results in a corner kick.<ref name="Omegaball explained2">{{Cite web|last1=Post|first1=J. J.|url=https://www.espn.com/action/story/_/id/38123683/ocho-weirdest-sports-explained|title=Eight weirdest The Ocho sports explained|date=January 24, 2024|website=ESPN}}</ref> There are no offside penalties ([[Cherry picking (basketball)|cherry picking]] is allowed). When a goal is scored, the game immediately resumes from that location.<ref name="Omegaball explained2"/>  Games have a duration of 39 minutes, consisting of three 13-minute periods and 2 breaks between them.<ref name="Omegaball explained1"/>  The game made its debut in [[Irvine, California]] on March 10, 2022.<ref name="Omegaball explained1"/>
+
+The inaugural OmegaBall Championships were broadcast on [[Fox Sports 2]].<ref name="Omegaball explained1"/> Omegaball has also been featured on [[ESPN8 The Ocho]].<ref name="Omegaball explained2"/>
+
+==See also==
+{{div col}}
+* [[Three-sided football]]
+* [[Jorkyball]]
+* [[Futsal]]
+* [[Street football (association football)|Street football]]
+* [[Roller soccer]]
+* [[Crab soccer]]
+* [[Beach soccer]]
+* [[Swamp football]]
+* [[Walking football]]
+* [[Powerchair Football]]
+* [[Amputee football]]
+* [[Seven-a-side football]]
+* [[3v3 Soccer]]
+{{div col end}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{Association football}}
+{{Football codes}}
+{{Team sports}}
+
+[[Category:Association football terminology]]
+[[Category:Association football variants]]
