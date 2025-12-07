@@ -1,0 +1,647 @@
+{{Short description|Group of twelve football clubs}}
+In Brazilian football, '''G-12''' (Big Twelve) refers to a group of 12 clubs: [[Clube Atlético Mineiro|Atlético Mineiro]], [[Botafogo de Futebol e Regatas|Botafogo]], [[Sport Club Corinthians Paulista|Corinthians]], [[Cruzeiro Esporte Clube|Cruzeiro]], [[Clube de Regatas do Flamengo|Flamengo]], [[Fluminense FC|Fluminense]], [[Grêmio Foot-Ball Porto Alegrense|Grêmio]], [[Sport Club Internacional|Internacional]], [[Sociedade Esportiva Palmeiras|Palmeiras]], [[Santos FC|Santos]], [[São Paulo FC|São Paulo]], and [[CR Vasco da Gama|Vasco da Gama]]. They are considered the most popular and successful sides in Brazilian football, having won all but six editions of the [[Campeonato Brasileiro Série A|Brasileirão]] between them since the tournament's inception.
+
+== The clubs ==
+{{col-begin}}
+{{col-2}}
+{| class="wikitable sortable"
+|-
+! Club
+! City
+! State
+! Founded
+! Stadium
+! Capacity
+|-
+| [[Clube Atlético Mineiro]]
+| [[Belo Horizonte]]
+| [[Minas Gerais]]
+| 1908
+| [[Arena MRV]] 
+| 47,465
+|-
+| [[Botafogo de Futebol e Regatas]]
+| [[Rio de Janeiro]]
+| [[Rio de Janeiro (state)|Rio de Janeiro]]
+| 1894 (1904 in Football)
+| [[Estádio Olímpico Nilton Santos|Nilton Santos]] 
+| 44,661
+|-
+| [[Sport Club Corinthians Paulista]]
+| [[São Paulo]]
+| [[São Paulo (state)|São Paulo]]
+| 1910
+| [[Arena Corinthians]] 
+| 49,205
+|-
+| [[Cruzeiro Esporte Clube]]
+| [[Belo Horizonte]]
+| [[Minas Gerais]]
+| 1921
+| [[Mineirão]] 
+| 61,846
+|-
+| [[Clube de Regatas do Flamengo]]
+| [[Rio de Janeiro]]
+| [[Rio de Janeiro (state)|Rio de Janeiro]]
+| 1895 (1912 in Football)
+| [[Maracanã Stadium|Maracanã]] 
+| 78,838
+|-
+| [[Fluminense FC|Fluminense Football Club]]
+| [[Rio de Janeiro]]
+| [[Rio de Janeiro (state)|Rio de Janeiro]]
+| 1902
+| [[Maracanã Stadium|Maracanã]] 
+| 78,838
+|-
+| [[Grêmio Foot-Ball Porto Alegrense]]
+| [[Porto Alegre]]
+| [[Rio Grande do Sul]]
+| 1903
+| [[Arena do Grêmio]] 
+| 55,662
+|-
+| [[Sport Club Internacional]]
+| [[Porto Alegre]]
+| [[Rio Grande do Sul]]
+| 1909
+| [[Estádio Beira-Rio|Beira-Rio]] 
+| 50,128
+|-
+| [[Sociedade Esportiva Palmeiras]]
+| [[São Paulo]]
+| [[São Paulo (state)|São Paulo]]
+| 1914
+| [[Allianz Parque]] 
+| 43,713
+|-
+| [[Santos FC|Santos Futebol Clube]]
+| [[Santos, São Paulo|Santos]]
+| [[São Paulo (state)|São Paulo]]
+| 1912
+| [[Estádio Urbano Caldeira|Vila Belmiro]] 
+| 16,068
+|-
+| [[São Paulo FC|São Paulo Futebol Clube]]
+| [[São Paulo]]
+| [[São Paulo (state)|São Paulo]]
+| 1930
+| [[Estádio do Morumbi|Morumbi]] 
+| 72,039
+|-
+| [[CR Vasco da Gama|Club de Regatas Vasco da Gama]]
+| [[Rio de Janeiro]]
+| [[Rio de Janeiro (state)|Rio de Janeiro]]
+| 1898 (1915 in Football)
+| [[Estádio São Januário|São Januário]] 
+| 21,880
+|}
+
+{{col-2}}
+
+{{Location map+ |Brazil |width=500|float=right |caption='''Big Twelve''' clubs' locations|places=
+{{location map~ |Brazil |lat=-29.9739843 |long=-51.1970725 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''Porto Alegre'''</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{location map~ |Brazil |lat=-23.9510794 |long=-46.3388549 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''Santos'''</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{location map~ |Brazil |lat=-23.6815314 |long=-46.8755015 |label=<div style="font-size:80%;position:relative;left:1px;top:1px">'''São Paulo'''</div> |position=left |mark=Arrows 12x12 e.svg}}
+{{location map~ |Brazil |lat=-22.9132525 |long=-43.7261847 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''{{nowrap|Rio de Janeiro}}'''</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{location map~ |Brazil |lat=-19.9174936 |long=-44.1004004 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''{{nowrap|Belo Horizonte}}'''</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{location map~ |Brazil |lat=4.0 |long=-74.25 |label='''{{nowrap|Minas Gerais (state)}}'''<br>''Belo Horizonte (city)''<br>- [[Clube Atlético Mineiro|Atlético Mineiro]]<br>- [[Cruzeiro Esporte Clube|Cruzeiro]]<br><br>'''Rio de Janeiro (state)'''<br>''Rio de Janeiro (city)''<br>- [[Botafogo de Futebol e Regatas|Botafogo]]<br>- [[Clube de Regatas do Flamengo|Flamengo]]<br>- [[Fluminense FC|Fluminense]]<br>- [[CR Vasco da Gama|Vasco da Gama]]<br><br>'''São Paulo (state)'''<br>''São Paulo (city)''<br>- [[Sport Club Corinthians Paulista|Corinthians]]<br>- [[Sociedade Esportiva Palmeiras|Palmeiras]]<br>- [[São Paulo FC|São Paulo]]<br>''Santos (city)''<br>- [[Santos FC|Santos]]<br><br>{{nowrap|'''Rio Grande do Sul (state)'''}}<br>''Porto Alegre (city)''<br>- [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]<br>- [[Sport Club Internacional|Internacional]]|position=right |mark=TransparentPlaceholder.png |background = #F9F9F9 }}
+}}
+<!--
+{{Location map+ |Brazil Rio de Janeiro City |width=350|float=right |caption=Location of teams in '''2018 Série A''' within [[Rio de Janeiro]] |places=
+{{location map~ |Brazil Rio de Janeiro City |lat=-22.8932699 |long=-43.2945015 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''[[Botafogo de Futebol e Regatas|Botafogo]]'''</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{location map~ |Brazil Rio de Janeiro City |lat=-22.8017822 |long=-43.2108485 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''[[Clube de Regatas do Flamengo|Flamengo]]'''</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{location map~ |Brazil Rio de Janeiro City |lat=-22.9130062 |long=-43.2318957 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''[[Fluminense FC|Fluminense]]'''</div> |position=left|mark=Arrows 12x12 e.svg}}
+{{location map~ |Brazil Rio de Janeiro City |lat=-22.8911598 |long=-43.2302314 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''[[CR Vasco da Gama|Vasco da Gama]]'''</div> |position=right |mark=Arrows 12x12 w.svg}}
+}}
+
+{{Location map+ |São Paulo City |width=350|float=right |caption=Location of teams in '''2018 Série A''' within [[São Paulo]] |places=
+{{location map~ |São Paulo City |lat=-23.5453172 |long=-46.4764563 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''[[Sport Club Corinthians Paulista|Corinthians]]'''</div> |position=left |mark=Arrows 12x12 e.svg}}
+{{location map~ |São Paulo City |lat=-22.8017822 |long=-43.2108485 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''[[Clube de Regatas do Flamengo|Flamengo]]'''</div> |position=right |mark=Arrows 12x12 w.svg}}
+{{location map~ |São Paulo City |lat=-22.9130062 |long=-43.2318957 |label=<div style="font-size:80%;position:relative;right:1px;top:1px">'''[[Fluminense FC|Fluminense]]'''</div> |position=left|mark=Arrows 12x12 e.svg}}
+}}-->
+{{col-end}}
+
+== Honours and popularity ==
+
+Their status as major clubs in Brazilian football stems from their historical performances at their respective [[State football leagues in Brazil|state leagues]]. For a long time, there were no national tournaments in Brazil (with the first edition of the [[Campeonato Brasileiro Série A|Brasileirão]] being only held in 1937 and then officially in 1959). Competition between teams from different states was sparse (with the [[Torneio Rio – São Paulo|Torneio Rio-São Paulo]], held irregularly between 1933 and 1966 and then from 1993 to 2002, being the most notable tournament of this nature); thus, these clubs first earned their distinguished reputation for being dominant within state borders.
+
+{{updated|2024}}
+
+{{col-begin}}
+{{col-4}}
+
+{| class="wikitable sortable"
+|+ Performances in the [[Campeonato Carioca]]
+|-
+! Club
+! Titles
+|-
+| [[Clube de Regatas do Flamengo|Flamengo]]
+| 38
+|-
+| [[Fluminense FC|Fluminense]]
+| 33
+|-
+| [[CR Vasco da Gama|Vasco da Gama]]
+| 24
+|-
+| [[Botafogo de Futebol e Regatas|Botafogo]]
+| 21
+|-
+| Other clubs
+| 11
+|}
+
+{{col-4}}
+
+{| class="wikitable sortable"
+|+ Performances in the [[Campeonato Gaúcho]]
+|-
+! Club
+! Titles
+|-
+| [[Sport Club Internacional|Internacional]]
+| 46
+|-
+| [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| 43
+|-
+| Other clubs
+| 16
+|}
+
+{{col-4}}
+
+{| class="wikitable sortable"
+|+ Performances in the [[Campeonato Mineiro]]
+|-
+! Club
+! Titles
+|-
+| [[Clube Atlético Mineiro|Atlético Mineiro]]
+| 50
+|-
+| [[Cruzeiro Esporte Clube|Cruzeiro]]
+| 38
+|-
+| Other clubs
+| 25
+|}
+
+{{col-4}}
+
+{| class="wikitable sortable"
+|+ Performances in the [[Campeonato Paulista]]
+|-
+! Club
+! Titles
+|-
+| [[Sport Club Corinthians Paulista|Corinthians]]
+| 30
+|-
+| [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| 26
+|-
+| [[Santos FC|Santos]]
+| 22
+|-
+| [[São Paulo FC|São Paulo]]
+| 22
+|-
+| Other clubs
+| 34
+|}
+
+{{col-end}}
+
+This regional success translated into national and international glory. The Big Twelve clubs have dominated the [[Brasileirão]] and the [[Copa do Brasil]] and put up great performances at the [[Copa Libertadores]] and the [[FIFA Club World Cup]] (and other equivalent world tournaments).
+
+{{col-begin}}
+{{col-2}}
+
+{| class="wikitable sortable"
+|+ Performance in the <br>[[Campeonato Brasileiro Série A|Brasileirão]] by club
+|-
+! Club
+! Titles
+|-
+| [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| 12
+|-
+| [[Santos FC|Santos]]
+| 8
+|-
+| [[Clube de Regatas do Flamengo|Flamengo]]
+| 8
+|-
+| [[Sport Club Corinthians Paulista|Corinthians]]
+| 7
+|-
+| [[São Paulo FC|São Paulo]]
+| 6
+|-
+| [[Cruzeiro Esporte Clube|Cruzeiro]]
+| 4
+|-
+| [[Fluminense FC|Fluminense]]
+| 4
+|-
+| [[CR Vasco da Gama|Vasco da Gama]]
+| 4
+|-
+| [[Sport Club Internacional|Internacional]]
+| 3
+|-
+| [[Clube Atlético Mineiro|Atlético Mineiro]]
+| 3
+|-
+| [[Botafogo de Futebol e Regatas|Botafogo]]
+| 3
+|-
+| [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| 2
+|-
+| Other clubs
+| 6
+|}
+
+{{col-2}}
+
+{| class="wikitable sortable"
+|+ Performance in the <br>[[Copa do Brasil]] by club
+|-
+! Club
+! Titles
+|-
+| [[Cruzeiro Esporte Clube|Cruzeiro]]
+| 6
+|-
+| [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| 5
+|-
+| [[Clube de Regatas do Flamengo|Flamengo]]
+| 5 
+|-
+| [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| 4
+|-
+| [[Sport Club Corinthians Paulista|Corinthians]]
+| 3
+|-
+| [[Clube Atlético Mineiro|Atlético Mineiro]]
+| 2
+|-
+| [[Fluminense FC|Fluminense]]
+| 1
+|-
+| [[Sport Club Internacional|Internacional]]
+| 1
+|-
+| [[Santos FC|Santos]]
+| 1
+|-
+| [[CR Vasco da Gama|Vasco da Gama]]
+| 1
+|-
+| [[São Paulo FC|São Paulo]]
+| 1
+|-
+| [[Botafogo de Futebol e Regatas|Botafogo]]
+| —
+|-
+| Other clubs
+| 6
+|}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+
+{| class="wikitable sortable"
+|+ Performance in the [[Copa Libertadores]] by club
+|-
+! Club
+! Participations
+! Best Appearance
+|-
+| [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| 25
+| '''Champions''' ([[1999 Copa Libertadores|1999]], [[2020 Copa Libertadores|2020]], [[2021 Copa Libertadores|2021]])
+|-
+| [[São Paulo FC|São Paulo]]
+| 23
+| '''Champions''' ([[1992 Copa Libertadores|1992]], [[1993 Copa Libertadores|1993]], [[2005 Copa Libertadores|2005]])
+|-
+| [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| 22
+| '''Champions''' ([[1983 Copa Libertadores|1983]], [[1995 Copa Libertadores|1995]], [[2017 Copa Libertadores|2017]])
+|-
+| [[Clube de Regatas do Flamengo|Flamengo]]
+| 21
+| '''Champions''' ([[1981 Copa Libertadores|1981]], [[2019 Copa Libertadores|2019]], [[2022 Copa Libertadores|2022]], [[2025 Copa Libertadores|2025]])
+|-
+| [[Sport Club Corinthians Paulista|Corinthians]]
+| 18
+| '''Champions''' ([[2012 Copa Libertadores|2012]])
+|-
+| [[Cruzeiro Esporte Clube|Cruzeiro]]
+| 17
+| '''Champions''' ([[1976 Copa Libertadores|1976]], [[1997 Copa Libertadores|1997]])
+|-
+| [[Santos FC|Santos]]
+| 16
+| '''Champions''' ([[1962 Copa Libertadores|1962]], [[1963 Copa Libertadores|1963]], [[2011 Copa Libertadores|2011]])
+|-
+| [[Sport Club Internacional|Internacional]]
+| 16
+| '''Champions''' ([[2006 Copa Libertadores|2006]], [[2010 Copa Libertadores|2010]])
+|-
+| [[Clube Atlético Mineiro|Atlético Mineiro]]
+| 14
+| '''Champions''' ([[2013 Copa Libertadores|2013]])
+|-
+| [[Fluminense FC|Fluminense]]
+| 10
+| '''Champions''' ([[2023 Copa Libertadores|2023]])
+|-
+| [[CR Vasco da Gama|Vasco da Gama]]
+| 9
+| '''Champions''' ([[1998 Copa Libertadores|1998]])
+|-
+| [[Botafogo de Futebol e Regatas|Botafogo]]
+| 7
+| '''Champions''' ([[2024 Copa Libertadores|2024]])
+|}
+
+{{col-2}}
+
+{| class="wikitable sortable"
+|+ Performance in the [[FIFA Club World Cup]]/<br>[[Intercontinental Cup (1960–2004)|Intercontinental Cup]] by club
+|-
+! Club
+! Participations
+! Best Appearance
+|-
+| [[São Paulo FC|São Paulo]]
+| 3
+| '''Champions''' ([[1992 Intercontinental Cup|1992]], [[1993 Intercontinental Cup|1993]], [[2005 FIFA Club World Championship|2005]])
+|-
+| [[Santos FC|Santos]]
+| 3
+| '''Champions''' ([[1962 Intercontinental Cup|1962]], [[1963 Intercontinental Cup|1963]])
+|-
+| [[Sport Club Corinthians Paulista|Corinthians]]
+| 2
+| '''Champions''' ([[2000 FIFA Club World Championship|2000]], [[2012 FIFA Club World Cup|2012]])
+|-
+| [[Clube de Regatas do Flamengo|Flamengo]]
+| 3
+| '''Champions''' ([[1981 Intercontinental Cup|1981]])
+|-
+| [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| 3
+| '''Champions''' ([[1983 Intercontinental Cup|1983]])
+|-
+| [[Sport Club Internacional|Internacional]]
+| 2
+| '''Champions''' ([[2006 FIFA Club World Cup|2006]])
+|-
+| [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| 3
+| ''Runner-up'' ([[1999 Intercontinental Cup|1999]], [[2021 FIFA Club World Cup|2021]])
+|-
+| [[Cruzeiro Esporte Clube|Cruzeiro]]
+| 2
+| ''Runner-up'' ([[1976 Intercontinental Cup|1976]], [[1997 Intercontinental Cup|1997]])
+|-
+| [[CR Vasco da Gama|Vasco da Gama]]
+| 2
+| ''Runner-up'' ([[1998 Intercontinental Cup|1998]], [[2000 FIFA Club World Championship|2000]])
+|-
+| [[Fluminense FC|Fluminense]]
+| 1
+| ''Runner-up'' ([[2023 FIFA Club World Cup|2023]])
+|-
+| [[Clube Atlético Mineiro|Atlético Mineiro]]
+| 1
+| ''Third place'' ([[2013 FIFA Club World Cup|2013]])
+|-
+| [[Botafogo de Futebol e Regatas|Botafogo]]
+| 1
+| ''Quarter-finals'' ([[2024 FIFA Intercontinental Cup|2024]])
+|}
+
+{{col-end}}
+
+The Big Twelve are also the most supported clubs in Brazil, enjoying nationwide popularity. Even away from state borders, it is not hard to find supporters of Big Twelve clubs,<ref name=mapa>{{Citation| title = Mapa das curtidas dos times do Brasil no Facebook| newspaper = globoesporte.com| date = 10 May 2017| url = http://app.globoesporte.globo.com/futebol/mapa-das-torcidas-no-facebook/#!/| access-date = 28 February 2018 |language=pt}}</ref> often surpassing even local clubs.
+
+{| class="wikitable sortable"
+|+ Supporters Numbers in Brazil<ref name=torcida>{{Citation| title = Maiores torcidas do Brasil: pesquisa Atlas mostra Flamengo, Corinthians e São Paulo no top 3| newspaper = GE| date = 25 Apr 2023| url = https://ge.globo.com/futebol/noticia/2023/04/25/maiores-torcidas-do-brasil-pesquisa-atlas-mostra-flamengo-corinthians-e-sao-paulo-no-top-3.ghtml| access-date = 25 April 2023 |language=pt}}</ref>
+|-
+! Club
+! Supporters
+|-
+| [[Clube de Regatas do Flamengo|Flamengo]]
+| 46.9 million
+|-
+| [[Sport Club Corinthians Paulista|Corinthians]]
+| 30.4 million
+|-
+| [[São Paulo FC|São Paulo]]
+| 21.2 million
+|-
+| [[Sociedade Esportiva Palmeiras|Palmeiras]]
+| 16.5 million
+|-
+| [[CR Vasco da Gama|Vasco da Gama]]
+| 13.2 million
+|-
+| [[Cruzeiro Esporte Clube|Cruzeiro]]
+| 13.0 million
+|-
+| [[Grêmio Foot-Ball Porto Alegrense|Grêmio]]
+| 9.8 million
+|-
+| [[Clube Atlético Mineiro|Atlético Mineiro]]
+| 9.2 million
+|-
+| [[Sport Club Internacional|Internacional]]
+| 7.5 million
+|-
+| [[Fluminense FC|Fluminense]]
+| 7.2 million
+|-
+| [[Santos FC|Santos]]
+| 6.6 million
+|-
+| [[Botafogo de Futebol e Regatas|Botafogo]]
+| 4.2 million
+|}
+
+== All-time top scorers ==
+
+{| class="wikitable sortable" style="font-size:100%;"
+!Club
+!Player
+!Years
+!Goals
+!Ref
+|-
+|[[Atlético Mineiro]]
+|align=center|[[Reinaldo (footballer, born 1957)|Reinaldo]]
+|1973–1985
+|align=center|255
+|<ref>{{cite web|url=https://www.goal.com/br/listas/os-maiores-artilheiros-da-historia-do-atletico-mg/blt38a9635d8cc6ee51 |title=Os maiores artilheiros da história do Atlético-MG |website=Goal.com |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[Botafogo FR|Botafogo]]
+|align=center|[[Quarentinha]]
+|1954–1964
+|align=center|313
+|<ref>{{cite web|url=https://www.goal.com/br/listas/os-maiores-artilheiros-do-botafogo-na-historia/blt49efa87edd314b41 |title=Os maiores artilheiros da história do Botafogo |website=Goal.com |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[SC Corinthians|Corinthians]]
+|align=center|[[Cláudio (footballer, born 1922)|Cláudio]]
+|1945–1957
+|align=center|305
+|<ref>{{cite web|url=https://www.goal.com/br/listas/os-maiores-artilheiros-do-corinthians-na-historia/bltccb05731c4651730#csd9a676bbf67082b4 |title=Os maiores artilheiros da história do Corinthians |website=Goal.com |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[Cruzeiro EC|Cruzeiro]]
+|align=center|[[Tostão]]
+|1963–1972
+|align=center|249
+|<ref>{{cite web|url=https://www.goal.com/br/listas/os-maiores-artilheiros-da-historia-do-cruzeiro/blt44200643d053160d#csceccf3400f7c174f |title=Os maiores artilheiros da história do Cruzeiro|website=Goal.com |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[CR Flamengo|Flamengo]]
+|align=center|[[Zico (footballer)|Zico]]
+|1971–1983, 1985–1989
+|align=center|509
+|<ref>{{cite web|url=https://www.goal.com/br/listas/quem-sao-os-maiores-artilheiros-da-historia-do-flamengo/b7stjqqelnyj1295ov6959yyi#csc09ccd6de0594c63 |title=Os maiores artilheiros da história do Flamengo|website=Goal.com |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[Fluminense FC|Fluminense]]
+|align=center|[[Waldo (footballer)|Waldo]]
+|1954–1961
+|align=center|319
+|<ref>{{cite web|url=https://www.goal.com/br/not%C3%ADcias/quem-sao-os-maiores-artilheiros-da-historia-do-fluminense/mq0nbct574191h90d5df4kwct |title=Os maiores artilheiros da história do Flamengo|website=Goal.com |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[Grêmio FBPA|Grêmio]]
+|align=center|[[Alcindo]]
+|1964–1971
+|align=center|230
+|<ref>{{cite web|url=https://www.torcedores.com/noticias/2020/03/alcindo-e-o-maior-artilheiro-da-historia-do-gremio-veja-o-top-10 |title=Alcindo é o maior artilheiro da história do Grêmio; veja o top-10 |website=Torcedores.com |date=24 March 2020 |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[SC Internacional|Internacional]]
+|align=center|[[Carlitos (footballer, born 1921)|Carlitos]]
+|1938–1951
+|align=center|485
+|<ref>{{cite web|url=https://portaldocolorado.com.br/maiores-artilheiros-do-internacional/ |title=10 maiores artilheiros da história do Internacional |website=Portal do Colorado |date=5 October 2021 |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[SE Palmeiras|Palmeiras]]
+|align=center|[[Heitor (footballer, born 1898)|Heitor]]
+|1916–1931
+|align=center|315
+|<ref>{{cite web|url=https://www.goal.com/br/listas/quem-sao-os-maiores-artilheiros-da-historia-do-palmeiras/13nvubrjce7vk13nxnsny5jph5#csaadb6dbbf59a0dfd |title=Os maiores artilheiros da história do Palmeiras|website=Goal.com |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[Santos FC|Santos]]
+|align=center|[[Pelé]]
+|1956–1974
+|align=center|1091
+|<ref>{{cite web|url=https://www.goal.com/br/listas/os-maiores-artilheiros-da-historia-do-santos/blt40e95efdeff728b5#csecc403c403538ab1 |title=Os maiores artilheiros da história do Santos|website=Goal.com |access-date=18 May 2023 |language=pt}}</ref><ref>{{cite web|url=https://www.santosfc.com.br/rei-pele-1-091-gols-pelo-santos-fc/ |title=Rei Pelé – 1.091 gols pelo Santos FC |website=Santos FC  |date=26 December 2020 |access-date=18 May 2023 |language=pt}}</ref>
+|-
+|[[São Paulo FC|São Paulo]]
+|align=center|[[Serginho Chulapa|Serginho]]
+|1973–1982
+|align=center|250
+|<ref>{{cite web|url=https://spfcpedia.com.br/enciclopedia/2021/Enciclopedia2021_03.pdf |title=Enciclopédia Volume 3 – Os Jogadores com mais gols pelo SPFC |publisher=SPFCpedia |author=Michael Serra |access-date=20 September 2022 |language=pt}}</ref>
+|-
+|[[CR Vasco da Gama|Vasco da Gama]]
+|align=center|[[Roberto Dinamite]]
+|1971–1993
+|align=center|708
+|<ref>{{cite web|url=https://www.lance.com.br/vasco/quantos-gols-roberto-dinamite-marcou-pelo-vasco-veja-numeros-do-maior-artilheiro-do-clube.html |title=Quantos gols Roberto Dinamite marcou pelo Vasco? Veja números do maior artilheiro do clube |website=Lance! |date=8 January 2023 |access-date=18 May 2023 |language=pt}}</ref>
+|}
+
+== Controversies ==
+
+The validity of the concept of a Big Twelve is often a topic of debate.<ref>{{Citation| last1 = Grohmann| first1 = Gustavo| title = Quais são os times grandes do Brasil?| newspaper = Terceiro Tempo| date = 23 April 2012| url = http://terceirotempo.bol.uol.com.br/noticias/Quais_sao_os_times_grandes_do_Brasil_Por_Gustavo_Grohmann| access-date = 27 February 2018 |language=pt}}</ref><ref name=cor>{{cite web |url=https://www.meutimao.com.br/forum-do-corinthians/bate-papo-da-torcida/63432/realmente_existe_12_times_grandes_aqui_no_brasil |title=Realmente existe (sic) 12 times grandes aqui no Brasil? |last=Sulivan |first=Juan |date=21 December 2013 |access-date=27 February 2018 |language=pt}}</ref><ref>{{Citation| last1 = Rodrigues Alves| first1 = Alexandre| title = Não temos apenas 12 times| newspaper = Revista Acréscimos| date = 26 January 2018| url = https://medium.com/revistaacrescimos/n%C3%A3o-temos-apenas-12-times-672d93c705df| access-date = 28 February 2018 |language=pt}}</ref> It is at times portrayed as a [[elitism|rigid construct]] that excludes teams that merit a place in this group and at other times it is argued to be an outdated definition that includes clubs whose place is no longer merited.
+
+=== The case for more teams ===
+
+==== Esporte Clube Bahia ====
+
+[[Esporte Clube Bahia|Bahia]] hails from [[Salvador, Bahia|Salvador]], [[Bahia]] and is one of the two major clubs from the [[Campeonato Baiano]] (the other being [[Esporte Clube Vitória|Vitória]]). It is the only non-Big Twelve club to have two [[Brasileirão]] titles to its name (tied with [[Grêmio Foot-Ball Porto Alegrense|Grêmio]] and [[Clube Atlético Mineiro|Atlético Mineiro]]), notably beating [[Pelé]] and ''[[Os Santásticos]]'' in the final of the [[1959 Taça Brasil|1959 edition]]. In terms of fanbase size, its supporters compete with those of [[Fluminense FC|Fluminense]] and [[Botafogo de Futebol e Regatas|Botafogo]] and are ahead of any non-Big Twelve ones.<ref name=torcida /> It is, in fact, one of the [[Clube dos 13]]'s founding members alongside the Big Twelve. Prior to its first relegation in 1997, Bahia was considered one of the biggest clubs in Brazil. However, its [[Brasileirão]] campaigns have been generally unimpressive since the 1980s, and the club spent much of the 2000s outside the first division.
+
+Bahia was relegated in 1997 to the [[Campeonato Brasileiro Serie B]] and only came back to the top tier of Brazilian football in 2000 with a political maneuver, after CBF's withdrawal from organizing the championship of that year due to legal problems and handing it to Clube dos 13 because the club failed in achieving the promotion to Serie A in 1998 and 1999. Bahia was again relegated to Serie B in 2003 and relegated to Serie C in 2005, the low point in the history of the club. The team disputed two seasons of Serie C until achieved its first promotion in history in 2007 to Serie B, and in 2010 the team was promoted for the first time to the [[2011 Campeonato Brasileiro Série A|Brasileirão]]. Bahia was relegated in [[2014 Campeonato Brasileiro Série A]], but this time they only stayed two seasons out of Série A, making their comeback in the [[2017 Campeonato Brasileiro Série A|2017 edition]].
+
+The club also lags behind Big Twelve clubs in financial assets.<ref name=econbr>{{Citation | title = Análise Econômico-Financeira dos Clubes de Futebol Brasileiros - 2017 | publisher = Itaú BBA | date = 22 June 2017 | url = http://www.itau.com.br/_arquivosestaticos/itauBBA/contents/common/docs/Analise_dos_Clubes_Brasileiros_de_Futebol_Itau_BBA_2017.pdf | language=pt}}</ref><ref name=econbr2>{{Citation| last1 = Barros| first1 = Davi| title = Clubes têm receitas recorde em 2016, mas consultor avisa: "2017 será ano da verdade"| newspaper = globoesporte.com| date = 2 May 2017| url = https://globoesporte.globo.com/futebol/noticia/clubes-tem-receitas-recorde-em-2016-mas-consultor-avisa-2017-sera-ano-da-verdade.ghtml| access-date = 28 February 2018 |language=pt}}</ref>
+
+==== Paraná State clubs ====
+
+From [[Curitiba]], [[Paraná (state)|Paraná state]] capital, there are [[Coritiba Foot Ball Club]] and [[Club Athletico Paranaense]], both playing in the [[Campeonato Paranaense]]. [[Athletico Paranaense]] is often regarded as one of the best-run clubs in Brazil,<ref>{{Citation| last1 = Barros| first1 = Davi| title = Estudo: Atlético-PR é o clube brasileiro com as melhores finanças| newspaper = globoesporte.com| date = 8 January 2018| url = https://veja.abril.com.br/placar/estudo-atletico-pr-e-o-clube-brasileiro-com-as-melhores-financas/| access-date = 28 February 2018| language = pt}}{{Dead link|date=May 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> with financial results that rival those of the Big Twelve.<ref name="econbr" /><ref name="econbr2" /> The club has won the [[Brasileirão]] once, in [[2001 Campeonato Brasileiro Série A|2001]], and its best campaigns at the [[Copa Libertadores]] were a runner-up showing in [[2005 Copa Libertadores|2005]] and [[2022 Copa Libertadores|2022]]. However, the club has a very poor pre-1990s record at the [[Brasileirão]] and its fanbase is relatively small compared to Big Twelve clubs and very much contained within [[Paraná (state)|Paraná]]'s borders.<ref name="mapa" /> [[Coritiba Foot Ball Club|Coritiba]] won one title of [[Brasileirão]], conquered in 1985 and it was the first club of Paraná to participate [[Copa Libertadores]], in 1986, 
+as well as the first club to carry an expression title in its state. [[Athletico Paranaense]] also won the title of [[Copa do Brasil]], which [[Botafogo de Futebol e Regatas|Botafogo]] did not win, and also [[Copa Sudamericana]] (or another of its predecessors), which [[CR Flamengo|Flamengo]], [[Fluminense FC|Fluminense]], [[CR Vasco da Gama|Vasco da Gama]], [[Grêmio Foot-Ball Porto Alegrense|Grêmio]], [[Clube Atlético Mineiro|Atlético Mineiro]], [[Cruzeiro Esporte Clube|Cruzeiro]], [[Sport Club Corinthians Paulista|Corinthians]], [[Sociedade Esportiva Palmeiras|Palmeiras]] and [[Santos FC|Santos]] did not win. While Coritiba was runner-up of Copa do Brasil twice, in [[2011 Copa do Brasil|2011]] and [[2012 Copa do Brasil|2012]].
+
+==== Other clubs ====
+
+Like the Big Twelve and [[Esporte Clube Bahia|Bahia]], [[Coritiba Foot Ball Club|Coritiba]] and [[Club Athletico Paranaense|Athletico Paranaense]], the clubs [[Guarani FC|Guarani]], [[Associação Portuguesa de Desportos|Portuguesa]], [[Goiás Esporte Clube|Goiás]], [[Sport Club do Recife|Sport]] and [[Esporte Clube Vitória|Vitória]] were also members of the [[Clube dos 13]], composed by the most important and traditional clubs during its active period.<ref>{{cite news| title=Quatro grandes do Rio anunciam posição conjunta contra Clube dos 13|url=http://globoesporte.globo.com/futebol/noticia/2011/02/quatro-grandes-do-rio-anunciam-posicao-conjunta-contra-clube-dos-13.html|publisher=Globo Esporte|date=February 23, 2011|access-date=February 23, 2011|language=pt}}</ref>
+
+[[Guarani FC|Guarani]], the [[1978 Campeonato Brasileiro Série A]] champion<ref>{{cite news| title=Esquadrão Imortal - Guarani 1978|url=https://www.imortaisdofutebol.com/2013/12/11/esquadrao-imortal-guarani-1978/|publisher=Imortais do Futebol|date=December 11, 2013|access-date=August 4, 2020|language=pt}}</ref> and [[Sport Club do Recife|Sport]], the [[1987 Campeonato Brasileiro Série A]] champion, are the other Campeonato Brasileiro Série A champions outside the Big Twelve, also the latter being the [[2008 Copa do Brasil]] champion. In [[1979 Copa Libertadores]], Guarani reached the semi-finals of the competition. And Sport's best appearances in international competitions were the round of 16 in the [[2009 Copa Libertadores]] and the quarter-finals of the [[2017 Copa Sudamericana]].
+
+[[Goiás Esporte Clube|Goiás]] and [[Esporte Clube Vitória|Vitória]] spent mostly of the previous seasons on the second division, but achieved good results in the last years. Goiás was the [[2010 Copa Sudamericana]] runner-up,<ref>{{cite web|url=http://www.conmebol.com/conmebol/mainMedia.html?id=15171&viewpage=%27full%27 |title=Magnífico sorteo de la Copa Nissan Sudamericana 2010 en Asunción |trans-title=Magnificent draw of the 2010 Copa Nissan Sudamericana in Asunción |language=es |date=April 28, 2010 |publisher=[[CONMEBOL]] |access-date=October 21, 2010 |archive-url=https://web.archive.org/web/20101024025555/http://www.conmebol.com/conmebol/mainMedia.html?id=15171&viewpage=%27full%27 |archive-date=24 October 2010 |url-status=dead }}</ref> and Vitoria was the [[1993 Campeonato Brasileiro Série A]] and [[2010 Copa do Brasil]] runner-up.<ref>[http://www.cbf.com.br/ranking/ranking.pdf CBF Club Ranking - official site] {{webarchive|url=https://web.archive.org/web/20090117065212/http://www.cbf.com.br/ranking/ranking.pdf |date=2009-01-17 }}</ref>
+
+[[Associação Portuguesa de Desportos|Portuguesa]] is historically one of the strongest teams in [[São Paulo (state)]], winning two [[Torneio Rio–São Paulo]], the only team outside G-12 to win the competition. In addition, it has the same number of titles as Fluminense (2), and one more title than São Paulo and Flamengo (both have only 1). Portuguesa was also the [[1996 Campeonato Brasileiro Série A]] runner-up. After the "[[Héverton Durães Coutinho Alves|Héverton Case]]", in 2013, the team has been relegated to the second division, further being relegated two times straight.<ref name=STJD>{{cite news|last=Rodrigues|first=Renan|title=STJD pune Portuguesa e mantém Fluminense na Série A; ainda cabe recurso|url=http://esporte.uol.com.br/futebol/campeonatos/brasileiro/serie-a/ultimas-noticias/2013/12/16/stjd-decide-por-queda-de-lusa-e-mantem-flu-na-primeira-divisao-cabe-recurso.htm|trans-title=STJD punishes Portuguesa and maintains Fluminense in Série A; still subject to appeal|access-date=16 December 2013|newspaper=[[Universo Online|UOL Esportes]]|date=16 December 2013|author2=Paradella, Rodrigo|location=Rio de Janeiro|language=pt}}</ref>
+
+During the early 2000s, [[Associação Desportiva São Caetano|São Caetano]] got noticed in both national and international media after being runner-up of [[Copa Libertadores 2002|2002]] [[Copa Libertadores]], the most important tournament in South America. They lost the final to Paraguay club [[Olimpia Asunción|Olimpia]] on penalty shootouts. They were also runner-up in both [[2000 Campeonato Brasileiro Série A]] and [[2001 Campeonato Brasileiro Série A]].
+
+After the [[Red Bull GmbH|Red Bull]] took over the control of the [[1991 Campeonato Brasileiro Série A]] runner-up, [[Clube Atlético Bragantino]], and changed its name to [[Red Bull Bragantino]]. The club claims that it will be one of Brazil's best clubs in the future, being runner-up in the [[2021 Copa Sudamericana]].<ref>{{cite web|url=https://sponsorship.sportbusiness.com/news/red-bull-expands-global-football-empire-takes-over-at-bragantino/ |title=Red Bull expands global football empire, takes over at Bragantino |date=28 March 2019 |publisher=SportBusiness SPONSORSHIP}}</ref><ref>{{cite web|url=https://globoesporte.globo.com/sp/vale-do-paraiba-regiao/futebol/noticia/bragantino-anuncia-acordo-com-o-rb-brasil-para-gestao-do-time-na-serie-b.ghtml |title=Bragantino anuncia acordo com o RB Brasil para gestão do time na Série B |date=26 March 2019 |publisher=Globo |language=pt}}</ref>
+
+[[Fortaleza Esporte Clube|Fortaleza]], club of [[Ceará]] state, recently accumulated appearances in the [[Campeonato Brasileiro Série A]] and [[Copa Sudamericana]], being runner-up in the [[2023 Copa Sudamericana]], losing the final in penalty shootouts.
+
+=== The case for fewer teams ===
+
+It is often argued that there is too big a gap even between Big Twelve clubs in honors (outside of [[State football leagues in Brazil|state leagues]]) and fanbase size.<ref name=cor /> [[Clube de Regatas do Flamengo|Flamengo]] and [[Sport Club Corinthians Paulista|Corinthians]] could be argued to be in a tier of their own in terms of supporters, far above third place [[São Paulo FC|São Paulo]] and [[Sociedade Esportiva Palmeiras|Palmeiras]]. Still, this supposed superiority does not translate into the pitch, with many teams claiming more titles than them in the [[Brasileirão]], [[Copa do Brasil]], [[Copa Libertadores]], and [[FIFA Club World Cup]]. Similarly, it's sometimes argued if [[Santos FC|Santos]] and [[Botafogo de Futebol e Regatas|Botafogo]] are below their regional rivals ([[Sport Club Corinthians Paulista|Corinthians]], [[São Paulo FC|São Paulo]] and [[Sociedade Esportiva Palmeiras|Palmeiras]] all boast significantly more supporters than [[Santos FC|Santos]]; [[Clube de Regatas do Flamengo|Flamengo]], [[Fluminense FC|Fluminense]] and [[CR Vasco da Gama|Vasco da Gama]] are on the list of winners of the [[Copa do Brasil]], not won by [[Botafogo de Futebol e Regatas|Botafogo]]). However, these two clubs' importance to Brazilian football cannot be understated: [[Santos FC|Santos]]'s ''[[Os Santásticos]]'' was the most dominant Brazilian side ever, winning six [[Brasileirão]] and eight [[Campeonato Paulista]] titles in the 1960s; and [[Botafogo de Futebol e Regatas|Botafogo]] hold the record for most capped players for the [[Brazil national football team]] in World Cups.
+
+== See also ==
+
+* [[State football leagues in Brazil]]
+* [[Big Five (Argentine football)]]
+* [[Big Four (Mexico)]]
+* [[Big Three (Netherlands)]]
+* [[Big Three (Portugal)]]
+* [[Big Six (Premier League)]]
+
+== References ==
+{{reflist}}
+
+{{Football in Brazil}}
+{{Navboxes 
+|list =
+{{Clube Atlético Mineiro}}
+{{Botafogo de Futebol e Regatas}}
+{{Sport Club Corinthians Paulista}}
+{{Cruzeiro Esporte Clube}}
+{{Clube de Regatas do Flamengo}}
+{{Fluminense FC}}
+{{Grêmio FBPA}}
+{{SC Internacional}}
+{{SE Palmeiras}}
+{{Santos FC}}
+{{São Paulo FC}}
+{{CR Vasco da Gama}}
+}}
+
+[[Category:Football in Brazil]]
+[[Category:Santos FC]]
+[[Category:Cruzeiro EC]]
+[[Category:CR Vasco da Gama]]
+[[Category:CR Flamengo]]
+[[Category:Clube Atlético Mineiro]]
+[[Category:Botafogo FR]]
+[[Category:SC Corinthians Paulista]]
+[[Category:Fluminense FC]]
+[[Category:Grêmio FBPA]]
+[[Category:SC Internacional]]
+[[Category:SE Palmeiras]]
+[[Category:São Paulo FC]]
+[[Category:Nicknames in association football]]
+[[Category:Association football terminology]]

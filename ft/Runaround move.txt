@@ -1,0 +1,36 @@
+{{Short description|Move in football}}
+{{Use dmy dates|date=April 2022}}
+The '''runaround move''' is a [[association football|football]] move designed to get around an opponent,<ref name=roger>Roger Kenneth Macdonald, Scientific Soccer of the Seventies, Pelham: 1971, pp. 8-47</ref> made famous by [[Pelé]] in the [[1970 FIFA World Cup|1970 World Cup]]. The move involves letting a dribble or a pass from a teammate approach but allowing it run past the opponent, then sprinting around the opposing player to continue the attack.
+
+==History ==
+[[Image:Pelerun3.jpg|right|250px]]
+The move was demonstrated by Brazilian footballer [[Pelé]] during the [[1970 FIFA World Cup]] match against [[Uruguay national football team|Uruguay]].<ref name="NYTimes">[https://www.nytimes.com/1999/12/29/sports/29iht-soccer.2.t_24.html "The Greatest? For Century, Pelé Eclipses Muhammad Ali"] {{Webarchive|url=https://web.archive.org/web/20160617015133/http://www.nytimes.com/1999/12/29/sports/29iht-soccer.2.t_24.html |date=2016-06-17 }}. The New York Times. Retrieved 6 May 2011.</ref> In the second half, Brazilian centre-forward [[Tostão]] played a through pass to Pelé as a counter-attack started. Sprinting up the middle, Pelé was immediately confronted with the Uruguayan goalkeeper [[Ladislao Mazurkiewicz]] who came off his line quickly. Pelé got there first and fooled Mazurkiewicz by not touching the ball, causing it to roll to the goalkeeper's left, while Pelé went to the goalkeeper's right.<ref name="skysports"/> Circling the goalkeeper to collect, Pelé shot while turning towards the goal, but he turned too much while shooting, and the ball drifted just wide of the far post.<ref name="skysports">[http://www.skysports.com/football/world-cup-2010/story/0,27032,17286_5688110,00.html "Mexico 1970: Brazilians show all how beautiful game should be played"] {{Webarchive|url=https://web.archive.org/web/20110919052202/http://www.skysports.com/football/world-cup-2010/story/0,27032,17286_5688110,00.html |date=2011-09-19 }}. Sky Sports. Retrieved 5 May 2011.</ref>
+
+Pelé's move is a variant of the "selling the dummy" [[Dummy (football)|feint]] – letting the ball go ''around'' a defender then also circling the opponent, rather than following the straight path of a pass or loose ball, and can be useful in tight situations. It is discussed in ''Scientific Soccer of the Seventies'' by soccer historian Kenneth MacDonald, who also discusses Pelé's contribution in Brazil's 1970 World Cup victory in detail.<ref name=roger/> This "runaround" move is mentioned in official FIFA World Cup Technical Reports as ''"audaciously executed, and called for immense skill, timing, judgment and speed."''<ref>World Championship - Jules Rimet Cup 1970 Final Competition.  FÉDÉRATION INTERNATIONALE DE FOOTBALL ASSOCIATION, FIFA Technical Study Group, London: (FIFA) 1970), p. 24.</ref>
+
+Swedish player [[Jesper Blomqvist]] managed to perform a variant of the runaround move with more success, adding a fake, that resulted in a goal when his [[IFK Göteborg]] played [[Helsingborgs IF]] in the [[Allsvenskan]] in 1995.<ref>As seen on Youtube (https://www.youtube.com/watch?v=GXJhyqEinXY ; {{Webarchive|url=https://web.archive.org/web/20210804113308/https://www.youtube.com/watch?v=GXJhyqEinXY |date=2021-08-04 }})</ref> Blomqvist relied more on deception than Pelé. Whereas the Brazilian had to move with utmost speed to avoid Mazurkiewicz, Blomqvist had more time and used a deceptive shuffling of the feet. Receiving an excellent through pass, the Swede confused the approaching keeper – letting the ball run – and ''faking left'', while sprinting right, around his opponent. He collected the ball on the other side and finished with an easy goal. As demonstrated by both Blomqvist and Pelé, the runaround move can thus work in "emergency" situations where speed and split-second timing are all, or where there is more time and space to fake out an opponent. In both scenarios, it can lead to spectacular results.
+
+==See also==
+* {{Portal inline|Association football}}
+* [[Cruyff turn]]
+* [[Dummy (football)|Dummy/feint]]
+* [[Marseille turn]]
+* [[Nutmeg (association football)]]
+* [[Seal dribble]]
+* [[Step over]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.youtube.com/watch?v=-UzRsvCsC4c Pele dummy and miss v Uruguay]—Video of Pelé performing the trick
+* [https://www.youtube.com/watch?v=mR4SxMBRH6U Great goal by Jesper Blomqvist]—Successful execution by [[Jesper Blomqvist]]
+
+{{Pelé}}
+{{Association football tactics and skills}}
+{{Association football terminology}}
+
+{{DEFAULTSORT:Pele runaround move}}
+[[Category:Association football skills]]
+[[Category:Association football terminology]]
+[[Category:Pelé]]

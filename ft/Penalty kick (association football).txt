@@ -1,0 +1,407 @@
+{{Short description|Type of direct free kick in association football}}
+{{About||the method of resolving a tied match|Penalty shoot-out (association football)||Penalty shot}}
+{{Use British English|date=May 2013}}
+{{Use dmy dates|date=October 2022}}
+[[File:2017-09-13 - Atlanta United vs New England Revolution - Martinez scoring.jpg|thumb|300px|[[Josef Martínez]] of [[Atlanta United FC]] taking a penalty kick versus the [[New England Revolution]]]]
+A '''penalty kick''' (commonly known as a '''penalty''' or a '''spot kick''') is a method of restarting play in [[association football]], in which a player is allowed to take a single shot at the goal while it is defended only by the opposing team's [[Goalkeeper (association football)|goalkeeper]]. It is awarded when an [[foul (sports)|offence]] punishable by a [[direct free kick]] is committed by a player in their own [[penalty area]]. The shot is taken from the penalty spot, which is 11 metres (12 yards) from the goal line and centered between the touch lines.
+
+==Procedure==
+The ball is placed on the penalty spot, regardless of where the foul occurred within the penalty area. The player taking the kick must be identified to the referee. Only the kicker and the defending team's goalkeeper are allowed to be within the penalty area; all other players must be within the field of play, outside the penalty area, behind the penalty mark, and at least 9.15&nbsp;m (10&nbsp;yd) from the penalty mark (this distance is denoted by the penalty arc).<ref>{{cite web |title=Laws of the Game 2019/20 |url=http://static-3eb8.kxcdn.com/documents/794/103357_200519_LotG_201920_EN_Booklet.pdf |page=38 |archive-url=https://web.archive.org/web/20200127175142/http://static-3eb8.kxcdn.com/documents/794/103357_200519_LotG_201920_EN_Booklet.pdf |archive-date=27 January 2020 |url-status=live }}</ref> The goalkeeper is allowed to move before the ball is kicked, but must remain on the goal-line between the goal-posts, facing the kicker, without touching the goalposts, crossbar, or goal net.  At the moment the kick is taken, the goalkeeper must have at least part of one foot touching, or in line with, the goal line. The assistant referee responsible for the goal line where the penalty kick is being taken is positioned at the intersection of the penalty area and goal line, and assisting the referee in detecting infringements and determining whether a goal is scored.
+
+The referee blows the whistle to indicate that the penalty kick may be taken. The penalty taker may not kick the ball before the whistle is blown. The kicker may make feinting (deceptive or distracting) movements during the run-up to the ball, but may not do so once the run-up is completed. The kick and the last step the kicker takes must be in motion. The ball must be stationary before the kick, and it must be kicked forward. The ball is in play once it is kicked and moves, and at that time other players may enter the penalty area and the penalty arc. The kicker may not touch the ball a second time until it has been touched by another player of either team or goes out of play (including into the goal); if the ball hits the goalpost or crossbar, without the goalkeeper having made contact with it, and rebounds into play, the kicker may not touch it again until after another player has done so.
+
+==Infringements==
+In case of an infringement of the laws of the game during a penalty kick, most commonly entering the penalty area illegally, the referee must consider both whether the ball entered the goal, and which team(s) committed the offence. If both teams commit an offence, the penalty kick is retaken.
+[[File:Ivory Coast penalty.jpg|thumb|right|300px|A penalty kick being taken by [[Bonaventure Kalou]]]]
+
+{| class="wikitable"
+|+Results of a penalty kick<ref>IFAB 2025 [https://www.theifab.com/laws/latest/the-penalty-kick/#summary-table 14.3 Summary table]</ref>
+|-
+! Result of the kick !! No violation !! Violation by the attacking team only !! Violation by the defence only
+|-
+| Enters the goal || Goal || Retaken || Goal
+|-
+| Goes directly out of bounds || Goal kick || Goal kick || Retaken
+|-
+| Rebounds into play from goal frame/goalkeeper || Play continues || Indirect free kick || Retaken
+|-
+| Saved & held by goalkeeper || Play continues || Play continues || Retaken
+|-
+| Deflected out of bounds by goalkeeper || Corner kick || Indirect free kick || Retaken
+|}
+
+The following infringements committed by the kicking team result in an [[indirect free kick]] for the defending team, regardless of the outcome of the kick:
+* a teammate of the identified kicker kicks the ball instead (the player who took the kick is [[yellow card (association football)|cautioned]])
+* kicker feints kicking the ball at the end of the run-up (the kicker is cautioned)
+* kick does not go forward
+* kicker deliberately touches the ball a second time before it touches another player (includes rebounds off the goal posts or crossbar) 
+** if the second touch is accidental, the [[International Football Association Board]] (IFAB) [[#AccidentalDoubleTouch|clarified in 2025]] that the kick should be retaken.<ref>{{cite press release |title=Clarification concerning double touches |url=https://theifab.com/news/clarification-of-the-guidelines-to-distinguish-between-deliberate-play-and-deflec/ |publisher=IFAB |access-date=3 October 2025 |date=2 June 2025}}</ref>
+
+In the case of a player repeatedly infringing the laws during the penalty kick, the referee may caution the player for persistent infringement. All offences that occur before kick may be dealt with in this manner, regardless of the location of the offence.
+
+If the ball touches an outside agent (i.e., an object foreign to the playing field) as it moves forward from the kick, the kick is retaken.
+
+==Tap penalty==
+A two-man penalty, or "tap" penalty, occurs when the kicker, instead of shooting for goal, taps the ball slightly forward so that a teammate can run on to it and shoot or pass. If properly executed, it is a legal play since the kicker is not required to shoot for goal and need only kick the ball forward. This strategy relies heavily on the element of surprise, as it first requires the goalkeeper to believe the kicker will actually shoot, then dive or move to one side in response. It then requires the goalkeeper to remain out of position long enough for the kicker's teammate to reach the ball before any defenders, and for that teammate to place a shot on the undefended side of the goal.
+
+The first recorded tap penalty was taken by [[Jimmy McIlroy]] and [[Danny Blanchflower]] of [[Northern Ireland national football team|Northern Ireland]] against Portugal on 1 May 1957.<ref>{{cite web|url=http://www.independent.ie/videos/sport/video-messi-who-northern-ireland-legends-blanchflower-and-mcilroys-brilliant-penalty-34461430.html|title=Video: Messi who? Northern Ireland legends Blanchflower and McIlroy's brilliant penalty|work=Irish Independent|date=17 February 2016 }}</ref> Another was taken by [[Rik Coppens]] and [[André Piters]] in the World Cup qualifying match Belgium versus Iceland on 5 June 1957. Another attempt was made by [[Mike Trebilcock]] and [[Johnny Newman (footballer)|John Newman]], playing for [[Plymouth Argyle F.C.|Plymouth Argyle]] in 1964.<ref name="independent"/> In 1982, [[Johan Cruyff]] passed to his [[AFC Ajax|Ajax]] team-mate [[Jesper Olsen]], who then passed back, allowing Cruyff to tap in for a goal.<ref name="independent">{{cite web|url=https://www.independent.co.uk/sport/football/european/lionel-messi-penalty-robert-pires-and-thierry-henry-johan-cruyff-and-jesper-olsen-and-others-to-try-a6874891.html |archive-url=https://ghostarchive.org/archive/20220525/https://www.independent.co.uk/sport/football/european/lionel-messi-penalty-robert-pires-and-thierry-henry-johan-cruyff-and-jesper-olsen-and-others-to-try-a6874891.html |archive-date=25 May 2022 |url-access=subscription |url-status=live|title=Lionel Messi penalty: Robert Pires and Thierry Henry, Johan Cruyff and Jesper Olsen and others to try trick penalties|work=The Independent|date=15 February 2016}}</ref>
+
+[[Arsenal F.C.|Arsenal]] players [[Thierry Henry]] and [[Robert Pires]] failed in an attempt at a similar penalty in 2005, during a [[Premier League]] match against [[Manchester City F.C.|Manchester City]] at [[Arsenal Stadium|Highbury]]. Pires ran in to take the kick, attempted to pass to the onrushing Henry, but miskicked and the ball hardly moved; as he had slightly touched the ball, he could not touch it again, and City defender [[Sylvain Distin]] cleared the ball before Henry could shoot.<ref>{{cite news| url=https://news.bbc.co.uk/sport2/hi/football/teams/a/arsenal/4368116.stm | publisher=BBC News | title=Wenger defends Pires over penalty | date=22 October 2005}}</ref>
+
+[[Lionel Messi]] tapped a penalty for [[Luis Suárez]] as Suárez completed his hat-trick on 14 February 2016 against league opponents [[Celta de Vigo]].<ref>{{cite news| url=https://en.wikinews.org/wiki/Messi_passes_from_penalty_for_Su%C3%A1rez%27s_hat-trick_as_Bar%C3%A7a_beats_Celta_6-1| newspaper=Wikinews | title=Messi passes from penalty for Suárez's hat-trick as Barça beats Celta 6–1 | date=15 February 2016}}</ref>
+
+==Saving tactics==
+==="Reading" the kicker{{anchor|Strategy to save a penalty}}===
+[[File:Keller saves PK attempt by Henry.ogv|right|thumb|American goalkeeper [[Kasey Keller]] saves a penalty kick taken by [[Thierry Henry]] in a [[Major League Soccer]] match.]]
+[[File:ACBB v. US Torcy 2 (U16 Régional 1 - Ligue Paris-Ile-de-France) - 12ème journée - Stade Alphonse Le Gallo (Boulogne-Billancourt, FR92) - 04-02-2024 74.webm|right|thumb|An example of a penalty kick scored during an Under-16 French amateur match.]]
+[[File:Ryan Valentine scores.jpg|thumb|right|A penalty being scored by [[Ryan Valentine]] (''red, no. 3'').]]Defending against a penalty kick is one of the most difficult tasks a goalkeeper can face. Owing to the short distance between the penalty spot and the goal, there is very little time to react to the shot. Because of this, the goalkeeper will usually start their dive before the ball is actually struck. In effect, the goalkeeper must act on their best prediction about where the shot will be aimed. Some goalkeepers decide which way they will dive beforehand, thus giving themselves a good chance of diving in time. Others try to read the kicker's motion pattern. On the other side, kickers often feign and prefer a relatively slow shot in an attempt to foil the goalkeeper. The potentially most fruitful approach, shooting high and centre, i.e., in the space that the goalkeeper will evacuate, also carries the highest risk of shooting above the bar (or even hitting it).
+
+As the shooter makes their approach to the ball, the goalkeeper has only a fraction of a second to "read" the shooter's motions and decide where the ball will go. If their guess is correct, this may result in a missed penalty. [[Helmut Duckadam]], [[FC Steaua București|Steaua București]]'s goalkeeper, saved a record four consecutive penalties in the [[1986 European Cup Final]] against [[FC Barcelona|Barcelona]]. He dived three times to the right and a fourth time to his left to save all penalties taken, securing victory for his team.
+
+===Use of knowledge of kicker's history===
+A goalkeeper may also rely on knowledge of the shooter's past behaviour to inform their decision. An example of this would be by former [[Netherlands national football team|Netherlands national team]] goalkeeper [[Hans van Breukelen]], who always had a box with cards with all the information about the opponent's penalty specialist. Ecuadorian goalkeeper [[Marcelo Elizaga]] saving a penalty from [[Carlos Tevez]] in a [[2010 FIFA World Cup]] qualifier between [[Ecuador national football team|Ecuador]] and [[Argentina national football team|Argentina]], revealed that he had studied some penalty kicks from Tevez and suspected he was going to shoot to the goalkeeper's left side. Two other examples occurred during the [[2006 FIFA World Cup]]:
+
+* [[Portugal national football team|Portugal national team]] goalkeeper [[Ricardo (footballer, born 1976)|Ricardo]] in a quarter-final match against [[England national football team|England]], where he saved three penalties out of four.
+* The quarter-final match between Argentina and [[Germany national football team|Germany]] also came down to penalties, and German goalkeeper [[Jens Lehmann]] was seen looking at a piece of paper kept in his sock before each Argentinian player would come forward for a penalty kick. Lehmann had researched the penalty taking habits of seven players on the Argentinian team. However, only two players on his list ended up taking a penalty that day. On the attempts by those two players, Lehmann saved one and came close to saving the other. He then had to guess on [[Esteban Cambiasso]]'s kick since he did not have any information written on his list about Cambiasso. However, he derived an educated guess from the videos he had studied and pretended to read the piece of paper and nodded his head before putting it away, implying to Cambiasso that he did in fact have information on the kicker. Lehmann guessed correctly and saved the penalty, thus winning the shootout for Germany.<ref>{{Cite web|url=https://www.fifa.com/tournaments/mens/worldcup/2006germany/news/origin1904-p.cxm.fifa.comthe-piece-of-paper-that-helped-germany-turn-the-page-2811265|title=The piece of paper that helped Germany turn the page|website=www.fifa.com}}</ref> "Lehmann's list" became so popular in the annals of German football history that it is now in the [[Haus der Geschichte]] museum.
+
+This approach may not always be successful; the player may intentionally switch from their favoured spot after witnessing the goalkeeper obtaining knowledge of their kicks. Most times, especially in amateur football, the goalkeeper is often forced to guess. [[game theory|Game theoretic]] research shows that both the penalty taker and also the goalkeeper must randomize their strategies in precise ways to avoid having the opponent take advantage of their predictability.<ref>{{citation|jstor=3083302|title=Testing Mixed-Strategy Equilibria When Players Are Heterogeneous: The Case of Penalty Kicks in Soccer|date=1 September 2002|last1=Chiappori|first1=P. -A|last2=Levitt|first2=S.|last3=Groseclose|first3=T.|journal=The American Economic Review|volume=92|issue=4|pages=1138–1151|doi=10.1257/00028280260344678|citeseerx=10.1.1.178.1646}}</ref>
+
+===Distraction===
+The goalkeeper also may try to distract the penalty taker, as the expectation is on the penalty taker to succeed, hence more pressure on the penalty taker, making them more vulnerable to mistakes. For example, in the [[2008 UEFA Champions League Final]] between [[Manchester United F.C.|Manchester United]] and [[Chelsea F.C.|Chelsea]], United goalkeeper [[Edwin van der Sar]] pointed to his left side when [[Nicolas Anelka]] stepped up to take a shot in the penalty shoot out. This was because all of Chelsea's penalties went to the left. Anelka's shot instead went to Van der Sar's right, which was saved. [[Liverpool F.C.|Liverpool]] goalkeeper [[Bruce Grobbelaar]] used a method of distracting the players called the "spaghetti legs" trick to help his club defeat [[A.S. Roma|Roma]] to win the [[1984 European Cup Final|1984 European Cup]]. This tactic was emulated in the [[2005 UEFA Champions League Final]], which Liverpool also won, by Liverpool goalkeeper [[Jerzy Dudek]], helping his team defeat [[A.C. Milan|Milan]].
+
+An illegal method of saving penalties is for the goalkeeper to make a quick and short jump forward just before the penalty taker connects with the ball. This not only shuts down the angle of the shot, but also distracts the penalty taker. The method was used by [[Brazil national football team|Brazilian]] goalkeeper [[Cláudio Taffarel]]. [[FIFA]] was less strict on the rule during that time. In more recent times, FIFA has advised all referees to strictly obey the rule book.{{Citation needed|date=March 2010}}
+
+Similarly, a goalkeeper may also attempt to delay a penalty by cleaning their boots, asking the referee to see if the ball is placed properly and other delaying tactics. This method builds more pressure on the penalty taker, but the goalkeeper may risk punishments, most likely a yellow card.
+
+A goalkeeper can also try to distract the taker by talking to them prior to the penalty being taken. Netherlands national team goalkeeper [[Tim Krul]] used this technique during the penalty shootout in the quarter-final match of the [[2014 FIFA World Cup]] against [[Costa Rica national football team|Costa Rica]]. As the Costa Rican players were preparing to take the kick, Krul told them that he "knew where they were going to put their penalty" in order to "get in their heads".<ref>{{Cite news|title = Tim Krul: How the 120th-minute substitute stole Dutch glory|publisher = BBC Sport|url = https://www.bbc.com/sport/football/28180956|access-date = 2016-02-15}}</ref> This resulted in him saving two penalties and the Netherlands winning the shootout 4–3.
+
+Argentine goalkeeper [[Emiliano Martínez]] is known for using mind games in shootouts, most notably when he talked to the Colombian players as they went to take their penalties in the [[2021 Copa América]] semifinal, and throwing the ball away when [[Aurélien Tchouaméni]] was about to kick in the [[2022 FIFA World Cup final]].
+
+Tactics used by goalkeepers to reduce the probability of kickers succeeding with their kicks include:<ref>{{cite web |title=Tim Krul and the Greatest Substitute Ever Made {{!}} The Long Walk On FIFA+ |url=https://www.youtube.com/watch?v=XMF6uu_HpZk |website=YouTube | date=10 November 2022 |publisher=FIFA |access-date=17 June 2025}}</ref>
+*Visually distracting the kicker (e.g. pointing, gesturing)
+*Verbally irritating, annoying or provoking the kicker
+*Physically confronting the kicker
+*Delaying the kicker (e.g. the goalkeeper taking a long time to position themself for the kick)
+
+===Saving statistics===
+
+Some goalkeepers have become well known for their ability to save penalty kicks. One such goalkeeper is [[Diego Alves]], who boasts a 49 per cent save success rate. Other goalkeepers with high save rates include [[Claudio Bravo]], [[Kevin Trapp]], [[Samir Handanović]], [[Gianluigi Buffon]], [[Tim Krul]], [[Danijel Subašić]], [[Sergio Goycochea]], [[Sergio Romero]], and [[Manuel Neuer]].<ref>{{cite web|url=https://www.fourfourtwo.com/features/9-footballs-best-penalty-saving-goalkeepers|title=9 of football's best penalty-saving goalkeepers|first=Tim|last=Ellis|date=30 January 2017|access-date=21 February 2019}}</ref><ref>{{cite web|url=https://www.skysports.com/football/news/11095/10605108/top-penalty-stoppers-in-the-premier-league-and-europe|title=Top penalty-stoppers in the Premier League and Europe|publisher=Sky Sports|first=Adam|last=Smith|date=5 October 2016|access-date=21 February 2019}}</ref><ref>{{cite web|url= https://www.tycsports.com/boca-juniors/elogio-goycochea-a-romero-penales-boca-palmeiras-libertadores-id540015.html?fbclid=PAAaZgOfpz7pWLDlIVM26asY_OK26cIa44DPnjWRrMeUM5p-jOFaDWgbAi3MQ_aem_AQ2Buak6CQOASnBfp3BaCctOk8NAT5hnYFmGHaPvPtjP8Fw7tr3pu_JWdFtNmKjEgYE|title=El elogio de Goycochea a Romero, el héroe de Boca: "El primero que atajó fue un penalazo"|publisher=TyC Sports|date=7 October 2023|access-date=7 October 2023}}</ref>
+
+==Scoring statistics==
+Even if the goalkeeper succeeds in blocking the shot, the ball may rebound back to the penalty taker or one of their teammates for another shot, with the goalkeeper often in a poor position to make a second save. This makes saving penalty kicks more difficult. This is not a concern in [[Penalty shoot-out (football)|penalty shoot-outs]], where only a single shot is permitted.
+
+While penalty kicks are considerably more often successful than not, missed penalty kicks are not uncommon: for instance, of the 78 penalty kicks taken during the [[2005–06 FA Premier League|2005–06 English Premier League season]], 57 resulted in a goal, thus almost 30% of the penalties were unsuccessful.<ref>[http://stats.premierleague.com] {{webarchive|url=https://web.archive.org/web/20060613181649/http://stats.premierleague.com/|date=13 June 2006}}</ref>
+
+A German professor who has been studying penalty statistics in the [[German Bundesliga]] for 16 years found 76% of all the penalties during those 16 years went in, and 99% of the shots in the higher half of the goal went in{{Citation needed|date=June 2007}}, although the higher half of the goal is a more difficult target to aim at. Penalty kicks in the Bundesliga were scored 74.25% when considering all penalty kicks between 1963/1964 and 2003/2004.<ref>{{Cite journal |last=Dohmen |first=Thomas J. |date=2008-03-01 |title=Do professionals choke under pressure? |url=https://linkinghub.elsevier.com/retrieve/pii/S016726810600196X |journal=Journal of Economic Behavior & Organization |volume=65 |issue=3 |pages=636–653 |doi=10.1016/j.jebo.2005.12.004 |issn=0167-2681|hdl=10419/33580 |hdl-access=free |url-access=subscription }}</ref> The conversion rate between 2008/2009 and 2021/2022 in different European leagues was higher (running from 76.5% in the Primera Division to 79.8% in the Eredivisie).<ref>{{Cite journal |last1=van Hemert |first1=R. |last2=van der Kamp |first2=J. |last3=Hartman |first3=E. |title=The influence of situational constraints on in-game penalty kicks in soccer |journal=International Journal of Performance Analysis in Sport |date=2024 |pages=1–13 |url=https://www.tandfonline.com/doi/full/10.1080/24748668.2024.2430840 |doi=10.1080/24748668.2024.2430840 |issn=2474-8668|url-access=subscription }}</ref> Penalty kicks taken during shootouts in the World Cup were only scored 69.4% of the time.<ref>van Hemert, R., van der Kamp, J. (2025). The role of performance pressure during shootouts in soccer. International Journal of Sport Psychology, ''56''(2), 105-118. https://doi.org/10.7352/IJSP.2025.56.105</ref> During his career, Italian striker [[Roberto Baggio]] had two occurrences where his shot hit the upper bar, bounced downwards, rebounded off the keeper and passed the goal line for a goal. 
+
+==Offences for which the penalty kick is awarded==
+
+A penalty kick is awarded whenever an offence that would attract a direct free-kick is committed by a player within that player's own penalty area while the ball is in play (the ball must be in play at the time of the offence, but it does ''not'' need to be within the penalty area at that time). These include:<ref>[http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf Laws of the Game 2019/20], passim; see esp. p. 103</ref><ref>[http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf Laws of the Game 2019/20], p. 87</ref>
+
+* handball (excluding handling offences committed by the goalkeeper)<ref name="laws_2019_103">[http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf Laws of the Game 2019/20], p. 103</ref>
+* any of the following offences against an opponent, if committed in a manner considered by the referee to be careless, reckless or using excessive force:<ref name="laws_2019_103"/>
+** charges
+** jumps at
+** kicks or attempts to kick
+** pushes
+** strikes or attempts to strike (including head-butt)
+** tackles or challenges
+** trips or attempts to trip
+* holds an opponent<ref name="laws_2019_104">[http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf Laws of the Game 2019/20], p. 104</ref>
+* impedes an opponent with contact<ref name="laws_2019_104"/>
+* bites or spits at someone<ref name="laws_2019_104"/>
+* throws an object at the ball, an opponent or a match official, or makes contact with the ball with a held object (the location of the offence is considered to be the position where the object struck or would have struck the person or the ball, or the nearest boundary line if this is off the field of play).<ref name="laws_2019_104"/>
+* any physical offence against a team-mate, substitute, substituted or sent-off player, team official or a match official<ref name="laws_2019_114">[http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf Laws of the Game 2019/20], p. 114</ref> 
+* a player who requires the referee's permission to re-enter the field of play, substitute, substituted player, sent-off player, or team official enters the field of play without the referee's permission, and interferes with play<ref name="laws_2019_53">[http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf Laws of the Game 2019/20], p. 53</ref> (A rare example of this offence occurred in an October 2019 match between [[Holstein Kiel]] and [[VfL Bochum]]: Kiel substitute [[Michael Eberwein]], warming up behind his own team's goal-line, kicked the ball before it had gone out of play.  The referee awarded a penalty to Bochum after [[Video assistant referee|VAR]] review.)<ref>{{cite news|url=https://www.welt.de/sport/article202524070/Kiel-gegen-Bochum-Videoschiedsrichter-sorgt-fuer-kuriosesten-Elfmeter-der-Bundesliga-Geschichte.html|title=Videoschiedsrichter sorgt für kuriosesten Elfmeter der Bundesliga-Geschichte |newspaper=Die Welt |trans-title=Video referee decides on the strangest penalty in Bundesliga history |publisher=welt.de|language=German|date=25 October 2019}}</ref><ref>{{cite web |title=VAR – Michael Eberwein concedes penalty while warming up |url=https://www.bbc.co.uk/sport/football/50196446 |publisher=BBC Sport |access-date=27 October 2019 |date=26 October 2019}}</ref>
+* a player who requires the referee's permission to re-enter the field of play, substitute, substituted player, sent-off player or team official is on the field of play without the referee's permission while that person's team scores a goal (the goal is disallowed; the location of the offence is considered to be the location of the offender at the time the disallowed goal was scored).<ref name="laws_2019_54">[http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf Laws of the Game 2019/20], p. 54</ref>
+* a player temporarily off the field of play, substitute, substituted player, sent-off player or team official throws or kicks an object onto the field of play, and the object interferes with play, an opponent, or a match official (the location of the offence is considered to be the place where the thrown or kicked object interfered with play, or struck or would have struck the opponent, match official or the ball).<ref name="laws_2019_115">[http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf Laws of the Game 2019/20], p. 115</ref>
+A penalty kick is also awarded if, while the ball is in play, a player, substitute, substituted player, sent-off player or team official commits any direct free-kick offence against a match official or against an opposing player, substitute, substituted player, sent-off player, or team official outside the field of play, provided that the closest boundary line to the location of the offence is within the offending team's own penalty area.<ref>[http://static-3eb8.kxcdn.com/documents/793/103202_200519_LotG_201920_EN_SinglePage.pdf Laws of the Game 2019/20], p. 115-116</ref>
+
+==History==
+
+===Early proposals===
+The original laws of the game, in 1863, had no defined punishments for infringements of the rules.<ref>{{cite wikisource |title=Laws of the Game (1863)}}</ref> In 1872, the [[indirect free kick]] was introduced as a punishment for illegal handling of the ball; it was [[Free kick (association football)#Offences for which the kick was awarded|later extended to other offences]].<ref>{{cite wikisource |title=Laws of the Game (1872)}}</ref> This indirect free-kick was thought to be an inadequate remedy for a handball which prevented an otherwise-certain goal.<ref>For example: {{cite journal |journal=Bell's Life in London |title=Windsor Home Park v Maidenhead |date=1872-11-23 |page=8 |quote=F. Heron made a splendid shot at goal, which must have succeeded had not one of the Maidenhead men (not the goalkeeper) most unfairly stopped it with his hands.  Of course the free kick ensued, but by this time the Maidenhead men had completely lined their goal, and, after a little scrimmage, Goolden succeeded in getting the ball away}}</ref> As a result of this, in 1882 a law was introduced to [[Scoring in association football#Goal awarded for handball by opposition|award a goal to a team prevented from scoring by an opponent's handball]].  This law lasted only one season before being abolished in 1883.
+
+One possible reason for its abolition is that it was felt to be too harsh, especially given the imprecise nature of refereeing at the time. Another possibility is that it was simply not seen as necessary, as the indirect free kick was thought to be a sufficient punishment for most handball offenses.
+
+===Introduction of the penalty kick===
+
+[[File:Association Football Pitch 1898.png|thumb|When first introduced in 1891, the penalty was awarded for offences within {{convert|12|yd|m}} of the goal-line.]]
+
+The invention of the penalty kick is credited to the goalkeeper and businessman [[William McCrum]] in 1890 in [[Milford, County Armagh]].<ref>{{cite journal |journal=The Daily Telegraph|location=London |date=9 April 2007 |page=5 |title=Inventor of the penalty gets a spot of his own |last=Peterkin |first=Tom |url=http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/04/09/npen09.xml|archive-url=https://web.archive.org/web/20071211214020/http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/04/09/npen09.xml |archive-date=11 December 2007 }}</ref> The [[Irish Football Association]] presented the idea to the [[International Football Association Board]]'s 1890 meeting, where it was deferred until the next meeting in 1891.<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1890min.pdf |title=International Football Association Board: 1890 Minutes of the Annual General Meeting |page=2 |access-date=2018-10-25}}</ref>
+
+Two incidents in the 1890–1 season lent additional force to the argument for the penalty kick.  On 20 December 1890, in the [[Scottish Cup]] quarter-final between [[East Stirlingshire F.C.|East Stirlingshire]] and [[Heart of Midlothian F.C.|Heart of Midlothian]] Jimmy Adams<ref>[http://www.scottishfa.co.uk/football_player_profile.cfm?page=823&playerID=112854&squadID=1 James Adams – A Squad], [[Scottish Football Association]].</ref> fisted the ball out from under the bar,<ref>{{Cite web|url=https://londonhearts.com/scores/games/189012201.html|title=1890-12-20 Sat East Stirlingshire 1 Hearts 3|website=londonhearts.com}}</ref><ref>{{Cite web|url=https://londonhearts.com/scores/images/1890/1890122015.htm|title=1890122015 Hearts and Scottish Football Reports For Sat 20 Dec 1890 Page 15 of 33|website=londonhearts.com}}</ref> and on 14 February 1891, there was a blatant goal-line handball by a [[Notts County F.C.|Notts County]] player in the [[FA Cup]] quarter-final against [[Stoke City F.C.|Stoke City]].
+
+Finally after much debate, the International Football Association Board approved the idea on 2 June 1891.<ref>[[The Sunday Times]] ''Illustrated History of Football'' Reed International Books Limited. 1996. p11. {{ISBN|1-85613-341-9}}</ref><ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1891min.pdf |title=International Football Association Board: 1891 Minutes of the Annual General Meeting |pages=2–5 |access-date=2018-10-25}}</ref> The penalty-kick law ran: {{blockquote|If any player shall intentionally trip or hold an opposing player, or deliberately handle the ball, within {{convert|12|yd|m|spell=in|disp=sqbr}} from his own goal-line, the referee shall, on appeal, award the opposing side a penalty kick, to be taken from any point {{convert|12|yd|m|spell=in|disp=sqbr}} from the goal-line, under the following conditions:— All players, with the exception of the player taking the penalty kick and the opposing goalkeeper (who shall not advance more than {{convert|6|yd|m|spell=in|disp=sqbr}} from the goal-line) shall stand at least {{convert|6|yd|m|spell=in|disp=sqbr}} behind the ball. The ball shall be in play when the kick is taken, and a goal may be scored from the penalty kick.<ref>{{cite wikisource |title=Laws of the Game (1891)}}</ref>}}
+Some notable differences between this original 1891 law and today's penalty-kick are listed below:
+* It was awarded for an offence committed within {{convert|12|yd|m}} of the goal-line (the [[penalty area]] was not introduced until 1902).
+* It could be taken from any point along a line {{convert|12|yd|m}} from the goal-line (the [[penalty spot]] was likewise not introduced until 1902).
+* It was awarded only after an appeal.
+* There was no restriction on [[dribbling]].
+* The ball could be kicked in any direction.
+* The goalkeeper was allowed to advance up to {{convert|6|yd|m}} from the goal-line.
+
+The world's first penalty kick was awarded just 5 days after the change had been approved and introduced to the rules of the game by the Scottish Football Association. It was awarded to [[Airdrieonians F.C. (1878)|Airdrieonians]] against [[Royal Albert F.C.|Royal Albert]] in the final of the Airdrie Charity Cup on 6 June 1891 at Airdrieonians' then home ground of Mavisbank Park<ref>{{Cite web|url=https://www.airdriefc.com/club-history |title=Airdrieonians FC &#124; Club History }}</ref> 15 minutes into the match, with the eventual spot-kick being buried past the Albert keeper. The first penalty kick in the [[English Football League|Football League]] was awarded to [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] in their match against [[Accrington F.C.|Accrington]] at [[Molineux Stadium]] on 14 September 1891. The penalty was taken and scored by [[Billy Heath]]<ref>{{cite news| url=https://news.bbc.co.uk/sport1/hi/funny_old_game/2257279.stm | publisher=BBC News | title=Happened on this day – 14 September | date=14 September 2002 | access-date=2010-05-22}}</ref> as Wolves went on to win the game 5–0.
+
+===Subsequent developments===
+[[File:Plan of the field of play for association football (1902).png|thumb|The laws of 1902 introduced the modern penalty area and the penalty spot]]
+In 1892, the player taking the penalty-kick was forbidden to kick the ball again before the ball had touched another player.  A provision was also added that "[i]f necessary, time of play shall be extended to admit of the penalty kick being taken".<ref>{{cite wikisource |title=Laws of the Game (1892)}}</ref>
+
+In 1896, the ball was required to be kicked forward, and the requirement for an appeal was removed.<ref>{{cite wikisource |title=Laws of the Game (1896)}}</ref>
+
+In 1902, the [[penalty area]] was introduced with its current dimensions (a rectangle extending {{convert|18|yd|m}} from the goal-posts).  The [[penalty spot]] was also introduced, {{convert|12|yd|m}} from the goal.  All other players were required to be outside the penalty area.<ref>{{cite wikisource |title=Laws of the Game (1902)}}</ref>
+
+In 1905, the goalkeeper was required to remain on the goal-line.<ref>{{cite wikisource |title=Laws of the Game (1905)}}</ref>
+
+In 1923, all other players were required to be at least {{convert|9.15|m|yd|0|order=flip}} from the penalty-spot (in addition to being outside the penalty-area).<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1923min.pdf |title=International Football Association Board: 1923 Minutes of the Annual General Meeting |page=2 |access-date=2018-12-29}}</ref> This change was made in order to stop defenders from lining up on the edge of the penalty area to impede the player taking the kick.<ref>{{cite journal |journal=Athletic News |date=1924-06-04 |page=6 |title=Penalty Kicks: A Practice that Must be Discontinued}}</ref>
+[[File:Disposition of Players at Penalty Kick (1923).png|thumb|Suggested "disposition of players at penalty kick" (1923), reflecting the pre-1923 laws]]
+In 1930, a footnote was appended to the laws, stating that "the goal-keeper must not move his feet until the penalty kick has been taken".<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1930min.pdf |title=International Football Association Board: 1930 Minutes of the Annual General Meeting |page=4 |access-date=2018-10-25 |archive-date=26 October 2018 |archive-url=https://web.archive.org/web/20181026064706/https://ssbra.org/ifab/assets/pdf/1930min.pdf |url-status=dead }}</ref>
+
+In 1937, an arc (colloquially known as the "D") was added to the pitch markings, to assist in the enforcement of the {{convert|9.15|m|yd|0|order=flip|adj=on}} restriction.<ref name="auto">{{cite web |url=https://ssbra.org/ifab/assets/pdf/1937min.pdf |title=International Football Association Board: 1937 Minutes of the Annual General Meeting |page=6 |access-date=2018-10-25 |archive-date=9 July 2021 |archive-url=https://web.archive.org/web/20210709073803/https://ssbra.org/ifab/assets/pdf/1937min.pdf |url-status=dead }}</ref> The goalkeeper was required to stand between the goal-posts.<ref name="auto"/>
+
+In 1939, it was specified that the ball must travel the distance of its circumference before being in play.<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1939min.pdf |title=International Football Association Board: 1939 Minutes of the Annual General Meeting |page=4 |access-date=2018-10-25 |archive-date=1 September 2021 |archive-url=https://web.archive.org/web/20210901085438/https://ssbra.org/ifab/assets/pdf/1939min.pdf |url-status=dead }}</ref> In 1997, this requirement was eliminated: the ball became in play as soon as it was kicked and moved forward.<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1997min.pdf |title=International Football Association Board: 1997 Minutes of the Annual General Meeting |page=135 |access-date=2019-12-03}}</ref> In 2016, it was specified that the ball must "clearly" move.<ref>{{cite web |url=http://static-3eb8.kxcdn.com/assets/documents/IFAB_laws_of_the_game_changes.pdf |page=43 |title=IFAB: Law Changes 2016-17 |access-date=2019-12-03 |archive-url=https://web.archive.org/web/20160615041349/http://static-3eb8.kxcdn.com/assets/documents/IFAB_laws_of_the_game_changes.pdf |archive-date=2016-06-15 |url-status=dead }}</ref>
+
+In 1995, all other players were required to remain behind the penalty spot.  The [[Scottish Football Association]] claimed that this new provision would "eliminate various problems which have arisen regarding the position of players who stand in front of the penalty-mark at the taking of a penalty-kick as is presently permitted".<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1995min.pdf |title=International Football Association Board: 1995 Minutes of the Annual General Meeting |page=38 |access-date=2018-10-25}}</ref>
+
+In 1997, the goalkeeper was once again allowed to move the feet, and was also required to face the kicker.<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1997min.pdf |title=International Football Association Board: 1997 Minutes of the Annual General Meeting |page=135 |access-date=2018-10-25}}</ref>
+
+The question of "feinting" during the run-up to a penalty was popularized by [[Pelé]] in the 1970s and it was called ''paradinha'', which in Portuguese means "little stop".<ref>{{cite web|url=http://theoriginalwinger.com/2010-03-02-fifa-discussing-the-paradinha-this-must-be-stopped|title=FIFA discussing the 'Paradinha': "This must be stopped"|work=The original winger|date=4 March 2010|access-date=10 February 2021|archive-date=23 November 2012|archive-url=https://web.archive.org/web/20121123193054/http://theoriginalwinger.com/2010-03-02-fifa-discussing-the-paradinha-this-must-be-stopped|url-status=dead}}</ref> It has occupied the International FA Board since 1982, when it was decided that "if a player stops in his run-up it is an offence for which he shall be cautioned (for ungentlemanly conduct) by the referee".<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1982min.pdf |title=International Football Association Board: 1982 Minutes of the Annual General Meeting |page=6 |access-date=2019-01-31}}</ref> However, in 1985 the same body reversed itself, deciding that the "assumption that feigning was an offence" was "wrong", and that it was up to the Referee to decide whether any instance should be penalized as ungentlemanly conduct.<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1985min.pdf |title=International Football Association Board: 1985 Minutes of the Annual General Meeting |page=24 |access-date=2019-01-31}}</ref> From 2000 to 2006, documents produced by IFAB specified that [[feint]]ing during the run-up to a penalty-kick was permitted.<ref>e.g. {{cite web |url=http://kicking-back.com/docs/FIFA%20QA%202006.pdf |title=The Laws of the Game: Questions and Answers: 2006 |access-date=2019-01-07 |page=37}}</ref> In 2007, this guidance emphasized that "if in the opinion of the referee the feinting is considered an act of unsporting behaviour, the player shall be cautioned".<ref>{{cite web |url=https://www.fifa.com/mm/document/affederation/federation/laws_of_the_game_0708_10565.pdf |archive-url=https://web.archive.org/web/20070913141336/http://fifa.com/mm/document/affederation/federation/laws%5fof%5fthe%5fgame%5f0708%5f10565.pdf |url-status=dead |archive-date=13 September 2007 |title=Laws of the Game 2007/2008 |access-date=2019-01-07 |page=125}}</ref> In 2010, because of concern over "an increasing trend in players feinting a penalty kick to deceive the goalkeeper", a proposal was adopted to specify that while "feinting in the run-up to take a penalty kick to confuse opponents is permitted as part of football", "feinting to kick the ball once the player has completed his run-up is considered an infringement of Law 14 and an act of unsporting behaviour for which the player must be cautioned".<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/2010amen.pdf |title=Amendments to the Laws of the Game – 2010/2011 |page=4 |access-date=2010-01-07}}</ref>
+
+{{anchor|AccidentalDoubleTouch}}<!-- linked from above-->In March 2025, the [[video assistant referee]] ruled in [[2024–25 UEFA Champions League knockout phase#Atlético_Madrid_v_Real_Madrid|a Champions League shootout]] that a kick by [[Julián Alvarez]] counted as a miss due to a double touch: Alvarez' standing foot had skidded and grazed the ball as he kicked it.<ref>{{cite news |title=Julian Alvarez: The double-kick penalty controversy in shootout between Atletico Madrid & Real |url=https://www.bbc.com/sport/football/articles/cgm14y04g04o |access-date=3 October 2025 |work=BBC Sport |date=12 March 2025}}</ref> [[UEFA]] queried this rationale with IFAB, which issued a "clarification" at its June 2025 meeting that such an accidental double touch should not count as an attacker infringement; instead, the penalty kick should be retaken.<ref>{{cite press release |title=Clarification concerning double touches |url=https://theifab.com/news/clarification-of-the-guidelines-to-distinguish-between-deliberate-play-and-deflec/ |publisher=IFAB |access-date=3 October 2025 |date=2 June 2025}}</ref>
+
+===Summary===
+
+{| class="wikitable sortable" style="text-align: center; font-size: 85%; width: auto; table-layout: fixed;"
+|-
+! Date
+
+! Location of offence
+
+! Location of penalty-kick
+
+! Position of goalkeeper
+
+! Position of other players
+
+! Goalkeeper may move feet
+! Taker may kick ball twice
+
+! Ball may be kicked backward
+
+! Kicker may feint
+
+! Date
+|-
+| {{rh}} | 1891
+| rowspan=3 | Within {{convert|12|yd|m}} of the goal-line
+| rowspan=3 | From any point {{convert|12|yd|m}} from the goal-line
+| rowspan=3 | Within {{convert|6|yd|m}} of the goal-line
+| rowspan=3 | At least {{convert|6|yd|m}} behind the ball
+| rowspan=6 {{Yes}}
+| rowspan=1 {{Yes}}
+| rowspan=2 {{Yes}}
+| rowspan=8 | Unless considered ungentlemanly behaviour
+| {{rh}} | 1891
+
+|-
+| {{rh}} | 1892
+| rowspan=12 {{No}}
+
+| {{rh}} | 1892
+
+|-
+| {{rh}} | 1896
+| rowspan=12 {{No}}
+
+| {{rh}} | 1896
+
+|-
+| {{rh}} | 1902
+| rowspan=11 | Within the penalty area
+| rowspan=11 | From the penalty spot
+| rowspan=1 | Within the goal area
+| rowspan=2 | Outside the penalty area
+
+| {{rh}} | 1902
+
+|-
+| {{rh}} | 1905
+| rowspan="11" | On the goal line
+
+| {{rh}} | 1905
+
+|-
+| {{rh}} | 1923
+| rowspan=5 | Outside the penalty area, and at least {{convert|9.15|m|yd|0|order=flip}} from the ball
+
+| {{rh}} | 1923
+
+|-
+| {{rh}} | 1930
+| rowspan=5 {{No}}
+
+| {{rh}} | 1930
+
+|-
+| {{rh}} | 1937
+| {{rh}} | 1937
+
+|-
+| {{rh}} | 1982
+| rowspan=1 {{No}}
+
+| {{rh}} | 1982
+
+|-
+| {{rh}} | 1985
+| rowspan=3 | Unless considered ungentlemanly / unsporting behaviour
+
+| {{rh}} | 1985
+
+|-
+| {{rh}} | 1995
+| rowspan=4 | Outside the penalty area, at least {{convert|9.15|m|yd|0|order=flip}} from the ball, and behind the ball
+
+| {{rh}} | 1995
+
+|-
+| {{rh}} | 1997
+| rowspan=3 {{Yes}}
+
+| {{rh}} | 1997
+
+|-
+| {{rh}} | 2010
+| rowspan=2 | Unless the run-up is complete
+
+| {{rh}} | 2010
+|-
+| {{rh}} | 2025
+| {{No|Not intentionally}}
+| {{rh}} | 2025
+|-
+|}
+
+===Offences for which a penalty kick was awarded===
+Since its introduction in 1891, a penalty kick has been awarded for two broad categories of offences:
+
+* handball
+* serious offences involving physical contact
+
+The number of offences eligible for punishment by a penalty-kick, small when initially introduced in 1891, expanded rapidly thereafter. This led to some confusion: for example, in September 1891, a referee awarded a penalty kick against a goalkeeper who "[lost] his temper and [kicked] an opponent", even though under the 1891 laws this offence was punishable only by an indirect free-kick.<ref>{{cite journal |title=En Passant |journal=Athletic News and Cyclists' Journal |date=1891-09-21 |page=1 |volume=xiii |issue=835}}</ref>
+
+The table below shows the punishments<ref>excluding caution / sending-off</ref> specified by the laws for offences involving handling the ball or physical contact, between 1890 and 1903:<ref>"Charging the goalkeeper" is excluded, since it could never occur within 12 yards of the opponents' goal-line</ref>
+
+{| class="wikitable sortable" style="text-align: center; font-size: 85%; width: auto; table-layout: fixed;"
+|-
+! Date
+! Handball
+! Tripping
+! Pushing
+
+! Holding
+
+! Kicking a player
+
+! Jumping at a player
+
+! Charging from behind<ref name="laws">Subject to certain exceptions: see the [https://en.wikisource.org/wiki/Laws_of_the_Game individual editions of the laws] for details</ref>
+! Technical handling violations by the goalkeeper<ref>Taking more than two steps while holding the ball in own half; also, before 1901, handling the ball in own half for a purpose other than defence of the keeper's goal.</ref>
+! Dangerous play<ref>Between 1892 and 1901, also "play[ing] in any manner likely to cause injury"</ref>
+
+! Date
+
+|-
+
+|-
+| {{rh}} | 1890
+| rowspan=1 style="background: lightyellow; color: black;" | Indirect free-kick
+| rowspan=1 style="background: lightyellow; color: black;" | Indirect free-kick
+| rowspan=2 style="background: lightyellow; color: black;" | Indirect free-kick
+| rowspan=1 style="background: lightyellow; color: black;" | Indirect free-kick
+| rowspan=4 style="background: lightyellow; color: black;" | Indirect free-kick
+| rowspan=5 style="background: lightyellow; color: black;" | Indirect free-kick
+| rowspan=3 style="background: lightyellow; color: black;" | Indirect free-kick
+| rowspan=7 style="background: lightyellow; color: black;" | Indirect free-kick
+| rowspan=2 style="background: lime; color: black;" | Not prohibited
+
+| {{rh}} | 1890
+|-
+| {{rh}} | 1891 
+| rowspan=5 style="background: orange; color: black;"| Indirect free-kick  / Penalty-kick
+| rowspan=5 style="background: orange; color: black;"| Indirect free-kick  / Penalty-kick
+
+| rowspan=5 style="background: orange; color: black;" | Indirect free-kick  / Penalty-kick
+
+| {{rh}} | 1891
+|-
+| {{rh}} | 1893
+| rowspan=4 style="background: orange; color: black;"| Indirect free-kick  / Penalty-kick
+| rowspan=5 style="background: lightyellow; color: black;" | Indirect free-kick
+
+| {{rh}} | 1893
+|-
+| {{rh}} | 1897
+| rowspan=3 style="background: orange; color: black;"| Indirect free-kick  / Penalty-kick
+
+| {{rh}} | 1897
+|-
+| {{rh}} | 1901
+| rowspan=2 style="background: orange; color: black;"| Indirect free-kick  / Penalty-kick
+
+| {{rh}} | 1901
+|-
+| {{rh}} | 1902
+| rowspan=1 style="background: orange; color: black;"| Indirect free-kick  / Penalty-kick
+
+| {{rh}} | 1902
+|-
+| {{rh}} | 1903
+| rowspan=1 style="background: salmon; color: black;"| Direct free-kick  / Penalty-kick
+| rowspan=1 style="background: salmon; color: black;"| Direct free-kick  / Penalty-kick
+| rowspan=1 style="background: salmon; color: black;"| Direct free-kick  / Penalty-kick
+
+| rowspan=1 style="background: salmon; color: black;"| Direct free-kick  / Penalty-kick
+
+| rowspan=1 style="background: salmon; color: black;"| Direct free-kick  / Penalty-kick
+
+| rowspan=1 style="background: salmon; color: black;"| Direct free-kick  / Penalty-kick
+
+| rowspan=1 style="background: salmon; color: black;"| Direct free-kick  / Penalty-kick
+
+| {{rh}} | 1903
+|-
+
+|}
+
+Since 1903, the offences for which a penalty kick is awarded within the defending team's penalty area have been identical to [[Free kick (association football)#Direct free kick / penalty kick|those for which a direct free kick is awarded]] ''outside'' the defending team's penalty area.  These consisted of handball (excluding technical handling offences by the goalkeeper), and foul play, with the following exceptions (which were punished instead by an indirect free kick in the penalty area):<ref>Offences which could only be committed against the goalkeeper in his/her own penalty area are excluded from this list, since they could not lead to a penalty kick; see the [[Free kick (association football)#Offences for which the kick was awarded|free kick article]] for further detail.</ref>
+
+* Dangerous play (since 1903)<ref name="laws_1903">{{cite wikisource |Laws of the Game (1903) |quote=A goal may be scored from a free kick which is awarded because of any infringement of Law 9, but not from any other free kick.}}</ref>
+* Obstructing / impeding the progress of an opponent (1951–2016)<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1951min.pdf |title=International Football Association Board: 1951 Minutes of the Annual General Meeting |page=3 |quote=the following new offence to be punished by an indirect free-kick: (3) When not playing the ball, intentionally obstructing an opponent |access-date=10 February 2020 |archive-date=9 July 2021 |archive-url=https://web.archive.org/web/20210709073742/https://ssbra.org/ifab/assets/pdf/1951min.pdf |url-status=dead }}</ref> and impeding an opponent without contact (from 2016)<ref>In 2016, impeding an opponent ''with'' contact was made a direct free kick / penalty kick offence</ref><ref name="laws_2016">{{cite web |url=http://static-3eb8.kxcdn.com/documents/60/Laws%20of%20the%20Game_16-17_Digital_Eng.pdf |page=82 |title=Laws of the Game 2016/17 |access-date=2020-02-01 |archive-url=https://web.archive.org/web/20160911032912/http://static-3eb8.kxcdn.com/documents/60/Laws%20of%20the%20Game_16-17_Digital_Eng.pdf |archive-date=2016-09-11 |url-status=live }}</ref>
+* Charging when not attempting to play the ball (1948–1997)<ref>{{cite web |url=https://ssbra.org/ifab/assets/pdf/1948min.pdf |title=International Football Association Board: 1948 Minutes of the Annual General Meeting |page=5 |quote=CHARGES FAIRLY ... WHEN THE BALL IS NOT WITHIN PLAYING DISTANCE OF THE PLAYERS CONCERNED AND THEY ARE DEFINITELY NOT ATTEMPTING TO PLAY IT}}</ref><ref name="charging_1997">In 1997, this was abolished as a separate offence; all forms of charging an opponent "in a manner considered by the referee to be careless, reckless, or involving excessive force" became punishable by a direct free-kick</ref>
+
+== See also ==
+* [[Penalty shoot-out (association football)]]
+* [[Panenka (penalty kick)]]
+
+==References==
+{{reflist}}
+
+==Notes==
+{{notelist}}
+==External links==
+{{commons category}}
+*[https://web.archive.org/web/20121030195422/http://www.fifa.com/classicfootball/history/law/summary.html History of Laws of the Game – From 1863 to the Present Day]
+*[https://web.archive.org/web/20131029185401/http://jocuricufotbalonline.com/penalty/ Penalty Kick Games]
+*[http://www.irishexaminer.com/lifestyle/features/irishman-put-football-on-spot-with-penalties-272283.html 2014 Irish Examiner article by Dr R Hume]
+
+{{Association football laws}}
+{{Association football}}
+
+{{DEFAULTSORT:Penalty Kick}}
+[[Category:Laws of association football]]
+[[Category:Kick (association football)]]
+[[Category:Association football skills]]
+[[Category:Association football terminology]]
+[[Category:Articles containing video clips]]
+[[Category:Sports penalties]]

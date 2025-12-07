@@ -1,0 +1,246 @@
+{{Short description|English footballer and manager (1955–2021)}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox football biography
+|name           = Glenn Roeder
+|image          = Glenn Roeder.jpg
+|image_size     =
+|caption        = Roeder in 2003
+|fullname       = Glenn Victor Roeder
+|birth_date     = {{birth date|1955|12|13|df=y}}
+|birth_place    = [[Woodford, Essex]], England
+|death_date     = {{date of death and age|2021|2|28|1955|12|13|df=y}}
+|death_place    = [[Newmarket, Suffolk]], England
+|position       = [[Defender (association football)|Defender]]
+|height         = 6 ft 0 in<ref>{{cite book |title=Rothmans Football Yearbook 1987–88 |editor-first=Peter |editor-last=Dunk |publisher=Queen Anne Press |location=London |date=1987 |page=250 |isbn=978-0-356-14354-5}}</ref>
+|youthyears1    = 1969–1972
+|youthclubs1    = [[Arsenal F.C.|Arsenal]]
+|youthyears2    = 1972–1973
+|youthclubs2    = [[Leyton Orient F.C.|Orient]]
+|years1         = 1973–1978
+|clubs1         = [[Leyton Orient F.C.|Orient]]
+|caps1          = 115
+|goals1         = 4
+|years2         = 1978–1983
+|clubs2         = [[Queens Park Rangers F.C.|Queens Park Rangers]]
+|caps2          = 157
+|goals2         = 17
+|years3         = 1983
+|clubs3         = → [[Notts County F.C.|Notts County]] (loan)
+|caps3          = 4
+|goals3         = 0
+|years4         = 1983–1989
+|clubs4         = [[Newcastle United F.C.|Newcastle United]]
+|caps4          = 193
+|goals4         = 8
+|years5         = 1989–1992
+|clubs5         = [[Watford F.C.|Watford]]
+|caps5          = 78
+|goals5         = 2
+|years6         = 1992
+|clubs6         = [[Leyton Orient F.C.|Leyton Orient]]
+|caps6          = 8
+|goals6         = 0
+|years7         = 1992–1993
+|clubs7         = [[Gillingham F.C.|Gillingham]]
+|caps7          = 6
+|goals7         = 0
+|totalcaps      = 561
+|totalgoals     = 31
+|nationalyears1 = 1978–1979
+|nationalteam1  = [[England national football B team|England B]]
+|nationalcaps1  = 6
+|nationalgoals1 = 0
+|manageryears1  = 1992–1993
+|managerclubs1  = [[Gillingham F.C.|Gillingham]] (player-manager)
+|manageryears2  = 1993–1996
+|managerclubs2  = [[Watford F.C.|Watford]]
+|manageryears3  = 2001–2003
+|managerclubs3  = [[West Ham United F.C.|West Ham United]]
+|manageryears4  = 2006–2007
+|managerclubs4  = [[Newcastle United F.C.|Newcastle United]]
+|manageryears5  = 2007–2009
+|managerclubs5  = [[Norwich City F.C.|Norwich City]]
+|manageryears6  = 2016–2018
+|managerclubs6  = [[Stevenage F.C.|Stevenage]] (managerial advisor)
+}}
+'''Glenn Victor Roeder''' (13 December 1955 – 28 February 2021) was an English professional [[association football|football]] player and manager.
+
+As a player, Roeder played as a [[Defender (association football)|defender]] for [[Arsenal F.C.|Arsenal]], [[Leyton Orient F.C.|Leyton Orient]], [[Queens Park Rangers F.C.|Queens Park Rangers]], [[Notts County F.C.|Notts County]], [[Newcastle United F.C.|Newcastle United]], [[Watford F.C.|Watford]] and [[Gillingham F.C.|Gillingham]]. He also represented the [[England national football B team|England national B team]].
+
+His managerial career included spells with numerous clubs including Gillingham, Watford, [[West Ham United F.C.|West Ham United]], Newcastle United (with whom he won the [[2006 UEFA Intertoto Cup]]) and [[Norwich City F.C.|Norwich City]].  It was while he was at West Ham United that he was initially diagnosed with a brain tumour in 2003. He later acted as a managerial advisor for [[Stevenage F.C.|Stevenage]].
+
+==Playing career==
+Roeder was born in [[Woodford, Essex]], on 13 December 1955 and played for Gidea Park Rangers and Essex and London schools, joining [[Arsenal F.C.|Arsenal]] as a schoolboy in December 1969 and then [[Leyton Orient F.C.|Orient]] in August 1972 after being released by Arsenal.<ref name="Kaufman02">{{cite book |last1=Kaufman |first1=Neilson N |last2=Ravenhill |first2=Alan E |title=The Men Who Made Leyton Orient Football Club |date=2002 |publisher=Tempus Publishing |isbn=0752424122 |pages=407–409}}</ref> He made his name as a classy ball-playing defender who was a member of the Orient playing squad in the Second Division during the 1970s that reached the FA Cup semi-final in 1978.<ref name="Kaufman02" /> He transferred to [[Queens Park Rangers F.C.|Queens Park Rangers]] for £250,000 in August 1978 where he made 181 senior appearances and captained the team to the [[1982 FA Cup Final]] against Tottenham, missing the replay due to suspension, and to the Second Division title in 1983.<ref name="Kaufman02" /><ref>{{cite news |url=https://www.mylondon.news/sport/football/fa-cup-final-good-twice-7141270 |title='FA Cup final? It was so good we did it twice in five days': QPR at Wembley, part two |publisher=mylondon.news |date=20 May 2014 |access-date=17 May 2019 |archive-date=17 May 2019 |archive-url=https://web.archive.org/web/20190517105457/https://www.mylondon.news/sport/football/fa-cup-final-good-twice-7141270 |url-status=live }}</ref>
+
+Roeder was one of the first players famed for using the [[step over]] -the Roeder shuffle- a technique Roeder claimed, his father taught him as a child.{{sfnp|Simpson|2013|p=35}}
+
+Roeder had a brief loan spell at [[Notts County F.C.|Notts County]]. Roeder transferred to [[Newcastle United F.C.|Newcastle United]] for £125,000 in December 1983, where he was captain and made 219 senior appearances during five years at the club, winning promotion from the Second Division in 1984.<ref name="Kaufman02" /> He joined [[Watford F.C.|Watford]] on a free transfer in July 1989, making 78 senior appearances in two years, and later returned to the renamed Leyton Orient, playing eight games in 1992, before a six-game stint to finish his playing career at [[Gillingham F.C.|Gillingham]], whom he had joined as player-manager in November 1992.<ref name="Kaufman02" />
+
+==Managerial and coaching career==
+
+===Gillingham===
+Roeder spent one season as player-manager of [[Gillingham F.C.|Gillingham]], during which time he led the side to 10 wins in 37 games and saw them finish second from bottom of the [[Football League]], escaping relegation after winning against bottom club [[Halifax Town F.C.|Halifax Town]] in the penultimate fixture of the season. He resigned in July 1993 to take over at Watford.<ref name="Metcalf93">{{cite web |last1=Metcalf |first1=Rupert |last2=Cole |first2=Robert |title=Football: Watford turn to Roeder to replace Perryman: Former player takes over at Vicarage Road to dismay of Gillingham |website=Independent |url=https://www.independent.co.uk/sport/football-watford-turn-to-roeder-to-replace-perryman-former-player-takes-over-at-vicarage-road-to-1484065.html |access-date=1 August 2020 |date=10 July 1993 |archive-date=1 December 2017 |archive-url=https://web.archive.org/web/20171201131851/http://www.independent.co.uk/sport/football-watford-turn-to-roeder-to-replace-perryman-former-player-takes-over-at-vicarage-road-to-1484065.html |url-status=live }}</ref>
+
+===Watford===
+After [[Steve Perryman]] left to join [[Tottenham Hotspur F.C.|Tottenham Hotspur]], Roeder was hired as the new manager of his former club [[Watford F.C.|Watford]] at the start of the [[1993–94 in English football|1993–94]] season.<ref name="Metcalf93" /> However, Watford were fined £10,000 for an illegal approach, and ordered to pay Gillingham a further £30,000 in compensation.<ref>{{cite book|title=The Watford Football Club Illustrated Who's Who|author=Jones, Trefor|year=1996|isbn= 0-9527458-0-1|page=277}}</ref> In his second season with Watford he almost took the side to the play-offs, eventually finishing just two places outside them. However, he was sacked in February 1996 as the side were struggling at the bottom of the [[Football League First Division|First Division]].<ref>{{cite web |title=Taylor in frame as Roeder leaves Watford |url=https://www.independent.co.uk/sport/taylor-in-frame-as-roeder-leaves-watford-1320193.html |website=Independent |access-date=1 August 2020 |date=21 February 1996 |archive-date=1 August 2020 |archive-url=https://web.archive.org/web/20200801214408/https://www.independent.co.uk/sport/taylor-in-frame-as-roeder-leaves-watford-1320193.html |url-status=live }}</ref> His replacement, [[Graham Taylor]], was unable to prevent the side from being relegated. During his time at Vicarage Road he signed [[Kevin Phillips (footballer)|Kevin Phillips]] from local [[Hertfordshire]] team, [[Baldock Town F.C.|Baldock Town]] for only £10,000.<ref>{{Cite web | url = https://www.watfordfc.com/news/glenn-roeder-1955-2021 | publisher = [[Watford F.C.|Watford]] | access-date = 1 March 2021 | title = Glenn Roeder: 1955–2021 | date = 28 February 2021 | archive-date = 1 March 2021 | archive-url = https://web.archive.org/web/20210301104252/https://www.watfordfc.com/news/glenn-roeder-1955-2021 | url-status = live }}</ref>
+
+===Burnley===
+Roeder followed his tenure at Watford by taking a season away from the limelight, assuming a back seat role as [[Chris Waddle]]'s assistant manager at [[Burnley F.C.|Burnley]].<ref>{{cite web |last1=Moore |first1=Glenn |title=Football: Waddle's plan to wake up 'sleeping giant' |url=https://www.independent.co.uk/sport/football-waddles-plan-to-wake-up-sleeping-giant-1245742.html |website=Independent |access-date=1 August 2020 |date=16 August 1997 |quote=[Waddle] also has an impressive back-room staff of Glenn Roeder, Gordon Cowans and Chris Woods...}}</ref> The partnership did not prove to be successful and the pair narrowly avoided steering Burnley into the bottom tier of English football. Only a home victory over [[Plymouth Argyle F.C.|Plymouth Argyle]] on the last day staved off relegation.<ref>{{cite web |title=Football: Waddle's decision to leave Turf Moor |url=https://www.independent.co.uk/sport/football-waddles-decision-to-leave-turf-moor-1160020.html |website=Independent |access-date=1 August 2020 |date=14 May 1998 |archive-date=1 August 2020 |archive-url=https://web.archive.org/web/20200801220714/https://www.independent.co.uk/sport/football-waddles-decision-to-leave-turf-moor-1160020.html |url-status=live }}</ref> Roeder proved to be both an unpopular and controversial figure to the Burnley fans, hitting a low point when he was reported to have said that star player [[Glen Little]] was "not fit to lace the boots" of manager Chris Waddle.<ref>{{cite news | url=http://www.lancashiretelegraph.co.uk/sport/10516559.Little_never_lost_hope_during_early_days_at_Burnley/?ref=rss | title=Little never lost hope during early days at Burnley | work=Lancashire Telegraph | date=29 June 2013 | access-date=13 November 2014 | author=Marshall, Tyrone | archive-date=13 November 2014 | archive-url=https://web.archive.org/web/20141113180019/http://www.lancashiretelegraph.co.uk/sport/10516559.Little_never_lost_hope_during_early_days_at_Burnley/?ref=rss | url-status=live }}</ref> Roeder left his role at Burnley alongside Waddle when the pair departed the club after only a single season in charge.<ref>{{cite news | url=http://www.pinkun.com/norwich-city/cureton_to_settle_score_1_642838 | title=Cureton to settle score | work=Pink 'Un | date=2 April 2008 | access-date=13 November 2014 | author=Chambers, Matthew | archive-date=13 November 2014 | archive-url=https://web.archive.org/web/20141113172845/http://www.pinkun.com/norwich-city/cureton_to_settle_score_1_642838 | url-status=live }}</ref>
+
+===England===
+Roeder then worked as a coach under [[Glenn Hoddle]] for the [[England national football team|England national team]], before West Ham manager [[Harry Redknapp]] offered him an opportunity in club football again in 1999.<ref>{{cite news|title=West Ham's biggest gamble |publisher=BBC |work=[[BBC Sport]] |access-date=18 November 2007 |date=14 June 2001 |url=https://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1388269.stm |archive-url=https://web.archive.org/web/20140720234715/http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1388269.stm |archive-date=20 July 2014 |url-status=live  }}</ref>
+
+===West Ham United===
+West Ham manager Harry Redknapp initially appointed Roeder as a coach and scout at the club in 1999. However at the end of the 2000/2001 season Redknapp left the club following a dispute over transfer funds, and the Hammers' failed in their attempts to attract [[Steve McClaren]] and then [[Alan Curbishley]]. Unexpectedly Roeder was appointed manager.<ref>{{cite news|title=Roeder confirmed as West Ham boss |publisher=BBC |work=[[BBC Sport]] |access-date=18 November 2007 |date=14 June 2001 |url=https://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1387656.stm |archive-date=22 May 2009 |archive-url=https://web.archive.org/web/20090522034751/http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1387656.stm |url-status=live  }}</ref> The appointment was opposed by some supporters, who had expected a bigger name to replace Redknapp.<ref>{{cite news|title=West Ham fans stage protest |publisher=BBC |work=BBC Sport |access-date=18 November 2007 |date=14 June 2001 |url=https://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1388647.stm |archive-date=23 April 2003 |archive-url=https://web.archive.org/web/20030423181733/http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/1388647.stm |url-status=live  }}</ref> Roeder received a £15 million transfer kitty, and guided West Ham to seventh in his first season in charge.<ref>{{cite news|url=http://www.theguardian.com/football/2021/feb/28/former-west-ham-manager-and-england-coach-glenn-roeder-dies-aged-65|title=Former West Ham manager and England coach Glenn Roeder dies aged 65|date=28 February 2021|website=The Guardian|access-date=1 March 2021|archive-date=28 February 2021|archive-url=https://web.archive.org/web/20210228201804/https://www.theguardian.com/football/2021/feb/28/former-west-ham-manager-and-england-coach-glenn-roeder-dies-aged-65|url-status=live}}</ref> He signed David James from Aston Villa,<ref>{{Cite news|url=https://www.theguardian.com/football/2001/aug/17/newsstory.sport3|title=David James may be out for six months|first=Jon|last=Brodkin|newspaper=The Guardian |date=17 August 2001|via=www.theguardian.com|access-date=1 March 2021|archive-date=5 March 2016|archive-url=https://web.archive.org/web/20160305121903/http://www.theguardian.com/football/2001/aug/17/newsstory.sport3|url-status=live}}</ref> [[Tomáš Řepka]] from [[ACF Fiorentina]] for £5.5 million,<ref name=repka>{{cite news|url=https://www.independent.co.uk/sport/football/football-league/brooking-steps-in-again-after-west-ham-sack-roeder-101698.html|title=Brooking steps in again after West Ham sack Roeder|date=12 September 2013|website=The Independent|access-date=1 March 2021|archive-date=1 March 2021|archive-url=https://web.archive.org/web/20210301104252/https://www.independent.co.uk/sport/football/football-league/brooking-steps-in-again-after-west-ham-sack-roeder-101698.html|url-status=live}}</ref> and [[Don Hutchison]] from [[Sunderland A.F.C.|Sunderland]] for £5 million, a club record fee at the time, and made permanent the transfer of Sebastien Schemmel who had impressed on loan the prior season.<ref>{{Cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1514594.stm|title=Roeder signs Hutchison|date=30 August 2001|via=news.bbc.co.uk|access-date=1 March 2021|archive-date=6 March 2016|archive-url=https://web.archive.org/web/20160306125132/http://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/1514594.stm|url-status=live}}</ref><ref name="WHUFC1">{{cite web | title=Sébastien Schemmel returns to West Ham United | website=West Ham United F.C. | date=2024-05-30 | url=https://www.whufc.com/news/sebastien-schemmel-returns-west-ham-united | access-date=2024-05-30 | archive-date=30 May 2024 | archive-url=https://web.archive.org/web/20240530153603/https://www.whufc.com/news/sebastien-schemmel-returns-west-ham-united | url-status=live }}</ref><ref name="WHUFC2">{{cite web | title=The flying French full-back who became an unlikely Hammer of the Year | website=West Ham United F.C. | date=2024-05-30 | url=https://www.whufc.com/news/articles/2020/june/02-june/sebastien-schemmel-flying-french-full-back-who-became-unlikely | access-date=2024-05-30 | archive-date=30 May 2024 | archive-url=https://web.archive.org/web/20240530153605/https://www.whufc.com/news/articles/2020/june/02-june/sebastien-schemmel-flying-french-full-back-who-became-unlikely | url-status=live }}</ref> The club started the season poorly, James was injured on international duty before he could make an appearance for the club, and several other regulars continued to miss large portions of the season while Repka was sent off twice in the first 5 games of the season. However the club recovered to finish in 7th position in Roeders first season in charge, with young player Jermain Defoe making an immediate impact up front with [[Frederic Kanoute]] and Schemmel going on to win the Hammer of the Year award.
+
+The [[2002–03 in English football|2002–03]] season started off similarly poorly as West Ham struggled with injuries to their forwards and midfielders leaving them with Defoe as their main, and often the only fully fit, forward. West Ham had spent no money over the summer, their only significant permanent signing being free agent [[Gary Breen]] who had impressed at the [[2002 World Cup]] for Ireland. West Ham were bottom at Christmas with only 3 wins and a half dozen draws to their name. At that time no team had ever avoided relegation from that position. The board made limited funds available after Christmas, and the January signings of [[Rufus Brevett]], [[Les Ferdinand]] and loan of [[Lee Bowyer]] on a short-term deal helped to improve the club's form, winning 4 and drawing 3 of their next 10 games.<ref>{{Cite web|url=https://www.sportsmole.co.uk/football/spurs/on-this-day/feature/otd-ferdinand-joins-west-ham_200303.html?t=123987456&s=zero|title=On this day: Les Ferdinand joins West Ham United - Sports Mole|website=amp.sportsmole.co.uk|access-date=1 March 2021|archive-date=14 April 2022|archive-url=https://web.archive.org/web/20220414014457/https://amp.sportsmole.co.uk/football/spurs/on-this-day/feature/otd-ferdinand-joins-west-ham_200303.html|url-status=live}}</ref><ref name=repka/><ref>{{Cite news|url=https://www.irishtimes.com/news/brevett-moves-across-london-to-west-ham-1.459360|title=Brevett moves across London to West Ham|newspaper=The Irish Times}}</ref> Roeder had a dispute with striker [[Paolo Di Canio]] after he substituted Di Canio in a match against [[West Bromwich Albion F.C.|West Bromwich Albion]] due to injury. Di Canio subsequently missed all but two of the remaining games of the season.<ref>{{cite news|title=Di Canio accuses Roeder |publisher=BBC |work=BBC Sport |access-date=18 November 2007 |date=14 March 2003 |url=https://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/2849263.stm |archive-url=https://web.archive.org/web/20030813213823/http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/2849263.stm |archive-date=13 August 2003 |url-status=live  }}</ref>
+
+In April 2003 Roeder collapsed due to a [[brain tumour]] and was replaced by [[Trevor Brooking]] for the final three games of the season.<ref>{{cite news|title=No change for Roeder |publisher=BBC |work=BBC Sport |access-date=18 November 2007 |url=https://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/2965329.stm |date=25 April 2003 |archive-url=https://web.archive.org/web/20030811043115/http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/2965329.stm |archive-date=11 August 2003 |url-status=live  }}</ref> Despite the late rally that saw West Ham win 7, draw 4 and lose 3, West Ham were relegated with a record number of 42 points, 2 points behind a Bolton Wanderers team they had lost to with 4 games to go.<ref>{{Cite web | url = https://talksport.com/football/419534/remembering-the-west-ham-united-team-that-were-relegated-from-the-premier-league-in-2003/ | publisher = [[Talksport]] | access-date = 1 March 2021 | title = Remembering the West Ham United team that were relegated from the Premier League in 2003 | first = Damian | last = Mannion | date = 6 September 2018 | archive-date = 21 October 2018 | archive-url = https://web.archive.org/web/20181021101125/https://talksport.com/football/419534/remembering-the-west-ham-united-team-that-were-relegated-from-the-premier-league-in-2003/ | url-status = live }}</ref>
+
+Roeder returned to work in July 2003, stating he had "unfinished business".<ref>{{cite news|title=Roeder ready for challenge |publisher=BBC |work=BBC Sport |access-date=18 November 2007 |date=1 July 2003 |url=https://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/3034806.stm |archive-date=13 July 2012 |archive-url=https://archive.today/20120713035057/http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/3034806.stm |url-status=live  }}</ref> In the 2003 close season, many of West Ham's star players, such as [[Trevor Sinclair]],<ref>{{Cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/m/middlesbrough/3051905.stm|title=Sinclair joins Man City|date=21 July 2003|via=news.bbc.co.uk|access-date=1 March 2021|archive-date=19 September 2021|archive-url=https://web.archive.org/web/20210919123737/http://news.bbc.co.uk/sport2/hi/football/teams/m/middlesbrough/3051905.stm|url-status=live}}</ref> [[Frédéric Kanouté]]<ref>{{Cite web|url=https://www.uefa.com/insideuefa/member-associations/news/0194-0f844f66cb53-e49c010c8f13-1000--tottenham-cough-up-for-kanoute/|title=Tottenham cough up for Kanouté|date=4 August 2003|website=[[UEFA]]|access-date=1 March 2021|archive-date=16 September 2021|archive-url=https://web.archive.org/web/20210916235245/https://www.uefa.com/insideuefa/member-associations/news/0194-0f844f66cb53-e49c010c8f13-1000--tottenham-cough-up-for-kanoute/|url-status=dead}}</ref> and [[Joe Cole]] left the club as a result of relegation. Cole refused the offer of a new contract and moved to [[Chelsea F.C.|Chelsea]].<ref>{{Cite web|url=https://www.telegraph.co.uk/sport/football/2409000/Cole-joins-Chelsea-Veron-will-follow.html|title=Cole joins Chelsea, Veron will follow|website=The Telegraph|access-date=1 March 2021|archive-date=4 March 2020|archive-url=https://web.archive.org/web/20200304001434/https://www.telegraph.co.uk/sport/football/2409000/Cole-joins-Chelsea-Veron-will-follow.html|url-status=live}}</ref> Roeder was sacked by West Ham in August 2003, following a defeat to [[Rotherham United F.C.|Rotherham United]].<ref>{{cite news|title=West Ham sack Roeder |publisher=BBC |work=BBC Sport |url=https://news.bbc.co.uk/sport2/hi/football/teams/w/west_ham_utd/3178123.stm |access-date=18 November 2007 |date=24 August 2003 |archive-url=https://web.archive.org/web/20031217161208/http://news.bbc.co.uk/sport1/hi/football/teams/w/west_ham_utd/3178123.stm |archive-date=17 December 2003 |url-status=live  }}</ref> He had managed only three league games of the new season with West Ham now playing in the [[EFL Championship|second tier]]. The season started with a 2–1 away win against [[Preston North End F.C.|Preston North End]].<ref>{{Cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_div_1/3113053.stm|title=Preston 1-2 West Ham|date=9 August 2003|via=news.bbc.co.uk|access-date=5 March 2021|archive-date=24 February 2019|archive-url=https://web.archive.org/web/20190224174503/http://news.bbc.co.uk/sport2/hi/football/eng_div_1/3113053.stm|url-status=live}}</ref> However after a home goalless draw against [[Sheffield United F.C.|Sheffield United]] on 16 August 2003, the team were jeered from the pitch.<ref>{{Cite news|url=https://news.bbc.co.uk/sport2/hi/football/eng_div_1/3137519.stm|title=West Ham 0-0 Sheff Utd|date=16 August 2003|via=news.bbc.co.uk|access-date=5 March 2021|archive-date=19 September 2021|archive-url=https://web.archive.org/web/20210919033553/http://news.bbc.co.uk/sport2/hi/football/eng_div_1/3137519.stm|url-status=live}}</ref> He was again replaced by Trevor Brooking as manager.<ref>{{Cite web|url=http://www.theguardian.com/football/2003/aug/25/newsstory.sport3|title=Roeder wins sack race as West Ham lose patience|date=25 August 2003|website=The Guardian}}</ref>
+
+===Newcastle United===
+After nearly two years out of the game, he returned to football in June 2005 when he was named youth-development manager of [[Newcastle United F.C.|Newcastle United]].<ref>{{cite news
+ |title=Newcastle academy role for Roeder 
+ |publisher=BBC 
+ |work=BBC Sport 
+ |access-date=18 November 2007 |date=21 June 2005 |url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/4070962.stm
+ |archive-url=https://web.archive.org/web/20140720235057/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/4070962.stm 
+ |archive-date=20 July 2014 |url-status=live
+}}</ref> After [[Graeme Souness]] was sacked as Newcastle manager in February 2006, Roeder was appointed caretaker manager, with striker [[Alan Shearer]], then still also a player, as his assistant.<ref>{{cite news
+ |title=Newcastle dismiss manager Souness 
+ |publisher=BBC 
+ |work=BBC Sport 
+ |access-date=18 November 2007 |date=2 February 2006 |url=https://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/4673636.stm
+ |archive-url=https://web.archive.org/web/20061219145110/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/4673636.stm 
+ |archive-date=19 December 2006 |url-status=live
+}}</ref> He was able to turn the Magpies' season around, rescuing them from near the foot of the table to finish seventh in the Premier League with a place in the [[Intertoto Cup]]. [[Freddy Shepherd]], Newcastle United's chairman, consequently named Roeder as first in line to become full-time manager at the club, on condition that Newcastle obtain dispensation from the FA Premier League to allow Roeder to continue without the mandatory [[UEFA Pro Licence]]. Newcastle claimed exceptional circumstances as Roeder was halfway to gaining the licence when he suffered his brain tumour.<ref>{{cite news|title=Roeder free to take Newcastle job |publisher=BBC |work=BBC Sport |access-date=18 November 2007 |date=10 May 2006 |url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/4757085.stm |archive-url=https://web.archive.org/web/20061117113754/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/4757085.stm |archive-date=17 November 2006 |url-status=live  }}</ref> The Premier League at first rejected Newcastle's request on 3 May 2006 in accordance with UEFA rules which would not allow Roeder the position. Freddy Shepherd however lobbied the backing of all 19 other premier league club chairmen and they voted in favour of Roeder being allowed to gain the correct licence while in the job. Roeder was named as Newcastle's permanent manager on 16 May, signing a two-year contract with the club.<ref>{{cite news|title=Roeder named as Newcastle manager |publisher=BBC |work=BBC Sport |access-date=18 November 2007 |date=16 May 2006 |url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/4770157.stm |archive-url=https://web.archive.org/web/20061225034157/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/4770157.stm |archive-date=25 December 2006 |url-status=live  }}</ref>
+
+On 1 June 2006, Roeder appointed [[Kevin Bond (English footballer)|Kevin Bond]] as his assistant.<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/5036238.stm |title=Bond named as Roeder's assistant |publisher=BBC |work=[[BBC Sport]] |date=1 June 2006 |access-date=6 May 2007 |archive-url=https://web.archive.org/web/20061114074517/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/5036238.stm |archive-date=14 November 2006 |url-status=live  }}</ref> Roeder had worked with Bond at [[West Ham United|West Ham]] where Bond was a scout. Roeder believed the two of them would work well together, however Bond's contract at the club was terminated after allegations he was prepared to take [[Bung (slang)|bungs]] for players whilst at [[Portsmouth F.C.|Portsmouth]].<ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/5378844.stm |title=Newcastle terminate Bond contract |date=26 September 2006 |work=[[BBC Sport]] |access-date=6 May 2007 |archive-url=https://web.archive.org/web/20061026101306/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/5378844.stm |archive-date=26 October 2006 |url-status=live  }}</ref> On 22 October 2006, Roeder announced that [[Middlesbrough F.C.|ex-Middlesbrough]] player and recent care-taker manager of [[West Bromwich Albion|West Brom]], [[Nigel Pearson]] would be his new assistant manager.<ref>{{cite news |url=https://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/6077550.stm |archive-url=https://web.archive.org/web/20080213152916/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/6077550.stm |archive-date=13 February 2008 |title=Pearson takes up Newcastle post |work=[[BBC Sport]] |date=23 October 2006 |access-date=6 May 2007 |url-status=live  }}</ref>
+
+Under Roeder, Newcastle won the [[2006 UEFA Intertoto Cup|2006 Intertoto Cup]] by virtue of being the furthest placed team to advance from the Intertoto Cup into the [[UEFA Cup]]. This made Roeder the first manager to win a trophy for Newcastle since 1969.<ref>{{cite news|title=Newcastle to lift Intertoto Cup|work=BBC Sport|access-date=18 November 2007|date=16 December 2006|url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/6185511.stm|archive-date=23 August 2017|archive-url=https://web.archive.org/web/20170823075347/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/6185511.stm|url-status=live}}</ref> After the 1–0 defeat to Sheffield United at home on 4 November 2006, there was a fan protest outside St. James' Park, that was shown live on [[Sky Sports]] channel [[PremPlus]].<ref>{{cite web|url=http://icnewcastle.icnetwork.co.uk/newcastleunited/sundaysun/tm_headline=fury-at-toon-gloom%26method=full%26objectid=18047996%26siteid=50081-name_page.html|title=Fury at Toon gloom|work=icnewcastle.co.uk|date=5 November 2006|access-date=6 May 2007|archive-date=9 February 2009|archive-url=https://web.archive.org/web/20090209063856/http://icnewcastle.icnetwork.co.uk/newcastleunited/sundaysun/tm_headline=fury-at-toon-gloom%26method=full%26objectid=18047996%26siteid=50081-name_page.html|url-status=live}}</ref> However, notably much of the fans' criticism was directed at the chairman, [[Freddy Shepherd]], and not specifically at the manager himself. Roeder's fortune didn't improve, as Newcastle's league form was inconsistent, due in large part to first-team player injuries and having to rely on inexperienced players from United's Youth Academy to compete at top flight level, with Newcastle maintaining a mid-table position. After guiding Newcastle to just one win in ten games, Roeder was summoned to an emergency board meeting on 6 May 2007.<ref>[http://home.skysports.com/list.aspx?hlid=465263&CPID=8&clid=4&lid=4161&title=Roeder+summoned+by+board Roeder summoned by board]{{dead link|date=October 2017 |bot=InternetArchiveBot |fix-attempted=yes }} – Sky Sports, 6 May 2007</ref> It was revealed he had resigned with immediate effect.<ref>{{cite web|url=http://home.skysports.com/list.aspx?hlid=465269&CPID=8&clid=4&lid=2&title=Roeder+leaves+Newcastle&channel=football_home& |title=Roeder leaves Newcastle |work=[[Sky Sports]] |date=6 May 2007 |access-date=6 May 2007 |archive-url=https://web.archive.org/web/20070508110420/http://home.skysports.com/list.aspx?hlid=465269&CPID=8&clid=4&lid=2&title=Roeder+leaves+Newcastle&channel=football_home& |archive-date=8 May 2007 |url-status=dead  }}</ref><ref>[https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/6630751.stm Roeder resigns as Newcastle boss]  – BBC Sport, 6 May</ref><ref>{{cite web|url=http://www.teamtalk.com/football/story/0,16368,2483_2111451,00.html|title=Roeder quits Toon post – Reports|work=teamtalk.com|access-date=6 May 2007|url-status=dead|archive-url=https://web.archive.org/web/20070508232202/http://www.teamtalk.com/football/story/0,16368,2483_2111451,00.html|archive-date=8 May 2007}}</ref><ref>{{cite web|url=http://www.football365.com/story/0,17033,8652_2111425,00.html|title=ROEDER LEAVES MAGPIES – REPORTS|work=football365.com|access-date=6 May 2007|url-status=dead|archive-url=https://web.archive.org/web/20070508055718/http://www.football365.com/story/0,17033,8652_2111425,00.html|archive-date=8 May 2007}}</ref><ref>{{Cite web |url=http://www.nufc.co.uk.p.preprod.performgroup.com/page/News/Features/0,,10278~1021961,00.html |title=Glenn Roeder – NUFC Statement |website=nufc.premiumtv.co.uk |access-date=7 May 2007 |archive-date=6 April 2018 |archive-url=https://web.archive.org/web/20180406103520/http://www.nufc.co.uk.p.preprod.performgroup.com/page/News/Features/0,,10278~1021961,00.html |url-status=live }}</ref>
+
+Roeder won 45% of his matches, enough in a single season to qualify for European competition.<ref>[[Newcastle United F.C.]]</ref>  [[Sam Allardyce]] who had resigned from [[Bolton Wanderers F.C.|Bolton Wanderers]] just weeks before, was named as his replacement on 15 May 2007.<ref>{{cite news|work=[[Reuters]] |url=http://uk.reuters.com/article/domesticNews/idUKL0717299120070507 |title=Newcastle accept Roeder's resignation |access-date=7 May 2007 |date=7 May 2007 |archive-url=https://web.archive.org/web/20090211061106/http://uk.reuters.com/article/domesticNews/idUKL0717299120070507 |archive-date=11 February 2009 |url-status=dead  }}</ref><ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/6632667.stm |title=Allardyce tipped for Magpies job |publisher=BBC |work=[[BBC Sport]] |access-date=7 May 2007 |date=7 May 2007 |archive-date=24 August 2007 |archive-url=https://web.archive.org/web/20070824150400/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/6632667.stm |url-status=live  }}</ref><ref>{{cite news|title=Roeder resigns as Newcastle boss |publisher=BBC |work=BBC Sport |url=https://news.bbc.co.uk/sport2/hi/football/teams/n/newcastle_united/6630751.stm |date=6 May 2007 |access-date=18 November 2007 |archive-date=24 August 2007 |archive-url=https://web.archive.org/web/20070824171510/http://news.bbc.co.uk/sport1/hi/football/teams/n/newcastle_united/6630751.stm |url-status=live  }}</ref>
+
+===Norwich City===
+In October 2007, Roeder joined [[Football League Championship|Championship]] side [[Norwich City F.C.|Norwich City]], signing a contract until 2010, with Norwich bottom of the division and four points adrift of safety.<ref>{{cite news|title=Norwich name Roeder as new boss |publisher=BBC |work=BBC Sport |access-date=18 November 2007 |date=30 October 2007 |url=https://news.bbc.co.uk/sport2/hi/football/teams/n/norwich/7068855.stm |archive-url=https://web.archive.org/web/20071101072434/http://news.bbc.co.uk/sport2/hi/football/teams/n/norwich/7068855.stm |archive-date=1 November 2007 |url-status=live  }}</ref> His first game in charge was on 4 November in the [[East Anglian derby]] against [[Ipswich Town F.C.|Ipswich Town]], a match that ended 2–2. His first win came in the home game against Coventry City (24 November), which he followed up with a first away win of the season for Norwich in the 3–1 defeat of Blackpool (27 November), who previously had not lost at home that season. He then guided the team out of the relegation zone with a series of wins.  Roeder began an overhaul of the squad in the January transfer window, releasing players such as [[Julien Brellier]] and [[David Střihavka]]. He made the loan signing of [[Matty Pattison]] permanent and also renewed the loan deals for [[Ched Evans]] and [[Mo Camara]].  Roeder also made four further loan signings including Matthew Bates, Keiran Gibbs, Alex Pearce and James Henry. Despite a poor run of form through February and March, Roeder kept Norwich in the Championship for another season, though survival was not confirmed until a 3–0 home win against QPR in the penultimate fixture of the season.<ref name=pink/>
+
+On 25 July 2008, Roeder was fined £1,000 and given a suspended two-match touchline ban at a FA disciplinary hearing after criticising referee [[Andy D'Urso]] following a 2–1 defeat to [[Bristol City F.C.|Bristol City]] at [[Ashton Gate Stadium]] on 29 March.<ref>{{cite news
+|title=Roeder and Clark punished by FA|publisher=BBC|work=BBC Sport|access-date=25 August 2008
+|date=25 July 2008|url=https://news.bbc.co.uk/sport2/hi/football/teams/n/norwich/7525171.stm
+}}</ref> Both Roeder and assistant [[Lee Clark (footballer)|Lee Clark]] reacted angrily to Bristol City being awarded a 91st minute free kick from which they scored the winner. Clark was given a one-match touchline ban and fined £500 for his part in the incident. They were both warned by [[The FA]] about their future conduct.<ref name=pink>{{Cite web | url = https://www.pinkun.com/sport/norwich-city/roeder-s-rocky-reign-at-norwich-1776854 | work = Pink Un | publisher = [[Archant]] | access-date = 1 March 2021 | date = 10 October 2020 | first = Kim | last = Briscoe | title = Roeder's rocky reign at Norwich | archive-date = 17 January 2021 | archive-url = https://web.archive.org/web/20210117162141/https://www.pinkun.com/sport/norwich-city/roeder-s-rocky-reign-at-norwich-1776854 | url-status = live }}</ref>
+
+In May 2008 a few days after the last game of the season Roeder decided not to renew [[Darren Huckerby]]'s contract which angered many supporters as they were unable to give him a proper sendoff. Roeder brought in a number of loan players in the summer.  Norwich made a difficult start to the 2008–09 season although there were some good results including a 5–2 win against top of the table Wolves in October. After that result, however, Norwich entered a poor run of form. A 2–0 win against local rivals Ipswich in the East Anglian Derby at the start of December helped to briefly relieve the pressure on Roeder, however after this Norwich won one further league game under his management against bottom of the league Charlton at Carrow Road in December.<ref name=pink/> January began with a draw away at Charlton in the FA cup and a loss to Sheffield United. When the team lost the FA Cup third round replay 1–0 at Carrow Road against Charlton, who had not won in 18 games, Roeder was sacked the following day.<ref>{{cite web |url=https://www.canaries.co.uk/page/NewsDetails/0,,10355~1519768,00.html |title=OFFICIAL CLUB STATEMENT &#124; Norwich City &#124; News &#124; First News &#124; First News &#124; OFFICIAL CLUB STATEMENT |access-date=16 January 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090116114048/http://www.canaries.co.uk/page/NewsDetails/0%2C%2C10355~1519768%2C00.html |archive-date=16 January 2009  }}</ref>
+
+===Sheffield Wednesday advisor===
+In April 2015 he joined [[Sheffield Wednesday F.C.|Sheffield Wednesday]], together with [[Adam Pearson (sports executive)|Adam Pearson]], to work alongside [[Stuart Gray (footballer, born 1960)|Stuart Gray]].<ref>{{cite news|url=https://www.bbc.co.uk/sport/football/32383102|title=Sheffield Wednesday: Pearson, Roeder to work with Gray|date=20 April 2015|work=BBC Sport|publisher=BBC|access-date=24 April 2015|archive-date=22 April 2015|archive-url=https://web.archive.org/web/20150422233617/http://www.bbc.co.uk/sport/0/football/32383102|url-status=live}}</ref> The arrangement was terminated in December 2015.<ref>{{cite news|url=http://www.eurosport.co.uk/football/glenn-roeder-parts-ways-with-sheffield-wednesday_sto5031806/story.shtml|title=Glenn Roeder parts ways with Sheffield Wednesday|date=17 December 2015|work=Eurosport|publisher=Eurosport|access-date=17 December 2015|archive-date=31 January 2016|archive-url=https://web.archive.org/web/20160131222939/http://www.eurosport.co.uk/football/glenn-roeder-parts-ways-with-sheffield-wednesday_sto5031806/story.shtml|url-status=live}}</ref>
+
+===Stevenage managerial advisor===
+In March 2016, Roeder was appointed a managerial advisor at [[Stevenage F.C.|Stevenage]] to [[Darren Sarll]].<ref>{{cite news | url=https://www.bbc.co.uk/sport/football/35891091 | title=Glenn Roeder: Ex-Norwich and West Ham boss named Stevenage managerial assistant | publisher=BBC Sport | access-date=25 March 2016 | archive-date=28 March 2016 | archive-url=https://web.archive.org/web/20160328055617/http://www.bbc.co.uk/sport/football/35891091 | url-status=live }}</ref> He left Stevenage on 18 March 2018 after Sarll was sacked with the club 16th in [[EFL League Two]].<ref>{{Cite web | title = Sarll managerial reign over | publisher = Stevenage F.C. | date = 18 March 2018 | access-date = 18 March 2018 | url = https://www.stevenagefc.com/news/2018/march/darren-sarll-leaves-stevenage-fc-18th-march-2018/ | archive-date = 18 March 2018 | archive-url = https://web.archive.org/web/20180318184531/https://www.stevenagefc.com/news/2018/march/darren-sarll-leaves-stevenage-fc-18th-march-2018/ | url-status = live }}</ref>
+
+==Death==
+Roeder died on 28 February 2021, aged 65, in [[Newmarket, Suffolk]],<ref>{{Hugman|id=17048|access-date=4 June 2023}}</ref> after an 18-year battle with a diagnosed [[Brain tumor|brain tumour]].<ref>{{Cite news|title=Former West Ham boss Roeder dies age 65|language=en-GB|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/56233217|access-date=28 February 2021|archive-date=1 March 2021|archive-url=https://web.archive.org/web/20210301104256/https://www.bbc.com/sport/football/56233217|url-status=live}}</ref><ref>{{Cite web|title=Glenn Roeder Brain Tumour|url=https://www.telegraph.co.uk/sport/2400159/Roeder-stable-in-hospital-after-collapse.html|url-status=live|access-date=28 February 2021|archive-date=29 February 2016|archive-url=https://web.archive.org/web/20160229080914/http://www.telegraph.co.uk/sport/2400159/Roeder-stable-in-hospital-after-collapse.html}}</ref><ref>{{Cite web|title=2003 Brain Tumour|date=13 March 2018 |url=https://www.hammers.news/columnist/now-glenn-roeder/|url-status=live|access-date=28 February 2021|archive-date=1 March 2021|archive-url=https://web.archive.org/web/20210301104256/https://www.hammers.news/columnist/now-glenn-roeder/}}</ref>
+
+==Honours==
+===Manager===
+'''Newcastle United'''
+*[[UEFA Intertoto Cup]]: [[2006 UEFA Intertoto Cup|2006]]
+
+'''Individual'''
+*[[Premier League Manager of the Month]]: [[2002–03 FA Premier League#Monthly awards|March 2003]]<ref>{{cite web |url=https://www.premierleague.com/managers/1985/Glenn-Roeder/overview |title=Manager profile: Glenn Roeder |publisher=Premier League |access-date=18 September 2018 |archive-date=18 September 2018 |archive-url=https://web.archive.org/web/20180918225547/https://www.premierleague.com/managers/1985/Glenn-Roeder/overview |url-status=live }}</ref>
+
+==Managerial stats==
+{{unrefsect|date=July 2025}}
+{| class="wikitable" style="text-align: center"
+|-
+!rowspan="2"|Team
+!rowspan="2"|Nat
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="5"|Record
+|-
+!P!!W!!L!!D!!Win %
+|-
+|align=left|[[Gillingham F.C.|Gillingham]]
+|{{flagicon|England}}
+|align=left|1 August 1992
+|align=left|9 July 1993
+||51||13||22||16||25.49
+|-
+|align=left|[[Watford F.C.|Watford]]
+|{{flagicon|England}}
+|align=left|1 August 1993
+|align=left|20 February 1996
+||139||44||55||40||31.65
+|-
+|align=left|[[West Ham United F.C.|West Ham United]]
+|{{flagicon|England}}
+|align=left|9 May 2001
+|align=left|24 August 2003
+||86||27||36||23||31.39
+|-
+|align=left|[[Newcastle United F.C.|Newcastle United]]
+|{{flagicon|England}}
+|align=left|2 February 2006
+|align=left|6 May 2007
+||72||33||24||15||45.83
+|-
+|align=left|[[Norwich City F.C.|Norwich City]]
+|{{flagicon|England}}
+|align=left|30 October 2007
+|align=left|14 January 2009
+||65||20||15||30||30.77
+|}
+
+==References==
+{{reflist}}
+
+==Sources==
+;Books
+* {{cite book| last = Simpson| first = Paul| title = Who Invented the Stepover?| publisher = Profile Books| year = 2013| language = English| isbn = 9781847658425}}
+
+==External links==
+*{{soccerbase (manager)|id=540|name=Glenn Roeder}}
+
+{{1981–82 Football League Second Division PFA Team of the Year}}
+{{UEFA Intertoto Cup winning managers}}
+{{Navboxes
+|title= Managerial positions
+|list1=
+{{Gillingham F.C. managers}}
+{{Watford F.C. managers}}
+{{West Ham United F.C. managers}}
+{{Newcastle United F.C. managers}}
+{{Norwich City F.C. managers}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Roeder, Glenn}}
+[[Category:1955 births]]
+[[Category:2021 deaths]]
+[[Category:English men's footballers]]
+[[Category:England men's B international footballers]]
+[[Category:Leyton Orient F.C. players]]
+[[Category:Queens Park Rangers F.C. players]]
+[[Category:Notts County F.C. players]]
+[[Category:Newcastle United F.C. players]]
+[[Category:Watford F.C. players]]
+[[Category:Gillingham F.C. players]]
+[[Category:English Football League players]]
+[[Category:English football managers]]
+[[Category:Gillingham F.C. managers]]
+[[Category:Watford F.C. managers]]
+[[Category:West Ham United F.C. managers]]
+[[Category:Newcastle United F.C. managers]]
+[[Category:Norwich City F.C. managers]]
+[[Category:Premier League managers]]
+[[Category:English Football League managers]]
+[[Category:Footballers from the London Borough of Redbridge]]
+[[Category:People from Woodford, London]]
+[[Category:Men's association football defenders]]
+[[Category:Newcastle United F.C. non-playing staff]]
+[[Category:English people of German descent]]
+[[Category:Burnley F.C. non-playing staff]]
+[[Category:Sheffield Wednesday F.C. non-playing staff]]
+[[Category:Stevenage F.C. non-playing staff]]
+[[Category:Deaths from brain cancer in England]]

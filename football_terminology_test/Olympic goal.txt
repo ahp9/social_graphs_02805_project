@@ -1,6 +1,0 @@
-#REDIRECT [[Corner kick#Olimpico goal]]
-{{Redirect shell|
- {{R with Wikidata item}}
- {{R to section}}
-}}
-[[Category:Association football terminology]]

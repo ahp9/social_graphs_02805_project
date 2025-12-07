@@ -1,0 +1,233 @@
+{{short description|English footballer and manager (1940–2019)}}
+{{For|other footballers of the same name|Jim Smith (disambiguation){{!}}Jim Smith}}
+{{Use dmy dates|date=December 2019}}
+{{Use British English|date=January 2013}}
+{{Infobox football biography
+| name           = Jim Smith
+| image          = JimSmith.png
+| upright        = 0.9
+| caption        = Smith in 2006
+| alt            =
+| fullname       = James Michael Smith
+| birth_date     = {{birth date|1940|10|17|df=y}}
+| birth_place    = [[Sheffield]], England
+| death_date     = {{death date and age|2019|12|10|1940|10|17|df=y}}
+| death_place    = 
+| height         = 
+| position       = [[Wing half]]
+| youthyears1    =           | youthclubs1 = Oaksfield<ref name="Jim Smith 2">{{cite news|url=http://www.rageonline.co.uk/mainpage.php?manager_id=8&type=manager|archive-url=https://web.archive.org/web/20041129060140/http://www.rageonline.co.uk/mainpage.php?type=manager&manager_id=8|url-status=dead|archive-date=29 November 2004|title=Jim Smith|publisher=Rage Online|access-date=14 May 2017}}</ref>
+| youthyears2    = 1957–1959 | youthclubs2 = [[Sheffield United F.C.|Sheffield United]]
+| years1         = 1959–1961 | clubs1 = [[Sheffield United F.C.|Sheffield United]] | caps1 = 0 | goals1 = 0
+| years2         = 1961–1965 | clubs2 = [[Aldershot F.C.|Aldershot]] | caps2 = 74 | goals2 = 1
+| years3         = 1965–1968 | clubs3 = [[Halifax Town A.F.C.|Halifax Town]] | caps3 = 113 | goals3 = 7
+| years4         = 1968–1969 | clubs4 = [[Lincoln City F.C.|Lincoln City]] | caps4 = 54 | goals4 = 0
+| years5         = 1969–1972 | clubs5 = [[Boston United F.C.|Boston United]]<ref name="stats">{{cite web|url=http://www.bufc.drfox.org.uk/stats69.html|title=Season 1969/70 – Statistics|publisher=Boston United FC. Ken Fox|access-date=6 January 2011}}<br />{{cite web|url=http://www.bufc.drfox.org.uk/stats70.html|title=Season 1970/71 – Statistics|publisher=Boston United FC. Ken Fox|access-date=6 January 2011}}<br />{{cite web|url=http://www.bufc.drfox.org.uk/stats72.html|title=Season 1971/72 – Statistics |publisher=Boston United FC. Ken Fox|access-date=6 January 2011}}</ref> | caps5 = 123 | goals5 = 13
+| years6         = 1972–1973 | clubs6 = [[Colchester United F.C.|Colchester United]] | caps6 = 8 | goals6 = 0
+| totalcaps      = 372 | totalgoals = 8
+| manageryears1  = 1969–1972 | managerclubs1  = [[Boston United F.C.|Boston United]] ([[player-manager]])
+| manageryears2  = 1972–1975 | managerclubs2  = [[Colchester United F.C.|Colchester United]] (player-manager)
+| manageryears3  = 1975–1978 | managerclubs3  = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| manageryears4  = 1978–1982 | managerclubs4  = [[Birmingham City F.C.|Birmingham City]]
+| manageryears5  = 1982–1985 | managerclubs5  = [[Oxford United F.C.|Oxford United]]
+| manageryears6  = 1985–1988 | managerclubs6  = [[Queens Park Rangers F.C.|Queens Park Rangers]]
+| manageryears7  = 1988–1991 | managerclubs7  = [[Newcastle United F.C.|Newcastle United]]
+| manageryears8  = 1991–1995 | managerclubs8  = [[Portsmouth F.C.|Portsmouth]]
+| manageryears9  = 1995–2001 | managerclubs9  = [[Derby County F.C.|Derby County]]
+| manageryears10 = 2006–2007 | managerclubs10 = [[Oxford United F.C.|Oxford United]]
+| manageryears11 = 2008      | managerclubs11 = [[Oxford United F.C.|Oxford United]] ([[Caretaker manager|caretaker]])
+}}
+'''James Michael Smith''' (17 October 1940 – 10 December 2019) was an English [[association football|footballer]] and [[Coach (sport)|manager]]. As a player, he made 249 appearances in the [[Football League Fourth Division|Fourth Division]] of the [[English Football League|Football League]], representing [[Aldershot F.C.|Aldershot]], [[Halifax Town A.F.C.|Halifax Town]], [[Lincoln City F.C.|Lincoln City]] and [[Colchester United F.C.|Colchester United]], and played for {{frac|3|1|2}} years for [[Boston United F.C.|Boston United]] of the [[Northern Premier League]]. He began a long managerial career with Boston United, and went on to take charge of top division clubs such as [[Birmingham City F.C.|Birmingham City]], [[Newcastle United F.C.|Newcastle United]] and [[Derby County F.C.|Derby County]]. Smith served as a member of the [[board of directors]] of Oxford United for three years from 2006 to 2009. He served as the [[League Managers' Association]]'s chief executive and was inducted into their Hall of Fame for managing over 1000 matches.<ref>{{cite web|url=https://www.nytimes.com/reuters/2019/12/10/sports/soccer/10reuters-soccer-england-smith.html|title=English Managerial Stalwart Jim Smith Dies at 79|date=10 December 2019|work=The New York Times|access-date=12 December 2019|archive-url=https://web.archive.org/web/20191212141828/https://www.nytimes.com/reuters/2019/12/10/sports/soccer/10reuters-soccer-england-smith.html |archive-date=12 December 2019}}</ref> He was nicknamed "The Bald Eagle".<ref name=McClaren>{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/internationals/4969256.stm|title=Jim Smith backs protege McClaren|publisher=[[BBC Sport]]|first=Vicki|last=Hodges|access-date=13 May 2009|date=4 May 2006}}</ref>
+
+==Playing career==
+Smith was born in [[Sheffield]] and grew up a [[Sheffield Wednesday F.C.|Sheffield Wednesday]] supporter,<ref>{{cite news|url=https://www.theguardian.com/football/2001/oct/17/newsstory.sport7|title=Francis, Smith and Palmer lead Owls job chase|work=[[The Guardian]]|date=17 October 2001|access-date=12 May 2009|location=London}}</ref> but began his playing career in 1957 when he signed for [[Sheffield United F.C.|Sheffield United]] as an [[amateur]], and turned professional with the club two years later. After failing to break into the first team he was transferred to [[Aldershot F.C.|Aldershot]] for the [[1961–62 in English football|1961–62 season]].<ref name=Matthews64>{{cite book|last=Matthews|first=Tony|title=Birmingham City: A Complete Record|date=1995|publisher=Breedon Books|location=Derby|page=64|isbn=978-1-85983-010-9}}</ref>
+
+At the beginning of the [[1965–66 in English football|1965–66 season]], after scoring one goal in 74 league appearances, Smith left Aldershot to join [[Halifax Town A.F.C.|Halifax Town]]. He made 113 league starts for Halifax, scoring seven goals, before moving to [[Lincoln City F.C.|Lincoln City]] in 1968. After just over a year at Lincoln in which he made 54 appearances Smith signed for [[non-league football|non-league]] club [[Boston United F.C.|Boston United]] as [[player-manager]];<ref name=Matthews64/><ref>{{cite web|url=http://www.neilbrown.newcastlefans.com/player/jimsmith.html|title=Jim Smith profile|work=UK A–Z Transfers|publisher=Neil Brown|access-date=12 May 2009}}</ref> as player, he went on to make nearly 200 appearances for the club in all competitions.<ref name="stats"/>
+
+==Managerial career==
+A good start to his managerial career at Boston – the club finished in the top four of the [[Northern Premier League]] in each of his first three seasons, he led them to the third round proper of the [[1971–72 FA Cup|1972 FA Cup]],<ref>{{cite web|url=http://www.bufc.drfox.org.uk/progress.html|title=Pilgrims Progress|publisher=Ken Fox|work=Boston United FC|access-date=13 May 2009}}</ref> and in his fourth season, was 40 games into a run of 51 consecutive league games unbeaten,<ref>{{cite web|url=http://www.bufc.drfox.org.uk/rollcall.html#JSmith|title=Boston United Roll Call|publisher=Ken Fox|work=Boston United FC|access-date=13 May 2009}}</ref> a British record at professional level<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/b/boston_united/1957584.stm|title=More than a feeling for Boston|publisher=[[BBC Sport]]|first=John|last=May|date=29 April 2002|access-date=13 May 2009}}</ref> – led to [[Colchester United F.C.|Colchester United]] offering Smith the position of manager in October 1972. In his autobiography, Smith says that he thought he got the job on the basis that he told the directors that he thought the team were 'bloody awful' when watching a game with them, and they respected his honesty.<ref name="autobiography">{{cite book |first1=Jim |last1=Smith |first2=Bob |last2=Cass |title=Jim Smith: The Autobiography: It's Only A Game |publisher=Andre Deutsch Ltd |date=2000 |isbn=978-0233998039}}</ref> He retained his playing registration for that season, but in [[1973–74 in English football|1973–74]], he retired from playing and guided Colchester to [[promotion and relegation|promotion]] from the [[Football League Fourth Division]].<ref>{{cite web|url=http://www.cu-fc.com/page/History/0,,10424~1320500,00.html|title=The U's History: The 70s|publisher=[[Colchester United F.C.]]|access-date=13 May 2009 |archive-url=https://web.archive.org/web/20090604182359/http://www.cu-fc.com/page/History/0%2C%2C10424~1320500%2C00.html|archive-date=4 June 2009}}</ref>
+
+In 1975, he quit the club to join [[Blackburn Rovers F.C.|Blackburn Rovers]], newly promoted to the [[Football League Second Division|Second Division]].<ref name=Blackburn>{{cite web|url=http://www.rovers.co.uk/page/ThroughTheYears/0,,10303~78858,00.html|title=1975–84: The bald eagle has landed|date=2 July 2007|access-date=13 May 2009|publisher=[[Blackburn Rovers F.C.]] |archive-url=https://web.archive.org/web/20120217085216/http://www.rovers.co.uk/page/ThroughTheYears/0%2C%2C10303~78858%2C00.html|archive-date=17 February 2012}}</ref>
+
+He led Blackburn through one season of survival, one of establishment and was well into a promotion push in his third season when he left for [[Football League First Division|First Division]] [[Birmingham City F.C.|Birmingham City]] in March 1978 after Sir [[Alf Ramsey]]'s resignation.<ref name=Blackburn/><ref name=Ramsey>{{cite news |url=https://link.gale.com/apps/doc/CS235111017/TTDA?u=wikipedia&sid=bookmark-TTDA&xid=d9a59264|title=Francis issue caused Sir Alf to quit|newspaper=[[The Times]]|location=London |date=9 March 1978 |page=14 |via=The Times Digital Archive |quote=Sir Alf said he told the board two weeks ago that he intended to quit and sever his links with the club. ... He said at a board meeting on 20 February he recommended both Francis and the defender, Joe Gallagher, should be transfer listed. The board agreed but three days later changed their minds about Francis. Sir Alf said he then decided to opt out because of the board's policy.}}</ref>
+
+Birmingham were [[promotion and relegation|relegated]] from the [[Football League First Division|First Division]] in Smith's first full season in charge, but he rebuilt the team, allowing many of the players who had won promotion in 1972 to leave, most notably making [[Trevor Francis]] the first £1&nbsp;million player, a move which the [[board of directors|board]] had not allowed Ramsey to make,<ref name=Ramsey/> and introducing both experienced players and promising youngsters.<ref>Matthews, ''Complete Record''. pp. 39–41</ref>
+
+Smith guided Birmingham back into the top flight the next season, and maintained them in mid-table in 1981. In early 1982, [[Ron Saunders]] walked out on [[Aston Villa F.C.|Aston Villa]], the club he had led to the League title the previous season; Birmingham promptly sacked Smith and appointed Saunders.<ref name=Matthews64/><ref>{{cite news|url=https://link.gale.com/apps/doc/CS336693843/TTDA?u=wikipedia&sid=bookmark-TTDA&xid=cfa6bdc9|title=Villa's loss becomes Birmingham's gain|work=[[The Times]]|location=London|last=Jones|first=Stuart|date=19 February 1982|page=20 |via=The Times Digital Archive}}</ref> In his book, Smith reckons the decision by Birmingham to sack him was taken on the coach journey home from the final game of the season.<ref name="autobiography" />
+
+A few weeks later, Smith joined [[Oxford United F.C.|Oxford United]] as manager. He led them to the [[Football League Third Division|Third Division]] championship in 1984. The next year they were again promoted, reaching the top flight for the first time in their history, as Oxford won the Second Division championship.<ref name=Matthews64/> Despite this spectacular success, chairman [[Robert Maxwell]] failed to improve Smith's contract, which led to his resignation from Oxford to take the job of manager at [[Queens Park Rangers F.C.|Queens Park Rangers]].<ref name=Winter>{{cite news|url=https://www.telegraph.co.uk/sport/columnists/henrywinter/2334253/Bald-Eagle-back-to-roost-at-his-favourite-manor.html|title=Bald Eagle back to roost at his favourite manor|first=Henry|last=Winter|work=[[The Daily Telegraph]]|date=24 March 2006|access-date=13 May 2009|location=London, UK}}</ref>
+
+In his first year at QPR, Smith took the club to the [[1986 Football League Cup Final|League Cup final]], where they lost 3–0 to his former club Oxford United. Smith continued to manage QPR until December 1988 when he left to become manager of [[Newcastle United F.C.|Newcastle United]].<ref>{{cite web|url=http://www.qpr.co.uk/page/History/0,,10373,00.html|title=A potted history of QPR (1882–2009)|publisher=[[Queens Park Rangers F.C.]]|access-date=13 May 2009|date=9 April 2009|url-status=dead|archive-url=https://web.archive.org/web/20120420012403/http://www.qpr.co.uk/page/History/0,,10373,00.html|archive-date=20 April 2012}}</ref> Newcastle finished bottom of the First Division in 1989; they came close to making an immediate return, finishing third in the league but losing 2–0 in the playoff semi-final to local rivals [[Sunderland A.F.C.|Sunderland]] at [[St James' Park]].<ref>{{cite web|url=https://www.11v11.com/teams/newcastle-united/tab/matches/season/1990/|title=Newcastle United football club match record: 1990|work=11v11.com|publisher=Association of Football Statisticians|access-date=9 June 2022}}</ref> With no prospect of promotion by March 1991, Smith resigned amid a boardroom power struggle at the club.<ref>{{cite news |url=http://docs.newsbank.com/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:AWNB:LTIB&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=0F91EB858C49200E&svc_dat=InfoWeb:aggregated5&req_dat=0D0CB57AB53DF815|title=Smith resigns from Newcastle|work=[[The Times]]|location=London|via=[[NewsBank]]|first=Louise|last=Taylor|date=27 March 1991|access-date=13 May 2009}}</ref><ref>{{cite web|url=http://www.nufc.premiumtv.co.uk/page/ManagersDetail/0,,10278~1241759,00.html|title=Jim Smith (1988–91)|publisher=[[Newcastle United F.C.]]|access-date=13 May 2009|archive-url=https://web.archive.org/web/20090607013412/http://www.nufc.premiumtv.co.uk/page/ManagersDetail/0,,10278~1241759,00.html|archive-date=7 June 2009}}</ref>
+
+He had a spell as coach at [[Middlesbrough F.C.|Middlesbrough]] under [[Colin Todd]] before accepting the appointment as manager of [[Portsmouth F.C.|Portsmouth]] in the summer of 1991.<ref name=Matthews64/> He had a fairly successful reign at Fratton Park for four years, including reaching the FA Cup semi-finals in 1992, in which they took [[Liverpool F.C.|Liverpool]] to a replay before losing on penalties after [[extra time]]. A year later, a successful season in the league meant that they missed out on automatic promotion to the Premier League only on goal difference and then lost in the playoffs.<ref>{{cite news |url=https://www.portsmouth.co.uk/sport/football/portsmouth-fc/pompey-s-boys-of-93-debunk-myth-stars-couldn-t-play-now-1-7812980 |title=Pompey's Boys of '93 debunk myth stars couldn't play now |first=Jordan |last=Cross |newspaper=The News |location=Portsmouth |date=8 February 2017 |access-date=10 December 2019 |archive-url=https://web.archive.org/web/20191210213734/https://www.portsmouth.co.uk/sport/football/portsmouth-fc/pompey-s-boys-of-93-debunk-myth-stars-couldn-t-play-now-1-7812980 |archive-date=10 December 2019}}</ref> Key players including [[Darren Anderton]] and [[Guy Whittingham]] were sold, and there was no money for adequate replacements. Smith was sacked in January 1995 after a decline in form left them struggling at the wrong end of Division One.<ref>{{cite web|url=http://www.portsmouthfc.co.uk/index.php?cms_ref=history_pfc&qs_slideshow_b3b4_index=&fm_type=&fm_string=&fm_article_page_num=&qs_media=html&qs_articleid=35|title=1990s: Flattering to deceive|publisher=[[Portsmouth F.C.]]|access-date=13 May 2009 |archive-url=https://web.archive.org/web/20110728052040/http://www.portsmouthfc.co.uk/index.php?cms_ref=history_pfc&qs_slideshow_b3b4_index=&fm_type=&fm_string=&fm_article_page_num=&qs_media=html&qs_articleid=35|archive-date=28 July 2011}}</ref>
+
+Smith became chief executive of the [[League Managers' Association]] in 1995, but returned to club management that summer with [[Derby County F.C.|Derby County]].<ref name=GuardianFactfile>{{cite news|url=https://www.theguardian.com/football/2001/oct/08/newsstory.sport9|title=Jim Smith factfile|work=[[The Guardian]]|date=8 October 2001|access-date=13 May 2009}}</ref>
+
+He brought in [[Steve McClaren]] as first-team coach, and in their first full season they guided Derby to runners-up spot in Division One and promotion to the Premier League.<ref name=McClaren/> Derby finished in the top half of the table for their first three seasons in the top flight, but after two seasons where relegation was only narrowly avoided, Smith was offered, and refused, the post of Director of Football. He resigned in October 2001, to be replaced by [[Colin Todd]].<ref name=OMPastManagers>{{cite news|url=http://www.oxfordmail.co.uk/sport/oxfordunited/clubhistory/pastmanagers|title=Past Managers|work=[[Oxford Mail]]|first=Andy|last=Howland|access-date=30 September 2010}}</ref> Derby had spent 5 consecutive seasons in the top flight under Jim Smith.<ref>{{cite web|url=https://www.bbc.com/sport/football/50746653|title=Jim Smith: Harry Redknapp hails ex-Oxford, Portsmouth & Derby boss as a 'great football man'|date=11 December 2019|publisher=BBC Sport|access-date=12 December 2019}}</ref>
+
+In January 2002, Smith was appointed assistant manager at [[Coventry City F.C.|Coventry City]], working alongside [[Roland Nilsson]].<ref>{{cite news|url=https://www.theguardian.com/football/2002/jan/04/newsstory.sport3 |title=Smith returns as No2 at Coventry|work=[[The Guardian]]|location=London|first=Martin|last=Thorpe|date=4 January 2002|access-date=9 June 2022}}</ref> Smith and Nilsson were sacked three months later, after presiding over performances described as "totally unacceptable" and failing to achieve a playoff place.<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/c/coventry_city/1933074.stm|title=Coventry sack Nilsson and Smith|publisher=[[BBC Sport]]|date=16 April 2002|access-date=13 May 2009}}</ref> Later that year, [[Harry Redknapp]] appointed Smith as his assistant at former club [[Portsmouth F.C.|Portsmouth]].<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/p/portsmouth/2069906.stm|title=Redknapp welcomes Smith|publisher=[[BBC Sport]]|date=27 June 2002|access-date=13 May 2009}}</ref> Smith helped Redknapp win the Division One title at the first attempt in [[2002–03 in English football|2002–03]],<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/p/portsmouth/2951629.stm|title=Redknapp revels in Pompey party|publisher=[[BBC Sport]]|date=15 April 2003|access-date=13 May 2009}}</ref> and played his part as the club established itself in the Premier League. In November 2004, both Smith and Redknapp resigned from Portsmouth after the appointment of a Director of Football.<ref>{{cite news|url=http://news.bbc.co.uk/sport2/hi/football/teams/p/portsmouth/4039229.stm|title=For whom the chimes toll|first=Mandeep|last=Sanghera|date=24 November 2004|access-date=13 May 2009|work=BBC News}}</ref> Redknapp became the manager of [[Southampton F.C.|Southampton]] two weeks later, and after rejecting the position of chief [[scout (sport)|scout]], Smith was appointed his assistant.<ref>{{cite news|url=https://www.theguardian.com/football/2004/dec/17/newsstory.sport5|title=Southampton offer Smith assistant role|work=[[The Guardian]]|date=17 December 2004|access-date=13 May 2009|location=London |first=George|last=Chesterton}}</ref> As part of a "cost-cutting exercise" following Southampton's relegation from the Premier League, Smith's initial six-month contract was not extended.<ref>{{cite news|url=https://link.gale.com/apps/doc/IF0502755793/TTDA?u=wikipedia&sid=bookmark-TTDA&xid=1a5b72c3e|title=Redknapp suffers cruellest cut as Smith is shown the exit|work=[[The Times]]|location=London|first=Nick|last=Szczepanik|date=24 May 2005|page=69|via=The Times Digital Archive}}</ref>
+
+After nearly a year out of football, Smith returned to front-line management in March 2006 as manager of [[Oxford United F.C.|Oxford United]] for the second time, and was also given a seat on the board of directors.<ref name=Winter/><ref>{{cite web|url=http://www.givemefootball.com/championship/bald-eagles-back-in-business-at-oxford---and-there|title=Bald Eagle's back in business at Oxford – and there's a key role at the Kassam for Gemmill too|first=Mark|last=Shail|publisher=[[Professional Footballers' Association]]|date=23 March 2006|access-date=13 May 2009 |archive-url=https://web.archive.org/web/20110613183214/http://www.givemefootball.com/championship/bald-eagles-back-in-business-at-oxford---and-there|archive-date=13 June 2011}}</ref>
+
+He failed to stave off relegation to the [[Conference National]], but they came close to an immediate return to the [[English Football League|Football League]], finishing second and losing [[Penalty shootout (association football)|on penalties]] in the [[2006–07 in English football|2006–07]] play-off semi-final.<ref>{{cite web|url=http://www.oufc.co.uk/page/History/0,,10342,00.html|title=A history of Oxford United Football Club|first1=David|last1=Crabtree|last2=Brunt |first2=Heather Jan|last3=Williams|first3=Chris|publisher=[[Oxford United F.C.]] |date=5 February 2009|access-date=13 May 2009 |archive-url=https://web.archive.org/web/20120207202142/http://www.oufc.co.uk/page/History/0%2C%2C10342%2C00.html |archive-date= 7 February 2012}}</ref> In November 2007, after a poor start to the season, Smith decided it was time to "put the interests of the club before his own and ... step down as manager and concentrate on his director's role full-time".<ref>{{cite news |url=http://www.oxfordmail.co.uk/news/1822062.FOOTBALL__Jim_Smith_steps_down_as_manager/ |title=FOOTBALL: Jim Smith steps down as manager |newspaper=Oxford Mail |date=9 November 2007 |access-date=11 May 2017}}</ref>
+
+Following the sacking of [[Darren Patterson]] in November 2008, Smith took over as [[caretaker manager]]; the team remained unbeaten for the few weeks until [[Chris Wilder]]'s appointment.<ref>{{cite news|url=http://news.bbc.co.uk/sport1/hi/football/teams/o/oxford_utd/7790788.stm|title=Wilder is new Oxford United boss|publisher=[[BBC Sport]]|date=21 December 2008|access-date=13 May 2009}}</ref> Smith stepped down from the board in 2009.<ref>{{cite web|url=http://www.oufc.co.uk/page/News/0,,10342~1615190,00.html|title=Forum report|publisher=[[Oxford United F.C.]]|date=6 April 2009|access-date=30 September 2010 |archive-url=https://web.archive.org/web/20120127145107/http://www.oufc.co.uk/page/News/0%2C%2C10342~1615190%2C00.html|archive-date=27 January 2012}}</ref>
+
+==Death==
+Smith died on 10 December 2019 at the age of 79.<ref>{{cite web |last1=Pritchard |first1=Richard |title=Oxford United legend Jim Smith dies aged 79 |url=https://www.oxfordmail.co.uk/news/18092616.oxford-united-legend-jim-smith-dies-aged-79/ |website=Oxford Mail |access-date=10 December 2019 |date=10 December 2019}}</ref>
+
+==Managerial statistics==
+{| class=wikitable style="text-align: left"
+|+ Managerial record by team and tenure
+|-
+!rowspan="2"|Team
+!rowspan="2"|From
+!rowspan="2"|To
+!colspan="5"|Record
+!rowspan="2"|{{abbr|Ref(s)|Reference(s)}}
+|-
+!{{abbr|P|Matches played}}!!{{abbr|W|Matches won}}!!{{abbr|D|Matches drawn}}!!{{abbr|L|Matches lost}}!!{{abbr|Win %|Win percentage}}
+|-
+|[[Boston United F.C.|Boston United]] (player-manager)
+|9 August 1969
+|25 October 1972
+{{WDL|218|120|57|41|decimals=2}}
+|style="text-align: center"|<ref>{{cite web |url=http://www.bufc.drfox.org.uk/seas69.html |title=Boston United's Season 1969/70 |postscript=,}} {{cite web |url=http://www.bufc.drfox.org.uk/seas70.html |title=Boston United's Season 1970/1 |postscript=,}} {{cite web |url=http://www.bufc.drfox.org.uk/seas71.html |title=Boston United's Season 1971/2 |postscript=none}} and {{cite web |url=http://www.bufc.drfox.org.uk/seas72.html |title=Boston United's Season 1972/3 |website=bufc.drfox.org.uk |publisher=Ken Fox |access-date=3 April 2025}}</ref>
+|-
+|[[Colchester United F.C.|Colchester United]] (player-manager)
+|25 October 1972
+|20 June 1975
+{{WDL|135|55|34|46|decimals=2}}
+|style="text-align: center"|<ref>{{cite web |url=https://www.coludata.co.uk/coaching-staff/jim-smith |title=Coaching staff (1st Team): Jim Smith – manager |website=Coludata |access-date=3 April 2025}}<br />{{cite web |url=https://docs.google.com/spreadsheets/d/e/2PACX-1vR3PZujSaIDi8syqPXdztwfyuoZ-uUsbizej6UQOxYBwEtxV83f3bClfEsQ-kSjz8roO_agsSt2S7Le/pubhtml |title=Managerial record |website=Coludata |access-date=3 April 2025}}</ref>
+|-
+|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|20 June 1975
+|12 March 1978
+{{WDL|141|51|37|53|decimals=2}}
+|style="text-align: center"|<ref name="ENFA manager">{{cite web |url=https://www.enfa.co.uk/managersearch.php |title=Manager search: Smith, JM (Jim) |website=English National Football Archive (ENFA) |access-date=3 April 2025 |url-access=subscription}}</ref>
+|-
+|align=left|[[Birmingham City F.C.|Birmingham City]]
+|align=left|12 March 1978
+|align=left|15 February 1982
+{{WDL|182|59|50|73|decimals=2}}
+|style="text-align: center"|<ref name="ENFA manager" />
+|-
+|align=left|[[Oxford United F.C.|Oxford United]]
+|align=left|6 March 1982
+|align=left|11 June 1985
+{{WDL|192|100|50|42|decimals=2}}
+|style="text-align: center"|<ref name="Jim Smith 2"/>
+|-
+|align=left|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|align=left|11 June 1985
+|align=left|4 December 1988
+{{WDL|169|67|38|64|decimals=2}}
+|style="text-align: center"|<ref name="ENFA manager" />
+|-
+|align=left|[[Newcastle United F.C.|Newcastle United]]
+|align=left|10 December 1988
+|align=left|23 March 1991
+{{WDL|126|46|38|42|decimals=2}}
+|style="text-align: center"|<ref>{{cite web |url=https://www.toon1892.com/detail_manager.php?id=18 |title=James Michael "Jim" Smith manager profile |website=Toon1892 |publisher=Kenneth H Scott |access-date=3 April 2025}}</ref>
+|-
+|align=left|[[Portsmouth F.C.|Portsmouth]]
+|align=left|1 June 1991
+|align=left|1 February 1995
+{{WDL|213|89|56|68|decimals=2}}
+|style="text-align: center"|<ref name="soccerbase manager">{{cite web |url=https://www.soccerbase.com/managers/manager.sd?manager_id=707 |title=Managers: Jim Smith |website=Soccerbase |publisher=Centurycomm |access-date=25 April 2025}}</ref>{{efn|Matches in competitions not covered by ''Soccerbase''{{snd}}[[1991–92 Full Members' Cup]] (L1), [[1992–93 Anglo-Italian Cup]] (W4 D1 L1) and [[1993–94 Anglo-Italian Cup]] (W3 D1 L2){{snd}}sourced to the ''English National Football Archive''.<ref name="ENFA manager" />}}
+|-
+|align=left|[[Derby County F.C.|Derby County]]
+|align=left|15 June 1995
+|align=left|7 October 2001
+{{WDL|279|98|80|101|decimals=2}}
+|style="text-align: center"|<ref name="ENFA manager" />
+|-
+|align=left|[[Oxford United F.C.|Oxford United]]
+|align=left|22 March 2006
+|align=left|1 November 2007
+{{WDL|82|34|26|22|decimals=2}}
+|style="text-align: center"|<ref name="soccerbase manager">{{cite web |url=https://www.soccerbase.com/managers/manager.sd?manager_id=707 |title=Managers: Jim Smith |website=Soccerbase |publisher=Centurycomm |access-date=25 April 2025}}</ref>
+|-
+|align=left|[[Oxford United F.C.|Oxford United]] (caretaker)
+|align=left|30 November 2008
+|align=left|21 December 2008
+{{WDL|4|2|2|0|decimals=2}}
+|style="text-align: center"|<ref>{{cite web |url=https://rageonline.co.uk/mainpage/manager/34/ |title=Manager details: Jim Smith (caretaker) |website=Rage Online |access-date=3 April 2025}}</ref>
+|-
+!colspan="3"|Total
+{{WDLtot|1741|721|468|552|decimals=2}}
+!
+|}
+{{notelist}}
+
+==Honours==
+===Manager===
+'''Boston United'''
+*Eastern Professional Floodlit Cup: 1971–72<ref name="autobiography"/>
+
+'''Colchester United'''
+*[[Football League Fourth Division]] promotion: [[1973–74 Football League Fourth Division|1973–74]]<ref name="autobiography"/>
+
+'''Birmingham City'''
+*[[Football League Second Division]] promotion: [[1979–80 Football League Second Division|1979–80]]<ref name="autobiography"/>
+
+'''Oxford United'''
+*[[Football League Third Division]]: [[1983–84 Football League Third Division|1983–84]]<ref name="autobiography"/>
+*Football League Second Division: [[1984–85 Football League Second Division|1984–85]]<ref name="autobiography"/>
+
+'''Derby County'''
+*[[Football League First Division]] promotion: [[1995–96 Football League First Division|1995–96]]<ref name="autobiography"/>
+
+===Individual===
+*[[Premier League Manager of the Month]]: [[1996–97 FA Premier League#Monthly awards|November 1996]]<ref>{{cite web |url=https://www.premierleague.com/managers/1183/Jim-Smith/overview |title=Manager profile: Jim Smith |publisher=Premier League |access-date=14 September 2018}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*{{NeilBrownPlayers|player/jimsmith}}
+*{{soccerbase (manager)|id=707|name=Jim Smith}}
+
+{{FWA Tribute Award}}
+{{Navboxes
+|title=Managerial positions
+|list1=
+{{Boston United F.C. managers}}
+{{Colchester United F.C. managers}}
+{{Blackburn Rovers F.C. managers}}
+{{Birmingham City F.C. managers}}
+{{Oxford United F.C. managers}}
+{{Queens Park Rangers F.C. managers}}
+{{Newcastle United F.C. managers}}
+{{Portsmouth F.C. managers}}
+{{Derby County F.C. managers}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Smith, Jim}}
+[[Category:1940 births]]
+[[Category:2019 deaths]]
+[[Category:Footballers from Sheffield]]
+[[Category:English men's footballers]]
+[[Category:Men's association football midfielders]]
+[[Category:Sheffield United F.C. players]]
+[[Category:Aldershot F.C. players]]
+[[Category:Halifax Town A.F.C. players]]
+[[Category:Lincoln City F.C. players]]
+[[Category:Boston United F.C. players]]
+[[Category:Colchester United F.C. players]]
+[[Category:English Football League players]]
+[[Category:Player-coaches]]
+[[Category:English football managers]]
+[[Category:Boston United F.C. managers]]
+[[Category:Colchester United F.C. managers]]
+[[Category:Blackburn Rovers F.C. managers]]
+[[Category:Birmingham City F.C. managers]]
+[[Category:Oxford United F.C. managers]]
+[[Category:Queens Park Rangers F.C. managers]]
+[[Category:Newcastle United F.C. managers]]
+[[Category:Portsmouth F.C. managers]]
+[[Category:Derby County F.C. managers]]
+[[Category:Premier League managers]]
+[[Category:English Football League managers]]
+[[Category:Coventry City F.C. non-playing staff]]
+[[Category:20th-century English sportsmen]]

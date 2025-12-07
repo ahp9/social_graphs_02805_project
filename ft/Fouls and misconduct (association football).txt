@@ -1,0 +1,174 @@
+{{Short description|Unfair act by a player in association football}}
+{{EngvarB|date=December 2019}}
+{{Use dmy dates|date=November 2020}}
+
+[[File:Foulsandmisconduct.svg|thumb|A [[Venn diagram]] showing the relationship between fouls and misconduct in association football, with examples. The [[offside (association football)|offside]] offence is an example of a technical rule infraction that is neither a foul nor a misconduct. The referee is given considerable discretion as to the rules' implementation, including deciding which offences are cautionable "unsportsmanlike" conduct.]]
+In the sport of [[association football]], '''fouls and misconduct''' are acts committed by players which are deemed by the [[referee (association football)|referee]] to be unfair and are subsequently penalised. An offence may be a foul, misconduct or both depending on the nature of the offence and the circumstances in which it occurs. Fouls and misconduct are addressed in Law 12 of the [[Laws of the Game (association football)|Laws of the Game]].
+
+A '''foul''' is an unfair act by a player, deemed by the referee to contravene the game's laws, that interferes with the active play of the match. Fouls are punished by the award of a free kick (possibly a [[Penalty kick (association football)|penalty kick]]) to the opposing team. A list of specific offences that can be fouls are detailed in Law 12 of the Laws of the Game (other infractions, such as technical infractions at restarts, are not deemed to be fouls); these mostly concern unnecessarily aggressive physical play and the offence of handling the ball. An offence is classified as a foul when it meets all the following conditions:
+# It is committed by a player (not a substitute);
+# It occurs while the ball is [[Ball in and out of play|in play]];
+# It is committed against an opponent (for fouls concerning contact or conduct between players).
+
+For example, a player striking the referee or a teammate is not a foul, but may be considered misconduct.<ref name="LOTG2024">{{cite book|author= International Football Association Board|author-link= International Football Association Board|title= Laws of the Game|publisher= IFAB|location= Zürich|edition= 2024/2025|url= https://www.theifab.com/downloads/laws-of-the-game-2024-25?l=en|access-date= 23 December 2014}}</ref>
+
+'''Misconduct''' is any conduct by a player that is deemed by the referee to warrant a disciplinary sanction (caution or send-off). Misconduct may include acts which are, additionally, fouls. Unlike fouls, misconduct may occur at any time, including when the ball is out of play, during half-time and before and after the game, and players, team officials and [[substitute (football)|substitute]]s may be sanctioned for misconduct.
+
+Misconduct will result in the offender either receiving a caution (indicated by a [[Penalty card#Yellow card|yellow card]]) or being dismissed ("sent off") from the field (indicated by a [[Penalty card#Red card|red card]]).<ref name="LOTG2024"/>{{rp|Law 12.3}} A dismissed player cannot be replaced; their team is required to play the remainder of the game with one fewer player. A second caution results in the player being sent off. The referee has considerable discretion in applying the Laws; in particular, the offence of unsporting behaviour may be used to deal with most events that violate the spirit of the game, even if they are not listed as specific offences.<ref name="LOTG2024"/>{{rp|Law 12.3}}
+
+The system of cautioning and dismissal has existed in the Laws since 1881.<ref>{{cite wikisource |title=Laws of the Game (1881)}}</ref> Association football was the first sport to introduce [[penalty card]]s to indicate the referee's decisions; a practice since adopted by many other sports. The first major use of the cards was in the [[1970 FIFA World Cup]], but they were not made mandatory at all levels until 1992.<ref name="1992IFAB">{{cite web|title=Minutes of the Annual General Meeting|url=http://ssbra.solidwebworks.com/lib/IFABarc/pdf/1992/1992min.pdf|website=Soccer South Bay Referee Association|publisher=[[International Football Association Board]]|access-date=7 January 2015|date=30 May 1992|archive-url=https://web.archive.org/web/20150505003506/http://ssbra.solidwebworks.com/lib/IFABarc/pdf/1992/1992min.pdf|archive-date=5 May 2015|url-status=dead}}</ref>
+
+==Categories of fouls==
+The laws divide fouls into two categories depending on the type of [[Free kick (association football)|free kick]] awarded to the opposition, either a direct or indirect free kick.
+
+===Direct free kick offences===
+Direct free kicks offences are the more common type of foul. If a direct free kick is awarded in the penalty area of the offending player's team, a [[Penalty kick (association football)|penalty kick]] is awarded.<ref name="LOTG2024"/>{{rp|Law 14 Introduction}}
+
+The majority of fouls concern contact between opponents. Although contact between players is a part of the game, the Laws prohibit most forceful contact, meaning that, unlike other football codes, a [[Tackle (football move)|tackle]] in association football is required to be predominantly directed against the ball rather than the player in possession of it. Specifically the laws prohibit charging, jumping at, kicking (or attempting to kick), pushing, striking (or attempting to strike), tripping (or attempting to trip), tackling or challenging an opponent in a manner considered to be careless, reckless or "using excessive force". Being ''careless'' makes it an offence, being ''reckless'' makes it a cautionable offence and ''using excessive force'' makes it a sending-off offence. Such classification of contact is a matter of judgement for the referee.
+
+The handball offence is also penalised with a direct free kick. Players in association football are prohibited from touching the ball below the armpit while the ball is in play, with the exception of the [[Goalkeeper (association football)|goalkeeper]] in their penalty area. When determining a handball offence, not every touch of the player's hand/arm to the ball is an offence. The area of the arm in line with the bottom of the armpit and above is allowed to touch the ball.<ref name=":1">{{Cite web |last=Association |first=The Football |title=Law 12 - Fouls and Misconduct |url=http://www.thefa.com/football-rules-governance/lawsandrules/laws/football-11-11/law-12---fouls-and-misconduct |access-date=2022-02-28 |website=www.thefa.com |language=en}}</ref> Unavoidable accidental contact is not penalised - such as if the ball is struck against a player's arm at short range and the player could not have reasonably avoided the contact. However, if the player has positioned their arm so as to make their body "unnaturally bigger" and contact occurs, this is considered handball. Additionally, if a player scores in the opponent's goal with their hand or arm, even if accidental and unavoidable, this is considered handball and the goal does not stand.<ref name="LOTG2024" />{{Rp|Law 12.1}} The goalkeeper also has the same rules regarding handballs outside of the penalty area. If the goalkeeper handles the ball inside the penalty area when not allowed to do so, an indirect free kick is awarded.<ref name=":1" /> 
+
+Direct free kicks are also awarded for holding an opponent, impeding them with contact, biting or spitting at other persons, throwing an object (other than the ball) at an opponent or match official, or making contact with the ball with a held object.
+
+===Indirect free kick offences===
+An [[indirect free kick]] is awarded if a player:
+
+*plays in a dangerous manner
+*impedes the progress of an opponent without any contact being made
+*is guilty of dissent, using offensive, insulting or abusive language and/or action(s) or other verbal offences
+*prevents the goalkeeper from releasing the ball from their hands or kicks or attempts to kick the ball when the goalkeeper is in the process of releasing it
+*initiates a deliberate trick for the ball to be passed (including from a free kick or [[goal kick]]) to the goalkeeper with the head, chest, knee etc. to circumvent the [[back-pass rule]], whether or not the goalkeeper touches the ball with their hands
+*commits any other offence, not previously mentioned in the Laws, for which play is stopped to caution or send off a player
+
+An indirect free kick is awarded if a goalkeeper, inside their penalty area, commits any of the following offences:
+
+*controls the ball with their hands for more than six seconds before releasing it from possession (however, in practice this is rarely enforced)
+*touches the ball again with their hands after releasing it from possession and before it has touched another player
+*touches the ball with their hands after it has been deliberately kicked to them by a team-mate, or thrown to them from a throw-in taken by a team-mate (the so called “[[back-pass rule]]”)<ref name="LOTG2024" />{{rp|Law 12.2}}
+
+An indirect free kick is also awarded if an [[offside (association football)|offside offence]] occurs, though offside is not considered a foul and will never be punished by a caution or dismissal.
+
+Indirect free kicks are taken from the place where the offence occurred, even if it was inside the offending player's penalty area. If the offence took place inside their goal area the indirect free kick is taken from the nearest point on the goal area line which runs parallel to the goal line.<ref name="LOTG2024" />{{rp|Law 13.2}}
+
+===Other offences===
+Not all infractions of the Laws are fouls. Non-foul infractions may be dealt with as technical infractions (e.g. as breaching the rules governing the restarts of play) or misconduct (these are punishable by a caution or sending-off). Persistent offences of the Laws is an offence for which the player may be cautioned.<ref name="LOTG2024" />{{rp|Law 12.3}}
+
+==Misconduct==
+{{Anchor|Misconduct Consequences}} <!-- linked from {{TL|Association football laws}} -->
+{{See also|Penalty card}}
+The referee may consider serious or persistent offences to be ''misconduct'' worthy of an official caution or dismissal from the game. Association football was the first sport to use [[penalty cards|coloured cards]] to indicate these actions.<ref name="KenAston">{{Cite web | url = https://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/news/newsid=80623/index.html | archive-url = https://web.archive.org/web/20111023004530/http://www.fifa.com/aboutfifa/footballdevelopment/technicalsupport/refereeing/news/newsid=80623/index.html | url-status = dead | archive-date = 23 October 2011 | title = Ken Aston - the inventor of yellow and red cards | publisher = fifa.com | access-date = 20 February 2013 }}</ref>
+
+===Yellow card (caution)===
+[[File:Matt Reis Carlos Ruiz yellow card.jpg|thumb|right|upright|A player (middle) is cautioned and shown a yellow card.]]
+A yellow card is shown by the [[Referee (association football)|referee]] to indicate that a player has been officially cautioned.<ref name="LOTG2024"/>{{rp|Law 12.3}} The player's details are then recorded by the referee in a small notebook; hence a caution is also known as a "booking". A player who has been cautioned may continue playing in the game; however, a player who receives a second caution in a match is sent off (shown the yellow card again, and then a red card). Law 12 of the [[Laws of the Game (association football)|Laws of the Game]] lists the types of offences and misconduct that may result in a caution. Players can be cautioned and shown a yellow card if they commit the following offences: 
+*Delaying the restart of play
+*Dissent by word or action
+*Entering, re-entering or deliberately leaving the field of play without the referee's permission
+*Failing to respect the required distance when play is restarted with a dropped ball, [[corner kick]], free kick, or throw-in
+*Persistent offences
+*[[Unsportsmanlike conduct|Unsporting behaviour]] (a broad category of caution-worthy acts, see below)
+
+There are also two offences which apply in matches using the [[video assistant referee]] system:
+
+*Entering the referee review area
+*Excessively using the "review" (TV screen) hand gesture<ref>{{cite web|url=https://www.espn.com/soccer/blog-fifa/story/3511810/|title=Players making VAR review 'TV' signal to receive yellow cards|date=28 May 2018|via=www.espn.com}}</ref>
+
+What constitutes cautionable unsporting behaviour is generally at the referee's discretion, though Law 12 lists a number of examples.<ref name="LOTG2024" />{{Rp|Law 12.3}} These include [[Diving (association football)|simulation]], i.e., attempts to deceive the referee, or attempting to score by handling the ball. Fouls which are committed recklessly or fouls which are committed with the intention of stopping a promising attack (SPA) are also considered unsporting behaviour and punishable with a yellow card. Fouls which are committed with excessive force, however, or most fouls which are deliberately committed to deny a goal or an obvious goalscoring opportunity (DOGSO) are punishable by a red card.<ref name="LOTG2024" />{{Rp|Law 12.3}}
+
+The Laws state that goals may be [[Goal celebration|celebrated]], but that such celebrations should not be "excessive". Removing one's shirt or covering one's face with the shirt will result in a caution. Players may also be cautioned for climbing onto a perimeter fence or approaching/entering spectator areas in a manner that causes safety and/or security concerns.<ref>{{cite web|url=https://theifab.com/laws/latest/fouls-and-misconduct/#disciplinary-action|title=IFAB Laws of The Game: Law 12.3: Disciplinary Action}}</ref>
+
+In most tournaments, accumulating a certain number of yellow cards over several matches results in suspending the offending player for a certain number of subsequent matches, the exact number of cards and matches varying by jurisdiction (these sanctiones are not regulated by the Laws of the Game). In the [[UEFA Champions League]], for instance, accumulating two yellow cards in a tournament stage will lead to a one-game suspension. In such situations players have often been suspected of (and occasionally even admitted to) deliberately incurring a second booking in a tournament when the following game is of little importance, thus resetting their yellow card tally to zero for subsequent games (known as "cleaning cards"). However, while technically within the rules of competition, this is considered unsportsmanlike. UEFA has occasionally acted on such choices and has given additional fines and/or suspensions to the players and managers involved. For example, [[Sergio Ramos]] both in 2010 and 2019 picked up extra Champions League suspensions after publicly suggesting during interviews that a yellow card that he accrued was on purpose for card cleaning, the first of which came together with [[Xabi Alonso]] under [[José Mourinho]]'s orders.<ref>{{Cite news |agency=Press Association |date=2010-11-30 |title=José Mourinho and Real Madrid guilty of misconduct over bookings |url=https://www.theguardian.com/football/2010/nov/30/jose-mourinho-real-madrid-guilty |access-date=2024-06-28 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{cite news |date=26 November 2010 |title=BBC Sport - Football - Uefa investigation into red cards surprises Real Madrid |url=https://news.bbc.co.uk/sport2/hi/football/europe/9229485.stm}}</ref><ref>{{Cite news |agency=Associated Press |date=2010-11-24 |title=Uefa set to investigate Real Madrid duo for 'deliberate' red cards |url=https://www.theguardian.com/football/2010/nov/24/real-madrid-deliberate-red-cards |access-date=2024-06-28 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref>{{cite news|url=https://news.bbc.co.uk/sport2/hi/football/europe/9244634.stm|title=BBC Sport - Football - Uefa reduces Real Madrid coach Jose Mourinho's ban|date=6 December 2010 }}</ref><ref>{{Cite web |last=Dudko |first=James |title=Sergio Ramos Banned for 2 Matches by UEFA for Intentional Yellow Card vs. Ajax |url=https://bleacherreport.com/articles/2822879-sergio-ramos-banned-for-2-matches-by-uefa-for-intentional-yellow-card-vs-ajax |access-date=2024-06-28 |website=Bleacher Report |language=en}}</ref>
+
+In 2017 IFAB approved temporary dismissals ([[sin-bin]]s) for cautionable offences similar to that seen in other sports; however, this is only permitted for youth, veterans, disability and grassroots football. Competitions' use of this system—rather than normal yellow cards—is optional, and there are variations in how it can be implemented. For 90-minute games, the length of the temporary dismissal is 10 minutes.<ref name="IFAB-sinbins">{{cite web|title=GUIDELINES FOR TEMPORARY DISMISSALS (SIN BINS)|url=http://www.theifab.com/laws/modifications-to-the-laws/chapters/guidelines-for-temporary-dismissals-sin-bins|publisher=IFAB|access-date=14 June 2017|archive-url=https://web.archive.org/web/20171205214705/http://www.theifab.com/laws/modifications-to-the-laws/chapters/guidelines-for-temporary-dismissals-sin-bins|archive-date=5 December 2017|url-status=dead}}</ref>
+
+===Red card (dismissal)<span class="anchor" id="Red card"></span>===
+[[File:ASV Draßburg vs. SC Ritzing 20190601 (78).jpg|thumb|A player is shown a red card to indicate his dismissal from the game.]]
+{{see also|Ejection (sports)}}
+A red card is shown by a [[Referee (association football)|referee]] to signify that a player must be sent off.<ref name="LOTG2024"/>{{rp|Law 12.3}} A player who has been sent off is required to leave the field of play immediately, must take no further part in the game and cannot be replaced by a substitute, forcing their team to play with one fewer player. If a team's goalkeeper receives a red card another player is required to assume goalkeeping duties, so teams usually (but aren’t required to) [[Substitute (association football)|substitute]] another goalkeeper for an outfield player if they still have substitutes available.
+
+Law 12 of the [[Laws of the Game (association football)|Laws of the Game]] lists the categories of misconduct for which a player may be sent off. These are:
+
+* denying the opposing team a goal or an obvious goalscoring opportunity by a deliberate handball offence (this does not apply to a goalkeeper within their penalty area)
+* denying the opposing team a goal or an obvious goalscoring opportunity by committing a non-deliberate handball offence outside their own penalty area
+* denying a goal or an obvious goalscoring opportunity to an opponent by an offence punishable by a free kick (subject to some exceptions outlined in Law 12)
+* serious foul play
+* biting or spitting at someone
+* violent conduct
+* using offensive, insulting or abusive language and/or action(s)
+* receiving a second yellow card (caution) in the same match
+
+In matches using the [[video assistant referee]] system, the list also includes entering the video operation room.<ref name="LOTG2024" />{{Rp|Law 12.3}}
+
+Serious foul play is a foul committed using excessive force (i.e., "the player has far exceeded the necessary use of force and is in danger of injuring his opponent when challenging for the ball and when it is in play.").<ref name="LOTG2024"/>{{rp|Law 12.3}} Violent conduct is distinct from serious foul play in that it may be committed by any player, substitute, or substituted player against any person, e.g., teammates, match officials, or spectators.<ref name="LOTG2024"/>{{rp|Law 12.3}}
+
+Once a player has been sent off, they are not permitted to stay in the team's [[technical area]] and must leave the immediate field or playing area.<ref name="footballbible">{{cite web |title=Soccer red card rules {{!}} Football red cards, offenses, violations, laws |url=https://www.football-bible.com/soccer-info/soccer-red-card.html |website=www.football-bible.com |access-date=26 June 2018 |language=en |archive-date=1 October 2020 |archive-url=https://web.archive.org/web/20201001074342/https://www.football-bible.com/soccer-info/soccer-red-card.html |url-status=dead }}</ref>
+
+Should a team's on-field players receive a total of 5 red cards, it will be unable to field the required minimum of 7 players, resulting in the match being abandoned.
+
+Starting in August 2020 amid the [[Impact of the COVID-19 pandemic on sports|COVID-19 pandemic]], [[IFAB]] and the [[The Football Association|Football Association]] stated that any player who deliberately coughs at others will receive a straight red card. Less severe incidents are classified as "unsporting behaviour" and will result in a yellow card.<ref>{{Cite news|title=Red cards for deliberate coughing - Ifab|language=en-GB|work=BBC Sport|url=https://www.bbc.co.uk/sport/football/53643017|access-date=2020-10-20}}</ref>
+
+===History and origin===
+[[File:Argentina 1966 rattin.jpg|thumb|[[Antonio Rattín]] (left of referee) being sent off in the 1966 World Cup. The confusion inspired the adoption of yellow and red cards at the 1970 World Cup.]]
+The practice of cautioning and sending off players who make serious breaches of the rules has been part of the Laws of the Game since 1881.<ref>{{cite wikisource |title=Laws of the Game (1881)
+|wslink=Laws of the Game (1881) |year=1881 |publisher=The Football Association}}</ref>
+However, the practice of using [[Penalty card|language-neutral coloured cards]] to indicate these actions did not follow for almost 90 years.
+
+The idea originated with British [[Association football|football]] referee [[Ken Aston]].<ref name="KenAston"/> Aston had been appointed to the [[FIFA]] Referees' Committee and was responsible for all referees at the [[1966 FIFA World Cup]]. In the [[1966 World Cup#Quarter-finals|quarter-finals]], [[England national football team|England]] met [[Argentina national football team|Argentina]] at [[Wembley Stadium (1923)|Wembley Stadium]]. After the match, newspaper reports stated that referee [[Rudolf Kreitlein]] had cautioned both [[Bobby Charlton|Bobby]] and [[Jack Charlton]], as well as sending off Argentine [[Antonio Rattín]]. The referee had not made his decision clear during the game, and England manager [[Alf Ramsey]] approached FIFA for post-match clarification. This incident started Aston thinking about ways to make a referee's decisions clearer to both players and spectators. Aston realised that a colour-coding scheme based on the same principle as used on [[traffic lights]] (yellow as caution, red as stop) would traverse language barriers and clarify whether a player had been cautioned or expelled.<ref name=KenAston/> As a result, yellow cards to indicate a caution and red cards to indicate an expulsion were used for the first time in the [[1970 FIFA World Cup]] in Mexico (though no players were sent off in that tournament). The use of [[penalty card]]s has since been adopted and expanded by several sporting codes, with each sport adapting the idea to its specific set of rules or laws.
+
+Until 1992, a player committing a second bookable offence was shown only a red card; in that year, the IFAB mandated that a yellow card be shown before the red card.<ref>{{cite news |last1=White |first1=Clive |title=Back-pass out of keepers' hands |work=The Times |issue=64347 |date=1 June 1992 |location=London, UK |page=29}}</ref> [[Lothar Matthäus]] had previously proposed a "lilac card" to distinguish such cases from the more serious "straight red card" offence.<ref>{{cite news |last1=Barnes |first1=Simon |title=Footballers may soon see lilac |work=The Times |issue=63949 |date=23 February 1991 |location=London, UK |page=25}}</ref>
+
+With the help of the video assistant referee, it is now possible to upgrade a yellow card to a red card after an on-field review of the infraction. In that case, the referee will show the yellow card, make a no-good gesture, and show the red card to the offending player.
+
+==Frequency==
+Fouls are very common occurrences in games. For example, the 2012–13 football season saw fouls-per-game rates in the major European leagues ranging from 23 in the [[2012–13 Premier League|Premier League]] to 32 in the [[2012–13 Bundesliga|Bundesliga]].<ref name="PL_fouls">{{cite news |last1=Jurejko |first1=Jonathan |title=Fouls in Premier League have dropped by 22% since 2006 |url=https://www.bbc.co.uk/sport/football/22253531 |access-date=26 June 2018 |work=BBC Sport |date=14 June 2013}}</ref>
+
+Yellow cards are less common, though a typical game will feature a few – at the [[2014 FIFA World Cup disciplinary record|2014 FIFA World Cup]] there were, on average, about three cautions per game. Dismissals are much rarer; that same tournament saw an average of 0.2 red cards per match.<ref name="2014WCstats">{{cite web |title=2014 FIFA World Cup Brazil - Statistics |url=https://www.fifa.com/worldcup/archive/brazil2014/statistics/index.html |archive-url=https://web.archive.org/web/20150202054717/http://www.fifa.com/worldcup/archive/brazil2014/statistics/index.html |url-status=dead |archive-date=2 February 2015 |website=FIFA.com |access-date=26 June 2018}}</ref>
+
+==Referee's discretion==
+The referee has a certain degree of discretion as to the enforcement of the 17 Laws including determining which acts constitute cautionable offences under the very broad categories. For this reason, refereeing decisions are sometimes controversial. Some Laws may specify circumstances under which a caution should or must be given, and numerous directives to referees also provide additional guidance. The encouragement for referees to use their [[common sense]] used to be known colloquially as "Law 18" or the "spirit of the game".<ref name=S4D>{{cite book|author1=United States Soccer Federation Inc.|author2=Michael Lewis|title=Soccer for dummies|date=2000|publisher=IDG Books Worldwide|location=Foster City, CA|isbn=1118053575|url=https://books.google.com/books?id=lp7ZmTfl_ckC|access-date= 2014-06-05}}</ref> The "spirit of the game" is now explicitly mentioned in the Laws of the Game <ref name="LOTG2024" />{{rp|Law 12.2}}
+
+==Advantage==
+According to the principle of advantage, play should be allowed to continue when an offence occurs and the non-offending team will benefit from ongoing play. If the anticipated advantage does not ensue within a few seconds, the [[Referee (association football)|referee]] will stop play and restart with a direct or indirect [[Free kick (association football)|free kick]] or a [[Penalty kick (association football)|penalty kick]] (depending on the offence).<ref name="LOTG2024" />{{rp|Law 5.3}}
+
+==Restarts==
+If the ball is out of play when an infraction of the Laws of the Game occurs, play is restarted according to the reason the ball became out of play before the infraction. (Any infraction of the Laws of the Game that occurs while the ball is out of play can be misconduct, but is not a foul.)
+
+If the misconduct occurs when the ball is in play, play need not be stopped to administer a caution or a dismissal, as these may be done at the next stoppage of play (this is usually the case when the opposing team would gain an advantage in having play continue). When this is the case, play is restarted according to the reason for the ball becoming out of play, e.g. a [[throw-in]] if play stopped due to the ball crossing a touchline.
+
+If play is stopped to administer a caution or send-off:
+* If a foul has occurred as well as misconduct, play is restarted according to the nature of the offence (either an [[indirect free kick]], [[direct free kick]] or [[Penalty kick (association football)|penalty kick]] to the opposing team)
+* If no foul under Law 12 has occurred, play is restarted with an indirect free kick to the opposing team
+
+==Team officials==
+In 2019 the IFAB approved the use of red and yellow cards for team officials and since then, in most competitions, the system operates in much the same way as the card system for players (i.e. if a team official, such as the manager or a coach, receives two yellow cards they are given a red). Depending on the seriousness of the offence, that official then may be subject to a subsequent touchline ban, a fine and/or some other form of additional punishment - depending on the rules of their competition and national football association.
+
+Up until this law change, team officials such as managers and coaches were originally not subject to the cautionable and sending-off offences listed above, as these apply only to players, substitutes, and substituted players. As such, they were not physically shown cards if they committed an offence. However, according to Law 5 the referee could caution or dismiss team officials from their technical areas and immediate surroundings (which was still sometimes colloquially referred to as a "sending off").
+
+==Post-match penalties==
+Many football leagues and federations impose off-field penalties for players who accumulate a certain number of cautions in a season, tournament or phase of a tournament. Typically, these take the form of suspending a player from playing in his team's next game(s) after reaching a particular number of cautions. Such off-field penalties are determined by league rules, and not by the Laws of the Game. A unique rule regarding this penalty was introduced by [[Major League Soccer]] in its reserve league of [[MLS Next Pro]] at the halfway point of Next Pro's inaugural [[2022 MLS Next Pro season|2022 season]]. A player who is sent off serves his suspension in his team's next match against the same opponent.<ref>{{cite press release|url=https://www.mlssoccer.com/news/mls-next-pro-implementing-two-new-competition-rules-for-second-half-of-inaugural |title=MLS NEXT Pro implementing two new competition rules for second half of inaugural season  |publisher=Major League Soccer |date=2022-07-06 |access-date=2023-02-04}}</ref>
+
+Similarly, a direct red card usually also results in additional sanctions, most commonly in the form of suspensions from playing for a number of future games, although financial fines may also be imposed. The exact punishments are determined by tournament or competition rules, and not by the Laws of the Game. FIFA in particular has been adamant that a red card in any football competition must result in the guilty player being suspended for at least the next game, with the only grounds of appeal being mistaken identity.<ref name=FIFAred>{{cite news|title=Fifa change red card rules|url=https://www.theguardian.com/football/2002/sep/24/newsstory.sport8|access-date=4 October 2014|work=The Guardian|date=24 September 2002}}</ref>
+
+At the [[2006 FIFA World Cup]], any player receiving two yellow cards during the three group stage matches, or two yellow cards in the knockout stage matches had to serve a one-match suspension for the next game. A single yellow card did not carry over from the group stage to the knockout stages. Should the player pick up his second yellow during the team's final group match, he would miss the Round of 16 if his team qualified for it. However, suspensions due to yellow cards do not carry beyond the [[FIFA World Cup|World Cup finals]].
+
+For the [[2010 FIFA World Cup]], the rules were changed so that any player who received two yellow cards between the beginning of the tournament and the end of the quarterfinal round (instead of the end of the group stage matches) would serve a one-match suspension for the next game. As a result, only players that received a red card (whether directly or after a second booking) in the semifinal game would not be able to play in the final.
+
+In some league/group competitions, a team's fair play record, as measured by the total number of yellow and red cards acquired by a team, may be used as a potential tie-breaking method to determine final table position. This method was used for the first time in the World Cup's history in 2018, where [[2018 FIFA World Cup Group H|Japan advanced to the round of 16 over Senegal in Group H]] after being tied in every other category (Japan received four yellow cards in the group, fewer than Senegal's six).<ref name="regulations">For example [[UEFA Euro 2016 qualifying#Tiebreakers|in the qualifying stages]] of [[UEFA Euro 2016]]: {{cite web|url=https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/03/92/81/2039281_DOWNLOAD.pdf|title=Regulations of the UEFA European Football Championship 2014–16|publisher=[[UEFA]]|archive-url=https://web.archive.org/web/20131219025616/https://www.uefa.com/MultimediaFiles/Download/Regulations/uefaorg/Regulations/02/03/92/81/2039281_DOWNLOAD.pdf|archive-date=19 December 2013|url-status=dead}}</ref><ref>{{Cite news |last=James |first=Stuart |date=2018-06-28 |title=Japan sneak through to World Cup last 16 despite Poland defeat |url=https://www.theguardian.com/football/2018/jun/28/japan-poland-world-cup-group-h-match-report |access-date=2024-03-27 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+
+==See also==
+* [[Laws of the Game (association football)]]
+* {{format link|Professional foul#Association football}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[https://www.bbc.co.uk/sport/football/19707057 Q&A: So what makes a bad tackle?], BBC Sport website, 24 September 2012
+*[https://public.tableau.com/profile/publish/TheJuniorGames-CatchingMisconduct/CardsPerMatch-timeTrend The Junior Games - Catching Misconduct, a 10-year story], Tableau Public website, June 2016
+{{Association football laws}}
+{{Authority control}}
+
+{{DEFAULTSORT:Foul (Association Football)}}
+[[Category:Laws of association football]]
+[[Category:Association football terminology]]
+[[Category:Misconduct]]

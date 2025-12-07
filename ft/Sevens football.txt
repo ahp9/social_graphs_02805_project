@@ -1,0 +1,44 @@
+{{Confused|American 7s football}}
+{{Short description|Variation of football played in India}}
+{{Use dmy dates|date=August 2024}}
+{{Use Indian English|date=August 2024}}
+{{Infobox sport
+| name       = Sevens football
+| image      = 
+| imagesize  =  
+| caption    = 
+| team       = 7 per side
+| category   = [[Sports]] 
+| equipment  = Ball
+| venue      = [[Football pitch]]
+| olympic    = No 
+| paralympic = No
+| country/region = [[South India]]
+}}
+'''Sevens football''' is a [[seven-a-side football|seven-a-side]] version of [[association football|football]] played on a smaller [[football pitch]].<ref name="ashique espn">{{cite web |url= https://www.espn.in/football/ashique-kuruniyan/story/3962421/runashiquerun-the-kerala-speedster-who-turned-indias-premier-trickster |title= Run, Ashique, run: The Kerala speedster who turned India's premier trickster|access-date= 2020-01-02|work = ESPN|date=2019-10-13}}</ref><ref name=":0">{{Cite web |date=2022-07-07 |title=FIFA discovers the beauty of Sevens Football: What's this format and why is it so popular in Kerala |url=https://www.espn.in/football/india-ind/story/4695847/fifa-discovers-sevens-football-format-why-is-it-so-popular-in-kerala |access-date=2022-07-26 |website=ESPN |language=en}}</ref> Sevens football is predominantly popular in [[Kerala]], [[Malabar Region|Malabar]], and [[South India]].<ref name="Kerala FA">{{cite web |date=2012-11-20 |title=Sevens football season kicks off in Kerala |url=https://www.goal.com/en-in/news/kerala-sevens-football-isl-indian-football/185ukjvafhx4k18kj7nbu7q658 |access-date=2020-01-02}}</ref> The matches in sevens tournaments are often played to fully packed stadiums.<ref name="sudani">{{cite web |date=2019-10-20 |title=How Kerala shrunk football to make it its own |url=https://timesofindia.indiatimes.com/sports/football/indian-small-football-in-sevens-heaven/articleshow/70905729.cms |work=Times of India |access-date=2020-01-02}}</ref><ref name="ashique espn" /> Sevens tournaments have also attracted players from other parts of India,<ref name="vijayan" /> as well as international players.<ref name="bbc african players">{{cite web |date=2018-08-13 |title=The African footballers changing the game in India |url=https://www.bbc.com/news/av/world-asia-india-45085295/the-african-footballers-changing-the-game-in-india |work=BBC |access-date=2020-01-02}}</ref> Matches are usually held from November to May. The Sevens Football Association (SFA) organizes around 50 tournaments across South India.<ref name="indian express sevens">{{cite web |url= https://www.newindianexpress.com/cities/kochi/2019/oct/20/sevens-the-lifeline-of-state-football-2050248.html |title= Sevens the lifeline of country football|access-date= 2020-01-02|work = The New Indian Express|date=2019-09-03}}</ref>
+
+Several [[footballer]]s, including [[India national football team|India]] internationals [[I. M. Vijayan]],<ref name="vijayan">{{cite web |url= https://sportstar.thehindu.com/magazine/sevens-football-helps-me-retain-my-passion-for-the-game/article19047873.ece |title= 'Sevens football helps me retain my passion for the game'|access-date= 2020-01-02|work = Sportstar|date=2017-06-14}}</ref> [[Ashique Kuruniyan]], [[Suhair Vadakkepeedika|VP Suhair]], [[Mashoor Shereef]], [[C. K. Vineeth|CK Vineeth]], [[Zakeer Mundampara|Zakeer Manuppa]], [[Mohammed Rafi (footballer)|Mohammed Rafi]], [[Asif Kottayil]] and [[Anas Edathodika]], credit their experience in sevens tournaments for helping them improve footballing skills and develop passion for the sport.<ref name="anas">{{cite web |url= https://sports.yahoo.com/malappuram-sevens-kerala-blasters-anas-043456186.html |title= From Malappuram Sevens to Kerala Blasters - Anas Edathodika remembers his roots|access-date= 2020-01-02|work = Yahoo! Sports|date=2019-01-29}}</ref>
+
+==In popular culture==
+* ''[[Sudani from Nigeria]]'' (2018)<ref name="sudani" />
+* ''[[Sevenes]]'' (2011)
+
+==See also==
+* [[Football in India]]
+* [[Football in Kerala]]
+
+==References==
+{{Reflist}}
+
+{{Football in Kerala}}
+{{Association football}}
+{{Team Sport}}
+
+[[Category:Seven-a-side football]]
+[[Category:Sport in India]]
+[[Category:Sport in Kerala]]
+[[Category:Association football terminology]]
+[[Category:Association football variants]]
+[[Category:Athletic sports]]
+[[Category:Ball games]]
+[[Category:Team sports]]

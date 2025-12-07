@@ -1,0 +1,24 @@
+{{Short description|Terminology in association football}}
+{{About|a football dribbling move|other meanings of the term|Stepover (disambiguation)}}
+
+The '''step over''' (also known as the '''''pedalada''''', the '''''denílson''''', or the '''''scissors''''', or the '''''roeder shuffle'''''{{sfnp|Simpson|2013|p=35}}) is a [[dribbling#Association football|dribbling]] move, or [[Dummy (football)#Association football|feint]], in [[association football]], used to fool a defensive player into thinking the offensive player, in possession of the ball, is going to move in a direction they do not intend to move in.<ref>{{cite news |url = https://news.bbc.co.uk/sport2/hi/football/skills/4187702.stm |title = Football &#124; Skills &#124; The step over |work = BBC News |date = 30 August 2005 |access-date = 20 May 2014 }}</ref> 
+
+According to one source, the move was invented by Argentine striker [[Pedro Calomino]] in the early 1900s, and was first used in Europe by Dutch player [[Law Adam]], who was famous for it in the late 1920s/early 1930s, which earned him the nickname "Adam the Scissorsman".<ref>{{cite book|last1=Simpson|first1=Paul|last2=Hesse|first2=Uli|title=Who Invented the Stepover?: and other crucial football conundrums|date=2013|publisher=Profile Books|location=London|isbn=9781847658425|page=38|url=https://books.google.com/books?id=sQecAQAAQBAJ&q=law+adam+scissors+man&pg=PA38-39|access-date=31 August 2015}}</ref> It was later also used in Italy by [[Amedeo Biavati]] in the 1930s<ref>{{cite web|url=http://archiviostorico.gazzetta.it/2007/marzo/07/italiano_padre_della_finta_ga_3_070307012.shtml|title=Ma è un italiano il padre della finta|publisher=La Gazetta dello Sport|language=Italian|date=7 March 2007|access-date=21 January 2015}}</ref> and was used by former [[Newcastle United]] player [[Glenn Roeder]] in the 1980s.{{sfnp|Simpson|2013|p=35}} The step over was popularised in the mid-1990s by Brazilian footballer and global superstar [[Ronaldo (Brazilian footballer)|Ronaldo]].<ref>[https://web.archive.org/web/20110222101316/http://sportsillustrated.cnn.com/2011/writers/sid_lowe/02/18/ronaldo.retirement/ "Ronaldo was simply a phenomenon"]. ''Sports Illustrated''. Retrieved June 2, 2014</ref> Before he retired in 2020 Brazilian Attacking midfielder/Striker [[Robinho]] used the step over at Brazilian club [[Santos FC]] when he was just 18. Nowadays, the technique is in widespread use by attacking players all over the world, such as [[Cristiano Ronaldo]] and [[Neymar]].<ref>{{cite news |url = https://www.theguardian.com/football/2005/aug/30/europeanfootball.sport |title = A star is born in Madrid &#124; Football |work = The Guardian  |last = Lowe |first = Sid |date = 30 August 2005 |access-date = 20 May 2014 }}</ref>
+[[File:Pedro Calomino.jpg|thumb|[[Pedro Calomino]]]]
+
+==References==
+{{reflist}}
+
+==Source==
+;Books
+* {{cite book| last = Simpson| first = Paul| title = Who Invented the Stepover?| publisher = Profile Books| year = 2013| language = English| isbn = 9781847658425}}
+
+==External links==
+{{portal|Association football}}
+* [https://news.bbc.co.uk/sport2/hi/football/skills/4187702.stm BBC Sport | Football | Skills | The Step over]
+
+{{Association football tactics and skills}}
+{{Association football terminology}}
+
+[[Category:Association football skills]]
+[[Category:Association football terminology]]

@@ -1,0 +1,17 @@
+#REDIRECT [[Out of bounds#Sidelines]]
+
+{{Redirect category shell|
+{{R from merge}}
+{{R to related topic}}
+{{R with possibilities}}
+{{R to section}}
+{{R with Wikidata item}}
+}}
+
+[[Category:Terminology used in multiple sports]]
+[[Category:Association football terminology]]
+[[Category:American football terminology]]
+[[Category:Baseball terminology]]
+[[Category:Basketball terminology]]
+[[Category:Rugby league terminology]]
+[[Category:Rugby union terminology]]

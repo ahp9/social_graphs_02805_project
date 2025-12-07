@@ -1,0 +1,115 @@
+{{Short description|none}}
+{{Use dmy dates|date = March 2020}}
+
+The following is a list of [[Nickname|nicknames]] of [[Oceania Football Confederation]] (OFC) national [[association football]] teams.
+
+== Nicknames ==
+
+* Nicknames in ''italics'' are commonly used in English.
+
+{| class="wikitable sortable"
+!Team
+!Nickname
+!English translation
+!Notes
+!{{Tooltip|Ref.|Reference}}
+|-
+|{{fb|ASA}}
+|Au Fili
+|The National Team
+|Filifili means the Chosen or Selected in Samoan dialect.
+|<ref name="topendsports.com5">{{cite web|url=http://www.topendsports.com/sport/soccer/team-nicknames.htm|title=Football (Soccer) Team Nicknames|website=Topendsports.com}}</ref>
+|-
+| rowspan="2" |{{fb|COK}}
+|Soka Kuki Airani
+|The National Team
+| rowspan="2" |The Flag of the Cook Islands from 1973 to 1979 was a predominantly green color representing the continuous growth and life of the islands
+|<ref name="topendsports.com5" />
+|-
+| colspan="2" |The Green and Whites
+|<ref name="topendsports.com5" />
+|-
+|{{fb|FIJ}}
+| colspan="2" |Bula Boys
+|"Bula" is a greeting used in Fiji.
+|<ref>{{Cite web|url=https://www.fijifootball.com.fj/bula-boys-ready-for-battle/|title=Bula Boys ready for battle|date=7 August 2018|website=FijiFootball.com.fj|language=en-US|access-date=8 February 2019}}</ref>
+|-
+|{{fb|Kiribati}}
+|Kiribati
+|Kiribis
+|The football team representing Kiribati's 34 beautiful atolls, reefs, and islands.
+|<ref>{{Cite web|url=https://bettinghits.com/kiribas-looking-for-fifa-inclusion/|title=Kiribas Looking for FIFA Inclusion.|website=|archive-url=|archive-date=|access-date=10 October 2019}}</ref><ref>{{Cite web|url=https://bettinghits.com/tips|title=Football Betting tips|website=|archive-url=|archive-date=|access-date=10 October 2019}}</ref>
+|-
+| rowspan="2" |{{fb|New Caledonia}}
+|Les Cagous
+|The [[Kagu|Kagus]]
+| rowspan="2" |From a crested, almost flightless bluish-grey bird related to the rails, which is found only on the island of New Caledonia.
+|<ref name="topendsports.com6">{{cite web|url=http://www.topendsports.com/sport/soccer/team-nicknames.htm|title=Football (Soccer) Team Nicknames|website=Topendsports.com}}</ref>
+|-
+|Les Rouges et Gris
+|The Red and Grays
+|<ref name="topendsports.com6" />
+|-
+|{{fb|New Zealand}}
+| colspan="2" |All Whites
+|New Zealand adopted an 'all white' playing strip during the [[1986 FIFA World Cup qualification (OFC)|1981 World Cup qualifying campaign]].
+|<ref>{{cite web|url=http://nzsoccer.com/page/all_whites1.html|title=History of the All Whites|publisher=NZ Football|url-status=dead|archiveurl=https://web.archive.org/web/20080731211729/http://www.nzsoccer.com/page/all_whites1.html|archivedate=31 July 2008|accessdate=1 November 2008}}</ref>
+|-
+|{{fbw|New Zealand}} (Women's)
+| colspan="2" |Football [[Cyathea dealbata|Ferns]]
+|The fern is one of the national symbols of New Zealand.
+|<ref>Formerly known as the SWANZ.</ref>
+|-
+|{{fb|Niue}}
+|
+|
+|
+|
+|-
+|{{fb|PNG}}
+|Kapuls
+|The [[Cuscus]]
+|A species of Australasian possum.
+|<ref>{{cite web|url=http://www.brisbanestrikers.com.au/uncategorized/strikers-to-play-papua-new-guinea/|title=Strikers To Play Papua New Guinea|author=Steve Pitman|date=5 August 2011|publisher=Brisbane Strikers|accessdate=8 August 2011|archive-date=10 March 2020|archive-url=https://web.archive.org/web/20200310152927/http://www.brisbanestrikers.com.au/uncategorized/strikers-to-play-papua-new-guinea/|url-status=dead}}</ref>
+|-
+|{{fb|SAM}}
+| colspan="2" |[[Tooth-billed pigeon|Manumea]]
+|After a native bird.
+|<ref name="topendsports.com7">{{cite web|url=http://www.topendsports.com/sport/soccer/team-nicknames.htm|title=Football (Soccer) Team Nicknames|website=Topendsports.com}}</ref>
+|-
+|{{fb|SOL}}
+| colspan="2" |The [[Bonito|Bonitos]]
+|Tribe of fishes.
+|<ref>{{Cite web|url=https://www.siff.com.sb/bonitos-fight-back-in-thriller/|title=Bonitos fight back in thriller|date=5 September 2017|website=Solomon Football|language=en-US|access-date=8 February 2019}}</ref>
+|-
+|{{fb|TAH}}
+|Toa Aito
+Les guerriers de fer
+|Iron Warriors
+|Iron has been entwined in the Tahiti culture from the onset. When British Captain Samuel Wallis "discovered" Tahiti on 18 June 1767, the natives were eager to trade, especially in iron nails.
+|<ref name="topendsports.com7" />
+|-
+|{{fb|TGA}}
+|Timi Fakafomua
+|The National Team
+|The national football team of Tonga.
+|<ref name="topendsports.com7" />
+|-
+|{{fb|VAN}}
+| colspan="2" |The Men in Black and Gold
+|From the Vanuatu flag which has Red and green sections, divided horizontally by a gold stripe running within a black border.
+|<ref name="topendsports.com8">{{cite web|url=http://www.topendsports.com/sport/soccer/team-nicknames.htm|title=Football (Soccer) Team Nicknames|website=Topendsports.com}}</ref>
+|}
+
+== See also ==
+
+* [[List of national association football teams by nickname]]
+
+== References ==
+{{Reflist}}
+
+{{Association football terminology}}
+
+{{DEFAULTSORT:List Of National Association Football Teams By Nickname OFC}}
+[[Category:Lists of association football national teams|Nickname OFC]]
+[[Category:Nicknamed groups of association football players|National OFC]]

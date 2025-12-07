@@ -1,0 +1,389 @@
+{{Short description|Contribution by a player which helps to score a goal}}
+{{Use dmy dates|date=November 2025}}
+In [[association football]], an '''assist''' is a contribution leading to the [[Scoring in association football|scoring of a goal]], where the contribution is made by someone on the scoring team other than the scorer. Statistics for assists made by players may be kept officially by the organisers of a competition, or unofficially by, for example, journalists or organisers of [[Fantasy football (Association)|fantasy football]] competitions. Recording assists is not part of the official [[Laws of the Game (association football)|Laws of the Game]] and the criteria for an assist to be awarded may vary. Record of assists was virtually not kept at all until the end of the 20th century, although reports of matches commonly described a player as having "made" one or more goals. Since the 1990s, some leagues have kept official record of assists and based awards on them.
+
+{{Anchor|Contribution}}<!--[[Goal contribution]] redirects here-->The separate player statistics "[[Scoring in association football#Attribution of goals|goals {{bracket|scored}}]]" and "assists" may be aggregated to a statistic called "[goal] '''contributions'''" or "[goal] '''involvements'''" (analogous to what is called a [[point (ice hockey)|point]] in [[ice hockey]]).
+
+== Criteria ==
+Most commonly, an assist is credited to a player for [[passing (association football)|passing]] or [[cross (football)|crossing]] the ball to the scorer.  It may also be awarded to a player whose shot rebounds (off a defender, [[Goalkeeper (association football)|goalkeeper]] or goalpost) to a teammate who scores. Some systems may credit an assist to a player who wins a [[Penalty kick (association football)|penalty kick]] or a [[Direct free kick|free kick]] for another player to convert,<ref name="tsg86"/><ref name="tsg90"/> or to an attacking player for contributing to an [[own goal]].<ref>{{Cite web |url=http://www.haverford.edu/athletics/soccerm/07Stats/070918hm.htm |title=Haverford College vs Alvernia College |date=18 September 2007 |publisher=[[Haverford College]] |access-date=21 July 2014 |archive-url=https://web.archive.org/web/20070713150309/http://www.haverford.edu/athletics/soccerm/07Stats/070918hm.htm |archive-date=13 July 2007}}</ref> A goal may be unassisted, or have one assist; some systems allow for two assists.<ref name="tsg86"/><ref name="ncaas5a1p1"/>
+
+=== Opta criteria ===
+[[Opta Sports|Opta]], a British [[sports analytics]] company and the official provider of [[Premier League]] statistics,<ref>{{cite web |title=Who are Opta Index? |url=http://www.optasoccer.com/optamizer/ABOUT/index.asp |url-status=dead |archive-url=https://web.archive.org/web/20001213173200/http://www.optasoccer.com/optamizer/ABOUT/index.asp |archive-date=13 December 2000 |publisher=Opta Index Limited |access-date=8 December 2017 }}</ref><ref name="SIG1999">{{cite web |date=21 December 1999 |title=Sports Internet Group plc Results for the period to 31 August 1999 |url=https://www.investegate.co.uk/ArticlePrint.aspx?id=199912210701338525C |publisher=Sports Internet Group plc |via=Investegate |access-date=8 December 2017 |archive-date=27 December 2020 |archive-url=https://web.archive.org/web/20201227172508/https://www.investegate.co.uk/ArticlePrint.aspx?id=199912210701338525C |url-status=dead }}</ref> defines an assist as "The final touch from a teammate, which leads to the recipient of the ball scoring a goal". ''Opta'' requires that if the assist is deflected by an opposition player, it must be deemed as travelling to the goalscorer irrespective of the deflection. Also according to ''Opta'', "in the event of an [[own goal]], [[Free kick (association football)#Direct and indirect free kicks|direct free kick]] goal and direct corner goal, an assist will not be awarded. This same rule applies to penalties unless the penalty taker chooses to pass the ball for another player to score."<ref>{{cite web |url=https://www.statsperform.com/opta-event-definitions/ |title=Opta event definitions |publisher=Opta |access-date=23 June 2024 |archive-date=13 June 2024 |archive-url=https://web.archive.org/web/20240613053131/https://www.statsperform.com/opta-event-definitions/ |url-status=live }}</ref>
+
+According to Opta, an assist is ''not'' awarded in the following cases:
+
+* Goals scored directly from [[Penalty kick (association football)|penalty kicks]], [[Free kick (association football)|direct free kicks]], or [[Corner kick|corner-kicks]]
+* [[Own goals]]
+* Deflected or rebounded balls from opponents that affected the ball's delivery to the goal scorer.
+* Balls rebounded off the post.
+
+Opta attest that this strict definition makes assist statistics more accurate and fair in analyzing players' sports performance.
+
+=== FIFA World Cup ===
+
+FIFA's Technical Study Group is responsible for awarding assist points at the [[FIFA World Cup]].<ref>{{cite web|url=https://www.fifa.com/mm/document/fifafacts/mcwc/ip-301_03a_fwc-awards_new_2466.pdf |title=adidas Golden Shoe Award |publisher=FIFA |access-date=29 July 2008 |archive-url=https://web.archive.org/web/20080626175841/http://www.fifa.com/mm/document/fifafacts/mcwc/ip-301_03a_fwc-awards_new_2466.pdf |archive-date=26 June 2008 |url-status=dead }}</ref> In the Technical Study Group's report on the [[1986 FIFA World Cup|1986 World Cup]], the authors calculated for the first time unofficial statistics for assists, developing the following criteria:<ref name="tsg86">
+{{cite web|url=https://www.fifa.com/mm/document/afdeveloping/techdevp/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf |archive-url=https://web.archive.org/web/20121013164049/http://www.fifa.com/mm/document/afdeveloping/techdevp/fwc%5fmexico%5f1986%5fen%5fpart4%5f279.pdf |url-status=dead |archive-date=13 October 2012 |title=1986 World Cup Technical Report, part 4 |author=FIFA Technical Study Group |year=1986 |publisher=[[FIFA]] |page=The Table of Goalscorers: Goals and Assists, page 198 |no-pp=y |access-date=29 July 2008}}
+</ref>
+# An assist was awarded to the player who had given the last pass to the goalscorer.
+# In addition, the last but two holder of the ball could get an assist provided that his action had decisive importance for the goal.
+# After goals from rebounds those players were awarded an assist who had shot on target.
+# After goals scored on penalty or by a [[direct free kick|directly converted free-kick]] the fouled player received a point.
+# In case that the goalscorer had laid on the goal for himself ([[dribbling|dribble]], solo run), no assists were awarded.
+# No assists were awarded, either, if the goalscorer [[interception|took advantage of a missed pass]] by an opponent.
+
+The [[1990 FIFA World Cup|1990 World Cup]] technical report adopted similar criteria, but changed the free-kick/penalty criterion:<ref name="tsg90">
+{{cite web|url=https://www.fifa.com/mm/document/afdeveloping/techdevp/fwc%5fitaly%5f1990%5fa%5fpart6%5f273.pdf |archive-url=https://web.archive.org/web/20121111050409/http://www.fifa.com/mm/document/afdeveloping/techdevp/fwc_italy_1990_a_part6_273.pdf |url-status=dead |archive-date=11 November 2012 |title=1990 World Cup Technical Report, part 6 |author=FIFA Technical Study Group |year=1990 |publisher=FIFA|page=281 |access-date=29 July 2008}}
+</ref>
+*Where goals resulting from penalties are concerned, the player who is fouled in the area receives an assist point (unless, that is, the player who is fouled subsequently executes the penalty himself).{{cn|date=May 2025}}
+
+''Planet World Cup'' has calculated some retrospective data on assists back to the [[1966 FIFA World Cup|1966 World Cup]],<ref>{{cite web |url=http://www.planetworldcup.com/CUPS/1966/wc66statistics.html |title=World Cup 1966 statistics |publisher=Planet World Cup |access-date=29 July 2008 |archive-date=23 October 2018 |archive-url=https://web.archive.org/web/20181023182853/http://www.planetworldcup.com/CUPS/1966/wc66statistics.html |url-status=live }}</ref> though the 1986 data differs from that of FIFA.<ref name="tsg86"/><ref>{{cite web|url=http://www.planetworldcup.com/CUPS/1986/wc86statistics.html |title=World Cup 1986 statistics |publisher=Planet World Cup |access-date=29 July 2008| archive-url= https://web.archive.org/web/20080720164229/http://www.planetworldcup.com/CUPS/1986/wc86statistics.html| archive-date= 20 July 2008 | url-status= live}}</ref>
+
+FIFA started officially keeping track of assists in [[FIFA World Cup|World Cup tournaments]] at the [[1994 FIFA World Cup|1994 edition]].<ref name="afp1994">
+{{cite news|publisher=[[Agence France Presse]]|date=11 July 1994 |title=Football by the numbers |first=Rebecca |last=Bryan |location=Los Angeles |quote=the assist has gained enough ground to earn a place in the calculations for the Golden Boot award, which in every previous World Cup has been awarded solely on the basis of goals scored. Under the formula, players get three points for a goal, and one point for an assist. "We made a two-point difference because we do not want someone who did not score winning the award," a FIFA official said.}}
+</ref> This was popularly ascribed to the popularity of detailed [[:Category:Sports records and statistics|sports statistics]] among fans.<ref name="afp1994"/> 1994 was also the first World Cup in which assists were used as a tie-breaker in determining the [[FIFA World Cup awards#Golden Boot|Golden Shoe]] award for top scorer.<ref name="afp1994"/><ref name="busw1994">
+{{Cite news|title=Romario is voted the top player of World Cup '94 and winner of the FIFA/adidas Golden Ball award; Salenko and Stoichkov tie as leading scorers for World Cup USA '94 |date=17 July 1994 |publisher=[[Business Wire]] |quote=[FIFA] has announced Oleg Salenko (Russia) and Hristo Stoichkov (Bulgaria) as [...] winners of the prestigious adidas Golden Shoe award [...] who made six goals and one assist each. Kennet Andersson (Sweden) with 5 goals and 3 assists, will receive a Bronze replica of the Predator [...] Throughout World Cup '94, three points were awarded for each goal scored and one point for each assist leading to a goal, with a maximum of two assists per goal. Assists are only taken into account if two or more players scored the same number of goals.}}
+</ref> In the event, both [[Hristo Stoichkov]] and [[Oleg Salenko]] tied with 19 points, from 6 goals and 1 assist.<ref name="busw1994"/>
+
+===France===
+The French league, [[Ligue 1]], awards the ''Trophée de Meilleur Passeur'' ("best passer trophy") to the player with most "decisive passes" in a season, starting in the [[2007–08 Ligue 1|2007–08 season]].<ref>{{cite web |title=Thauvin n'oublie pas de passer |url=https://static.lfp.fr/ligue1/article/thauvin-n-oublie-pas-de-passer.htm |publisher=LFP.fr |access-date=5 June 2020 |language=fr |date=5 February 2020 |quote=la création du classement officiel des passeurs en 2007/08 |archive-date=5 June 2020 |archive-url=https://web.archive.org/web/20200605194306/https://static.lfp.fr/ligue1/article/thauvin-n-oublie-pas-de-passer.htm |url-status=dead }}</ref> Sports newspaper ''[[L'Équipe]]'' had unofficially tracked assists for some years prior to then.<ref>{{cite web |last1=Delbrayelle |first1=Dominique |last2=Garin |first2=Erik |last3=Di Maggio |first3=Roberto |title=France – Topscorers |url=https://www.rsssf.org/tablesf/frantops.html |publisher=[[Rec.Sport.Soccer Statistics Foundation]] |access-date=5 June 2020 |date=20 June 2019 |archive-date=16 August 2023 |archive-url=https://web.archive.org/web/20230816203602/https://www.rsssf.org/tablesf/frantops.html |url-status=live }}</ref> The league's ''Commission des Compétitions'' includes blocked shots as a subset of "decisive passes".<ref name="lfp2014">{{cite web|url=http://www.lfp.fr/ligue1/article/james-rodriguez-en-prince-de-la-passe.htm|title=James Rodriguez en prince de la passe|date=17 May 2014|publisher=Ligue de Football Professionnel|language=fr|access-date=21 July 2014}}</ref><ref name="lfp2013"/> In [[2012–13 Ligue 1|2012–13]], [[Mathieu Valbuena]] and [[Dimitri Payet]] finished with 12 assists, Valbuena winning the trophy by having fewer blocked shots (3 against 5) among his total.<ref name="lfp2013">{{cite web|url=http://www.lfp.fr/ligue1/article/c-est-la-bonne-pour-mathieu-valbuena.htm|title=C'est la bonne pour Mathieu Valbuena|date=26 May 2013|publisher=Ligue de Football Professionnel|access-date=21 July 2014|archive-date=7 June 2013|archive-url=https://web.archive.org/web/20130607202337/http://www.lfp.fr/ligue1/article/c-est-la-bonne-pour-mathieu-valbuena.htm|url-status=live}}</ref>
+
+===Spain===
+For the [[1998–99 La Liga]] season, SDI sold its Gecasport database to Spanish media, in which {{lang|es|asistencias de gol}} were described as "passes which lead immediately to a shot and goal".<ref>{{cite web |title=Criterios de Elaboración de Estadísticas |url=http://www.sdifutbol.com/liga9899/criterios.htm |url-status=usurped |website=sdifutbol.com |access-date=5 June 2020 |archive-url=https://web.archive.org/web/19991118060515/http://www.sdifutbol.com/liga9899/criterios.htm |archive-date=18 November 1999 |language=es |quote={{lang|es|pases que implican, de manera inmediata, un tiro y gol}} }}; {{cite journal |last1=Lago-Peñas |first1=Carlos |last2=Lago-Ballesteros |first2=Joaquín |last3=Dellal |first3=Alexandre |last4=Gómez |first4=Maite |title=Game-Related Statistics that Discriminated Winning, Drawing and Losing Teams from the Spanish Soccer League |journal=Journal of Sports Science & Medicine |date=1 June 2010 |volume=9 |issue=2 |pages=288–293 |pmid=24149698 |pmc=3761743 |issn=1303-2968 |quote=Gecasport, a private company dedicated to the performance assessment of teams in the Spanish Soccer League (www.sdifutbol.com). }}; {{cite journal |url=http://www.revistaindice.com/numero5/p18.pdf |journal=Indice |issn=1697-2325 |number=5 |pages=18–19 |first=Donald |last=Peña  |title=Goleada estadística  |date=July 2004 |access-date=5 June 2020 |language=es |archive-url=https://web.archive.org/web/20040927204009/http://www.revistaindice.com/numero5/p18.pdf |archive-date=27 September 2004 |url-status=live }}</ref>
+
+===Ukraine===
+In Ukraine, a traceable documentation of assists calculation started out by Ukrainian newspaper "Komanda" during the 2004–05 season of the Ukrainian Higher League ([[Ukrainian Premier League|Vyshcha Liha]]).<ref name=Ukraine>{{cite web |title=Чи обжене Ярмоленко Тайсона? |url=https://upl.ua/ua/news/view/8242 |access-date=21 December 2023 |website=upl.ua (archived)|archive-url=https://web.archive.org/web/20231221160328/https://upl.ua/ua/news/view/8242 |archive-date=21 December 2023 }}</ref> The calculation of assist has certain problems to establish what is the "last pass" which led to a scored goal.<ref name=Ukraine/> Different institutions have own perception of it. Some specialists consider that an assist has to be a deliberate action meaning that it does not include the situation when a ball randomly rebounded to a scoring striker.
+
+===United Kingdom===
+In the United Kingdom, official game statistics, including assists, for the [[Premier League]], the [[Scottish Premiership]], and the [[English Football League]] are provided by PA Sport under the Actim brand.<ref>{{cite web|url=http://www.pa-sport.com/en/actim/actim-stats-faqs.html|title=Actim Stats Frequently Asked Questions|publisher=PA Sport|access-date=29 July 2008|archive-url=https://web.archive.org/web/20080802142401/http://www.pa-sport.com/en/actim/actim-stats-faqs.html|archive-date=2 August 2008|url-status=dead}}</ref> Since the [[FA Premier League 2006–07|2006–07 season]], assists have been factored into the Actim Index of Premier League player performance.<ref>{{cite web|url=http://www.pa-sport.com/en/actim/actim-index-explained.html|title=Actim Index Explained|publisher=PA Sport|access-date=29 July 2008|archive-url=https://web.archive.org/web/20080802143312/http://www.pa-sport.com/en/actim/actim-index-explained.html|archive-date=2 August 2008|url-status=dead}}</ref> The assist statistics provided by fantasy football competitions may differ from the Actim data; some uniformly credit an assist to whichever teammate last touched the ball before the scorer, regardless of other circumstances of the play.<ref>{{cite web|url=http://hereisthecity.com/en-gb/2013/09/22/mesut-ozil-when-is-an-assist-not-an-assist/|title=Mesut Ozil... When is an assist not an assist?|last=Coombs|first=Dan|date=22 September 2013|work=HITC Sport|publisher=hereisthecity|access-date=21 July 2014|archive-url=https://web.archive.org/web/20140727161623/http://hereisthecity.com/en-gb/2013/09/22/mesut-ozil-when-is-an-assist-not-an-assist/|archive-date=27 July 2014|url-status=dead}}</ref> The [[Premier League Playmaker of the Season]] award was introduced in the [[2017–18 Premier League]] for the player with most assists.<ref>{{cite press release|url=https://www.premierleague.com/news/667152|title=New Premier League player award announced|date=18 April 2018|publisher=[[Premier League]]|access-date=18 April 2018|archive-date=18 April 2018|archive-url=https://web.archive.org/web/20180418111124/https://www.premierleague.com/news/667152|url-status=live}}</ref>
+
+=== United States ===
+
+The original [[North American Soccer League (1968–1984)|North American Soccer League]] kept assist statistics from its foundation in 1968, as its forebears the [[United Soccer Association]] and [[National Professional Soccer League (1967)|National Professional Soccer League]] had done the previous year.<ref>{{cite web|url=http://www.midfielddynamo.com/players/awards/usa_nasl_ts.htm|title=NASL Top Scorer Award|publisher=midfielddynamo|access-date=29 July 2008|archive-url=https://web.archive.org/web/20080724222222/http://www.midfielddynamo.com/players/awards/usa_nasl_ts.htm|archive-date=24 July 2008|url-status=dead}}</ref> Analogous statistics were already being kept [[Assist (basketball)|in basketball]] and [[Assist (ice hockey)|in ice hockey]], both established North American sports.
+
+[[Major League Soccer]] formerly awarded the [[MLS Golden Boot]] based on 2 points per goal scored and one per assist.<ref>{{cite web| url = https://www.mlssoccer.com/history/honors/mls-golden-boot| url-status = dead| archive-url = https://web.archive.org/web/20160117021709/http://www.mlssoccer.com/history/honors/mls-golden-boot| archive-date = 17 January 2016| title = MLS Golden Boot winners {{!}} MLSsoccer.com}} </ref>
+
+The [[National Collegiate Athletic Association|NCAA]] makes regulations for statistics, including assists, in [[College soccer in the United States|college soccer]] in the U.S.<ref name="ncaa">{{cite book|chapter-url=http://web1.ncaa.org/web_files/stats/Stats_Manuals/Soccer/2009ez.pdf#page=2|chapter=Section 5: Assists|year=2009|url=http://web1.ncaa.org/web_files/stats/Stats_Manuals/Soccer/2009ez.pdf|title=Official Soccer Statistics Rules; Approved Rulings and Interpretations|publisher=NCAA|page=2|access-date=25 June 2010|archive-url=https://web.archive.org/web/20100331153332/http://web1.ncaa.org/web_files/stats/Stats_Manuals/Soccer/2009ez.pdf|archive-date=31 March 2010|url-status=live}}</ref> Two players may be credited with assists if the second did not have to beat a defender before passing to the scorer.<ref name="ncaas5a1p1">NCAA Official Soccer Statistics Rules, §5.Art 1.(1)</ref> No assist is awarded for winning a penalty.<ref>NCAA Official Soccer Statistics Rules, §5.Art 1.(3)</ref> If a goal is scored after a save, block, or rebound from the goal frame, the first shooter gets an assist.<ref>NCAA Official Soccer Statistics Rules, §5.Art 1.(8),(9)</ref>
+
+==Statistics==
+These totals are the official records recognised by the relevant governing body. Independent statistics providers may have different data, either through crediting different players for a given goal, or through having begun recording assists earlier or later than the official statistics provider. Expected assists (xA) is a [[performance metric]] that measures the likelihood that a completed pass becomes an assist, factoring in distance and the type of pass.<ref>{{Cite web |title=Advanced metrics explained |url=https://www.skysports.com/football/news/11095/12829539/expected-goals-expected-assists-pressures-carries-high-turnovers-and-more-advanced-stats-explained |access-date=13 March 2025 |archive-date=11 June 2025 |archive-url=https://archive.today/20250611171910/https://www.skysports.com/football/news/11095/12829539/expected-goals-expected-assists-pressures-carries-high-turnovers-and-more-advanced-stats-explained |url-status=live }}</ref>
+
+=== Players with most assists in all competitions (all-time) ===
+<div style="max-width: 800px; font-size:85%;">
+Notes: The criteria for an assist to be awarded may vary according to the source, the following stats is based on '''[[Assist (association football)#Opta criteria|the assists criteria according to Opta]]''', where assists are '''not counted''' for balls that are deflected or rebounded off opposing players and have clearly affected the trajectory of the ball and its arrival to the recipient (the goal scorer). Assists are also '''not counted''' for penalty kicks, direct goals from corners or free kicks, or own goals. These statistics are based on <u>official matches</u> only. At least 300 assists. '''Bold''' indicates players currently active. As of 6 December 2025.
+</div>
+
+{| class="wikitable plainrowheaders sortable" style="text-align:center"
+|-
+!{{Tooltip|Player|Nationality, first name and last name}}
+!{{Tooltip|P|Role on the field of play}}
+!{{Tooltip|Career|Playing career}}
+!{{Tooltip|Teams(s)|The teams the player has played for during his career}}
+!{{Tooltip|A|Number of assists provided}}
+!{{Tooltip|M|Number of matches played}}
+!{{Tooltip|R/N|Refs or notes of the player's information}}
+|-
+| align="left" | {{flagicon|ARG}} '''[[Lionel Messi]]'''
+| FW || 2004– || [[FC Barcelona|Barcelona]], [[Paris Saint-Germain FC|Paris Saint-Germain]], [[Inter Miami CF|Inter Miami]], [[Argentina national football team|Argentina]] || '''407''' || 1137 || <ref>{{cite web |title=Opta Assists – Detailed Stats |url=https://www.messivsronaldo.app/detailed-stats/opta-assists/ |access-date=2025-12-02}}</ref>
+|-
+| align="left" | {{flagicon|HUN}} [[Ferenc Puskás]]
+| FW || 1943–1966 || [[Budapest Honvéd FC|Budapest Honvéd]], [[Real Madrid C.F.|Real Madrid]], [[Hungary national football team|Hungary]], [[Spain men's national football team|Spain]], [[Madrid autonomous football team|Madrid]] || '''374''' || 719 || <ref name="Puskas">{{cite web |title=Puskas |url=https://ferencpuskas.net/ |access-date=2025-12-02}}</ref>
+|-
+| align="left" | {{flagicon|BRA}} [[Pelé]]
+| FW || 1956–1977 || [[Santos FC|Santos]], [[New York Cosmos (1971–1985)|New York Cosmos]], [[Brazil national football team|Brazil]] || '''366''' || 818 || <ref name="Puskas" />
+|-
+| align="left" | {{flagicon|NED}} [[Johan Cruyff]]
+| FW || 1964–1984 || [[AFC Ajax|Ajax]], [[FC Barcelona|Barcelona]], [[Los Angeles Aztecs]], [[Washington Diplomats]], [[Levante UD|Levante]], [[Feyenoord]], [[Netherlands national football team|Netherlands]] || '''358''' || 761 || <ref name="Puskas" />
+|-
+| align="left" | {{flagicon|BRA}} [[Alex (footballer, born 1977)|Alex]]
+| MF || 1995–2014 || [[Coritiba Foot Ball Club|Coritiba]], [[Sociedade Esportiva Palmeiras|Palmeiras]], [[Clube de Regatas do Flamengo|Flamengo]], [[Cruzeiro Esporte Clube|Cruzeiro]], [[Fenerbahçe S.K. (football)|Fenerbahce]], [[Brasil national football team|Brasil]] || '''308''' || 929 || {{Citation needed|date=December 2025}}
+|-
+| align="left" | {{flagicon|SER}} '''[[Dušan Tadić]]'''
+| MF || 2006– || [[FK Vojvodina|Vojvodina]], [[FC Groningen|Groningen]] , [[FC Twente|Twente]], [[Southampton F.C.|Southampton]], [[A.F.C. Ajax|Ajax]], [[Fenerbahçe S.K. (football)|Fenerbahçe]], [[Al-Wahda F.C.|Al-Wahda]], [[Serbia national football team |Serbia]]  || '''302''' || 925 || {{Citation needed|date=December 2025}}
+|}
+
+[[File:Lionel Messi WC2022.jpg|thumb|upright|Argentine [[Lionel Messi]] holds the record for the most assists in football history, with 407.]]
+
+=== Players with most assists in international football (all-time) ===
+:'''Bold''' indicates players currently active at international level.
+{| class="wikitable"
+|+
+!Players
+!Team(s)
+!Assists
+!Refs
+|-
+|'''[[Lionel Messi]]'''
+|[[Argentina national football team|Argentina]]
+|61
+|<ref>{{cite news |date=15 October 2025 |title=Lionel Messi Surpasses Neymar Record to Set Unprecedented International Achievement |url=https://www.si.com/soccer/lionel-messi-neymar-record-unprecedented-international-achievement|website=Sporting News |access-date=16 October 2025}}</ref><ref>{{cite news |date=15 October 2025 |title=Argentina's Lionel Messi becomes all-time international assists leader, surpassing Brazil's Neymar and USMNT's Landon Donovan |url=https://www.goal.com/en/lists/argentina-s-lionel-messi-becomes-all-time-international-assists-leader-surpassing-brazil-s-neymar-and-usmnt-s-landon-donovan/blt73c53ddfe7b9c911|website=Goal.com |access-date=16 October 2025}}</ref>
+|-
+|'''[[Neymar]]'''
+|[[Brazil national football team|Brazil]]
+|59
+|<ref>{{cite web |url =https://www.essentiallysports.com/soccer-football-news-despite-injury-posing-threat-to-future-neymar-outmuscles-superstar-rivals-in-a-shocking-stat/ |title =Despite Injury Posing Threat to Future, Neymar Outmuscles Superstar Rivals in a Shocking Stat |website =essentiallysports.com |date =20 October 2023 |accessdate =29 July 2025 |archive-date =24 November 2024 |archive-url =https://web.archive.org/web/20241124235906/https://www.essentiallysports.com/soccer-football-news-despite-injury-posing-threat-to-future-neymar-outmuscles-superstar-rivals-in-a-shocking-stat/ |url-status =live }}</ref><ref>{{cite web |url =https://www.goal.com/br/not%C3%ADcias/neymar-na-selecao-brasileira-jogos-gols-e-assistencias/htlrsc2lvlw311m5kelj63hgm |title =Neymar na seleção brasileira: jogos, gols e assistências |website =goal.com |language =pt |date =17 August 2023 |accessdate =29 July 2025 |archiveurl =https://web.archive.org/web/20250729193309/https://www.goal.com/br/not%C3%ADcias/neymar-na-selecao-brasileira-jogos-gols-e-assistencias/htlrsc2lvlw311m5kelj63hgm|archivedate =29 July 2025}}</ref> 
+|-
+|[[Landon Donovan]]
+|[[United States men's national soccer team|United States]]
+|58
+|<ref name=":1">{{Cite web |title=Top 10 players with most assists in international football history |url=https://khelnow.com/football/2023-09-world-football-most-assists-international-history |access-date=4 June 2025 |website=Khel Now |language=en-us |archive-date=5 November 2024 |archive-url=https://web.archive.org/web/20241105211716/https://khelnow.com/football/2023-09-world-football-most-assists-international-history |url-status=live }}</ref>
+|-
+|[[Ferenc Puskás]]
+|[[Hungary national football team|Hungary]]
+|53
+|<ref name=":1" />
+|-
+|[[Sándor Kocsis]]
+|[[Hungary national football team|Hungary]]
+|51
+|<ref name=":1" />
+|-
+|[[Pelé]]
+|[[Brazil national football team|Brazil]]
+|47
+|<ref name=":1" />
+|-
+|[[Thomas Müller]]
+|[[Germany national football team|Germany]]
+|41
+|<ref name=":1" />
+|-
+|[[Luis Suárez]]
+|[[Uruguay national football team|Uruguay]]
+|39
+|<ref>{{cite web|url =https://playingfor90.com/posts/luis-suarez-shocks-fans-with-retirement-announcement-01j6wj16ypte|title =Luis Suárez shocks fans with retirement announcement|website =playingfor90.com|date =3 September 2024|accessdate =8 August 2025|archive-date =23 May 2025|archive-url =https://web.archive.org/web/20250523121527/https://playingfor90.com/posts/luis-suarez-shocks-fans-with-retirement-announcement-01j6wj16ypte|url-status =live}}</ref>
+|-
+|'''[[Cristiano Ronaldo]]'''
+|[[Portugal national football team|Portugal]]
+|37
+|<ref name=":1" />
+|-
+|'''[[Kevin De Bruyne]]'''
+|[[Belgium national football team|Belgium]]
+|36
+|<ref>{{cite web|url=https://www.flashscore.com/player/de-bruyne-kevin/MsPs6OI5/ |title =Kevin De Bruyne |access-date =27 November 2025}}</ref>
+|}
+
+=== Players with most assists in a given competition (all-time) ===
+{| class="wikitable sport table"
+|+
+|-
+! data-sort-type="text" | Competition 
+! data-sort-type="number" | Records<br />began 
+! data-sort-type="text" | Leading player(s)
+! data-sort-type="text" | Team(s) 
+! data-sort-type="number" | Assists 
+! class="unsortable" | Refs
+|-
+||[[FIFA World Cup]]
+| align="center" | [[1954 FIFA World Cup|1954]]
+|[[Pelé]]
+|[[Brazil national football team|Brazil]]
+| align="center" |10
+||<ref name="assists">{{cite web|title='Youngest player to win the World Cup' - What are the records that Pele holds in world football?|url=https://www.goal.com/en/news/pele-records-world-cup-international-football/blt3d530b1126c36f5c|website=Goal.com|date=24 April 2022|access-date=13 January 2023|archiveurl =https://web.archive.org/web/20230113111747/https://www.goal.com/en/news/pele-records-world-cup-international-football/blt3d530b1126c36f5c|archivedate =13 January 2023}}</ref><ref name="nbc">{{cite web |url =https://www.nbcnewyork.com/news/local/who-has-the-most-assists-in-fifa-world-cup-history/3955505/|title =Who Has the Most Assists in FIFA World Cup History? |website =nbc.com |date =14 November 2022 |accessdate = 2 August 2025 |archiveurl =https://web.archive.org/web/20241217134033/https://www.nbcnewyork.com/news/local/who-has-the-most-assists-in-fifa-world-cup-history/3955505/ |archivedate =17 December 2024}}</ref>
+|-
+| rowspan="2"|  [[UEFA European Championship]]
+| align="center" rowspan="2"| [[1960 European Nations' Cup|1960]]
+|[[Karel Poborský]] 
+|[[Czech national football team |Czech]] 
+| align="center" rowspan="2" | 8
+|rowspan="2"|<ref>{{cite web|url =https://sportstar.thehindu.com/football/cristiano-ronaldo-becomes-player-with-most-assists-in-euros-history-turkiye-vs-portugal-euro-2024-stats-news/article68305691.ece|title =Euro 2024: Cristiano Ronaldo becomes the player with joint-most assists in Euros history|magazine =[[Sportstar]]|date =22 June 2024|accessdate =29 July 2025|archive-date =10 July 2024|archive-url =https://web.archive.org/web/20240710194158/https://sportstar.thehindu.com/football/cristiano-ronaldo-becomes-player-with-most-assists-in-euros-history-turkiye-vs-portugal-euro-2024-stats-news/article68305691.ece|url-status =live}}</ref>
+|-
+|[[Cristiano Ronaldo]]
+|[[Portugal national football team|Portugal]]
+|-
+|[[Copa América]]
+| align="center" | [[1916 South American Championship|1916]]
+|[[Lionel Messi]]
+|[[Argentina national football team|Argentina]]
+| align="center" | 18
+|<ref>{{cite web |url =https://www.theguardian.com/football/article/2024/jun/20/lionel-messi-pulls-strings-as-argentina-tame-canada-in-copa-america-opener |title =Lionel Messi pulls strings as Argentina tame Canada in Copa América opener |newspaper =[[The Guardian]] |date =21 June 2024 |accessdate =29 July 2025 |archive-date =21 June 2024 |archive-url =https://web.archive.org/web/20240621022347/https://www.theguardian.com/football/article/2024/jun/20/lionel-messi-pulls-strings-as-argentina-tame-canada-in-copa-america-opener |url-status =live }}</ref>
+|-
+|[[FIFA Club World Cup]]
+| align="center" | [[2000 FIFA Club World Championship|2000]]
+|[[Neri Cardozo]]
+|[[Boca Juniors]], [[C.F. Monterrey|Monterrey]]
+| align="center" | 5
+|{{Citation needed|date=December 2022}}
+|-
+|[[FIFA World Cup qualification|FIFA World Cup qualification (CONMEBOL)]]
+| align="center" | [[1994 FIFA World Cup qualification (CONCACAF–OFC play-off)|1994]]
+|[[Neymar]]
+|[[Brazil national football team|Brazil]]
+| align="center" | 19
+|<ref>{{Cite web |title=Statistics on WC 2026 qualifiers in South America (match-day 12) |url=https://www.iffhs.com/posts/4003 |date=20 November 2024 |access-date=22 November 2024 |publisher=[[IFFHS]] |archive-date=29 November 2024 |archive-url=https://web.archive.org/web/20241129233732/https://www.iffhs.com/posts/4003 |url-status=live }}</ref>
+|-
+| data-sort-value="Uefa" |[[UEFA Champions League]]|| align="center" data-sort-value="2000" | [[1992–93 UEFA Champions League|1992]]
+| data-sort-value="Giggs" |[[Ryan Giggs]]<!-- Please do not change the name to Cristiano Ronaldo. This list is based on Opta statistics, which have recorded assists since 1992, unlike UEFA, which started in 2003. Opta also applies stricter and more precise criteria for assists compared to UEFA. -->{{efn|UEFA lists [[Cristiano Ronaldo]] first with 42 assists.<ref>{{cite web |title=Player Stats - Most Assists |url=https://www.uefa.com/uefachampionsleague/history/rankings/players/assists/ |website=[[UEFA]] |access-date=30 November 2025}}</ref>}}|| [[Manchester United F.C.|Manchester United]]|| align="center" | 41 
+|<ref name="Assists">{{Cite web |url=https://theanalyst.com/eu/2023/10/who-has-the-most-champions-league-assists/ |title=Who Has the Most Champions League Assists? |publisher=Opta |date=12 October 2023 |access-date=5 December 2023 |archive-date=5 December 2023 |archive-url=https://web.archive.org/web/20231205182446/https://theanalyst.com/eu/2023/10/who-has-the-most-champions-league-assists/ |url-status=live }}</ref>
+|-
+|[[UEFA Europa League|UEFA Cup/UEFA Europa League]]
+| align="center" | [[2001–02 UEFA Cup|2001]]
+|[[Bořek Dočkal]]
+|[[FC Slovan Liberec|Slovan Liberec]], [[Rosenborg BK|Rosenborg]], [[SK Slavia Prague|Slavia Prague]]
+| align="center" | 26
+|<ref>{{cite web |url=https://www.uefa.com/uefaeuropaleague/history/rankings/players/assists/ |title=Players – Most assists |publisher=UEFA |access-date=6 August 2020 |archive-date=24 September 2021 |archive-url=https://web.archive.org/web/20210924043103/https://www.uefa.com/uefaeuropaleague/history/rankings/players/assists/ |url-status=live }}</ref>
+|-
+| rowspan="2" |[[UEFA Super Cup]]
+| rowspan="2" align="center" | [[1973 European Super Cup|1973]]
+|[[Gareth Bale]] 
+|[[Real Madrid CF|Real Madrid]]
+| rowspan="2" align="center" | 3
+| rowspan="2" |<ref>{{cite web |title=Most UEFA Super Cup assists  |url=https://www.besoccer.com/competition/historical-season/uefa_super_cup/assists |date=18 August 2023|website=BeSoccer}}</ref>
+|-
+| [[Vitolo (footballer, born 1989)|Vitolo]] 
+| [[Sevilla FC|Sevilla]], [[Atlético Madrid]]
+|-
+| data-sort-value="Premier" |[[Premier League records and statistics#Assists|Premier League]]|| align="center" data-sort-value="1992" | [[1992–93 FA Premier League|1992]]
+| data-sort-value="Giggs" |[[Ryan Giggs]]||[[Manchester United F.C.|Manchester United]]|| align="center" | 162 
+|<ref>{{cite web |title=Assists |url=https://www.premierleague.com/stats/top/players/goal_assist |website=Premier League Player Stats |publisher=Premier League |access-date=5 June 2020 |archive-date=24 June 2017 |archive-url=https://web.archive.org/web/20170624144700/https://www.premierleague.com/stats/top/players/goal_assist |url-status=dead }}; {{cite web |title=Ryan Giggs |url=https://www.premierleague.com/players/335/player/overview |website=Premier League Players |publisher=Premier League |access-date=5 June 2020 |archive-date=5 June 2020 |archive-url=https://web.archive.org/web/20200605194301/https://www.premierleague.com/players/335/player/overview |url-status=live }}</ref>
+|-
+| data-sort-value="Laliga" | [[La Liga]] || align="center" data-sort-value="1990" | [[1929 La Liga|1929]]
+| data-sort-value="Messi" | [[Lionel Messi]]
+|[[FC Barcelona|Barcelona]]
+| align="center" | 192
+|<ref>{{cite web|url =https://onefootball.com/en/news/15-of-lionel-messis-best-la-liga-records-that-will-never-be-broken-35007529  |title=15 of Lionel Messi's best La Liga records that will never be broken
+|access-date=12 August 2025 |website= onefootball.com|date=8 August 2021
+|archiveurl =https://web.archive.org/web/20250812174207/https://onefootball.com/en/news/15-of-lionel-messis-best-la-liga-records-that-will-never-be-broken-35007529 |archivedate =12 August 2025}}</ref>
+|-
+|[[Serie A]] 
+| align="center" | [[1986–87 Serie A|1986]]
+|[[Francesco Totti]] 
+|[[AS Roma|Roma]] 
+| align="center" | 140
+|<ref>{{cite web |access-date=3 November 2025 |title=Francesco Totti, i numeri in carriera a 30 anni dall'esordio |url=https://sport.sky.it/calcio/serie-a/francesco-totti-carriera-numeri-esordio#06 |website=sport.sky.it/ |date=28 March 2023 |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604184029/https://sport.sky.it/calcio/serie-a/francesco-totti-carriera-numeri-esordio#06 |url-status=live }}<!-- auto-translated from Italian by Module:CS1 translator --></ref>
+|-
+|[[Bundesliga]]
+| align="center" | [[1992–93 Bundesliga|1992]]
+|[[Thomas Müller]]
+|[[FC Bayern Munich|Bayern Munich]]
+| align="center" | 178
+|<ref>{{cite web|url =https://www.bundesliga.com/en/faq/10-things-on-the-bundesliga/bundesliga-records-goals-titles-attendances-for-players-and-clubs-10555|title =Bundesliga records: goals, titles, attendances for players and clubs|publisher =Bundesliga|accessdate =3 August 2025|archive-date =26 July 2025|archive-url =https://web.archive.org/web/20250726093839/https://www.bundesliga.com/en/faq/10-things-on-the-bundesliga/bundesliga-records-goals-titles-attendances-for-players-and-clubs-10555|url-status =live}}</ref> 
+|-
+|[[Major League Soccer]]
+| align="center" | [[1996 Major League Soccer season|1996]]
+|[[Landon Donovan]]
+|[[LA Galaxy]]
+| align="center" | 136
+|<ref name="mls_stat_page">{{cite web |title=Stats (All-time) |url=https://www.mlssoccer.com/stats/alltime |publisher=Major League Soccer |access-date=28 June 2023 |archive-date=12 November 2020 |archive-url=https://web.archive.org/web/20201112004015/https://www.mlssoccer.com/stats/alltime |url-status=live }}</ref>
+|-
+|[[Ligue 1]]
+| align="center" | [[2001–02 French Division 1|2001]]
+|[[Dimitri Payet]]
+|[[FC Nantes|Nantes]], [[AS Saint-Étienne|Saint-Étienne]], [[Lille OSC|Lille]], [[Olympique de Marseille|Marseille]]
+| align="center" | 115
+|<ref>{{cite web |title=Ligue 1 2024 top assists table |url=https://www.besoccer.com/competition/rankings/ligue_1/2024/assists |access-date=28 August 2023 |website=BeSoccer |archive-date=28 August 2023 |archive-url=https://web.archive.org/web/20230828220624/https://www.besoccer.com/competition/rankings/ligue_1/2024/assists |url-status=live }}</ref>
+|}
+
+=== Players with most assists in a given competition (single season) ===
+{| class="wikitable sortable"
+|+
+|-
+!Competition<ref>{{cite web |date=24 November 2020 |title=Players With the Most Assists in a Single Season in Europe's Top-Five Leagues |url=https://www.90min.com/in/posts/players-with-the-most-assists-in-a-single-season-in-europe-s-top-five-leagues-01eqtnrfkhrs |access-date=19 January 2021 |website=90min |archive-date=24 November 2020 |archive-url=https://web.archive.org/web/20201124065528/https://www.90min.com/in/posts/players-with-the-most-assists-in-a-single-season-in-europe-s-top-five-leagues-01eqtnrfkhrs |url-status=dead }}</ref>
+!Player(s)
+!Team(s)
+!Assists
+!Season(s)
+!Refs
+|-
+||[[FIFA World Cup]]
+|[[Pele]]
+|[[Brazil national football team|Brazil]]
+| align="center" | 6
+| align="center" | [[1970 FIFA World Cup|1970]] 
+|<ref name="nbc"/><ref name="assists"/>
+|-
+| rowspan="4 "| [[UEFA European Championship]] 
+|[[Ljubinko Drulović]] 
+|[[Yugoslavia national football team|Yugoslavia]] 
+| rowspan="4" align="center"| 4
+| align="center"|[[UEFA Euro 2000|2000]] 
+|rowspan="4" |<ref>{{cite web |url =https://fr.uefa.com/euro2024/news/025e-0f9c881c7fb4-c8a45ab1df98-1000--euro-final-tournament-assists-all-you-need-to-know/ |title =EURO final tournament assists: All you need to know |publisher =[[UEFA]] |date =1 January 2023 |accessdate =12 August 2025 |archive-date =3 December 2024 |archive-url =https://web.archive.org/web/20241203065947/https://fr.uefa.com/euro2024/news/025e-0f9c881c7fb4-c8a45ab1df98-1000--euro-final-tournament-assists-all-you-need-to-know/ |url-status =live }}</ref>
+|-
+|[[Karel Poborský]] 
+|[[Czech national football team |Czech]] 
+| align="center"|[[UEFA Euro 2004|2004]]
+|-
+|[[Eden Hazard]] 
+|[[Belgium national football team | Belgium]]
+| align="center" |[[UEFA Euro 2016|2016]]
+|-
+|[[Aaron Ramsey]] 
+|[[Wales national football team |Wales]]
+| align="center"|[[UEFA Euro 2016|2016]]
+|-
+|[[Copa América]] 
+| [[James Rodríguez]] 
+|[[Colombia national football team |Colombia]] 
+| align="center"| 6
+| align="center"| [[2024 Copa América|2024]]
+|<ref>{{cite web |url =https://copaamerica.com/en/news/james-record-assists-copa-america-colombia-uruguay |title =James makes history by surpassing Messi's record in the CONMEBOL Copa America™ |publisher =[[CONMEBOL]] |date =11 July 2024 |accessdate =12 August 2025 |archive-date =6 August 2025 |archive-url =https://web.archive.org/web/20250806094351/https://copaamerica.com/en/news/james-record-assists-copa-america-colombia-uruguay |url-status =live }}</ref> 
+|-
+|[[UEFA Champions League]]
+|[[James Milner]] 
+|[[Liverpool F.C.|Liverpool]]
+| align="center" | 9
+| align="center" | [[2017–18 UEFA Champions League|2017–18]]
+|<ref name="Most assist in single season">{{Cite web|url=https://www.uefa.com/uefachampionsleague/news/0244-0e98b57d4289-fd1586e1bcfd-1000--milner-beats-champions-league-assists-record/|title=Milner beats Champions League assists record|date=24 April 2018|website=uefa.com|access-date=19 February 2021|archive-date=9 November 2020|archive-url=https://web.archive.org/web/20201109041813/https://www.uefa.com/uefachampionsleague/news/0244-0e98b57d4289-fd1586e1bcfd-1000--milner-beats-champions-league-assists-record/|url-status=live}}</ref>
+|-
+|[[Major League Soccer]]
+|[[Carlos Valderrama]]
+|[[Tampa Bay Mutiny]]
+| align="center" | 26
+| align="center" | [[2000 Major League Soccer season|2000]]
+|<ref>[http://www.mlssoccer.com/content/2000-full-season-stats MLS Site] {{Webarchive|url=https://web.archive.org/web/20100804025603/http://www.mlssoccer.com/content/2000-full-season-stats |date=4 August 2010 }}</ref><ref>{{Cite web |title=Can Carles Gil break the MLS single-season assists record? |website=MLSSoccer.com |url=https://www.mlssoccer.com/news/can-carles-gil-break-the-mls-single-season-assists-record |access-date=27 July 2025 |language=en |archive-date=12 June 2025 |archive-url=https://web.archive.org/web/20250612044812/https://www.mlssoccer.com/news/can-carles-gil-break-the-mls-single-season-assists-record |url-status=live }}</ref><ref>{{Cite web |title=Most assists in a Major League Soccer season |url=https://www.guinnessworldrecords.com/world-records/78423-most-assists-in-a-major-league-soccer-season |publisher=Guinness World Records |access-date=2 January 2025 |archive-date=2 January 2025 |archive-url=https://web.archive.org/web/20250102193645/https://www.guinnessworldrecords.com/world-records/78423-most-assists-in-a-major-league-soccer-season |url-status=live }}</ref><ref>{{Cite web |last=Quillen |first=Ian Nicholas |title=After Messi Posts 5 Assists, 5 Other MLS Records He Could Break |url=https://www.forbes.com/sites/ianquillen/2024/05/05/messi-makes-mls-assist-history-what-other-records-will-he-break/ |access-date=27 July 2025 |website=Forbes |language=en |archive-date=12 June 2025 |archive-url=https://web.archive.org/web/20250612044811/https://www.forbes.com/sites/ianquillen/2024/05/05/messi-makes-mls-assist-history-what-other-records-will-he-break/ |url-status=live }}</ref>
+|-
+| rowspan="2" |[[La Liga]]
+|[[Míchel (footballer, born 1963)|Míchel]]
+|[[Real Madrid CF|Real Madrid]]
+| rowspan="2" align="center" |21
+| align="center" | [[1987–88 La Liga|1987–88]]
+|<ref>{{cite web|title=Historia de La Liga Española|url=https://www.historiaelectoral.com/record.html|work=historiaelectoral.com|access-date=8 January 2025|archive-date=8 January 2025|archive-url=https://web.archive.org/web/20250108085413/https://www.historiaelectoral.com/record.html|url-status=live}}</ref>
+|-
+|[[Lionel Messi]]
+|[[FC Barcelona|Barcelona]]
+| align="center" | [[2019–20 La Liga|2019–20]]
+|<ref>{{cite web|date=19 July 2020|title=Messi breaks LaLiga Santander record for most assists in a season|url=https://www.marca.com/en/football/barcelona/2020/07/19/5f149ddd22601d730d8b4595.html|access-date=20 July 2020|website=Marca|archive-date=20 July 2020|archive-url=https://web.archive.org/web/20200720135450/https://www.marca.com/en/football/barcelona/2020/07/19/5f149ddd22601d730d8b4595.html|url-status=live}}</ref><ref>{{cite web|date=20 July 2020|title=Stats: Messi breaks two all-time records; Ramos' unique first this century|url=https://www.espn.com/soccer/blog-espn-fc-united/story/4141175/by-the-numbers-lionel-messi-breaks-two-all-time-records-sergio-ramos-unique-first-this-century|access-date=20 July 2020|publisher=ESPN|archive-date=18 August 2020|archive-url=https://web.archive.org/web/20200818143241/https://www.espn.com/soccer/blog-espn-fc-united/story/4141175/by-the-numbers-lionel-messi-breaks-two-all-time-records-sergio-ramos-unique-first-this-century|url-status=live}}</ref>
+|-
+|[[Bundesliga]]
+|[[Thomas Müller]]
+|[[FC Bayern Munich|Bayern Munich]]
+| align="center" | 21
+| align="center" | [[2019–20 Bundesliga|2019–20]]
+|<ref>{{cite news|title=Thomas Muller Breaks Kevin De Bruyne's Bundesliga Assist Record|url=https://www.beinsports.com/us/bundesliga/news/thomas-muller-breaks-kevin-de-bruynes-bundesl/1492181|access-date=18 August 2020|website=beIN Sports|archive-date=20 July 2020|archive-url=https://web.archive.org/web/20200720121400/https://www.beinsports.com/us/bundesliga/news/thomas-muller-breaks-kevin-de-bruynes-bundesl/1492181|url-status=live}}</ref>
+|-
+| rowspan="2" |[[Premier League records and statistics#Assists|Premier League]]
+|[[Thierry Henry]]
+|[[Arsenal F.C.|Arsenal]]
+| rowspan="2" align="center" |20
+| align="center" | [[2002–03 FA Premier League|2002–03]]
+| rowspan="2" |<ref>{{cite news|date=26 July 2020|title=Kevin de Bruyne: Twentieth assist of season equals Thierry Henry's record|publisher=BBC Sport|url=https://www.bbc.com/sport/football/53545450|access-date=28 July 2020|archive-date=27 July 2020|archive-url=https://web.archive.org/web/20200727003921/https://www.bbc.com/sport/football/53545450|url-status=live}}</ref>
+|-
+|[[Kevin De Bruyne]]
+|[[Manchester City F.C.|Manchester City]]
+| align="center" | [[2019–20 Premier League|2019–20]]
+|-
+|[[Ligue 1]]
+|[[Ángel Di María]]
+|[[Paris Saint-Germain F.C.|Paris Saint-Germain]]
+| align="center" | 18
+| align="center" | [[2015–16 Ligue 1|2015–16]]
+|<ref>{{cite news|title=Angel Di Maria sets new Ligue 1 record with 18 assists|url=https://www.goal.com/en/news/1722/ligue-1/2016/05/14/23532522/di-maria-sets-new-ligue-1-record-with-18-assists|date=14 May 2016|access-date=3 August 2020|website=Goal|archive-date=24 March 2017|archive-url=https://web.archive.org/web/20170324213521/http://www.goal.com/en/news/1722/ligue-1/2016/05/14/23532522/di-maria-sets-new-ligue-1-record-with-18-assists|url-status=live}}</ref>
+|-
+|[[Serie A]]
+|[[Papu Gómez]]
+|[[Atalanta BC|Atalanta]]
+| align="center" | 16
+| align="center" | [[2019–20 Serie A|2019–20]]
+|<ref>{{cite web|access-date=3 November 2025 |title=Papu Gómez 2019-2020 Match Logs |url=https://fbref.com/en/players/6e4df551/matchlogs/2019-2020/Papu-Gomez-Match-Logs |website=fbref.com}}<!-- auto-translated from Italian by Module:CS1 translator --></ref>
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Assist (Football)}}
+[[Category:Assist (association football)]]
+[[Category:Association football terminology]]
+[[Category:Assist (sport)|Association football]]

@@ -1,0 +1,31 @@
+{{short description|Sports term}}
+An '''equaliser''' (in [[Commonwealth English]]) or '''equalizer''' (in [[American English]]), is a sports term that refers to a [[Goal (sport)|goal]] or [[Run (baseball)|run]] that makes the two teams' scores equal.<ref>{{cite web|title=Equalizer|url=http://dictionary.cambridge.org/dictionary/english/equalizer|publisher=Cambridge Dictionaries Online|access-date=22 March 2016}}</ref><ref>{{cite web|title=Equalizer|url=http://www.merriam-webster.com/dictionary/equalizer|publisher=Merriam Webster|access-date=22 March 2016}}</ref>
+
+For example, if Team A is winning 1-0 and Team B scores a goal, making the score 1-1, then that goal is an ''equaliser''.
+
+{{ external media
+| float  = right
+| width  = 340
+| video1 = [https://www.youtube.com/watch?v=0B4q6di-3fg&ab_channel=FIFA Wambach's 122nd-minute equalizer vs Brazil in the 2011 FIFA Women's World Cup quarterfinal on July 10, 2011] ''retrieved March 8, 2022''
+}}
+According to ''[[Sports Illustrated]]'', one of the most significant goals in [[United States soccer]] history was an equalizer scored by [[Abby Wambach]]: a header goal off a left-footed long-distance cross from [[Megan Rapinoe]] in the 122nd minute of play of the [[2011 FIFA Women's World Cup]] quarterfinal in Germany.<ref>{{cite web |title=The 10 Most Significant Goals In U.S. Soccer History |url=http://www.si.com/longform/soccer-goals/goal9.html |publisher=Sports Illustrated |access-date=8 March 2022 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410132111/https://www.si.com/longform/soccer-goals/goal9.html |url-status=dead }}</ref> [[FIFA]] called the goal the "greatest Women's World Cup goal."<ref>{{cite web |title=THE WINNER: Greatest Women's World Cup Goal - WAMBACH in 2011 | date=11 May 2015 |url=https://www.youtube.com/watch?v=0B4q6di-3fg&ab_channel=FIFA |publisher=FIFA |access-date=8 March 2022}}</ref> 
+
+== See also ==
+* [[Association football tactics and skills]]
+* [[Glossary of ice hockey terms]]
+* [[Glossary of baseball terms]]
+{{portal bar|Association football|Women's association football|Ice hockey|Baseball}}
+
+==References==
+{{reflist}}
+
+{{Wiktionary|equaliser}}
+
+{{Association football}}
+
+{{DEFAULTSORT:Equaliser (Sports)}}
+[[Category:Association football terminology]]
+[[Category:Ice hockey terminology]]
+[[Category:Baseball terminology]]
+
+{{Sports-stub}}

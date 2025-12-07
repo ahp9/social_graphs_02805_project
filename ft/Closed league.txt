@@ -1,0 +1,43 @@
+{{Short description|Type of professional sports organization}}
+{{Use American English|date=April 2021}}
+{{Use mdy dates|date=February 2024}}
+In sports, a '''closed league''' is a type of sports league where the number and identity of the teams taking part in the sports league activities does not change from year to year due to the performance of the member teams. A closed league is the opposite of leagues with [[promotion and relegation]] systems (often referred to as open leagues) where teams can be sent down to lower leagues if their performance is poor enough. Closed leagues are the most common form of sports leagues in North America and Australia and are also a common form of sports league in Singapore.<ref>{{Cite web|date=February 27, 2017|title=Sports Bite {{!}} The North American vs the European Sports System|url=https://sportsbite.blog/north-american-vs-european-sports-system/|access-date=April 21, 2021|website=SportsBite|language=en-GB}}</ref> Motorsport series such as [[Formula One]] have also been described as closed leagues. Closed leagues are sometimes considered a form of sport [[monopoly]] or [[cartel]].<ref>{{cite journal |url=https://lawecommons.luc.edu/cgi/viewcontent.cgi?article=1205&context=facpubs |last1=Sag |first1=Matthew |last2=Haddock |first2=David |last3=Jacobi |first3=Tonja |title=League Structure & Stadium Rent Seeking — the Antitrust Role Reconsidered |volume=65 |journal=[[Florida Law Review]] |issue=1 |year=2013 }}</ref>
+
+==Development==
+{{main|Promotion and relegation#Historical comparisons}}
+
+Closed leagues developed in North America during the 19th Century because of the distances between cities, with some teams separated by half of the North American continent, resulting in high traveling costs. The [[National League (baseball)|National League of Professional Base Ball Clubs]] was established in 1876, and its founders determined that they must make baseball's highest level of competition a "closed shop", with a strict limit on the number of teams, and with each member having exclusive local rights. This guarantee of a place in the league year after year would permit each club owner to monopolize fan bases in their respective exclusive territories and give them the confidence to invest in infrastructure, such as improved ballparks. This in turn would guarantee the revenues needed to support traveling across the continent.<ref name="Cain">{{cite journal|last1=Cain|first1=Louis P.|last2=Haddock|first2=David D.|date=2005|title=Similar Economic Histories, Different Industrial Structures: Transatlantic Contrasts in the Evolution of Professional Sports Leagues|journal=[[Journal of Economic History]]|volume=65|issue=4|pages=1116–1147|doi=10.1017/S0022050705000422|s2cid=154506974}}</ref>
+
+In contrast, the shorter distances between urban areas in England allowed more clubs to develop large fan bases without incurring the same travel costs as in North America. When The Football League, now known as the [[English Football League]], was founded in 1888, it was not intended to be a rival of [[The Football Association]] but rather the top competition within it. The new league was not universally accepted as England's top competition right away. To help win fans of clubs outside The Football League, a system was established in which the worst teams at the end of each season would need to win re-election against any clubs wishing to join. The rival [[Football Alliance]] was then formed in 1889. When the two merged in 1892 it was not on equal terms, with most of the Alliance clubs being put into new [[Football League Second Division]], whose best teams would move up to the [[Football League First Division|First Division]] in place of its worst teams. Another merger with the top division of the [[Southern Football League|Southern League]] in 1920 helped form the [[Football League Third Division|Third Division]] in a similar fashion, firmly establishing the principles of promotion and relegation.<ref name="Cain"/>
+
+==Common features==
+===Revenue sharing===
+{{See also|Revenue sharing}}
+Closed leagues often feature a form of revenue sharing, where forms of revenue are shared equally by all teams, regardless of team performance or a team's number of supporters.<ref>{{Cite web|title=Revenue Sharing: Quest for Certainty |first=John |last=Vrooman |url=https://my.vanderbilt.edu/vrooman/2020/06/revenue-sharing-the-perfect-portfolio/ |access-date=April 21, 2021 |website=my.vanderbilt.edu }}</ref>
+
+===Salary caps===
+{{See also|Salary cap}}
+Closed leagues often feature salary caps in order to control labor costs and create a more level playing field among its competitors by preventing rich teams from paying the best players salaries that poorer teams cannot match. Salary caps can be "hard", in which case they cannot be circumvented, or "soft", where teams may go over the salary cap in certain cases, but may be penalized financially for doing so.<ref>{{Cite web|title=What is a Salary Cap in Sports? {{!}} The University of Kansas|url=https://onlinesportmanagement.ku.edu/community/salary-caps-in-sports|access-date=April 21, 2021|website=onlinesportmanagement.ku.edu|language=en}}</ref><ref>{{Cite news |title=U.S.-style salary cap would fail in Europe's top soccer leagues. Here's why |first=Gabriele |last=Marcotti |work=ESPN |date=May 27, 2020 |url=https://www.espn.com/soccer/story/_/id/37583654/us-style-salary-cap-fail-europe-top-soccer-leagues-here-why }}</ref>
+
+===Draft===
+{{See also|Draft (sports)}}
+Closed leagues often feature drafts to assign new talent and promote competitive parity by giving teams with good records late picks in the draft while poor performing teams benefit by having good early picks to select talent. Often, closed leagues have a draft lottery to discourage [[Tanking (sports)|tanking]].<ref>{{Cite thesis |first=Daniel |last=Nussbaum |title=The Impact of Sports League Structure on Fan Welfare |url=https://www.amherst.edu/system/files/media/Daniel%2520Nussbaum%2520Thesis.pdf|work=Department of Economics
+|publisher=Amherst College |date=May 4, 2016 }}</ref>
+
+==Debate==
+Closed league systems have been subject to debate over whether the system creates better and more fair competition in comparison to open leagues, and whether they are more financially viable.
+
+===Arguments for===
+Proponents for closed leagues often argue that this system leads to more financially stable and profitable teams and creates less risk for owners due to teams not needing to spend money in order to stay competitive to avoid relegation to a lower league or qualify for tournaments. The world's ten [[Forbes list of the most valuable sports teams|most valuable sports teams]] are American teams playing in closed leagues. In addition, proponents of closed leagues also argue that the system creates more competitive balance in a sports league, because teams cannot "buy" a championship and because there is less of an imbalance between the richer and poorer teams in the league, while not impacting the skill ceiling that the league hopes to achieve.<ref>{{Cite web|last=Lee|first=John Jay|date=February 5, 2021|title=Why Promotion and Relegation is Overrated and a Closed System is Far Superior|url=https://urbanpitch.com/why-promotion-and-relegation-is-overrated-and-a-closed-system-is-far-superior/|access-date=April 21, 2021|website=Urban Pitch|language=en-US}}</ref>
+
+===Arguments against===
+Opponents of closed leagues argue that there are more games where something is "at stake" in a promotion and relegation structure, which could increase interest in the league's games. In addition, opponents argue that a closed system leads to teams [[tanking (sports)|tanking]] in order to receive better draft picks. Opponents also argue that a promotion and relegation system increases competition in the different levels of the sporting pyramid, which can further player development and lead to more ambitious strategies from team owners.<ref>{{Cite web|last=Savir|first=Merav|date=March 28, 2019|title=The case for, and against, promotion and relegation in American pro leagues|url=https://www.sportsretriever.com/soccer/case-pr-us/|access-date=April 21, 2021|website=Sports Retriever|language=en-US}}</ref>
+
+==See also==
+*[[Professional sports league organization]]
+
+==References==
+{{Reflist}}{{League systems}}
+
+[[Category:Association football terminology]]
+[[Category:Sports terminology]]
