@@ -1,9 +1,0 @@
-#REDIRECT [[Midfielder#Winger]]
-
-{{Redirect category shell|
-{{R to section}}
-{{R to related topic}}
-}}
-
-[[Category:Association football positions]]
-[[Category:Association football terminology]]

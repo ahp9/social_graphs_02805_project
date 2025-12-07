@@ -1,9 +1,0 @@
-#REDIRECT [[List of sports rivalries]]
-
-{{Redirect category shell|1=
-{{R with Wikidata item|Q3246109}}
-{{R with possibilities}}
-{{R to related topic}}
-}}
-
-[[Category:Association football terminology]]
