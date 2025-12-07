@@ -1,0 +1,46 @@
+{{short description|The Portugal team that participated at the 1966 FIFA World Cup}}
+{{italic title}}
+'''''Os Magriços''''' was the nickname of the [[Portugal national football team]] which finished third at the [[1966 FIFA World Cup]] in England. The team were based on the [[S.L. Benfica|Benfica]] team that won two consecutive [[European Cup]]s in [[1961 European Cup Final|1961]] and [[1962 European Cup Final|1962]], which included [[Mário Coluna]], [[Eusébio]], [[José Augusto de Almeida|José Augusto]], [[José Augusto Torres]] and [[António Simões]].<ref>{{cite web|author= |url=https://desporto.sapo.pt/futebol/mundial/brasil_2014/artigo/2013/11/05/nota-17-para-a-estreia-de-portugal-em-1966 |title=Nota 17 para a estreia de Portugal em 1966 - Brasil 2014 - Mundial - Futebol - SAPO Desporto |website=Desporto.sapo.pt |date= |accessdate=2016-07-17}}</ref> They were selected by [[Manuel da Luz Afonso]] and coached by [[Otto Glória]].<ref>{{cite web|author= |url=https://www.publico.pt/desporto/noticia/eusebio-nunca-sera-suplente-na-equipa-dos-melhores-de-sempre-1618455 |title=Eusébio nunca será suplente na equipa dos melhores de sempre - PÚBLICO |website=Publico.pt |date=2014-01-05 |accessdate=2016-07-17}}</ref><ref>{{cite web |url=http://150anos.dn.pt/2014/07/31/1966-o-mundial-de-eusebio-que-fez-vender-tv/ |title=1966 – O Mundial de Eusébio que fez vender TV &#124; DN 150 Anos |website=150anos.dn.pt |date= |accessdate=2016-07-17 }}{{Dead link|date=September 2025 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The nickname is derived from a 15th-century [[Kingdom of Portugal|Portuguese]] [[Chivalry|chivalric]] legend - ''[[The Twelve of England]]'' (Portuguese: ''Os Doze de Inglaterra''). It was made famous by the poet [[Luís de Camões]] in his 1572 ''[[Os Lusíadas]]''. It tells the story of twelve Portuguese knights who travelled to England at the request of twelve English women to avenge their insult by a group of English knights. One of these Portuguese knights, Álvaro Gonçalves Coutinho, was nicknamed ''O Magriço''. 
+
+==Team==
+Head coach: {{flagicon|Brazil|1960}} [[Otto Glória]]
+{{nat fs start no caps}}
+{{nat fs player no caps|no=1|pos=GK|name=[[Américo Lopes|Américo]]|age={{Birth date and age2|df=yes|1966|7|11|1933|3|6}}|club=[[FC Porto|Porto]]|clubnat=Portugal}}
+{{nat fs player no caps|no=2|pos=GK|name=[[Joaquim Carvalho (footballer)|Joaquim Carvalho]]|age={{Birth date and age2|df=yes|1966|7|11|1937|4|18}}|club=[[Sporting CP]]|clubnat=Portugal}}
+{{nat fs player no caps|no=3|pos=GK|name=[[José Pereira (footballer)|José Pereira]]|age={{Birth date and age2|df=yes|1966|7|11|1931|9|15}}|club=[[Os Belenenses|Belenenses]]|clubnat=Portugal}}
+{{nat fs player no caps|no=4|pos=DF|name=[[Vicente Lucas|Vicente]]|age={{Birth date and age2|df=yes|1966|7|11|1935|9|24}}|club=[[Os Belenenses|Belenenses]]|clubnat=Portugal}}
+{{nat fs player no caps|no=5|pos=DF|name=[[Germano de Figueiredo|Germano]]|age={{Birth date and age2|df=yes|1966|7|11|1933|1|18}}|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player no caps|no=6|pos=MF|name=[[Fernando Peres]]|age={{Birth date and age2|df=yes|1966|7|11|1942|1|8}}|club=[[Sporting CP]]|clubnat=Portugal}}
+{{nat fs player no caps|no=7|pos=FW|name=[[Ernesto Figueiredo]]|age={{Birth date and age2|df=yes|1966|7|11|1937|7|6}}|club=[[Sporting CP]]|clubnat=Portugal}}
+{{nat fs player no caps|no=8|pos=FW|name=[[João Lourenço]]|age={{Birth date and age2|df=yes|1966|7|11|1942|4|8}}|club=[[Sporting CP]]|clubnat=Portugal}}
+{{nat fs player no caps|no=9|pos=MF|name=[[Hilário Conceição|Hilário]]|age={{Birth date and age2|df=yes|1966|7|11|1939|3|19}}|club=[[Sporting CP]]|clubnat=Portugal}}
+{{nat fs player no caps|no=10|pos=MF|name=[[Mário Coluna]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|df=yes|1966|7|11|1935|8|6}}|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player no caps|no=11|pos=MF|name=[[António Simões]]|age={{Birth date and age2|df=yes|1966|7|11|1943|12|14}}|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player no caps|no=12|pos=MF|name=[[José Augusto de Almeida|José Augusto]]|age={{Birth date and age2|df=yes|1966|7|11|1937|4|13}}|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player no caps|no=13|pos=FW|name=[[Eusébio]]|age={{Birth date and age2|df=yes|1966|7|11|1942|1|25}}|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player no caps|no=14|pos=MF|name=[[Fernando Cruz (footballer)|Fernando Cruz]]|age={{Birth date and age2|df=yes|1966|7|11|1940|8|12}}|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player no caps|no=15|pos=FW|name=[[Manuel Duarte]]|age={{Birth date and age2|df=yes|1966|7|11|1943|5|20}}|club=[[Leixões SC|Leixões]]|clubnat=Portugal}}
+{{nat fs player no caps|no=16|pos=MF|name=[[Jaime Graça]]|age={{Birth date and age2|df=yes|1966|7|11|1942|1|10}}|club=[[Vitória FC|Vitória Setúbal]]|clubnat=Portugal}}
+{{nat fs player no caps|no=17|pos=DF|name=[[João Morais]]|age={{Birth date and age2|df=yes|1966|7|11|1935|3|6}}|club=[[Sporting CP]]|clubnat=Portugal}}
+{{nat fs player no caps|no=18|pos=FW|name=[[José Augusto Torres|José Torres]]|age={{Birth date and age2|df=yes|1966|7|11|1938|9|8}}|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player no caps|no=19|pos=MF|name=[[Custódio Pinto]]|age={{Birth date and age2|df=yes|1966|7|11|1942|2|9}}|club=[[FC Porto|Porto]]|clubnat=Portugal}}
+{{nat fs player no caps|no=20|pos=DF|name=[[Alexandre Baptista]]|age={{Birth date and age2|df=yes|1966|7|11|1941|2|17}}|club=[[Sporting CP]]|clubnat=Portugal}}
+{{nat fs player no caps|no=21|pos=DF|name=[[José Carlos da Silva José|José Carlos]]|age={{Birth date and age2|df=yes|1966|7|11|1941|9|22}}|club=[[Sporting CP]]|clubnat=Portugal}}
+{{nat fs player no caps|no=22|pos=DF|name=[[Alberto Festa]]|age={{Birth date and age2|df=yes|1966|7|11|1939|7|21}}|club=[[FC Porto|Porto]]|clubnat=Portugal}}
+{{nat fs end}}
+
+==References==
+{{Reflist}}
+
+{{Portugal squad 1966 FIFA World Cup}}
+{{Portugal national football team}}
+
+{{DEFAULTSORT:Os Magriços}}
+[[Category:Nicknamed groups of association football players]]
+[[Category:Portugal at the 1966 FIFA World Cup]]
+[[Category:1960–61 in Portuguese football]]
+[[Category:1961–62 in Portuguese football]]
+[[Category:1962–63 in Portuguese football]]
+[[Category:1963–64 in Portuguese football]]
+[[Category:1964–65 in Portuguese football]]
+[[Category:Portuguese words and phrases]]

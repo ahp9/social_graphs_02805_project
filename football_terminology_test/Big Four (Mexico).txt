@@ -1,0 +1,578 @@
+{{Short description|Group of four Mexican football clubs}}
+
+{{Infobox football derby
+| name                     = Big Four 
+| team1                     = [[Club América|América]]
+| team2                     = [[C.D. Guadalajara|Guadalajara]]
+| team3                     = [[Cruz Azul]]
+| team4                     = [[Pumas UNAM|Pumas UNAM]]
+ | other names                     = 
+ | image                     = 
+ | caption                     = 
+ | city or region                     = [[Mexico City]]<br />[[Guadalajara]]
+ | first contested                     = 
+ | teams involved                     = [[Club América|América]]<br />[[C.D. Guadalajara|Guadalajara]]<br />[[Cruz Azul]]<br />[[Pumas UNAM|Pumas UNAM]]
+ | total                     = 
+ | most wins                     = 
+ | most player appearances                     =
+ | top scorer                     = 
+ | series                     = 
+ | mostrecent                     =
+ | nextmeeting                     = 
+ | stadiums                     = [[Estadio Ciudad de los Deportes|Ciudad de los Deportes]] (América)<br />[[Estadio Akron|Akron]] (Guadalajara)<br />[[Estadio Olímpico Universitario|Olímpico Universitario]] (Cruz Azul and Pumas UNAM)
+}}
+In Mexican [[association football|football]], the '''Big Four''' (Spanish: '''''Los Cuatro Grandes''''') refers to a group of four clubs, [[Club América|América]], [[C.D. Guadalajara|Guadalajara]], [[Cruz Azul]] and [[Pumas UNAM]], which are considered by the local press to be the most popular and successful sides in the country.<ref name="auto1">{{Cite web|url=https://www.espn.com/soccer/liga-bancomer/22/blog/post/3568071/a-beginners-guide-to-watching-liga-mx|title=How to watch Liga MX: A beginner's guide|date=July 18, 2018|website=ESPN.com}}</ref><ref name="auto">{{Cite web|url=https://vivaligamx.com/2019/10/26/liga-mx-big-3-capital-teams/|title=Liga MX's 'Big 3' in capital coming up small|date=October 26, 2019}}</ref>
+
+==Clubs==
+{{Location map+ |Mexico|width=225 |float=right |caption=Location of the Big Four Liga MX football clubs |places=
+{{Location map~ |Mexico |lat=20.666667 |long= -103.35 |label=<small>[[C.D. Guadalajara|Guadalajara]]</small> |position=left|mark=Blue pog.svg}}
+{{Location map~ |Mexico|mark=Blue pog.svg |lat=19|long=-99|label=<div style="font-size:100%;">{{nowrap|[[Club América|América]] <br>[[Cruz Azul]] <br>[[UNAM]]}}
+</div>|position=left}}
+}}
+{{Location map+ |Greater Mexico City |width=225 |float=right |caption=Greater Mexico City Liga MX football clubs |places=
+{{Location map~ |Greater Mexico City |lat=19.3030 |long= -99.1503 |label=<small>[[Club América|América]]<br>[[Cruz Azul]]</small> |position=right|mark=Blue pog.svg}}
+{{Location map~ |Greater Mexico City |lat=19.3320 |long= -99.1922 |label=<small>[[Pumas UNAM|Universidad Nacional]]</small> |position=top|mark=Blue pog.svg}}
+}}
+[[Mexico City]] is home to three members of the "Big Four"; América (16), Cruz Azul (9), and Pumas UNAM (7) have 32 Liga MX titles among them. Guadalajara (located in [[Zapopan]]), with 12 titles brings the total count of Liga MX titles amongst them to 44.<ref name="auto1"/><ref>{{Cite web|url=https://www.espn.in/football/mexican-liga-bancomer/story/4112157/liga-mx-restart-not-under-threat-despite-rising-coronavirus-cases-in-mexico|title=Liga MX restart under no threat amid COVID rise|date=June 14, 2020|website=ESPN}}</ref><ref name="auto"/><ref>{{Cite web|url=https://www.startribune.com/soccer-insider-liga-mx-teams-make-inroads-into-u-s-markets/489360231/|title = Soccer Insider: Liga MX teams make inroads into U.S. Television markets|website = [[Star Tribune]] | date=28 July 2018 }}</ref>
+
+{| class="wikitable sortable"
+|-
+! Club
+! Founded
+! City
+! Venue
+! Capacity
+|-
+| [[Club América|América]]
+| {{Start date and age|df=yes|1916|10|12}}
+| [[Mexico City]]
+| [[Estadio Ciudad de los Deportes]] (temporary)
+| 34,253<ref>{{cite web |url=https://ligamx.net/cancha/estadio/2/estadio-ciudad-de-los-deportes|title=Estadio Ciudad De Los Deportes|website=ligamx.net|access-date=2 November 2024|language=es}}</ref>
+|-
+| [[Cruz Azul]]
+| {{start date and age|1927|5|22|df=yes}}{{refn|Controversy exists on the date of the founding of Cruz Azul. On 22 March 1927, workers from the company [[Cooperativa La Cruz Azul, S.C.L.|Cooperativa La Cruz Azul]], together with [[Carlos Garces (athlete)|Carlos Garcés]], decided to form a [[Association football|football]] team. This founding date is kept in the institution's Hall of Fame, as well as in various official publications of the team.<ref>{{cite web|url = http://www.cruzazul.com.mx/2008/nuestraPasion/historiaNuestraPasion.aspx|title = Historia|date = 2 March 2017|access-date = 27 January 2025|archive-date = 2 March 2017|archive-url = https://web.archive.org/web/20170302215312/http://www.cruzazul.com.mx/2008/nuestraPasion/historiaNuestraPasion.aspx|url-status = dead|language=es}}</ref> However, after playing several matches internally, on 22 May 1927, Cruz Azul played its first official match against Jilotepec. Because of this, the club has adopted this date as its founding date in recent years.<ref>{{cite web|url = https://cfcruzazul.com/historia/los-inicios/|title = LOS INICIOS|access-date = 27 January 2025|archive-date = 26 January 2025|archive-url = https://web.archive.org/web/20250126100338/https://cfcruzazul.com/historia/los-inicios/|language=es}}</ref>|group=note|name=Foundation}}
+| [[Mexico City]]
+| [[Estadio Olímpico Universitario]] (temporary)
+| 58,445<ref name="Estadio Olímpico Universitario">{{cite web |url=https://ligamx.net/cancha/estadio/7/estadio-olimpico-universitario|title=Estadio Olímpico Universitario|website=ligamx.net|access-date=8 January 2025|language=es}}</ref>
+|-
+| [[C.D. Guadalajara|Guadalajara]] 
+| {{start date and age|1906|5|8|df=yes}}
+| [[Zapopan]]
+| [[Estadio Akron]] 
+| 48,071<ref name="FIFApdf">{{cite web |url=https://digitalhub.fifa.com/m/3c077448dcd5c0ab/original/w3yjeu7dadt5erw26wmu-pdf.pdf |title=2026 FIFA World Cup Bid Book |page=178 |access-date=11 April 2021}}</ref>
+|-
+| [[Pumas UNAM]]
+| {{start date and age|1954|8|2|df=yes}}
+| [[Mexico City]]
+| [[Estadio Olímpico Universitario]]
+| 58,445<ref name="Estadio Olímpico Universitario"/>
+|-
+|}
+
+==Rivalries==
+===''El Súper Clásico''===
+{{Main|El Súper Clásico (Mexico)}}
+
+Chivas has developed two important rivalries over the years. Perhaps its most intense rivalry is with Mexico City-based América. Their meetings, which have become known as ''[[El Súper Clásico (Mexico)|El Súper Clásico]]'' (Spanish for "''The Super Classic''"), are played at least twice a year and signal a national derby. Both were the most successful and most popular teams in Mexico. The first confrontation between them ended with a victory for Guadalajara with a score of 3–0.The rivalry began to flourish after the second match when América defeated Guadalajara with a score of 7–2. Although the huge defeat sparked embarrassment within Chivas, it was almost two decades before the rivalry became ''The Clásico''. One of the very reasons why these two teams are archrivals is because in 1983 and 1986 they brawled with each other, raising excitement among the fans. Thus, every time they play it is considered a match that everyone will remember. To this day, ''El Clásico de Clásicos'' continues to raise huge excitement in the whole country as well as in other parts of the world where there are fans of either team. The intensity of the game is lived so passionately that every time these two teams play a game, regardless of what position they are in on the charts or what level they show throughout the league, it is always considered the most important game of the season. El Súper Clásico was listed on [[FourFourTwo]]'s 50 biggest derbies list.<ref>{{cite web|title=FourFourTwo's 50 Biggest Derbies in the World: 20-11|url=http://www.fourfourtwo.com/features/fourfourtwos-50-biggest-derbies-world-20-11?page=0%2C1|website=FourFourTwo|accessdate=17 July 2016}}</ref>
+
+===''Clásico Capitalino''===
+{{Main|Clásico Capitalino}}
+The rivalry between América and Pumas UNAM is known as the ''"[[Clásico Capitalino]]"'' (Spanish for "''Capital Classic''"),<ref name="GR">{{cite web |publisher = Grupo Reforma |year = 2007 |url = http://foro.univision.com/univision/board/message?board.id=hinchas_futbol&message.id=270350#M270350 |work = Univision.com |title = Encuesta completa sobre el equipo más popular de México |accessdate = |url-status = dead |archiveurl = https://web.archive.org/web/20071012171934/http://foro.univision.com/univision/board/message?board.id=hinchas_futbol&message.id=270350#M270350 |archivedate = 12 October 2007 |df = dmy-all }}</ref> due to the fact that both teams are based in [[Mexico City]]—the country's capital. The first match between the two clubs took place on 1 July 1962, where América hosted UNAM, who had recently been promoted from the second division. In Mexico the match is often perceived as the representation of a struggle between two antagonistic powers and institutions: América is regarded as the club representing the establishment and the wealthy. The fact that the club is owned by the mass media company [[Televisa]] has further intensified this image. Pumas UNAM representing the ''[[National Autonomous University of Mexico|Universidad Nacional Autónoma de México]]'', identifies itself as the club of the intellectuals and middle-class.<ref>{{cite web|title=FIFA Classic Rivalries: CF América VS Pumas UNAM&nbsp;– Mexico City's grudge game|url=https://www.fifa.com/classicfootball/clubs/rivalries/newsid=1333144/index.html|archive-url=https://web.archive.org/web/20130630230533/http://www.fifa.com/classicfootball/clubs/rivalries/newsid=1333144/index.html|url-status=dead|archive-date=June 30, 2013|publisher=FIFA.com}}</ref> The rivalry is particularly fierce from UNAM's side: according to surveys the majority of their supporters consider América as their main rival. However, America's fans see it as an important match but deem the match against Chivas as more important.<ref name="Pumas vs. América">{{cite web |author = Eduardo Hernández Castro |year = 2003 |url = http://eleconomista.com.mx/deportes/2013/04/18/pumas-vida-america-no-lo-todo |title = Para Pumas la vida; para América, no lo es todo |work = El Economista |accessdate = 21 April 2013}}</ref>
+
+===''Clásico Joven''===
+{{Main|Clásico Joven}}
+América's other capital-based rival, and the most important, is Cruz Azul, with whom they compete in the derby known as the "''[[Clásico Joven]]''" (Spanish for "''Young Classic''").<ref name="GR"/> Although both teams reside in [[Mexico City]], Cruz Azul was founded in Jasso, [[Hidalgo (state)|Hidalgo]]. In a similar perspective between América and Pumas UNAM's rivalry, the rivalry between América and Cruz Azul is also seen as based on social class differences: América representing the wealthy and powerful while Cruz Azul is said to represent the working class,<ref name="Archibold">{{cite news|author=Archibold, Randal C.|date=25 October 2013|title=Mexican Writer Mines the Soccer Field for Metaphors|url=https://www.nytimes.com/2013/10/26/world/americas/mexican-writer-mines-the-soccer-field-for-metaphors.html?_r=0:|quote=With Cruz Azul and América taking to the field on the television behind him at the cantina, Mr. Villoro sought to put the game, a traditional matchup between dominant teams in the capital, in context.  "This is the Mexico City classic," he explained. "The game itself is one thing, who scores, who wins. But Cruz Azul represents the working class here; that is their following. América is the upper class, the rich or wannabe rich. So this condenses into the workers versus the wannabes."|newspaper=[[The New York Times]]|accessdate=26 October 2013}}</ref> hence fans of Cruz Azul and the team itself being dubiously referred to by the nickname of "''Los Albañiles''" (Spanish for ''[[bricklayer]]s''), a reference to Cruz Azul's [[Cemento Cruz Azul|eponymous parent company]], which is one of Mexico's major companies specializing in concrete and construction.
+
+===''Pumas UNAM vs. Guadalajara''===
+In recent years, Pumas UNAM and Guadalajara have increased their rivalry. Most of it is due to the [[Primera División de México Clausura 2004|2004 Final]]; Pumas UNAM vs. Guadalajara.<ref>{{Cite web|url=https://vivaligamx.com/2019/06/25/unam-pumas-reigned-2004/#:~:text=Clausura%202004%3A%20Pumas%20vs%20Chivas,for%20and%2019%20goals%20against.&text=Jaime%20Lozano%20converted%20a%20penalty,on%20a%203%2D2%20aggregate.|title = From the Vault: 15 years ago, UNAM was top of the class (I)|date = 25 June 2019}}</ref> Also, Pumas UNAM went 36 years without winning an away match against Guadalajara.
+
+On October 6, 2018, Pumas UNAM faced Guadalajara away in Liga MX. They had won this fixture ten days earlier in the [[Apertura 2018 Copa MX|Copa MX]] Round of 16 by a score of 3-1,<ref>{{Cite web|url=https://www.milenio.com/futbol/club-pumas/pumas-gana-en-guadalajara-despues-de-36-anos|title = Pumas gana en Guadalajara después de 36 años | date=27 September 2018 }}</ref> though many considered the winless streak still unbroken because it did not occur in Liga MX play. Guadalajara quickly took the lead, Isaác Brizuela opening the scoring. However Guadalajara had little time to celebrate, as Pumas tied the game shortly thereafter. The score remained 1-1 until the 66th minute, when Felipe Mora scored on a header to give Pumas UNAM the lead. Pumas UNAM then saw out the 2-1 win, officially ending the 36-year record of not winning against Guadalajara in an away match in the Liga MX.<ref>{{Cite web|url=https://www.informador.mx/deportes/No-hay-maldicion-Pumas-gana-de-visita-a-Chivas-en-liga-20181007-0006.html|title=No hay maldición: Pumas gana de visita a Chivas en liga |date=10 July 2018 }}</ref>
+
+==Honours==
+===National===
+{| class="wikitable" style="text-align:center; width=60%; 
+|+[[Liga MX]]
+|-
+! Club
+! Titles
+! Recent
+|-
+| style=background-color:#FCFF84;color:#AD9759| '''[[Club América|{{color|#00275D|América}}]]'''
+| 16
+| [[2024–25 Liga MX season#Torneo Apertura|Apertura 2024]]
+|-
+| style=background-color:#CD1731;color:#FFFFFF| '''[[C.D. Guadalajara|{{color|#FFFFFF|Guadalajara}}]]''' 
+| 12
+| [[2016–17 Liga MX season#Torneo Clausura|Clausura 2017]]
+|-
+| style=background-color:#0046AD;color:#DF0101| '''[[Cruz Azul|{{color|#FFFFFF|Cruz Azul}}]]'''
+| 9
+| [[2020–21 Liga MX season#Torneo Guardianes 2021|Guardianes 2021]]
+|-
+| style=background-color:#172442;color:Goldenrod| '''[[Pumas UNAM|{{color|#DAA520|Pumas UNAM}}]]'''
+| 7
+| [[2010–11 Mexican Primera División season|Clausura 2011]]
+|} 
+
+{| class="wikitable" style="text-align:center; width=60%;
+|+[[Copa MX]]
+|-
+! Club
+! Titles
+! Recent
+|-
+| style=background-color:#FCFF84;color:#AD9759| '''[[Club América|{{color|#00275D|América}}]]'''
+| 6
+| [[Clausura 2019 Copa MX|Clausura 2019]]
+|-
+| style=background-color:#CD1731;color:#FFFFFF| '''[[C.D. Guadalajara|{{color|#FFFFFF|Guadalajara}}]]''' 
+| 4
+| [[Clausura 2017 Copa MX|Clausura 2017]]
+|-
+| style=background-color:#0046AD;color:#DF0101| '''[[Cruz Azul|{{color|#FFFFFF|Cruz Azul}}]]'''
+| 4
+| [[Apertura 2018 Copa MX|Apertura 2018]]
+|-
+| style=background-color:#172442;color:Goldenrod| '''[[Pumas UNAM|{{color|#DAA520|Pumas UNAM}}]]'''
+| 1
+| [[1974–75 Copa México|1974–75]]
+|}
+
+{| class="wikitable" style="text-align:center; width=60%;
+|+[[Campeón de Campeones]]
+|-
+! Club
+! Titles
+! Recent
+|-
+| style=background-color:#CD1731;color:#FFFFFF| '''[[C.D. Guadalajara|{{color|#FFFFFF|Guadalajara}}]]''' 
+| 7
+| 1970
+|-
+| style=background-color:#FCFF84;color:#AD9759| '''[[Club América|{{color|#00275D|América}}]]'''
+| 7
+| 2024
+|-
+| style=background-color:#0046AD;color:#DF0101| '''[[Cruz Azul|{{color|#FFFFFF|Cruz Azul}}]]'''
+| 3
+| [[2021 Campeón de Campeones|2021]]
+|-
+| style=background-color:#172442;color:Goldenrod| '''[[Pumas UNAM|{{color|#DAA520|Pumas UNAM}}]]'''
+| 2
+| [[2004 Campeón de Campeones|2004]]
+|} 
+
+{| class="wikitable" style="text-align:center; width=60%;
+|+[[Campeón de Campeones#Supercopa de la Liga MX|Supercopa de la Liga MX]]
+|-
+! Club
+! Titles
+! Recent
+|-
+| style=background-color:#0046AD;color:#DF0101| '''[[Cruz Azul|{{color|#FFFFFF|Cruz Azul}}]]'''
+| 1
+| [[2022 Supercopa de la Liga MX|2022]] 
+|-
+| style=background-color:#FCFF84;color:#AD9759| '''[[Club América|{{color|#00275D|América}}]]'''
+| 1
+| [[2024 Supercopa de la Liga MX|2024]]
+|-
+| style=background-color:#CD1731;color:#FFFFFF| '''[[C.D. Guadalajara|{{color|#FFFFFF|Guadalajara}}]]''' 
+| —
+| —
+|-
+| style=background-color:#172442;color:Goldenrod| '''[[Pumas UNAM|{{color|#DAA520|Pumas UNAM}}]]'''
+| —
+| —
+|}
+
+{| class="wikitable" style="text-align:center; width=60%;
+|+[[Supercopa MX]]
+|-
+! Club
+! Titles
+! Recent
+|-
+| style=background-color:#CD1731;color:#FFFFFF| '''[[C.D. Guadalajara|{{color|#FFFFFF|Guadalajara}}]]''' 
+| 1
+| [[2016 Supercopa MX|2016]] 
+|-
+| style=background-color:#0046AD;color:#DF0101| '''[[Cruz Azul|{{color|#FFFFFF|Cruz Azul}}]]'''
+| 1
+| [[2019 Supercopa MX|2019]] 
+|-
+| style=background-color:#FCFF84;color:#AD9759| '''[[Club América|{{color|#00275D|América}}]]'''
+| —
+| —
+|-
+| style=background-color:#172442;color:Goldenrod| '''[[Pumas UNAM|{{color|#DAA520|Pumas UNAM}}]]'''
+| —
+| —
+|}
+
+===Continental===
+{| class="wikitable" style="text-align:center; width=60%; 
+|+[[CONCACAF Champions Cup|CONCACAF Champions Cup/League]]
+|-
+! Club
+! Titles
+! Recent
+|-
+| style=background-color:#0046AD;color:#DF0101| '''[[Cruz Azul|{{color|#FFFFFF|Cruz Azul}}]]'''
+| 7
+| [[2025 CONCACAF Champions Cup|2025]]
+|-
+| style=background-color:#FCFF84;color:#AD9759| '''[[Club América|{{color|#00275D|América}}]]'''
+| 7
+| [[2015–16 CONCACAF Champions League|2015–16]]
+|-
+| style=background-color:#172442;color:Goldenrod| '''[[Pumas UNAM|{{color|#DAA520|Pumas UNAM}}]]'''
+| 3
+| [[1989 CONCACAF Champions' Cup|1989]]
+|-
+| style=background-color:#CD1731;color:#FFFFFF| '''[[C.D. Guadalajara|{{color|#FFFFFF|Guadalajara}}]]'''
+| 2
+| [[2018 CONCACAF Champions League|2018]]
+|} 
+
+{| class="wikitable" style="text-align:center; width=60%;
+|+[[CONCACAF Giants Cup]]
+|-
+! Club
+! Titles
+! Recent
+|-
+| style=background-color:#FCFF84;color:#AD9759| '''[[Club América|{{color|#00275D|América}}]]'''
+| 1
+| [[CONCACAF Giants Cup|2001]]
+|-
+| style=background-color:#0046AD;color:#DF0101| '''[[Cruz Azul|{{color|#FFFFFF|Cruz Azul}}]]'''
+| —
+| —
+|-
+| style=background-color:#CD1731;color:#FFFFFF| '''[[C.D. Guadalajara|{{color|#FFFFFF|Guadalajara}}]]'''
+| —
+| —
+|-
+| style=background-color:#172442;color:Goldenrod| '''[[Pumas UNAM|{{color|#DAA520|Pumas UNAM}}]]'''
+| —
+| —
+|}
+
+===International===
+{| class="wikitable" style="text-align:center; width=60%;
+|+[[Copa Interamericana]]
+|-
+! Club
+! Titles
+! Recent
+|-
+| style=background-color:#FCFF84;color:#AD9759| '''[[Club América|{{color|#00275D|América}}]]'''
+| 2
+| [[1990 Copa Interamericana|1990]] 
+|-
+| style=background-color:#172442;color:Goldenrod| '''[[Pumas UNAM|{{color|#DAA520|Pumas UNAM}}]]'''
+| 1
+| [[1981 Copa Interamericana|1981]]
+|-
+| style=background-color:#0046AD;color:#DF0101| '''[[Cruz Azul|{{color|#FFFFFF|Cruz Azul}}]]'''
+| —
+| —
+|-
+| style=background-color:#CD1731;color:#FFFFFF| '''[[C.D. Guadalajara|{{color|#FFFFFF|Guadalajara}}]]'''
+| —
+| —
+|}
+
+==Finals against each other==
+{|class="wikitable" style="text-align:center"
+|+Key
+|-
+| width="40px" bgcolor="#cedff2"|*
+| Match was won on a [[Penalty shoot-out (association football)|penalty shoot-out]]
+|-
+| width="40px" bgcolor="#d1f7a5"|&
+| Match was won after a [[Replay (sports)#Association football|replay]]
+|}
+*The "Year" or "Season" column refers to the season or year the competition was held, and links to the article about that match.
+*The [[Two-legged tie|two-legged finals]] are listed in the order they were played.
+{| class="wikitable" style="margin:1em auto;"
+|bgcolor="#FFCCCC"|'''Liga MX''' <sup>†</sup>
+|bgcolor="#ffe6bd"|'''Copa MX''' <sup>^</sup>
+|bgcolor="#FFFF99"|'''Campeón de Campeones''' <sup>{{double-dagger}}</sup>
+|}
+{| class="wikitable plainrowheaders sortable"
+|+List of finals between the Big Four 
+|-
+! Season/Year
+! Winners
+! Score
+! Runners-up
+! City
+! Attend{{shy}}ance
+! Ref.
+|-
+| align=center bgcolor="#ffe6bd"|[[1953–54 Copa México|1953–54]]<sup>^</sup>
+| [[Club América|América]]
+| align=center bgcolor="#cedff2"| [[1954 Copa México Final|1–1]]*{{efn|Score was 1–1 after 110 minutes. América won the penalty shoot-out 3–1.}}
+| [[C.D. Guadalajara|Guadalajara]]
+| [[Mexico City]]
+| align=center|30,000	
+| 
+|-
+| align=center bgcolor="#ffe6bd"|[[1954–55 Copa México|1954–55]]<sup>^</sup>
+| [[Club América|América]]
+| align=center|1–0
+| [[C.D. Guadalajara|Guadalajara]]
+| [[Mexico City]]
+| align=center|	
+| 
+|-
+| align=center bgcolor="#FFFF99"|[[1964 Campeón de Campeones|1964]]<sup>{{double-dagger}}</sup>
+| [[C.D. Guadalajara|Guadalajara]]
+| align=center|2–0
+| [[Club América|América]]
+| [[Mexico City]]
+| align=center|
+| 
+|-
+| align=center bgcolor="#FFFF99"|1965<sup>{{double-dagger}}</sup>
+| [[C.D. Guadalajara|Guadalajara]]
+| align=center|2–1
+| [[Club América|América]]
+| [[Mexico City]]
+| align=center|
+| 
+|-
+| align=center bgcolor="#FFCCCC"|[[1971–72 Mexican Primera División season|1971–72]]<sup>†</sup>
+| [[Cruz Azul]]
+| align=center|4–1
+| [[Club América|América]]
+| [[Mexico City]]
+| align=center|100,000
+| 
+|-
+| align=center rowspan=3 bgcolor="#ffe6bd"|1973–74<sup>^</sup>
+| rowspan="2"|[[Club América|América]]
+| align=center|1–1
+| rowspan="2"|[[Cruz Azul]]
+| [[Mexico City]]
+| 
+|-
+| align=center|2–1
+| [[Mexico City]]
+| align=center|{{sort|075|75,000}}
+|-
+| colspan=7 align="center"| América won 3–2 on aggregate.
+|-
+| align=center bgcolor="#FFFF99"|[[1974 Campeón de Campeones|1974]]<sup>{{double-dagger}}</sup>
+| [[Cruz Azul]]
+| align=center|2–1
+| [[Club América|América]]
+| [[Estadio Azteca|Mexico City]]
+| align=center|110,000	
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[1978–79 Mexican Primera División season|1978–79]]<sup>†</sup>
+| rowspan="2"|[[Cruz Azul]]
+| align=center|0–0
+| rowspan="2"|[[Pumas UNAM]]
+| [[Mexico City]]
+| 
+|-
+| align=center|2–0
+| [[Mexico City]]
+| 
+|-
+| colspan=7 align="center"| Cruz Azul won 2–0 on aggregate.
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[1980–81 Mexican Primera División season|1980–81]]<sup>†</sup>
+| rowspan="2"|[[Pumas UNAM]]
+| align=center|0–1
+| rowspan="2"|[[Cruz Azul]]
+| [[Mexico City]]
+| 
+|-
+| align=center|4–1
+| [[Mexico City]]
+| 
+|-
+| colspan=7 align="center"| Pumas UNAM won 4–2 on aggregate.
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[1983–84 Mexican Primera División season|1983–84]]<sup>†</sup>
+| rowspan="2"|[[Club América|América]]
+| align=center|2–2
+| rowspan="2"|[[C.D. Guadalajara|Guadalajara]]
+| [[Guadalajara]]
+| align=center|56,713
+|-
+| align=center|3–1
+| [[Mexico City]]
+| align=center|110,000 
+|-
+| colspan=7 align="center"| América won 5–3 on aggregate.
+|-
+| align=center rowspan=4 bgcolor="#FFCCCC"|[[1984–85 Mexican Primera División season|1984–85]]<sup>†</sup>
+| rowspan="3"|[[Club América|América]]
+| align=center|1–1
+| rowspan="3"|[[Pumas UNAM]]
+| [[Mexico City]]
+| 
+|-
+| align=center|0–0
+| [[Mexico City]]
+| 
+|-
+| align=center bgcolor="#d1f7a5"|3–1<sup>&</sup>
+| [[Querétaro City]]
+| 
+|-
+| colspan=8 align="center"| América won 4–2 on aggregate.
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[1986–87 Mexican Primera División season|1986–87]]<sup>†</sup>
+| rowspan="2"|[[C.D. Guadalajara|Guadalajara]]
+| align=center|1–2
+| rowspan="2"|[[Cruz Azul]]
+| [[Mexico City]]
+| align=center|100,000 
+|-
+| align=center|3–0
+| [[Guadalajara]]
+| align=center|56,713
+|-
+| colspan=7 align="center"| Guadalajara won 4–2 on aggregate.
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[1987–88 Mexican Primera División season|1987–88]]<sup>†</sup>
+| rowspan="2"|[[Club América|América]]
+| align=center|0–1
+| rowspan="2"|[[Pumas UNAM]]
+| [[Mexico City]]
+| align=center|
+|-
+| align=center|4–1
+| [[Mexico City]]
+| align=center|
+|-
+| colspan=7 align="center"| América won 4–2 on aggregate.
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[1988–89 Mexican Primera División season|1988–89]]<sup>†</sup>
+| rowspan="2"|[[Club América|América]]
+| align=center|2–3
+| rowspan="2"|[[Cruz Azul]]
+| [[Mexico City]]
+| align=center|
+|-
+| align=center|2–2
+| [[Mexico City]]
+| align=center|
+|-
+| colspan=7 align="center"| América won 5–4 on aggregate.
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[1990–91 Mexican Primera División season|1990–91]]<sup>†</sup>
+| rowspan="2"|[[Pumas UNAM]]
+| align=center|2–3
+| rowspan="2"|[[Club América|América]]
+| [[Mexico City]]
+| align=center|
+|-
+| align=center|1–0
+| [[Mexico City]]
+| align=center|
+|-
+| colspan=7 align="center"| 3–3 on aggregate; Pumas UNAM won on the [[away goals rule]].
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[Primera División de México Clausura 2004|Clausura 2004]]<sup>†</sup>
+| rowspan="2"|[[Pumas UNAM]]
+| align=center|1–1
+| rowspan="2"|[[C.D. Guadalajara|Guadalajara]]
+| [[Guadalajara]]
+| align=center|
+|-
+| align=center bgcolor="#cedff2"|0–0*	
+| [[Mexico City]]
+| align=center|
+|-
+| colspan=7 align="center"| 1–1 on aggregate; Pumas UNAM won 5–4 on penalty kicks.
+|-
+| align=center rowspan=3 bgcolor="#FFFF99"|[[2005 Campeón de Campeones|2005]]<sup>{{double-dagger}}</sup>
+| rowspan="2"|[[Club América|América]]
+| align=center|0–0
+| rowspan="2"|[[Pumas UNAM]]
+| [[Mexico City]]
+| align=center|
+|-
+| align=center|2–1	
+| [[Mexico City]]
+| align=center|
+|-
+| colspan=7 align="center"| América won 2–1 on aggregate.
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[2012–13 Liga MX season#Torneo Clausura|Clausura 2013]]<sup>†</sup>
+| rowspan="2"|[[Club América|América]]
+| align=center|0–1
+| rowspan="2"|[[Cruz Azul]]
+| [[Mexico City]]
+| align=center|
+|-
+| align=center bgcolor="#cedff2"|2–1*
+| [[Mexico City]]
+| align=center|
+|-
+| colspan=7 align="center"| 2–2 on aggregate; América won 4–2 on penalty kicks.
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[2018–19 Liga MX season#Torneo Apertura|Apertura 2018]]<sup>†</sup>
+| rowspan="2"|[[Club América|América]]
+| align=center|0–0
+| rowspan="2"|[[Cruz Azul]]
+| [[Mexico City]]
+| align=center|59,244
+|-
+| align=center |2–0
+| [[Mexico City]]
+| align=center|71,240
+|-
+| colspan=7 align="center"| América won 2–0 on aggregate.
+|-
+| align=center rowspan=3 bgcolor="#FFCCCC"|[[2023–24 Liga MX season#Torneo Clausura|Clausura 2024]]<sup>†</sup>
+| rowspan="2"|[[Club América|América]]
+| align=center|1–1
+| rowspan="2"|[[Cruz Azul]]
+| [[Mexico City]]
+| align=center|
+|-
+| align=center |1–0
+| [[Mexico City]]
+| align=center|
+|-
+| colspan=7 align="center"| América won 2–1 on aggregate.
+|-
+|}
+
+==See also==
+* [[Football in Mexico]]
+* [[Big Five (Argentine football)]]
+* [[G-12 (Brazilian football)|Big Twelve (Brazilian football)]]
+* [[Big Three (Costa Rica)]]
+* [[Big Three (Peru)]]
+
+==Notes==
+{{Reflist|group=note}}
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Football in Mexico}}
+{{Club América}}
+{{C.D. Guadalajara}}
+{{Cruz Azul}}
+{{Club Universidad Nacional}}
+
+[[Category:Football in Mexico]]
+[[Category:Football rivalries in Mexico]]
+[[Category:History of football in Mexico]]
+[[Category:Club América]]
+[[Category:C.D. Guadalajara]]
+[[Category:Cruz Azul]]
+[[Category:Pumas UNAM]]
+[[Category:Nicknames in association football]]
+[[Category:Association football terminology]]

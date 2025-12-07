@@ -1,0 +1,128 @@
+{{Short description|Piece of roster composition in Major League Soccer}}
+{{Update|date=August 2025}}
+{{Use mdy dates|date=June 2017}}
+'''MLS International Roster Slots''' are an important piece of roster composition in [[Major League Soccer]]. MLS employs a variety of mechanisms to promote parity and domestic player development which include player entry drafts, expansion drafts, allocation drafts, weighted lotteries, and a limit on the number of international roster slots available for each team. The limit on the number of international roster slots makes each slot a valuable commodity for teams to utilize through player signings or trades with other teams.
+
+The MLS roster rules for 2025 state:
+* A total of 241 international roster slots are divided among the 30 teams. In 2008, each MLS team was given the right to have eight international players on its roster and each subsequent expansion teams were given the right to have eight international roster slots for its inaugural season. These roster slots are tradable, in full season increments, such that some teams may have more than eight and some teams may have fewer than eight. There is no limit on the number of international roster slots on each team's roster.
+* For teams based in the United States, a domestic player is either:
+** a U.S. citizen;
+** a permanent resident (green card holder); or
+** the holder of other special status (e.g., has been granted refugee or asylum status); or
+** a player who qualifies under the Homegrown International Rule.
+* For teams based in Canada, a domestic player is either:
+** a Canadian citizen; or
+** the holder of certain other special status (e.g., has been granted refugee or asylum status); or
+** a player who qualifies under the Homegrown International Rule; or
+** a U.S. Domestic Player.
+* MLS teams based in Canada are required to have a minimum of three Canadian Domestic Players on their rosters. In addition to the International Roster Slots, each Canadian club is permitted to designate up to three International Players who have been under contract with MLS and registered with one or more Canadian clubs for at least one year who will not count toward the club’s International Roster Slots.
+* Homegrown International Rule: regardless of nationality, any player who meets the requirements to qualify as a [[Homegrown Player Rule (Major League Soccer)|Homegrown Player]] as a member of an MLS team academy, either in the U.S. or Canada, or has met similar requirements as a member of a Canadian Approved Youth Club, will count as a domestic player on both U.S. and Canadian team rosters provided that:
+** the player became a member of an MLS team academy, either in the U.S. or Canada, or a Canadian Approved Youth Club in the year prior to the year in which he turns 16; and
+** the player signs his first professional contract with MLS or an MLS team's [[MLS Next Pro]] affiliate.
+
+Source:<ref>{{cite web|url=https://www.mlssoccer.com/about/roster-rules-and-regulations|title=2025 MLS Roster Rules and Regulations|access-date=August 21, 2025}}</ref>
+
+==Current international roster slots by team==
+{{updated|May 1, 2025|<ref>{{cite web|url=https://mlssoccer.app.box.com/s/21uzjhm7j5cqrsi1rfch0aiaiisny9qv |title=2025 MLS Rosters |publisher=MLS |access-date=August 21, 2025}}</ref>}}
+
+{| class="wikitable sortable"
+|-
+! Team !! style="text-align:center;"| Total slots !! align=center| Inter{{shy}}national Players !! align=center| DL !! align=center| L !! align=center| SEIL !! align=center| Open slots !! International players under contract
+|-
+| [[Atlanta United FC]] || align=center| 8 || align=center| 7 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 1 || [[Luis Abram|Abram]], [[Miguel Almirón|Almirón]], [[Pedro Amador (footballer)|Amador]], [[Mateusz Klich|Klich]], [[Emmanuel Latte Lath|Latte Lath]], [[Saba Lobzhanidze|Lobzhanidze]], [[Alexey Miranchuk|Miranchuk]]
+|-
+| [[Austin FC]] || align=center| 9 || align=center| 7 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 2 || [[Guilherme Biro (footballer, born 2000)|Biro]], [[Osman Bukari|Bukari]], [[Nicolás Dubersarsky|Dubersarsky]], [[Jáder Obrian|Obrian]], [[Besard Sabovic|Sabovic]], [[Oleksandr Svatok|Svatok]], [[Myrto Uzuni|Uzuni]]
+|-
+| [[Charlotte FC]] || align=center| 8 || align=center| 8 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 0 || [[Liel Abada|Abada]], [[Pep Biel|Biel]], [[Djibril Diani|Diani]], [[Souleyman Doumbia|Doumbia]], [[Nikola Petković (footballer, born 2003)|Petković]], [[Iuri Tavares|Tavares]], [[Idan Toklomati|Toklomati]], [[Wilfried Zaha|Zaha]]
+|-
+| [[Chicago Fire FC|Chicago Fire]] || align=center| 8 || align=center| 9 || align=center| 0 || align=center| 1 || align=center| 0 || align=center| 0 || [[Jonathan Bamba|Bamba]], [[Leonardo Barroso|Barroso]], [[Hugo Cuypers|Cuypers]], [[Djé D'Avilla|D’Avilla]], [[Omari Glasgow|Glasgow]], [[Maren Haile-Selassie|Haile-Selassie]], [[Rominigue Kouamé|Kouamé]], [[Georgios Koutsias|Koutsias]] <small>(on loan with [[FC Lugano|Lugano]])</small>, [[Philip Zinckernagel|Zinckernagel]]
+|-
+| [[FC Cincinnati]] || align=center| 7 || align=center| 5 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 2 || [[Pavel Bucha|Bucha]], [[Kévin Denkey|Denkey]], [[Lukas Engel|Engel]], [[Gilberto Flores|Flores]], [[Luca Orellano|Orellano]]
+|-
+| [[Colorado Rapids]] || align=center| 4 || align=center| 5 || align=center| 1 || align=center| 0 || align=center| 0 || align=center| 0 || [[Daouda Amadou|Amadou]], [[Chidozie Awaziem|Awaziem]], [[Ali Fadal|Fadal]]<sup>DL</sup> , [[Andreas Maxsø|Maxsø]], [[Connor Ronan|Ronan]]
+|-
+| [[Columbus Crew]] || align=center| 8 || align=center| 7 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 1 || [[Rudy Camacho|Camacho]], [[Dylan Chambost|Chambost]], [[Yevhen Cheberko|Cheberko]], [[Mohamed Farsi|Farsi]], [[Andrés Herrera (footballer)|Herrera]], [[Lassi Lappalainen|Lappalainen]], [[Steven Moreira|Moreira]]
+|-
+| [[D.C. United]] || align=center| 8 || align=center| 7 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 1 || [[Christian Benteke|Benteke]], [[Boris Enow|Enow]], [[Kim Jun-hong (footballer)|Kim]], [[João Peglow|Peglow]], [[Matti Peltola|Peltola]], [[Kye Rowles|Rowles]], [[David Schnegg|Schnegg]]
+|-
+| [[FC Dallas]] || align=center| 9 || align=center| 11 || align=center| 0 || align=center| 2 || align=center| 1 || align=center| 1 || [[Álvaro Augusto|Augusto]], [[Manuel Cafumana|Cafumana]], [[Geovane Jesus|Jesus]]<sup>SEIL</sup>, [[Patrickson Delgado|Delgado]], [[Kaick]], [[Petar Musa|Musa]], [[Pedrinho (footballer, born 2003)|Pedrinho]], [[Ramiro (footballer, born 1993)|Ramiro]], [[Carl Sainté|Sainté]] <small>(on loan with [[Phoenix Rising FC|Phoenix Rising]])</small>, [[Enes Sali|Sali]] <small>(on loan with [[Al-Riyadh SC|Al-Riyadh]])</small>, [[Osaze Urhoghide|Urhoghide]]
+|-
+| [[Houston Dynamo]] || align=center| 8 || align=center| 9 || align=center| 1 || align=center| 0 || align=center| 0 || align=center| 0 || [[Lawrence Ennali|Ennali]], [[Sebastian Kowalczyk|Kowalczyk]], [[Ondřej Lingr|Lingr]], [[Toyosi Olusanya|Olusanya]], [[Pablo Ortiz (footballer, born 2000)|Ortiz]], [[Ezequiel Ponce|Ponce]], [[Nelson Quiñónes|Quiñónes]]<sup>DL</sup>, [[Júnior Urso|Urso]], [[Stephen Annor Gyamfi|Gyamfi]]
+|-
+| [[Inter Miami CF]] || align=center| 14 || align=center| 14 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 0 || [[Jordi Alba|Alba]], [[Tadeo Allende|Allende]], [[Yannick Bright|Bright]], [[Sergio Busquets|Busquets]], [[Maximiliano Falcón|Falcón]], [[Gonzalo Luján|Luján]], [[David Martínez (footballer, born 1998)|Martínez]], [[Lionel Messi|Messi]], [[Allen Obando|Obando]], [[Baltasar Rodríguez|Rodríguez]], [[Telasco Segovia|Segovia]], [[Luis Suárez|Suárez]], [[Oscar Ustari|Ustari]], [[Marcelo Weigandt|Weigandt]]
+|-
+| [[LA Galaxy]] || align=center| 11 || align=center| 13 || align=center| 1 || align=center| 1 || align=center| 0 || align=center| 0 || [[Julián Aude|Aude]], [[Carlos Emiro Garcés|Garcés]], [[Mathias Jørgensen|Jørgensen]], [[Novak Mićović|Mićović]], [[Matheus Nascimento (footballer, born 2004)|Nascimento]], [[Joseph Paintsil|Paintsil]], [[Gabriel Pec|Pec]], [[Riqui Puig|Puig]]<sup>DL</sup>, [[Marco Reus|Reus]], [[Lucas Sanabria (Uruguayan footballer)|Sanabria]], [[Gino Vivi|Vivi]] <small>(on loan with [[Deportivo Saprissa]])</small>, [[Miki Yamane|Yamane]], [[Maya Yoshida|Yoshida]]
+|-
+| [[Los Angeles FC]] || align=center| 11 || align=center| 10 || align=center| 1 || align=center| 0 || align=center| 0 || align=center| 2 || [[Denis Bouanga|Bouanga]], [[Lorenzo Dellavalle|Dellavalle]]<sup>DL</sup>, [[Odin Holm|Holm]], [[Igor Jesus (footballer, born 2003)|Jesus]], [[Hugo Lloris|Lloris]], [[David Martínez (footballer, born 2006)|Martínez]], [[Sergi Palencia|Palencia]], [[Artem Smolyakov|Smolyakov]], [[Cengiz Ünder|Ünder]], [[Yaw Yeboah|Yeboah]]
+|-
+| [[Minnesota United FC]] || align=center| 8 || align=center| 9 || align="center" | 0 || align=center| 2 || align=center| 0 || align=center| 1 ||[[Alejandro Bran|Bran]] <small>(on loan with [[Liga Deportiva Alajuelense|Alajuelense]])</small>, [[Jefferson Díaz|Díaz]], [[Morris Duggan|Duggan]], [[Owen Gene|Gene]], [[Jeong Ho-yeon|Jeong]], [[Matúš Kmeť|Kmeť]] <small>(on loan with [[Górnik Zabrze]])</small>, [[Joaquín Pereyra (Argentine footballer)|Pereyra]], [[Nicolás Romero (footballer)|Romero]], [[Kelvin Yeboah|Yeboah]]
+|-
+| [[CF Montreal]] || align=center| 5 || align=center| 9 || align=center | 0 || align=center| 2 || align=center| 0 || align=center| 1 || [[Michael Adedokun|Adedokun]] <small>(on loan with [[Lexington SC]])</small>, [[Dawid Bugaj|Bugaj]], [[Matías Cóccaro|Cóccaro]] <small>(on loan with [[Atlas F.C.|Atlas]])</small>, [[Sunusi Ibrahim|Ibrahim]]<sup>+</sup>, [[Victor Loturi|Loturi]], [[Kwadwo Opoku|Opoku]]<sup>+</sup>, [[Prince Owusu (footballer, born January 1997)|Owusu]]<sup>+</sup>, [[Tom Pearce (footballer)|Pearce]], [[Hennadiy Synchuk|Synchuk]]
+|-
+| [[Nashville SC]] || align=center| 5 || align=center| 6 || align=center| 0 || align=center| 1 || align=center| 0 || align=center| 0 || [[Woobens Pacius|Pacius]] <small>(on loan with [[Tampa Bay Rowdies]])</small>, [[Jeisson Palacios|Palacios]], [[Ahmed Qasem|Qasem]], [[Sam Surridge|Surridge]], [[Edvard Tagseth|Tagseth]], [[Patrick Yazbek|Yazbek]]
+|-
+| [[New England Revolution]] || align=center| 8 || align=center| 9 || align="center" | 0 || align=center| 1 || align=center| 0 || align=center| 0 ||[[Brayan Ceballos|Ceballos]], [[Tomás Chancalay|Chancalay]], [[Ilay Feingold|Feingold]], [[Mamadou Fofana (footballer, born 1998)|Fofana]], [[Ignatius Ganago|Ganago]], [[Aljaž Ivačič|Ivačič]], [[Luca Langoni|Langoni]], [[Allan Oyirwoth|Oyirwoth]]<sup>L</sup>, [[Alhassan Yusuf|Yusuf]]
+|-
+| [[New York City FC]] || align=center| 8 || align=center| 5 || align=center| 0 || align=center| 1 || align=center| 0 || align=center| 4 || [[Alonso Martínez (footballer)|Martínez]], [[Jovan Mijatović|Mijatović]] <small>(on loan with [[Oud-Heverlee Leuven|OH Leuven]])</small>, [[Aiden O'Neill|O'Neill]], [[Strahinja Tanasijević|Tanasijević]], [[Hannes Wolf (footballer)|Wolf]]
+|-
+| [[New York Red Bulls]] || align=center| 11 || align=center| 13 || align=center| 1 || align=center| 1 || align=center| 0 || align=center| 0 || [[Wiktor Bogacz|Bogacz]], [[Felipe Carballo|Carballo]], [[Eric Maxim Choupo-Moting|Choupo-Moting]], [[Ronald Donkor|Donkor]], [[Noah Eile|Eile]], [[Emil Forsberg|Forsberg]], [[Dennis Gjengaar|Gjengaar]], [[Alexander Hack|Hack]], [[Juan José Mina|Mina]] <small>(on loan with [[C.F. Estrela da Amadora|Estrela da Amadora]])</small>, [[Marcelo Morales|Morales]], [[Lewis Morgan (footballer)|Morgan]]<sup>DL</sup>, [[Mohammed Sofo|Sofo]], [[Omar Valencia|Valencia]]
+|-
+| [[Orlando City SC]] || align=center| 7 || align=center| 8 || align=center | 0 || align=center| 0 || align=center| 2 || align=center| 1 || [[Eduard Atuesta|Atuesta]], [[Gustavo Caraballo|Caraballo]], [[Wilder Cartagena|Cartagena]]<sup>SEIL</sup>, [[Joran Gerbet|Gerbet]], [[Luis Muriel|Muriel]], [[Marco Pašalić|Pašalić]], [[Nicolás Rodríguez (footballer, born 2004)|Rodríguez]], [[Yutaro Tsukada|Tsukada]]<sup>SEIL</sup>
+|-
+| [[Philadelphia Union]] || align=center| 7 || align=center| 7 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 0 || [[Tai Baribo|Baribo]], [[Bruno Damiani|Damiani]], [[Ian Glavinovich|Glavinovich]], [[Danley Jean Jacques|Jacques]], [[Jovan Lukić (footballer, born 2002)|Lukić]], [[Olwethu Makhanya|Makhanya]], [[Oliver Semmle|Semmle]]
+|-
+| [[Portland Timbers]] || align=center| 6 || align=center| 6 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 1 || [[David Da Costa (footballer, born 2001)|Da Costa]], [[Jimer Fory|Fory]], [[Kevin Kelsy|Kelsy]], [[Joao Ortiz (Ecuadorian footballer)|Ortiz]], [[James Pantemis|Pantemis]], [[Finn Surman|Surman]]
+|-
+| [[Real Salt Lake]] || align=center| 11 || align=center| 14 || align=center| 1 || align=center| 2 || align=center| 1 || align=center| 1 || [[William Agada|Agada]], [[Forster Ajago|Ajago]] <small>(on loan with [[Lexington SC]])</small>, [[Jesús Barea|Barea]], [[Matthew Bell (footballer, born 2002)|Bell]]<sup>DL</sup>, [[Lachlan Brook|Brook]], [[Javain Brown|Brown]]<sup>SEIL</sup>, [[Rafael Cabral|Cabral]], [[Diogo Gonçalves|Gonçalves]], [[Alexandros Katranis|Katranis]], [[Kevon Lambert|Lambert]] <small>(on loan with [[Louisville City FC]])</small>, [[Dominik Marczuk|Marczuk]], [[Braian Ojeda|Ojeda]], [[Nelson Palacio|Palacio]], [[Ariath Piol|Piol]]
+|-
+| [[San Diego FC]] || align=center| 9 || align=center| 9 || align=center| 0 || align=center| 1 || align=center| 0 || align=center| 1 || [[Tomás Ángel|Ángel]], [[Heine Gikling Bruseth|Bruseth]] <small>(On loan with [[Sarpsborg 08 FF|Sarpsborg 08]])</small>, [[Hamady Diop|Diop]], [[Anders Dreyer|Dreyer]], [[Manu Duah|Duah]], [[Willy Kumado|Kumado]], [[Paddy McNair|McNair]], [[Jeppe Tverskov|Tverskov]], [[Onni Valakari|Valakari]]
+|-
+| [[San Jose Earthquakes]] || align=center| 6 || align=center| 6 || align=center| 0 || align=center| 1 || align=center| 0 || align=center| 1 || [[Vítor Costa (footballer)|Costa]], [[Daniel (footballer, born 1994)|Daniel]], [[Hernán López (footballer)|López]] <small>(on loan with [[Argentinos Juniors]])</small>, [[Amahl Pellegrino|Pellegrino]], [[Rodrigues (footballer, born 1997)|Rodrigues]], [[Bruno Wilson|Wilson]]
+|-
+| [[Seattle Sounders FC]] || align=center| 4 || align=center| 4 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 0 || [[Pedro de la Vega|de la Vega]], [[Kim Kee-hee|Kim]], [[Ryan Kent|Kent]], [[Georgi Minoungou|Minoungou]]
+|-
+| [[Sporting Kansas City]] || align=center| 7 || align=center| 5 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 2 || [[Zorhan Bassong|Bassong]], [[Joaquín Fernández (footballer, born 1996)|Fernández]], [[Manu García (footballer, born 1998)|García]], [[Dejan Joveljic|Joveljic]], [[Magomed-Shapi Suleymanov|Suleymanov]]
+|-
+| [[St. Louis City SC|St. Louis City]] || align=center| 8 || align=center| 8 || align=center| 0 || align=center| 1 || align=center| 0 || align=center| 1 || [[Rasmus Alm|Alm]], [[Timo Baumgartl|Baumgartl]], [[Roman Bürki|Bürki]], [[Marcel Hartel|Hartel]], [[Jeong Sang-bin|Jeong]], [[João Klauss|Klauss]], [[Selmir Pidro|Pidro]] <small>(on loan with [[FK Velež Mostar|Velež Mostar]])</small>, [[Conrad Wallem|Wallem]]
+|-
+| [[Toronto FC]] || align=center| 10 || align=center| 11 || align="center" | 0 || align=center| 1 || align=center| 0 || align=center| 2 || [[Ola Brynhildsen|Brynhildsen]], [[Alonso Coello (footballer)|Coello]]<sup>+</sup>, [[Maxime Dominguez|Dominguez]], [[Deybi Flores|Flores]], [[Nicksoen Gomis|Gomis]], [[Lorenzo Insigne|Insigne]], [[Kevin Long (footballer)|Long]], [[Cassius Mailula|Mailula]] <small>(on loan with [[Wydad AC]])</small>, [[Zane Monlouis|Monlouis]], [[Raoul Petretta|Petretta]]<sup>+</sup>, [[Sigurd Rosted|Rosted]]
+|-
+| [[Vancouver Whitecaps FC]] || align=center| 8 || align=center| 8 || align=center| 0 || align=center| 0 || align=center| 0 || align=center| 3 || [[Giuseppe Bovalina|Bovalina]], [[Andrés Cubas|Cubas]]<sup>+</sup>, [[Ryan Gauld|Gauld]]<sup>+</sup>, [[Mathías Laborda|Laborda]], [[Édier Ocampo|Ocampo]], [[J.C. Ngando|Ngando]], [[Yohei Takaoka|Takaoka]], [[Ranko Veselinović|Veselinović]]<sup>+</sup>
+
+|-
+! Total || align=center| 241 || align=center| 249 || align=center| 6 || align=center| 18 || align=center| 4 || align=center| 29 || 
+|}
+
+'''Key'''
+* DL – Player is on the disabled list (DL) and does not occupy international slot while on the DL
+* L – Player is away on loan and does not occupy international slot while out on loan
+* SEIL – Player is on the season-ending injury list (SEIL) and does not occupy international slot while on the SEIL
+* + – In addition to the International Roster Slots, each Canadian Club is permitted to designate up to three International Players who have been under contract with MLS and registered with one or more Canadian clubs for at least one year who will not count toward the club’s International Roster Slots.
+
+
+==Active international roster slot trades==
+{| class="wikitable sortable"
+|-
+! Trade date !! Slot acquired by !! For use through !! Acquired from !! Slot acquired in exchange for
+|-
+| {{dts|2005|06|29}} || [[Colorado Rapids]] || Permanent || [[Real Salt Lake]] || For [[Adolfo Gregorio]]<ref>{{cite web|url=http://www.oursportscentral.com/services/releases/?id=3185644 |title=Rapids Acquire Youth International Slot from RSL – OurSports Central – Independent and Minor League Sports News |date=June 29, 2005 |publisher=OurSports Central |access-date=July 9, 2012}}</ref>
+|-
+| {{dts|2009|03|17}} || [[New York Red Bulls]] || Permanent || [[Houston Dynamo]] || For [[allocation money]]<ref>{{cite web|url=http://www.oursportscentral.com/services/releases/?id=3790958 |title=Red Bull New York Signs Goalkeeper Alec Dufty – OurSports Central – Independent and Minor League Sports News |publisher=OurSports Central |date=March 17, 2009 |access-date=July 9, 2012}}</ref>
+|-
+| {{dts|2010|11|24}} || [[Vancouver Whitecaps FC]] || {{dts|2031|12|31}}<!--2031 is NOT a mistake -->|| [[Colorado Rapids]] || For [[Sanna Nyassi]]<ref>{{cite web|url=http://www.oursportscentral.com/services/releases/?id=4120249 |title=Rapids Complete Trades with MLS Expansion Clubs – OurSports Central – Independent and Minor League Sports News |publisher=OurSports Central |date=November 24, 2010 |access-date=July 9, 2012}}</ref><ref>{{cite web|url=http://www.coloradorapids.com/team/internationals |title=International Player Slots |publisher=Colorado Rapids |date=January 21, 2014 |access-date=January 21, 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140215031631/http://www.coloradorapids.com/team/internationals |archive-date=February 15, 2014 }}</ref>
+|-
+|}
+
+==Future international roster slot trades==
+{| class="wikitable sortable"
+|-
+! Trade date !! Slot acquired by !! For use starting !! For use through !! Acquired from !! Slot acquired in exchange for
+|}
+
+==References==
+{{Reflist|30em}}
+
+{{Major League Soccer}}
+
+[[Category:Major League Soccer rules and regulations]]
+[[Category:Association football terminology]]

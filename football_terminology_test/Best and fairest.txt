@@ -1,0 +1,76 @@
+{{short description|Award in Australian sport}}
+{{Use dmy dates|date=December 2017}}
+{{Use Australian English|date=December 2017}}
+In Australian sport, the '''best and fairest''' award recognises the player(s) adjudged to have had the best performance in a game or over a season for a given sporting club or competition. The awards are sometimes dependent on not receiving a suspension for misconduct or breaching the rules during that season.  It is similar to [[most valuable player]] (MVP) awards in other team sports.
+
+In the [[Australian Football League]] (AFL), the [[Brownlow Medal]] is awarded to the player who, provided he has not been suspended during the season, receives the most votes from the [[umpire (Australian rules football)|umpires]] for being the fairest and best player in games during the [[season (sports)|home-and-away season]]. In each game, the umpires award three votes to the player they judge to be the best afield in that game, two votes to the second-best player, and one vote to the third-best player. The votes are counted at a gala function on the Monday preceding the [[grand final|Grand Final]]. The eligibility of suspended or reprimanded players due to minor offences to win the award has frequently been questioned.<ref>{{cite news|title=Brownlow shake-up|date=28 September 2011|first=Jesse|last=Hogan|url=http://www.theage.com.au/afl/afl-news/brownlow-shakeup-20110927-1kvfv.html#ixzz2SFLJZtcb|location=Melbourne|work=The Age}}</ref><ref>{{cite news|url=http://www.abc.net.au/news/2005-02-18/only-tweaking-likely-for-brownlow/1521434|title=Only tweaking likely for Brownlow|date=18 February 2005}}</ref>
+
+Another best and fairest honour, the [[Leigh Matthews Trophy]], is voted on by the AFL's players and awarded by their [[trade union]], the [[AFL Players Association]]. Unlike the Brownlow, players who have served disciplinary suspensions during the season are still eligible to win this award.
+
+The oldest such award is the [[Magarey Medal]], awarded to the "fairest and most brilliant" player in the [[South Australian National Football League]] (SANFL). The award was created by [[William Ashley Magarey]]—then chairman of the league—and was first awarded in 1898.<ref>{{cite web|url=http://www.sanfl.com.au/the_sanfl/history_of_the_sanfl/|title=History of the SANFL|url-status=dead|archive-url=https://web.archive.org/web/20100619232001/http://www.sanfl.com.au/the_sanfl/history_of_the_sanfl/|archive-date=2010-06-19}}</ref>
+
+{|class="sortable wikitable"
+|+ Best and fairest awards of major Australian football competitions
+|-
+! Medal !! League !! First awarded !! Award criteria !! Comments
+|-
+| [[Brownlow Medal]] || [[Australian Football League]] || 1924 || Fairest and best || Awarded by the league
+|-
+| [[AFL Women's best and fairest]] || [[AFL Women's]] || 2017 || Fairest and best || Awarded by the league
+|-
+| [[John Eales Medal]] || [[Wallabies (rugby union)|Wallabies]] || 2002 || Best || Awarded by the [[Australian Rugby Union]] and [[Rugby Union Players Association]]
+|-
+| [[Dally M Medal]] || [[National Rugby League]] || 1980 || Best and fairest
+|-
+| [[Karyn Murphy Medal]] || [[NRL Women's]] || 2018 || Best and fairest
+|-
+| [[Johnny Warren Medal]] || [[A-League]] || 1989 || Best and fairest
+|-
+| [[Julie Dolan Medal]] || [[W-League (Australia)|W-League]] || 1996 || Best and fairest
+|-
+| [[Sandover Medal]] || [[West Australian Football League]] || 1921 || Fairest and best || Awarded by the league
+|-
+| [[Magarey Medal]] || [[South Australian National Football League]] || 1898 || Fairest and most brilliant || First awarded in 1898, it is the oldest league wide award in [[Australian rules football]]
+|-
+| [[J. J. Liston Trophy]] || [[Victorian Football League]] || 1945 || Best and fairest || Between 1923 and the 1941 the Recorder Cup was awarded, and between 1933 and 1940 the VFA Medal was also awarded
+|-
+| [[Grogan Medal]] || [[Queensland AFL]] || 1946 || Best and fairest || The De Little Medal was awarded earlier
+|-
+| [[William Leitch Medal]] || [[Tasmanian Football League|Tasmanian State League]] || 1930 || Best and fairest || A previous award also existed
+|-
+| [[Morrish Medal]] || [[TAC Cup]] || 1947 || Best and fairest || The Morrish Medal was also the best and fairest award in the [[VFL/AFL]] Under-19s competition which was superseded by the TAC Cup in 1992
+|-
+| [[Larke Medal]] || [[AFL Under 18 Championships]], Division 1 || 1976 || Best ||
+|-
+| [[Hunter Harrison Medal]]|| [[AFL Under 18 Championships]], Division 2 || 1992 || Best ||
+|-
+| [[Phelan Medal]] || [[Sydney AFL]] || || Best and fairest ||
+|-
+| [[Baldock Medal]]|| [[Northern Tasmanian Football League]] || || ||
+|-
+| [[Nichols Medal]] || [[Northern Territory Football League]] || 1946 ||Best and fairest ||
+|-
+| [[Mulrooney Medal]] || [[AFL Canberra]] || || ||
+|}
+
+==See also==
+*[[List of Australian Lacrosse best and fairest players]]
+*[[Man of the match]]
+*[[Lady Byng Memorial Trophy]], a similar [[National Hockey League]] award
+
+==References==
+{{Reflist}}
+
+{{bestandfairest}}
+
+{{Australian rules football}}
+
+[[Category:Australian Football League awards]]
+[[Category:Australian Football League]]
+[[Category:AFL Women's]]
+[[Category:Association football terminology]]
+[[Category:Rugby league terminology]]
+[[Category:Rugby union terminology]]
+[[Category:Rugby football culture]]
+[[Category:Sportsmanship trophies and awards]]
+[[Category:Sports culture in Australia]]

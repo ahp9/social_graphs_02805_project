@@ -1,0 +1,86 @@
+{{short description|Term for the Celtic reserve team of late 1960s}}
+{{Use dmy dates|date=February 2016}}
+{{Use British English|date=February 2016}}
+'''The Quality Street Gang''' was a term used by the Scottish media to describe the [[Celtic F.C.|Celtic]] reserve team of the late 1960s.  Several of the group eventually replaced members of the [[Lisbon Lions]] team that had won the [[1967 European Cup Final|European Cup]] in 1967. [[George Connelly]], [[Kenny Dalglish]], [[Davie Hay]], [[Danny McGrain]], [[Lou Macari]] and [[Paul Wilson (footballer, born 1950)|Paul Wilson]] all went on to win major honours at Celtic and were capped by [[Scotland national football team|Scotland]].<ref name="qsg">{{cite web|last=Dykes|first=Paul John|title=The Quality Street Gang: The Greatest Team That Never Was|url=http://inbedwithmaradona.com/journal/2014/3/23/the-quality-street-gang-the-greatest-celtic-team-that-never-was|publisher=In Bed with Maradonna|access-date=6 April 2015|date=24 March 2014|archive-date=11 April 2015|archive-url=https://web.archive.org/web/20150411135701/http://inbedwithmaradona.com/journal/2014/3/23/the-quality-street-gang-the-greatest-celtic-team-that-never-was|url-status=dead}}</ref>
+
+In August 1968, Celtic Reserves needed to defeat [[Partick Thistle F.C.|Partick Thistle Reserves]] by at least seven goals to win their [[Scottish Reserve League Cup|Reserve League Cup]] section over [[Rangers F.C.|Rangers Reserves]].  Celtic won 12–0, with Macari scoring four goals.<ref name="qsg" /> Later that same year Scotland manager [[Bobby Brown (footballer, born 1923)|Bobby Brown]] asked Celtic manager [[Jock Stein]] to supply players to provide opposition for a warm-up practice match.  Stein sent his young reserve side,<ref>{{cite news|title=Young Celtic players face World Cup men|url=https://news.google.com/newspapers?id=ANs9AAAAIBAJ&sjid=9UcMAAAAIBAJ&pg=3974%2C1395528|access-date=6 April 2015|work=The Glasgow Herald|date=8 October 1968|page=6}}</ref> and they went on to defeat a full strength Scotland international team (including [[Colin Stein]] and [[Billy Bremner]]) 5–2.<ref name="qsg" />  In August 1970, Celtic fielded several of their so-called Quality Street Gang youths in the [[Glasgow Cup]] Final against a full strength Rangers side, winning 3–1.<ref name="qsg" /><ref>{{cite news|last=Parkinson|first=Jim|title=Youthful Celtic win back Glasgow Cup from Rangers|url=https://news.google.com/newspapers?id=i5FAAAAAIBAJ&sjid=-6QMAAAAIBAJ&pg=2024%2C1690516|access-date=6 April 2015|work=The Glasgow Herald|date=11 August 1970|page=6}}</ref>
+
+==List of members of the Quality Street Gang==
+{{Div col|colwidth=20em}}
+*[[Davie Cattanach]]<ref name="Gordon2013">{{cite book|first=Alex |last=Gordon|title=Celtic: The Awakening: From East End Misfits to European Masters|url=https://books.google.com/books?id=qUSyTSShqn4C&pg=PT201|date=14 March 2013|publisher=Mainstream Publishing|isbn=978-1-78057-709-8|pages=201–}}</ref>
+*[[George Connelly]]<ref name=irishpost/>
+*[[Kenny Dalglish]]<ref name=book/>
+*[[Vic Davidson]]<ref name=Gordon2013/>
+*[[John Gorman (footballer)|John Gorman]]<ref name="GrantRobertson2011">{{cite book|first1=Michael |last1=Grant|first2=Rob |last2=Robertson|title=The Management: Scotland's Great Football Bosses|url=https://books.google.com/books?id=IdG8BQAAQBAJ&pg=PT60|date=1 September 2011|publisher=Birlinn Limited|isbn=978-0-85790-084-5|pages=60–}}</ref>
+*[[Davie Hay]]<ref>{{cite news |url=http://www.scotsman.com/sport/football/spfl/celtic-legends-lift-lid-on-quality-street-gang-1-3134768 | title=Celtic legends lift lid on Quality Street Gang |work=The Scotsman |date=10 October 2013 |access-date=6 April 2015 |last=Puttullo |first=Alan}}</ref>
+*[[Lou Macari]]<ref name="irishpost">{{cite news|url=http://www.irishpost.co.uk/sport/one-for-the-bhoys/quality-street-legends-score-new-celtic-related-film-paradise |title=Quality Street legends to score in new Celtic-related film |work=Irish Post |date=7 March 2014 |access-date=6 April 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150522232914/http://www.irishpost.co.uk/sport/one-for-the-bhoys/quality-street-legends-score-new-celtic-related-film-paradise |archive-date=22 May 2015 }} </ref>
+*[[Pat McCluskey]]
+*[[Danny McGrain]]<ref name=book/>
+*[[Brian McLaughlin (footballer, born 1954)|Brian McLaughlin]]<ref name=irishpost/>
+*[[Pat McMahon (footballer, born 1945)|Pat McMahon]]
+*[[Billy Murdoch (Scottish footballer)|Billy Murdoch]]
+*[[Jimmy Quinn (footballer, born 1947)|Jimmy Quinn]]<ref name=Gordon2013/>
+*[[Paul Wilson (footballer, born 1950)|Paul Wilson]]<ref>{{cite news |url=http://www.scotsman.com/sport/football/spfl/interview-paul-wilson-on-stein-celtic-and-racial-abuse-in-the-1970s-1-1901659 |title=Interview: Paul Wilson on Stein, Celtic and racial abuse in the 1970s |work=The Scotsman |date=20 October 2011 |access-date=6 April 2015 |last=Smith |first=Andrew}}</ref>
+{{Div col end}}
+
+{| class=wikitable style="text-align:center;"
+ ! rowspan="2" colspan="2"|Player
+ ! colspan="2"|[[Scottish Football League|League]]
+ ! colspan="2"|[[Scottish Cup]]
+ ! colspan="2"|[[Scottish League Cup|League Cup]]
+ ! colspan="2"|[[Celtic F.C. in European football|Europe]]
+ ! colspan="2"|Total
+|-
+! Apps !! Goals !! Apps !! Goals !! Apps !! Goals !! Apps !! Goals || Apps !! Goals
+|-
+ | style="text-align:left;" colspan=2|[[Danny McGrain]] || 439 || 4 || 60 || 1  || 106 || 3 || 54 || 0 
+! 659 !! 8
+|-
+ | style="text-align:left;" colspan=2|[[Kenny Dalglish]] || 204 || 112 || 30 || 11  || 60 || 35 || 28 || 9 
+! 322 !! 167
+|-
+ | style="text-align:left;" colspan=2|[[George Connelly]] || 136 || 5 || 25 || 2  || 63 || 4 || 30 || 3 
+! 254 !! 14
+|-
+ | style="text-align:left;" colspan=2|[[David Hay]] || 130 || 6 || 30 || 1  || 45 || 5 || 25 || 0 
+! 230 !! 12
+|-
+ | style="text-align:left;" colspan=2|[[Paul Wilson (footballer, born 1950)|Paul Wilson]] || 129 || 30 || 15 || 4  || 48 || 15 || 20 || 6 
+! 212 !! 55
+|-
+ | style="text-align:left;" colspan=2|[[Pat McCluskey]] || 115 || 10 || 14 || 1 || 40 || 1 || 20 || 0 
+! 189 !! 12
+|-
+ | style="text-align:left;" colspan=2|[[Lou Macari]] || 58 || 26 || 8 || 8 || 24 || 14 || 12 || 8 
+! 102 !! 56
+|-
+ | style="text-align:left;" colspan=2|[[Vic Davidson]] || 39 || 17 || 5 || 2  || 10 || 2 || 1 || 0 
+! 55 !! 21
+|-
+ | style="text-align:left;" colspan=2|[[Jimmy Quinn (footballer, born 1947)|Jimmy Quinn]] || 27 || 1 || 3 || 0 || 10 || 0 || 1 || 0 
+! 41 !! 1
+|-
+ | style="text-align:left;" colspan=2|[[Brian McLaughlin (footballer, born 1954)|Brian McLaughlin]] || 7 || 1 || 0 || 0 || 11 || 0 || 1 || 1 
+! 19 !! 2
+|-
+ | style="text-align:left;" colspan=2|[[Davie Cattanach]] || 13 || 1 || 3 || 0  || 2 || 0 || 1 || 0 
+! 19 !! 1
+|-
+ | style="text-align:left;" colspan=2|[[Pat McMahon (footballer, born 1945)|Pat McMahon]] || 3 || 2 || 0 || 0 || 3 || 3 || 0 || 0
+! 6 !! 5
+|-
+ | style="text-align:left;" colspan=2|[[John Gorman (footballer)|John Gorman]] || 0 || 0 || 0 || 0  || 1 || 0 || 0 || 0 
+! 1 !! 0
+|-
+|}
+
+==Book and documentary==
+In 2013 a book ''The Quality Street Gang'', by [[Paul John Dykes]] was published and plans announced for a documentary with filming due to commence in June 2014.<ref name="book">{{cite web |url=http://www.scotsman.com/sport/football/spfl/celtic-quality-street-gang-to-be-in-documentary-1-3351210 |title=Celtic Quality Street Gang to be in documentary |work=The Scotsman |date=24 March 2014 |access-date=6 April 2015 |first=Bathgate |last=Stuart}}</ref><ref>{{cite web |url=http://www.celticfc.net/news/4871?item=4871 |title=Quality tale of a Quality gang |publisher=www.celticfc.net | access-date=6 April 2015}}</ref>
+
+==References==
+{{reflist|40em}}
+
+{{Celtic F.C. |state=collapsed}}
+
+[[Category:Celtic F.C.]]
+[[Category:Nicknamed groups of association football players]]

@@ -1,0 +1,262 @@
+{{short description|Scottish football player and manager}}
+{{About|the Scottish football manager|the economics and finance professor|Steve Keen}}
+{{pp-semi-protected|small=yes}}
+{{Use British English|date=April 2013}}
+{{Use dmy dates|date=August 2022}}
+{{Infobox football biography
+| name = Steve Kean
+| image = Steve Kean.jpg
+| image_size = 
+| caption = Kean in 2010
+| fullname = Stephen Kean<ref name="PFA 339">{{Cite book
+ | editor-first = Barry J.
+ | editor-last = Hugman
+ | title = The PFA Premier & Football League Players' Records 1946–2005
+ | publisher = Queen Anne Press
+ | year = 2005
+ | page = 339
+ | isbn = 1-85291-665-6 }}</ref>
+| birth_date = {{Birth date and age|1967|9|30|df=y}}<ref name="PFA 339"/>
+| birth_place = [[Glasgow]], Scotland
+| height = 
+| position = [[Midfielder#Winger|Winger]]
+| currentclub = [[FC Torpedo Kutaisi|Torpedo Kutaisi]] (Sporting Director)
+| years1 = 1985–1987
+| caps1 = 0
+| goals1 = 0
+| clubs1 = [[Celtic F.C.|Celtic]]
+| years2 = 1987
+| caps2 = 4
+| goals2 = 0
+| clubs2 = → [[Swansea City A.F.C.|Swansea City]] (loan)
+| years3 = 1987–1988
+| caps3 = 1
+| goals3 = 0
+| clubs3 = [[Alloa Athletic F.C.|Alloa Athletic]]
+| years4 = 1988–1991
+| caps4 = 9
+| goals4 = 1
+| clubs4 = [[Associação Académica de Coimbra – O.A.F.|Académica Coimbra]]
+| years5 = 1991
+| caps5 = 35
+| goals5 = 0
+| clubs5 = [[Associação Naval 1º de Maio|Naval]]
+| years6 = 1991–1992
+| caps6 = 
+| goals6 = 
+| clubs6 = [[Bath City F.C.|Bath City]]
+| years7 = 1993–1994
+| caps7 = 
+| goals7 = 
+| clubs7 = [[Newbury Town F.C.|Newbury Town]]
+| totalcaps = 
+| totalgoals = 
+| manageryears1 = 2010–2012
+| managerclubs1 = [[Blackburn Rovers F.C.|Blackburn Rovers]]
+| manageryears2 = 2013–2017
+| managerclubs2 = [[DPMM FC]]
+| manageryears3 = 2014
+| managerclubs3 = [[Brunei national football team|Brunei]]
+| manageryears4 = 2021
+| managerclubs4 = [[Melbourne Victory FC|Melbourne Victory]]
+| manageryears5 = 2023–2024
+| managerclubs5 = [[FC Torpedo Kutaisi|Torpedo Kutaisi]]
+}}
+'''Stephen Kean''' (born 30 September 1967) is a Scottish [[Association football|football]] coach and former player who was most recently manager of Georgian club [[FC Torpedo Kutaisi|Torpedo Kutaisi]]. Kean played as a [[Midfielder#Winger|winger]] for clubs in the lower divisions of Scottish, English and Portuguese leagues in the 1980s and 1990s, before moving into coaching. After a 21-month spell in charge of [[Blackburn Rovers F.C.|Blackburn Rovers]], he resigned on 28 September 2012.
+
+==Playing career==
+Kean grew up in [[Cumbernauld]], a new town on the outskirts of [[Glasgow]], attending St. Maurice's High School. Upon leaving school, he joined [[Celtic F.C.|Celtic]] as a professional, but was unable to break into a first team then dominated by Celtic legends [[Tommy Burns (footballer)|Tommy Burns]], [[Murdo MacLeod]] and [[Paul McStay]].
+
+He joined [[Swansea City A.F.C.|Swansea City]] on loan in 1987,<ref>{{cite web|url=http://www.neilbrown.newcastlefans.com/swansea/swansea.html|access-date=9 October 2010|publisher=Post War English & Scottish Football League A–Z Player's Database|title=Swansea City: 1946/47 – 2009/10|archive-date=6 April 2010|archive-url=https://web.archive.org/web/20100406080816/http://www.neilbrown.newcastlefans.com/swansea/swansea.html|url-status=live}}</ref> at the same time as [[Chris Coleman (footballer)|Chris Coleman]]. They formed a lasting professional relationship, which carried on after both of their playing days had ended.
+
+Kean then played for [[Associação Académica de Coimbra – O.A.F.|Académica Coimbra]] in Portugal, making nine appearances, and scoring one goal in all competitions.<ref name="Statistics">{{cite web |url=http://www.veteranosaac.com/index.php?menu=31&listar_tipo=jog_nomealc&ordenar=ASC&letra=S |title=Statistics |publisher=Veteranosaac.com |access-date=8 May 2012 |language=pt |archive-url=https://web.archive.org/web/20131103111713/http://www.veteranosaac.com/index.php?menu=31&listar_tipo=jog_nomealc&ordenar=ASC&letra=S |archive-date=3 November 2013 |url-status=dead }}</ref><ref name="Kean linked to Chelsea coach role"/><ref>{{ForaDeJogo|196709300003}}</ref> During his time in Portugal, Kean also played for [[Associação Naval 1º de Maio|Naval]].<ref>{{cite web|url=http://www.britishcoachesabroad.com/new-steve-kean-interview/|access-date=12 May 2019|publisher=The British Coaches Abroad Association|title=New: Steve Kean interview!|archive-date=11 May 2019|archive-url=https://web.archive.org/web/20190511234653/http://www.britishcoachesabroad.com/new-steve-kean-interview/|url-status=dead}}</ref>
+
+==Coaching and management career==
+[[File:Steve Kean (cropped).jpg|thumb|left|Kean with Coventry City in 2008]]
+
+===Coaching career===
+Since retiring from playing Kean has worked as a coach for [[Reading F.C.|Reading]], [[Fulham F.C.|Fulham]], [[Real Sociedad]] and [[Coventry City F.C.|Coventry City]], working as an assistant to [[Chris Coleman (footballer)|Chris Coleman]] at Fulham, Real Sociedad and Coventry.<ref name="Kean linked to Chelsea coach role">{{cite news|title=Kean linked to Chelsea coach role|url=https://news.bbc.co.uk/sport2/hi/football/teams/c/chelsea/7462555.stm|publisher=BBC Sport|date=19 June 2008|access-date=19 June 2008|archive-date=15 September 2008|archive-url=https://web.archive.org/web/20080915112435/http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7462555.stm|url-status=live}}</ref>
+
+In June 2008, it was reported that Kean was in talks with [[Chelsea F.C.|Chelsea]] to become assistant manager to [[Luiz Felipe Scolari]].<ref name="Kean linked to Chelsea coach role"/> Kean's fluency in Portuguese from his playing days was believed to be a key reason for Chelsea's interest.<ref name="Kean linked to Chelsea coach role"/>
+
+===Blackburn Rovers===
+On 4 August 2009, [[Blackburn Rovers F.C.|Blackburn Rovers]] manager [[Sam Allardyce]] appointed Kean as his new first team coach. Kean replaced [[Karl Robinson]] who returned to [[Milton Keynes Dons F.C.|Milton Keynes Dons]]. Allardyce commented that he had received numerous applications for the first team coaching position and Kean "stood out above the rest through his personality, experience and knowledge of football at the highest level".<ref name="stoodout">{{cite news | url=https://www.telegraph.co.uk/sport/football/teams/blackburn-rovers/8201129/Who-is-Blackburns-interim-manager-Steve-Kean.html | title=Who is Blackburn's interim manager Steve Kean? | work=The Daily Telegraph|location=London | date=14 December 2010 | access-date=16 January 2012}}</ref>
+
+After the sacking of Allardyce on 13 December 2010 by new Blackburn owners [[Venky's]], Kean was initially installed as [[caretaker manager]] but on 22 December 2010, he was appointed manager on a contract until the end of the season to prove his abilities in that position.<ref name="Blackburn Rovers sack manager Sam Allardyce">{{cite news|title=Blackburn Rovers sack manager Sam Allardyce|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/blackburn_rovers/9283395.stm|publisher=BBC Sport|date=13 December 2010|access-date=18 December 2010|archive-date=12 January 2016|archive-url=https://web.archive.org/web/20160112211747/http://news.bbc.co.uk/sport1/hi/football/teams/b/blackburn_rovers/9283395.stm|url-status=live}}</ref><ref name="Steve Kean put in charge by Blackburn">{{cite news|title=Steve Kean put in charge by Blackburn|url=https://news.bbc.co.uk/sport2/hi/football/teams/b/blackburn_rovers/9313502.stm|publisher=BBC Sport|date=22 December 2010|access-date=22 December 2010|archive-date=27 July 2022|archive-url=https://web.archive.org/web/20220727175214/http://news.bbc.co.uk/sport2/hi/football/teams/b/blackburn_rovers/9313502.stm|url-status=live}}</ref> On 4 January 2011, it was revealed by Anuradha Desai, chairperson of Venky's, that Kean would be offered a new two-to-three-year long-term contract to manage the club and on 20 January 2011, it was confirmed by Blackburn that Kean had signed a contract until June 2013.<ref name="Kean to land long-term deal">{{Cite news|title=Kean to land long-term deal|url=http://www.skysports.com/story/0,19528,11676_6634005,00.html|publisher=Sky Sports|date=4 January 2011|access-date=5 January 2011|archive-date=21 October 2012|archive-url=https://web.archive.org/web/20121021184021/http://www.skysports.com/story/0,19528,11676_6634005,00.html|url-status=live}}</ref><ref name="Kean signs contract to June 2013">{{Cite news |title=Kean signs contract to June 2013 |url=http://www.rovers.co.uk/page/NewsDetail/0,,10303~2271940,00.html |publisher=Blackburn Rovers F.C. |date=20 January 2011 |access-date=20 January 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120915041340/http://www.rovers.co.uk/page/NewsDetail/0,,10303~2271940,00.html |archive-date=15 September 2012 }}</ref> Kean's appointment was shrouded in a great deal of controversy since his agent [[Jerome Anderson (football agent)|Jerome Anderson]] had earlier played a major role in advising Venky's during the takeover of the club in the preceding months.<ref name= "How an agent came to hold so much power at Blackburn Rovers">Conn, David. [https://www.theguardian.com/sport/david-conn-inside-sport-blog/2010/dec/21/blackburn-rovers-venkys-jerome-anderson "How an agent came to hold so much power at Blackburn Rovers"] {{Webarchive|url=https://web.archive.org/web/20180820074556/https://www.theguardian.com/sport/david-conn-inside-sport-blog/2010/dec/21/blackburn-rovers-venkys-jerome-anderson |date=20 August 2018 }}, ''[[The Guardian]]'', 21 December 2010. Retrieved 2 August 2016.</ref><ref name= "Steve Kean finds value of friends in high places at Blackburn Rovers">Hytner, David. [https://www.theguardian.com/football/blog/2010/dec/16/steve-kean-blackburn-rovers "Steve Kean finds value of friends in high places at Blackburn Rovers"] {{Webarchive|url=https://web.archive.org/web/20160927190227/https://www.theguardian.com/football/blog/2010/dec/16/steve-kean-blackburn-rovers |date=27 September 2016 }}, ''[[The Guardian]]'', 16 December 2010. Retrieved 2 August 2016.</ref><ref>{{cite news|url=https://www.theguardian.com/football/2012/jan/15/blackburn-rovers-board-dismay-venkys|title=Blackburn Rovers board's dismay at Venky's conduct revealed in letter|newspaper=The Guardian|date=15 January 2012|archive-date=2 February 2017|access-date=13 December 2016|archive-url=https://web.archive.org/web/20170202091925/https://www.theguardian.com/football/2012/jan/15/blackburn-rovers-board-dismay-venkys|url-status=live}}</ref> Furthermore, Allardyce later received "substantial", but undisclosed, damages from Kean after Kean had been recorded in a bar in [[Hong Kong]] falsely alleging that Allardyce had been sacked from his post at Blackburn Rovers because he was a crook.<ref name=SteveKeandamages>{{cite news |title=Steve Kean pays Sam Allardyce damages over 'crook' claim |url=https://www.bbc.co.uk/sport/football/21044001 |publisher=BBC Sport |date=16 January 2013 |access-date=16 January 2013 |archive-date=11 January 2016 |archive-url=https://web.archive.org/web/20160111072546/http://www.bbc.co.uk/sport/0/football/21044001 |url-status=live }}</ref>
+
+Kean started brightly as manager, but [[2010–11 Blackburn Rovers F.C. season#February|ten games without a win]] saw Rovers dragged into relegation trouble. A 15th-place finish was secured with a 3–2 win over [[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] on the final day of the [[2010–11 Premier League]] season.
+
+In November 2011, Blackburn confirmed that Kean had signed a new contract with improved terms, despite the club being in the bottom place of the league. This came despite Kean's comments less than a week earlier stating: "Yes, there have been discussions about a new contract, but I have told the owners that this is an inappropriate time to conclude any new contract discussions".<ref name="Steve Kean contradicts earlier statement he made to ESPN">{{Cite news|title=Rovers confirm Kean contract revision|url=http://soccernet.espn.go.com/news/story/_/id/987457/blackburn-rovers-confirm-steve-kean-contract-revision?cc=5739|archive-url=https://web.archive.org/web/20111127075124/http://soccernet.espn.go.com/news/story/_/id/987457/blackburn-rovers-confirm-steve-kean-contract-revision?cc=5739|url-status=dead|archive-date=27 November 2011|publisher=ESPNsoccernet|date=23 November 2011 |access-date=23 November 2011}}</ref> The new deal came after months of protests at the club in which fans campaigned to have Kean removed as Rovers manager as he had recorded just one league win all season.<ref name="Anti-Steve Kean banner flown by Blackburn Rovers fans ">{{cite news|title=Anti-Steve Kean banner flown by Blackburn Rovers fans |url=https://www.bbc.co.uk/sport/football/15609898|publisher=BBC Sport|date=5 November 2011 |access-date=23 November 2011}}</ref> At the time, Steve Kean was Blackburn Rovers' second worst manager since 1992, with only [[Paul Ince]] scoring a lower win percentage.<ref name="Kean out? How Kean fares historically ">{{Cite news|title=Kean out? How Kean fares historically|url=http://www.eplindex.com/5950/kean-comparing-kean-rovers-managers.html|publisher=EPL Index.com|date=19 November 2011|access-date=6 April 2012|archive-date=27 June 2012|archive-url=https://web.archive.org/web/20120627053247/http://www.eplindex.com/5950/kean-comparing-kean-rovers-managers.html|url-status=live}}</ref>
+
+Further controversy was created when Kean admitted 'forfeiting' a [[EFL Cup|League Cup]] quarter-final at [[Cardiff City F.C.|Cardiff City]] for the sake of their league form, with fans subsequently demanding a refund for the ticket price, travel expenses and money lost due to not working on the day.<ref name="Blackburn boss Steve Kean admits Carling Cup 'forfeit' at Cardiff">{{Cite news|title=Blackburn boss Steve Kean admits Carling Cup 'forfeit' at Cardiff|url=https://www.bbc.co.uk/sport/football/15957699|publisher=BBC|date=30 November 2011 |access-date=11 September 2016}}</ref><ref name="Rovers fans demand refund after Kean admits to 'forfeiting' Cup game">{{Cite news|title=Rovers fans demand refund after Kean admits to 'forfeiting' Cup game|url=https://www.mirror.co.uk/sport/football/news/blackburn-fans-demand-refund-after-3314433|work=The Mirror|date=30 November 2011 |access-date=11 September 2016}}</ref> In December 2011, the [[Lancashire Telegraph|local newspaper]] and MP [[Jack Straw]] joined the fans in calling for Kean's resignation ahead of a crucial home match with [[Bolton Wanderers F.C.|Bolton Wanderers]].<ref name="Time to go Steve Kean">{{cite news|title=Lancashire Telegraph comment: Time to go Steve Kean|url=http://www.lancashiretelegraph.co.uk/sport/9427073.Lancashire_Telegraph_comment__Time_to_go_Steve|newspaper=Lancashire Telegraph|date=19 December 2011|access-date=11 September 2016|archive-date=30 October 2017|archive-url=https://web.archive.org/web/20171030225712/http://www.lancashiretelegraph.co.uk/sport/9427073.Lancashire_Telegraph_comment__Time_to_go_Steve/|url-status=live}}</ref> Another defeat concluded Kean's first 38 league games as Blackburn manager in which he had amassed just 32 points and left Rovers [[Premier League–Football League gulf#Curse of Christmas|bottom of the table at Christmas]].<ref>{{Cite news|title=Blackburn Rovers 1-2 Bolton Wanderers, 20th December 2011|url=https://www.bbc.co.uk/sport/football/16154249|publisher=BBC|date=20 December 2011|access-date=11 September 2016|archive-date=5 October 2016|archive-url=https://web.archive.org/web/20161005232705/http://www.bbc.co.uk/sport/football/16154249|url-status=live}}</ref> Despite all of this, Kean remained defiant by insisting that he would stay in his job long enough to fashion a revival and that he would be "100% shocked" if he was sacked.<ref name="Under-fire Kean banking on season of goodwill">{{Cite news|title=Under-fire Kean banking on season of goodwill|url=https://www.bbc.co.uk/blogs/philmcnulty/2011/12/under-fire_kean_banking_on_sea.html|publisher=BBC|date=21 December 2011|access-date=11 September 2016|archive-date=10 October 2016|archive-url=https://web.archive.org/web/20161010052608/http://www.bbc.co.uk/blogs/philmcnulty/2011/12/under-fire_kean_banking_on_sea.html|url-status=live}}</ref><ref name="Blackburn Rovers boss Steve Kean '100% shocked' if he was sacked">{{Cite news|title=Blackburn Rovers boss Steve Kean '100% shocked' if he was sacked|url=https://www.bbc.co.uk/sport/football/16279663|publisher=BBC|date=20 December 2011|access-date=11 September 2016|archive-date=24 May 2021|archive-url=https://web.archive.org/web/20210524160101/https://www.bbc.co.uk/sport/football/16279663|url-status=live}}</ref>
+
+Results were somewhat improved in the second half of the season but [[2011–12 Blackburn Rovers F.C. season#Matches|five successive defeats]] in April dragged Rovers deep into relegation trouble again with Kean having recorded just 12 wins from his 55 league games since he took over. On 7 May 2012, a home loss against [[Wigan Athletic F.C.|Wigan Athletic]] relegated Blackburn Rovers to the [[Football League Championship]] and ended an eleven-year run in the top flight.<ref name="telegraph">{{cite news |title=Blackburn Rovers relegated from Premier League as Antolin Alcaraz scores only goal in Wigan's great escape |first=Henry |last=Winter |newspaper=[[The Daily Telegraph]] |location=London |date=8 May 2012 |url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/9239025/Blackburn-Rovers-relegated-from-Premier-League-as-Antolin-Alcaraz-scores-only-goal-in-Wigans-great-escape.html |access-date=17 October 2012 |archive-date=4 July 2012 |archive-url=https://web.archive.org/web/20120704202242/http://www.telegraph.co.uk/sport/football/competitions/premier-league/9239025/Blackburn-Rovers-relegated-from-Premier-League-as-Antolin-Alcaraz-scores-only-goal-in-Wigans-great-escape.html |url-status=live }}</ref>
+
+Kean left his position as Rovers' manager on 28 September 2012 with the club third in the Championship table. He declared that he had been "forced to resign" and that his position had been "untenable".<ref>{{cite news |title=Steve Kean 'forced to resign' as Blackburn Rovers manager |url=https://www.bbc.co.uk/sport/football/19766783 |publisher=BBC Sport |date=28 September 2012 |access-date=28 September 2012 |archive-date=27 July 2022 |archive-url=https://web.archive.org/web/20220727175217/https://www.bbc.com/sport/football/19766783 |url-status=live }}</ref>
+
+===DPMM FC===
+In October 2013 Kean agreed a deal to become the new manager of [[S.League]] side [[DPMM FC]].<ref>{{cite news|title=Steve Kean: Ex-Blackburn boss to take charge at Brunei DPMM|url=https://www.bbc.co.uk/sport/football/24620318|publisher=BBC Sport|access-date=26 November 2013}}</ref> Kean signed an initial one-year contract with the club in [[Brunei]] on 28 November 2013.<ref>{{cite web|title=Kean and Jeffers set to arrive at DPMM|url=http://www.goal.com/en-sg/news/3875/transfer-zone/2013/11/21/4421992/kean-and-jeffers-set-to-arrive-at-dpmm|publisher=Goal|access-date=26 November 2013|archive-date=23 November 2013|archive-url=https://web.archive.org/web/20131123193706/http://www.goal.com/en-sg/news/3875/transfer-zone/2013/11/21/4421992/kean-and-jeffers-set-to-arrive-at-dpmm|url-status=live}}</ref><ref>{{cite web|title=New DPMM FC coach inks one year deal|url=http://borneobulletin.brunei-online.com.bn/index.php/2013/11/28/new-dpmm-fc-coach-inks-one-year-deal/|publisher=borneobulletin.brunei-online.com.bn|access-date=1 December 2013|url-status=dead|archive-url=https://archive.today/20131201170030/http://borneobulletin.brunei-online.com.bn/index.php/2013/11/28/new-dpmm-fc-coach-inks-one-year-deal/|archive-date=1 December 2013}}</ref> Brunei led the [[2014 S.League]] for the majority of the campaign but ended up finishing as runners up to [[Warriors FC]] following a 2–1 defeat to [[Tampines Rovers FC|Tampines Rovers]] on the final day of the season.<ref>{{cite web|title=Summary – S.League- Singapore|url=https://int.soccerway.com/national/singapore/sleague/2014/championship-round/r28721/|publisher=Soccerway|access-date=1 September 2015|archive-date=25 February 2015|archive-url=https://web.archive.org/web/20150225072227/http://int.soccerway.com/national/singapore/sleague/2014/championship-round/r28721/|url-status=live}}</ref> They were also knocked out of the [[2014 Singapore Cup]] in the semi-final by [[Home United FC|Home United]].<ref>{{cite web|title=Summary – Singapore Cup- Singapore|url=https://int.soccerway.com/national/singapore/singapore-cup/2014/s8936/final-stages/|publisher=Soccerway|access-date=1 September 2015|archive-date=29 April 2016|archive-url=https://web.archive.org/web/20160429105526/http://int.soccerway.com/national/singapore/singapore-cup/2014/s8936/final-stages/|url-status=live}}</ref> The team did lift some silverware however, as they won the [[2014 Singapore League Cup]], beating [[Tanjong Pagar United FC|Tanjong Pagar United]] 2–0 in the final.<ref>{{cite web|title=Summary – League Cup- Singapore |url=https://int.soccerway.com/national/singapore/league-cup/2014/s8802/final-stages/|publisher=Soccerway|access-date=1 September 2015}}</ref>
+
+Kean was also appointed as the head coach of [[Brunei national football team]] for the [[2014 AFF Suzuki Cup qualification]] tournament in Laos in October 2014.<ref>{{cite news|title=Kean:We're not underdogs|url=http://www.bt.com.bn/sports-national/2014/10/11/kean-we%E2%80%99re-not-underdogs|newspaper=[[The Brunei Times]]|author=Syarif Rasani|date=11 October 2014|access-date=16 October 2014|url-status=dead|archive-url=https://web.archive.org/web/20141023085833/http://www.bt.com.bn/sports-national/2014/10/11/kean-we%E2%80%99re-not-underdogs|archive-date=23 October 2014}}</ref>
+
+Brunei DPMM clinched the S-League championship on 21 November 2015, with a 4–0 win at home to [[Balestier Khalsa FC|Balestier Khalsa]].<ref name = "sleague15">{{cite web|url=https://www.bbc.co.uk/sport/football/34891442|title=Steve Kean: Ex-Blackburn boss wins Singapore S-League title|publisher=BBC Sport|date=21 November 2015|access-date=22 November 2015|archive-date=21 November 2015|archive-url=https://web.archive.org/web/20151121224902/http://www.bbc.co.uk/sport/0/football/34891442|url-status=live}}</ref> Kean was named as the S.League's coach of the year in 2015.<ref>{{cite web |last1=Duerden |first1=John |title=Melbourne's new number two still seeking to shrug off Premier League troubles |url=https://theworldgame.sbs.com.au/melbourne-s-new-number-two-still-seeking-to-shrug-off-premier-league-troubles |website=The World Game |publisher=Special Broadcasting Service |access-date=27 February 2021}}</ref>
+
+In early November it was announced that Kean would leave Brunei DPMM at the end of the [[2017 S.League]] season, a year before his contract with the club ended.<ref>{{cite web|title=Ex-Premier League manager Steve Kean to leave Brunei DPMM|url=http://www.espn.co.uk/football/singapore-s-league/story/3259339/ex-premier-league-manager-steve-kean-to-leave-brunei-dpmm|publisher=ESPN|access-date=10 November 2017|date=5 November 2017}}</ref>
+
+===Melbourne Victory===
+On 23 October 2020 Kean was announced as the assistant coach for [[Melbourne Victory FC|Melbourne Victory]], serving under head coach [[Grant Brebner]].<ref>{{Cite web|date=2020-10-23|title=Steve Kean appointed Assistant Coach|url=https://www.melbournevictory.com.au/news/steve-kean-appointed-assistant-coach|access-date=2020-10-24|website=Melbourne Victory|language=en|archive-date=28 October 2020|archive-url=https://web.archive.org/web/20201028191535/https://www.melbournevictory.com.au/news/steve-kean-appointed-assistant-coach|url-status=live}}</ref> Brebner and Kean had previously worked together during their time with Reading, with Kean serving as Academy Director and then First Team Coach, while Brebner was a player.<ref>{{cite web |title=Steve Kean on Melbourne move |url=https://www.melbournevictory.com.au/news/steve-kean-melbourne-move |website=Melbourne Victory |date=14 November 2020 |publisher=Melbourne Victory FC |access-date=27 February 2021 |archive-date=30 March 2021 |archive-url=https://web.archive.org/web/20210330102438/https://www.melbournevictory.com.au/news/steve-kean-melbourne-move |url-status=live }}</ref> In April 2021, Kean was appointed as interim coach until the end of the [[2020–21 A-League]] season, following the sacking of [[Grant Brebner]].<ref>{{cite news|url=https://www.smh.com.au/sport/soccer/maclaren-hits-five-as-traore-sees-red-in-city-derby-romp-20210417-p57k35.html|title=Brebner out after Victory's 7-0 humiliation against Melbourne City|first=Michael|last=Lynch|newspaper=[[The Sydney Morning Herald]]|date=17 April 2021|archive-date=21 April 2021|access-date=19 April 2021|archive-url=https://web.archive.org/web/20210421184704/https://www.smh.com.au/sport/soccer/maclaren-hits-five-as-traore-sees-red-in-city-derby-romp-20210417-p57k35.html|url-status=live}}</ref><ref>{{cite web|url=https://www.melbournevictory.com.au/news/steve-kean-confirmed-interim-head-coach|title=Steve Kean confirmed as interim Head Coach|website=[[Melbourne Victory FC|Melbourne Victory]]|date=19 April 2021|access-date=19 April 2021|archive-date=19 April 2021|archive-url=https://web.archive.org/web/20210419054110/https://www.melbournevictory.com.au/news/steve-kean-confirmed-interim-head-coach|url-status=live}}</ref>
+
+===Hibernian===
+Kean became academy director of Scottish club [[Hibernian F.C.|Hibernian]] in November 2021, and was given the task of identifying [[Hibernian F.C. Reserves and Academy|youth]] players who could be promoted into the first team squad.<ref>{{cite web |url=https://www.skysports.com/football/news/11792/12469985/steve-kean-hibernian-appoint-former-blackburn-manager-as-academy-director |title=Steve Kean: Hibernian appoint former Blackburn manager as academy director |first=Anthony |last=Joseph |website=Sky Sports |date=16 November 2021 |accessdate=3 November 2022}}</ref> He was linked with managerial vacancies at [[Dundee F.C.|Dundee]] and [[Charlton Athletic F.C.|Charlton Athletic]] during the 2022 close season, but stayed with Hibs into the 2022–23 season.<ref>{{cite news |url=https://www.dailyrecord.co.uk/sport/football/steve-kean-drops-hibs-exit-27331501 |title=Steve Kean drops Hibs exit hint as former Blackburn boss can't rule out management return |first=Robbie |last=Copeland |newspaper=Daily Record |date=26 June 2022 |accessdate=3 November 2022 |archive-date=3 November 2022 |archive-url=https://web.archive.org/web/20221103082115/https://www.dailyrecord.co.uk/sport/football/steve-kean-drops-hibs-exit-27331501 |url-status=live }}</ref> For that season he decided that Hibs should not enter a "B" team in the [[Lowland Football League|Lowland League]], as done by [[Celtic F.C. B Team and Academy|Celtic]], [[Rangers F.C. B Team and Academy|Rangers]] and [[Heart of Midlothian F.C. Reserves and Academy|Hearts]], and would instead enter the [[SPFL Reserve League]], play friendlies against English clubs and participate in the [[2022–23 UEFA Youth League]].<ref>{{cite web |url=https://www.bbc.co.uk/sport/articles/c03pev8qvpro |title=Hibs academy director explains youth strategy |website=BBC Sport |date=25 June 2022 |accessdate=3 November 2022 |archive-date=3 November 2022 |archive-url=https://web.archive.org/web/20221103082117/https://www.bbc.co.uk/sport/articles/c03pev8qvpro |url-status=live }}</ref> In the latter competition, Hibs progressed through the first two rounds by defeating Norwegian side [[Molde FK]]<ref>{{cite news |url=https://www.edinburghnews.scotsman.com/sport/football/hibs/hibs-defeat-molde-on-penalties-after-2-2-draw-to-advance-in-uefa-youth-league-3869165 |title=Hibs defeat Molde on penalties after 2-2 draw to advance in UEFA Youth League |newspaper=Edinburgh Evening News  |first=Patrick |last=McPartlin |date=5 October 2022 |accessdate=6 October 2022}}</ref> and French club [[FC Nantes|Nantes]] before losing 2–1 to [[Borussia Dortmund Youth Sector|Borussia Dortmund]] in the [[2022–23 UEFA Youth League knockout phase|knockout phase]].<ref>{{cite news |url=https://www.edinburghnews.scotsman.com/sport/football/hibs/hibs-stun-nantes-to-set-up-uefa-youth-league-play-off-against-one-of-europes-big-guns-3903570 |title=Hibs stun Nantes to set up UEFA Youth League play-off against one of Europe's big guns |newspaper=Edinburgh Evening News |first=Patrick |last=McPartlin |date=2 November 2022 |accessdate=2 November 2022 |archive-date=2 November 2022 |archive-url=https://web.archive.org/web/20221102210450/https://www.edinburghnews.scotsman.com/sport/football/hibs/hibs-stun-nantes-to-set-up-uefa-youth-league-play-off-against-one-of-europes-big-guns-3903570 |url-status=live }}</ref><ref>{{cite web |url=https://news.stv.tv/sport/hibs-to-face-borussia-dortmund-in-european-knockout-clash-with-bundesliga-giants |title=Hibs handed tough Borussia Dortmund tie in Uefa Youth League |first=James |last=Delaney |website=STV Sport |date=8 November 2022 |accessdate=8 November 2022}}</ref><ref>{{cite news |url=https://www.edinburghnews.scotsman.com/sport/football/hibs/steve-kean-hails-outstanding-hibs-after-dortmund-heartbreak-and-makes-first-team-claim-4018278 |title=Steve Kean hails 'outstanding' Hibs after Dortmund heartbreak and makes first team claim |newspaper=Edinburgh Evening News |first=Patrick |last=McPartlin |date=7 February 2023 |accessdate=8 February 2023 |archive-date=13 March 2023 |archive-url=https://web.archive.org/web/20230313140118/https://www.edinburghnews.scotsman.com/sport/football/hibs/steve-kean-hails-outstanding-hibs-after-dortmund-heartbreak-and-makes-first-team-claim-4018278 |url-status=live }}</ref>
+
+===Torpedo Kutaisi===
+Kean left Hibernian in May 2023 to become manager of Georgian club [[FC Torpedo Kutaisi|Torpedo Kutaisi]].<ref>{{cite web |url=https://www.hibernianfc.co.uk/article/steve-kean-departs-hibernian-fc |title=Steve Kean Departs Hibernian FC |website=www.hibernianfc.co.uk |date=19 May 2023 |accessdate=19 May 2023 |archive-date=19 May 2023 |archive-url=https://web.archive.org/web/20230519130505/https://www.hibernianfc.co.uk/article/steve-kean-departs-hibernian-fc |url-status=live }}</ref>
+
+On 26 December 2023, Kean signed a new two-year contract with Torpedo Kutaisi, becoming General Manager of the club alongside retaining the position of Head Coach.<ref>{{cite web |title=Steve Kean as head coach and sporting director |url=https://torpedo.ge/en/news/steve-kean-as-head-coach-and-sporting-director |website=torpedo.ge |publisher=FC Torpedo Kutaisi |access-date=17 November 2025 |date=26 December 2023}}</ref>
+
+On 24 January 2025, Kean was appointed as Sporting Director of Torpedo Kutaisi.<ref>{{cite web |title=Steve Keane appointed as Torpedo Kutaisi Sporting Director |url=https://torpedo.ge/en/news/steve-keane-appointed-as-torpedo-kutaisi-sporting-director |website=torpedo.ge |publisher=FC Torpedo Kutaisi |access-date=17 November 2025 |date=24 January 2025}}</ref>
+
+
+==Personal life==
+
+
+
+Kean is married with two children.<ref>{{Cite web |last=Dunn |first=Matthew |date=2011-11-19 |title=Under-fire Steve Kean has to shield his family |url=https://www.express.co.uk/sport/football/284663/Under-fire-Steve-Kean-has-to-shield-his-family |access-date=2025-11-20 |website=Express.co.uk |language=en}}</ref>
+
+He is a champion of mental health in football and has been outspoken about the impact that criticism from fans and the media can have on players, managers and other professionals. 
+
+Kean told [https://www.skysports.com/football/news/11095/12463810/steve-kean-interview-former-blackburn-boss-on-life-in-the-pressure-cooker-there-and-finding-success-in-brunei Sky Sports] that the “pressure cooker” atmosphere of Premier League football has a profound impact on the people who work in the game. 
+
+He also warned the channel about the effects that fame has on the children of leading figures in the football world, revealing that his children suffered “nasty” cyberbullying due to his role at Blackburn.
+
+On 15 August 2011, Kean was convicted of [[Driving under the influence|drunk driving]] at Macclesfield Magistrates' Court. The Court rejected his defence that his drinks had been spiked following a match against Manchester United. He was banned from driving for 18 months and fined £1,800.<ref name="Blackburn manager Steve Kean banned for drink driving">{{Cite news|title=Blackburn manager Steve Kean banned for drink driving|url=https://www.telegraph.co.uk/sport/football/competitions/premier-league/8702082/Blackburn-manager-Steve-Kean-banned-for-drink-driving.html|archive-url=https://web.archive.org/web/20120110064026/http://www.telegraph.co.uk/sport/football/competitions/premier-league/8702082/Blackburn-manager-Steve-Kean-banned-for-drink-driving.html|url-status=dead|archive-date=10 January 2012|newspaper=The Daily Telegraph|location=London|date=15 August 2011 |access-date=21 August 2011}}</ref>
+
+==Managerial statistics==
+{{updated|24 November 2023}}<ref>{{Cite web
+| title = Steve Kean
+| url = https://www.soccerbase.com/managers/manager.sd?manager_id=2243
+| publisher = Soccerbase
+| access-date = 24 March 2012
+| archive-date = 4 March 2012
+| archive-url = https://web.archive.org/web/20120304043437/http://www.soccerbase.com/managers/manager.sd?manager_id=2243
+| url-status = live
+}}</ref><ref>{{Cite web
+| title = Brunei Duli Pengiran Muda Mahkota FC
+| url = https://int.soccerway.com/teams/brunei-darussalam/brunei-dpmm/13060/
+| publisher = Soccerway
+| access-date = 17 April 2014
+| archive-date = 9 April 2014
+| archive-url = https://web.archive.org/web/20140409143023/http://int.soccerway.com/teams/brunei-darussalam/brunei-dpmm/13060/
+| url-status = live
+}}</ref>
+
+{| class=wikitable style="text-align: center"
+|+ Managerial record by team and tenure
+|-
+!rowspan=2|Team
+!rowspan=2|From
+!rowspan=2|To
+!colspan=5|Record
+|-
+!{{abbr|P|Matches played}}!!{{abbr|W|Matches won}}!!{{abbr|D|Matches drawn}}!!{{abbr|L|Matches lost}}!!{{abbr|Win %|Win percentage}}
+|-
+|align=left|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|align=left|13 December 2010
+|align=left|28 September 2012
+{{WDL|74|21|16|37|decimals=1}}
+|-
+|align=left|[[DPMM FC]]
+|align=left|7 November 2013
+|align=left|4 November 2017
+{{WDL|135|67|22|46|decimals=1}}
+|-
+|align=left|[[Brunei national football team|Brunei]]
+|align=left|12 October 2014
+|align=left|20 October 2014
+{{WDL|4|0|0|4|decimals=1}}
+|-
+|align=left|[[Melbourne Victory FC|Melbourne Victory]]
+|align=left|19 April 2021
+|align=left|30 June 2021
+{{WDL|10|2|2|6|decimals=1}}
+|-
+|align=left|[[FC Torpedo Kutaisi|Torpedo Kutaisi]]
+|align=left|19 May 2023
+|align=left|21 December 2024
+{{WDL|67|35|15|17|decimals=1}}
+|-
+!colspan=3|Total
+{{WDLtot|247|102|46|99|decimals=1}}
+|}
+
+==Honours==
+===Manager===
+'''Torpedo Kutasi'''
+*[[Georgian Super Cup]]: 2024
+
+'''DPMM'''
+*[[Singapore Premier League|S.League]]: [[2015 S.League|2015]]<ref name = "sleague15"/>
+*[[Singapore League Cup]]: [[2014 Singapore League Cup|2014]]
+
+'''Individual'''
+*S.League Coach of the Year: 2015
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.thecelticwiki.com/page/Kean%2C+Steve Steve Kean] at The Celtic Wiki
+
+{{FC Torpedo Kutaisi squad}}
+{{Navboxes
+|title= Steve Kean managerial positions
+|list1=
+{{Blackburn Rovers F.C. managers}}
+{{Brunei DPMM FC managers}}
+{{Brunei national football team managers}}
+{{Melbourne Victory FC head coaches}}
+{{FC Torpedo Kutaisi managers}}
+}}
+
+{{DEFAULTSORT:Kean, Steve}}
+[[Category:1967 births]]
+[[Category:Sportspeople from Cumbernauld]]
+[[Category:Living people]]
+[[Category:Scottish men's footballers]]
+[[Category:Men's association football wingers]]
+[[Category:Celtic F.C. players]]
+[[Category:Swansea City A.F.C. players]]
+[[Category:Alloa Athletic F.C. players]]
+[[Category:Académica de Coimbra (football) players]]
+[[Category:Associação Naval 1º de Maio players]]
+[[Category:Bath City F.C. players]]
+[[Category:Newbury Town F.C. players]]
+[[Category:English Football League players]]
+[[Category:Scottish Football League players]]
+[[Category:Scottish expatriate men's footballers]]
+[[Category:Expatriate men's footballers in Portugal]]
+[[Category:Scottish expatriate sportspeople in Portugal]]
+[[Category:Scottish football managers]]
+[[Category:Fulham F.C. non-playing staff]]
+[[Category:Real Sociedad non-playing staff]]
+[[Category:Coventry City F.C. non-playing staff]]
+[[Category:Blackburn Rovers F.C. managers]]
+[[Category:DPMM FC managers]]
+[[Category:Brunei national football team managers]]
+[[Category:Melbourne Victory FC managers]]
+[[Category:Hibernian F.C. non-playing staff]]
+[[Category:FC Torpedo Kutaisi managers]]
+[[Category:Premier League managers]]
+[[Category:English Football League managers]]
+[[Category:Singapore Premier League managers]]
+[[Category:A-League Men managers]]
+[[Category:Erovnuli Liga managers]]
+[[Category:Scottish expatriate football managers]]
+[[Category:Scottish expatriate sportspeople in Spain]]
+[[Category:Expatriate football managers in Brunei]]
+[[Category:Scottish expatriate sportspeople in Brunei]]
+[[Category:Scottish expatriate sportspeople in Greece]]
+[[Category:Expatriate soccer managers in Australia]]
+[[Category:Scottish expatriate sportspeople in Australia]]
+[[Category:Expatriate football managers in Georgia (country)]]

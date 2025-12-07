@@ -237,7 +237,7 @@ On 1 August 2021, he was unveiled as the new head coach of [[Iraq national footb
 On 28 November 2022, Advocaat was appointed as the new manager of a struggling [[ADO Den Haag]] side, after former manager [[Dirk Kuyt]] had been fired after an unsuccessful spell at the club.<ref>{{cite web |title=Dick Advocaat nieuwe trainer van ADO Den Haag |url=https://adodenhaag.nl/nl/nieuws/laatste-nieuws/1e-elftal/10513-dick-advocaat-nieuwe-trainer-van-ado-den-haag |language=Dutch |date=28 November 2022}}</ref> Advocaat retired as a coach at the end of the 2022–23 season as ADO Den Haag finished the season in mid-table of the second-tier [[Eerste Divisie]].<ref>{{cite web|publisher=ADO Den Haag|url=https://adodenhaag.nl/nl/teams/1e-elftal/resultaten/965-ado-den-haag-fc-dordrecht-965|title=ADO DEN HAAG KOMT IN LAATSTE THUISWEDSTRIJD NIET VERDER DAN GELIJKSPEL|trans-title=ADO DEN HAAG DOES NOT GET FURTHER THAN A DRAW IN THE LAST HOME GAME|date=12 May 2023|access-date=4 August 2023|language=nl}}</ref>
 
 === Curaçao ===
-On 15 January 2024, Advocaat was appointed as the new head coach of the [[Curaçao national football team]], signing a one-year contract with an option for a further year.<ref>{{Cite news |date=15 January 2024 |title=Dick Advocaat hired to coach Curaçao national team ahead of World Cup qualifying |url=https://www.washingtonpost.com/sports/soccer/2024/01/15/dick-advocaat-curacao-coach/a29a74d4-b3e9-11ee-b285-0853d4d1b92f_story.html |access-date=17 January 2024 |newspaper=[[The Washington Post]]}}</ref>
+On 15 January 2024, Advocaat was appointed as the new head coach of the [[Curaçao national football team]], signing a one-year contract with an option for a further year.<ref>{{Cite news |date=15 January 2024 |title=Dick Advocaat hired to coach Curaçao national team ahead of World Cup qualifying |url=https://www.washingtonpost.com/sports/soccer/2024/01/15/dick-advocaat-curacao-coach/a29a74d4-b3e9-11ee-b285-0853d4d1b92f_story.html |access-date=17 January 2024 |newspaper=[[The Washington Post]]}}</ref> On 18 November 2025, Advocaat helped Curaçao qualify for the [[2026 FIFA World Cup]], the team's first World Cup in their history.<ref>{{cite web|url= https://www.bbc.com/sport/football/articles/c14p3dmdld1o|title=Curacao become smallest nation to qualify for World Cup|date=19 November 2025|work=BBC Sport|accessdate=19 November 2025}}</ref>
 
 ===Overview===
 
@@ -374,7 +374,7 @@ On 15 January 2024, Advocaat was appointed as the new head coach of the [[Curaç
 |}
 
 ====National team====
-{{updated|14 October 2025}}
+{{updated|25 June 2025}}
 
 {| class="wikitable" Style="text-align: center"
 |-
@@ -502,13 +502,13 @@ On 15 January 2024, Advocaat was appointed as the new head coach of the [[Curaç
 |
 |-
 |2025
-{{WDL|9|4|4|1|for=17|against=7}}||{{Tooltip|GS|Group stage at 2025 Gold Cup.}}
+{{WDL|9|4|3|2|for=17|against=6}}||{{Tooltip|GS|Group stage at 2025 Gold Cup.}}
 {{WDL|1|0|0|1|for=0|against=2}}||
 |-
 |}
 
 ==Managerial statistics==
-{{updated|matches played on 14 October 2025}}
+{{updated|matches played on 18 November 2025}}
 
 {| class="wikitable" style="text-align: left"
 |-
@@ -617,11 +617,11 @@ On 15 January 2024, Advocaat was appointed as the new head coach of the [[Curaç
 |
 |-
 |{{flagicon|CUR}} [[Curaçao national football team|Curaçao]]||15 January 2024||present
-{{WDL|18|10|5|3|for=38|against=13|diff=yes}}
+{{WDL|20|11|6|3|for=45|against=13|diff=yes}}
 |
 |-
 ! colspan=3| Total
-{{WDLtot|1160|610|270|280|for=2183|against=1254|diff=yes}}
+{{WDLtot|1162|611|271|280|for=2190|against=1254|diff=yes}}
 !—
 |}
 

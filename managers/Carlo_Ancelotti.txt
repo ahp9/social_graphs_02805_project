@@ -403,7 +403,7 @@ On 2 April 2025, Ancelotti stood trial for alleged tax evasion where he testifie
 |}
 
 ==Managerial statistics==
-{{updated|match played 14 October 2025}}
+{{updated|match played 18 November 2025}}
 
 {| class="wikitable" style="text-align: center;"
 |+ Managerial record by team and tenure
@@ -492,11 +492,11 @@ On 2 April 2025, Ancelotti stood trial for alleged tax evasion where he testifie
 |align="left"|[[Brazil national football team|Brazil]]
 |align="left"=|26 May 2025<ref>{{Cite web |date=12 May 2025 |title=Carlo Ancelotti é o novo técnico da Seleção Brasileira |trans-title=Carlo Ancelotti is the new coach of the Brazilian National Team |url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/a/carlo-ancelotti-e-o-novo-tecnico-da-selecao-brasileira |access-date=26 May 2025 |publisher=[[Confederação Brasileira de Futebol]] |language=pt-BR}}</ref>
 |align="left"|''Present''
-{{WDL|6|3|1|2|for=11|against=4|diff=yes}}
+{{WDL|8|4|2|2|for=14|against=5|diff=yes}}
 |<ref>{{BDFutbol season|l95279|2025-26}}</ref>
 |-
 !colspan="3"|Career Total
-{{WDLtot|1407|841|306|260|for=2674|against=1307|diff=yes}}
+{{WDLtot|1409|842|307|260|for=2677|against=1308|diff=yes}}
 !
 |}
 

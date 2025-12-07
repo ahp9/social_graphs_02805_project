@@ -1,0 +1,20 @@
+The '''Revie Plan''' was a tactical system in [[association football]] used by [[Manchester City F.C.|Manchester City]] in the 1950s. The system was named after Manchester City player [[Don Revie]], who had the most important role in it.
+
+In 1953, English football was astounded by the [[Hungary national football team|Hungarian]] team which beat [[England national football team|England]] [[England v Hungary (1953)|6–3]] at [[Wembley Stadium]]. The Revie plan was a variation on the tactics used by the Hungarians, involving Don Revie playing as a [[Forward (association football)#Second striker|deep-lying]] [[centre-forward]], in a similar manner to Hungarian striker [[Nándor Hidegkuti]]. Revie started attacks by coming into the centre of the field to receive the ball, drawing the opposing [[centre-half]] out of position. The role can be retroactively compared to the modern [[Forward (association football)#False 9|false 9]] role.<ref>{{cite web |url=https://www.espn.com/soccer/blog/name/93/post/1841124/headline |title=A change of formation |publisher=ESPN FC |last1=Smith |first1=Rory |date=19 February 2014 |access-date=17 June 2020 }}</ref><ref>{{cite news |url=https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/latest-leeds-united-news/30-years-leeds-united-legend-don-revie-remembered-pictures-480907 |title=30 years on – Leeds United legend Don Revie remembered in pictures |work=Yorkshire Evening Post |last1=Hay |first1=Phil |last2=Urquhart |first2=Joe |date=26 May 2019 |access-date=17 June 2020 }}</ref>
+
+The system was first implemented by the Manchester City reserve team, at the behest of [[Johnny Williamson]] and [[Ken Barnes (English footballer)|Ken Barnes]]. Using the system, with Williamson playing the main deep-lying centre-forward, the reserve team went unbeaten for the last 26 games of the [[1953–54 in English football|1953–54]] season. Before the start of the [[1954–55 in English football|1954–55]] season, Manchester City manager [[Les McDowall]] called his team into pre-season training two weeks early to try the new tactic. Manchester City lost their first game using the system 5–0, but as the players became more used to the system it started to become more successful. Using the system Manchester City reached the [[1955 FA Cup Final]], but lost to [[Newcastle United F.C.|Newcastle United]] 3–1. The following year City again reached the final where they played [[Birmingham City]], this time winning 3–1.<ref>{{Cite news |url=https://www.theguardian.com/football/blog/2011/may/13/manchester-city-don-revie |title=The Revie final: how the Don glowed quietly for Manchester City |newspaper=The Guardian |date=13 May 2011 |access-date=1 June 2012 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{cite web| title=Book Review: Soccer's Happy Wanderer| url=http://www.uit.no/mancity/reviews/revie.html| access-date=22 January 2006| url-status=dead| archive-url=https://archive.today/20130222221646/http://www.uit.no/mancity/reviews/revie.html| archive-date=22 February 2013}}
+
+{{Manchester City F.C.}}
+
+[[Category:Association football terminology]]
+[[Category:Association football tactics]]
+[[Category:Manchester City F.C.]]
+
+
+{{footy-stub}}
