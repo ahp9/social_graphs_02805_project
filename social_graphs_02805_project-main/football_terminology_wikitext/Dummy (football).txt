@@ -1,0 +1,31 @@
+{{Short description|Feint in association football and its variants}}
+In [[association football]], [[rugby league]], [[rugby union]] and [[Australian rules football]], a '''dummy''' or '''feint''' is a player deceiving the opposition into believing he is going to pass, shoot, move in a certain direction, or receive the ball and instead doing something different, thus gaining an advantage.
+
+==Association football==
+In association football, a dummy (feint) is often used when [[dribbling]], in offensive situations. Examples used in order to deceive an opponent into what direction you will move, include: the ''[[step over]]'' as used by [[Ronaldo (Brazilian footballer)|Ronaldo]] and [[Cristiano Ronaldo]]; the ''[[Flip flap (association football)|flip flap]]'' (also known as "elastico") used by [[Rivellino]], [[Ronaldo (Brazilian footballer)|Ronaldo]] and [[Ronaldinho]]; the ''[[Marseille turn]]'' (also known as the "360" or "roulette") used by [[Zinedine Zidane]], and [[Diego Maradona]]; the ''[[Rainbow kick|rainbow flick]]'' as used by [[Neymar]]; the ''[[Cruijff Turn|Cruyff turn]]'' named after [[Johan Cruyff]]; and ''scoop turn'' (dragging the ball around a defender without it leaving your foot) as used by [[Romário]].<ref>[http://sportsillustrated.cnn.com/2011/writers/sid_lowe/02/18/ronaldo.retirement/ "Ronaldo was simply a phenomenon"] {{Webarchive|url=https://web.archive.org/web/20110223191155/http://sportsillustrated.cnn.com/2011/writers/sid_lowe/02/18/ronaldo.retirement/ |date=2011-02-23 }}. Sports Illustrated. Retrieved 2 June 2014</ref><ref>[https://www.theguardian.com/football/blog/2014/jun/11/world-cup-stunning-moments-johan-cruyff-turn-1974 "World Cup: 25 stunning moments … No25: the Cruyff Turn is born in 1974"]. The Guardian. Retrieved 11 June 2014</ref><ref>David Goldblatt (2009). "The Football Book". p. 129. D Kindersley Ltd</ref><ref>Lowe, Sid (2013). "Fear and Loathing in La Liga: The True Story of Barcelona and Real Madrid". p. 288. Random House</ref><ref>[https://www.youtube.com/results?search_query=scoop+turn "Scoop Turn"]</ref>
+
+The next most common instance is also an offensive situation, in which a player, in a reasonable shooting area, fakes a shot to trick a defender coming in for a tackle and have him flinch away. This allows the player to go around the defender and shoot from a closer distance. This dummy can also be used on a goalkeeper in a one-on-one situation: a notable example being  the "[[Goal of the Century]]" scored by [[Diego Maradona]] where, having run half the length of the field past several outfield players, he faced goalkeeper Peter Shilton and left him on his backside with a feint, before slotting the ball into the net.<ref>[https://www.telegraph.co.uk/sport/football/world-cup/6700645/Top-10-World-Cup-goals.html?mobile=basic "Top 10 World Cup goals"]. ''The Telegraph''. Retrieved 19 August 2014</ref>
+
+There is another situation that is used often enough that "dummy" becomes a verb. In this scenario, a player goes toward the path of passing ball, pretends to trap it and lets it goes through the legs. This is to allow his teammate—who is also moving toward the ball but further away—to retrieve it. Another common scenario is the "dummying" player running after the ball after letting it go through their legs, a move which is known as the [[Nutmeg (football)|nutmeg]]. This is very effective if the trap fake is convincing because the stop/start on the defending player is always slower than the attacking player, who has the momentum. [[Luis Suárez]] is known to execute these types of moves quite often.<ref>[https://www.theguardian.com/football/2018/oct/06/luis-suarez-barcelona-dummying-wembley-spurs/ "Luis Suarez dummying twice, prior to each of Lionel Messi's goals during Barcelona's win against Tottenham Hotspurs at Wembley."] The Guardian. 6 October 2018.</ref>
+
+==Rugby league and rugby union==
+In rugby league football and rugby union football, a dummy has a similar meaning, but is generally confined to a player leading their opposing players into believing that they are about to pass or sometimes kick the ball, but instead retaining and running with the ball. This has the effect of drawing defending players to the apparent recipient of the dummy pass. If successful, the defender is said to have been "sold the dummy".<ref>{{cite web | url=https://www.rabbitohs.com.au/news/2022/09/11/rabbiohs-down-roosters-in-fiery-affair-to-continue-premiership-dream/ | title=Rabbitohs down Roosters in fiery affair to continue premiership dream | date=11 September 2022 }}</ref> One of the first rugby players to be credited with using the dummy, or at least taking the technique to New Zealand, was [[Tommy Haslam]]. Haslam played for [[Batley Bulldogs|Batley]] before the rugby schism and was a member of the 1888 [[British and Irish Lions|British Isles]] tour of [[1888 British Lions tour to New Zealand and Australia|New Zealand and Australia]].<ref>{{cite book |last=Griffiths |first=John|title=British Lions |year=1990 |publisher=Crowood Press|page=14 |location=Swindon |isbn=1-85223-541-1}}</ref>
+
+==Australian rules football==
+In Australian rules football the term 'dummy' again has a similar meaning to other football codes. A dummy is used to evade a tackler by feigning a hand pass or foot pass to a teammate and then changing direction suddenly to escape the opponent who has been fooled by the move. The term is also described as baulking or 'selling candy'.
+
+==See also==
+{{portal|Sports}}
+*[[Pelé runaround move]]
+*[[Nutmeg (football)|Nutmeg]]
+*[[Rabona]]
+*[[Rainbow kick]]
+
+==Notes==
+{{reflist}}
+
+{{DEFAULTSORT:Dummy (Football)}}
+[[Category:Association football terminology]]
+[[Category:Australian rules football terminology]]
+[[Category:Rugby league terminology]]
+[[Category:Rugby union terminology]]

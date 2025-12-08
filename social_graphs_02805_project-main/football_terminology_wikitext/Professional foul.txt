@@ -1,0 +1,48 @@
+{{Short description|Sporting term}}
+{{for|the Tom Stoppard play|Professional Foul}}
+
+In various [[sport]]s, a '''professional foul''' is a deliberate act of [[Foul (sports)|foul play]] intended to bring about an advantage for the perpetrator's team. Professional fouls are usually committed to prevent an opponent from scoring. 
+
+Various sports contain provisions in their rules to dissuade such acts. These either try to negate the advantage gained from such an act or apply additional punishments beyond those for an equivalent foul in normal circumstances. 
+ 
+== Association football == <!-- Anchor from redirect of [Association football] article; caution. -->
+In [[association football]], a professional foul involves a defender committing a [[Fouls and misconduct (association football)#Direct free kick offences|foul]] in order to prevent the opponents from scoring, or to deny an obvious goal-scoring opportunity (DOGSO).<ref name="auto">{{Citation | title = Minutes of the IFAB Annual Meeting | place = The Culloden Hotel, Craigavad, Northern Ireland | pages = 12–15 | date = June 8, 1991}}</ref> The resulting [[Direct free kick|free kick]] or [[penalty kick (football)|penalty]] may offer the attacking team a lower chance of [[Scoring in association football|scoring]] than the original playing position, and the defending player therefore has an incentive to tactically commit the foul.<ref>{{cite news | url=https://www.101greatgoals.com/blog/last-man-david-luiz-chelsea-hauled-down-evertons-kevin-mirallas-on-the-halfway-line-only-a-yellow/ |title=Last man David Luiz (Chelsea) hauled down Everton's Kevin Mirallas on the halfway line, only a yellow |publisher=www.101greatgoals.com |date=15 September 2013 |access-date=25 February 2012}}</ref> Offending players are cautioned or sent off in accordance with the circumstances of the foul, with the punishment dependent upon both the nature of the foul and the opportunity denied to the opposition by it.<ref>{{Cite web|url=https://theifab.com/|title=LAW 12 - FOULS AND MISCONDUCT - Disciplinary action|website=International Football Association Board|language=en|access-date=2019-04-24}}</ref>
+
+Under [[Fouls and misconduct (association football)|Law 12]], what constitutes an obvious goalscoring opportunity is left to the discretion of the referee; however, several factors are given to help referees decide. These are the distance between the offence and the goal, the likelihood of keeping or gaining control of the ball, the direction of the play, and the location and number of defenders.<ref>{{Citation  | title = The Laws of the Game | series = FIFA | page = 132 | year = 2015 }}</ref>
+
+===History===
+The concept gained attention in association football after an incident in the [[1980 FA Cup Final]] when [[Willie Young (footballer born 1951)|Willie Young]] of [[Arsenal F.C.|Arsenal]] committed a deliberate foul on [[Paul Allen (footballer)|Paul Allen]] of [[West Ham United F.C.|West Ham United]], when Allen had a clear chance to score. As the Laws of the Game stood at the time, [[referee (association football)|referee]] [[George Courtney]] could only caution Young and award West Ham a free kick, which he did. This provoked a national debate on deliberate fouls that denied opponents a clear run at goal.
+
+At the time, the English game was suffering a downturn in attendances and the chairmen of the [[Football League]] clubs decided to consider ways in which the game could be made more exciting. A subcommittee was appointed to produce some suggestions, chaired by [[Jimmy Hill]] and including [[Matt Busby]] and [[Bobby Charlton]].{{Citation needed|date=January 2018}} They recommended in 1982 that if the referee judges that a foul on an attacking player prevents an obvious scoring opportunity, the referee should issue the offending player a straight [[Misconduct (football)|red card]] for "serious foul play" in order to deter offenders. However, the FA's refereeing committee abolished the rule in July 1983.<ref>{{Cite book |last=Nawrat |first=Chris |title=The Sunday Times Illustrated History of Football |last2=Hutchings |first2=Steve |publisher=Hamlyn |year=1994 |isbn=0-600-58824-6 |pages=253 |language=EN}}</ref> The rule was finally fixed into the Laws of the Game by the [[International Football Association Board]] (IFAB) in 1990, and FIFA instructed referees working the [[1990 World Cup]] to send players off for a DOGSO offence.<ref name=IFAB>{{cite web|title=History of the Laws of the Game|url=http://www.theifab.com/history/laws|website=The IFAB|access-date=23 January 2018|date=2017|archive-url=https://web.archive.org/web/20181019224918/http://www.theifab.com/history/laws|archive-date=19 October 2018|url-status=dead}}</ref> In 1991 the IFAB made an addition which deemed that a player who committed a handling offence that denied an obvious goal-scoring opportunity should be sent off for serious foul play.<ref name="auto"/> For example, a goalkeeper who handles the ball outside the box can be sent off if it results in a DOGSO.
+
+In 2016 the Laws of the Game were amended so that a foul resulting in a penalty kick would only result in a yellow card – providing that the player was making a genuine attempt for the ball – in order to reduce the "double jeopardy" of both a red card and a penalty kick. Referees are still permitted to send players off for serious misconduct committed in the penalty area, such as those where no attempt to legally play the ball was made.<ref name="double">{{cite web |date=14 April 2016 |title=Denying a goalscoring opportunity: Red card rule relaxed by IFAB |url=https://www.bbc.co.uk/sport/football/36047575 |access-date=16 May 2020 |website=BBC Sport |publisher=BBC}}</ref>
+
+==American football==
+{{Main|Unfair act}}
+In American football, the rules regarding [[Unfair act|unfair acts]] empower officials to enforce additional penalties so as to counteract the potential benefit a team may gain from a major or repeated foul.
+
+In order to get a more favourable field position for a [[Punt (gridiron football)|punt]] or to run the clock down while leading a game, it can happen that a team takes a [[delay of game]] penalty of five yards by running down the [[play clock]] on purpose.<ref>{{cite web|url=https://www.sbnation.com/nfl/2020/1/5/21050173/tennessee-titans-new-england-patriots-rulebook-loophole-penalties-clock|title=Titans' Mike Vrabel used Bill Belichick's rules loophole against him|publisher=SBNation.com|date=5 January 2020|access-date=5 August 2020}}</ref> When looking for a lower field position for a punt, it is to prevent a [[touchback]] by having the punt go into the end zone.
+
+==Basketball==
+{{main article|Hack-a-Shaq|Personal foul (basketball)#Strategy}}
+In basketball, teams may deliberately commit [[Personal foul (basketball)|personal fouls]] for strategic reasons.<ref>Dudley, Carl A. (26 January 2006). "[http://www.iaabo134.org/media/articlesbyref-2-60126-dudley.htm The Most Important Form of Official Communication: The Pre-Game Conference] {{webarchive|url=https://web.archive.org/web/20070426072523/http://iaabo134.org/media/articlesbyref-2-60126-dudley.htm |date=2007-04-26 }}", International Association of Approved Basketball Officials, Board #134 Information Release<BR>"In a close match, with seconds ticking down and a team being down by one or two points, a coaching strategy could be to foul and stop the clock and make the other team earn their victory by way of the free throw."</ref> As the resulting [[free throw]]s must be taken by the fouled player, teams may tactically choose to foul a player with a poor free-throw percentage. This became known as "[[Hack-a-Shaq]]" after [[Shaquille O'Neal]] who was a target of such tactics. Trailing teams often also commit intentional fouls late in games in order to stop the clock and get the ball back, rather than allow the opponent to [[run out the clock]].
+
+In addition, there are specific rules governing obvious goal scoring opportunities called clear path fouls.
+
+==Rugby league==
+{{Further|Playing rugby league}}
+The professional foul in rugby league embodies a similar concept to other sports, a deliberate breach of the rules in order to prevent a scoring opportunity. The penalty for this offence is 10 minutes in the [[sin bin]].
+
+The majority of professional fouls are either holding down the tackled player after a break has been made in order to allow his teammates to reform in defence, interfering in the play when making little or no attempt to return to an onside position, or tackling or impeding the progress of a player not in possession when a try may possibly be scored. The latter situation may result in a [[Try (rugby)#Penalty try|penalty try]].
+
+==Rugby union==
+Law 10.2a of the Laws of Rugby deals with intentional infringements. [[Rugby union match officials|Referee]]s are instructed to award a [[Penalty (rugby union)|penalty kick]] in such instances and admonish, caution (resulting in a [[Penalty box#Rugby football|temporary suspension]] from the game), or [[Ejection (sports)#Rugby football|send off]] the offender. A [[Try (rugby)#Penalty try|penalty try]] can be awarded if the referee believes the offence probably prevented a try being scored.<ref name=IRB_10.2>{{cite web|title=Laws of the Game - Rugby Union: 10.2 Unfair play|url=http://www.irblaws.com/index.php?highlight=penalty%20try&law=10.2|website=International Rugby Board|access-date=3 November 2014}}</ref>
+
+== References ==
+{{reflist|30em}}
+
+[[Category:Laws of association football]]
+[[Category:Association football terminology]]
+[[Category:Basketball terminology]]
+[[Category:Rugby league terminology]]
+[[Category:Rugby union terminology]]

@@ -1,0 +1,50 @@
+{{Use dmy dates|date=April 2025}}
+'''''Nazio-Juve'''''<ref>{{cite news|url=http://www.juventus.si/fc_juventus_predstavitev.htm|publisher=juventus.si|title=FC Juventus: Predstavitev|date=3 April 2009|language=sl}}{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite news|url=http://www.lastoriasiamonoi.rai.it/puntata.aspx?id=348|title=Vittorio Pozzo: Quando il calcio parlava italiano|publisher=[[RAI]] – La storia siamo noi|date=15 June 2008|language=it|url-status=dead|archive-url=https://web.archive.org/web/20080609081349/http://www.lastoriasiamonoi.rai.it/puntata.aspx?id=348|archive-date=9 June 2008}} See also:<br/> {{cite video|url=http://www.lastoriasiamonoi.rai.it/cerca.aspx?testoLibero=vittorio%20pozzo|title=Vittorio Pozzo: Quando il calcio parlava italiano|medium=Puntata|location=Roma|publisher=RAI – La storia siamo noi|access-date=3 April 2009|archive-date=26 July 2011|archive-url=https://web.archive.org/web/20110726192903/http://www.lastoriasiamonoi.rai.it/cerca.aspx?testoLibero=vittorio%20pozzo|url-status=dead}}</ref> ({{IPA|it|ˌnattsjoˈjuːve}}, {{lit|National-Juventus}}) was the nickname of the group of [[Juventus FC]] players called up to have been the backbone to the [[Italy national football team]] managed by [[Vittorio Pozzo]] to have won the [[1934 FIFA World Cup]] and two editions of the [[Central European International Cup]] ([[1927–30 Central European International Cup|1927–30]] and [[1933–35 Central European International Cup|1933–35]]).
+
+With this group the side managed by [[Carlo Carcano]] have dominated the [[Football in Italy|Italian football]] and had one of the best teams in Europe during the first half of the 1930s,<ref>{{cite news|url=http://www.iffhs.de/?c04790d857dc2c03f4d85fc8f15a85fdcdc3bfcdc0aec70aeeda8a3ec600|title=Mitropa Cup record|publisher=iffhs.de|date=15 June 2008}}</ref> winning amongst others a record of five [[Serie A|national championships]] in a row and reached the [[Mitropa Cup|Central European Club Cup]]'s semifinals since 1932 to 1935, and included the formidable defensive trio [[Gianpiero Combi|Combi]]-[[Virginio Rosetta|Rosetta]]-[[Umberto Caligaris|Caligaris]],<ref name="Chapter 4">{{in lang|it}} [http://www.storiedicalcio.altervista.org/1934-4.html 1934 Italia: The three schools confront (chapter four)] {{Webarchive|url=https://web.archive.org/web/20160415233207/http://www.storiedicalcio.altervista.org/1934-4.html |date=15 April 2016 }} – www.storiedicalcio.altervista.org</ref> [[Giovanni Ferrari]], [[Felice Placido Borel II|Felice Borel II]] and the ''[[oriundo|oriundi]]'' [[Luis Monti]], [[Raimundo Orsi]] and [[Renato Cesarini]].
+
+==Players==
+[[File:ITA-TCH 1934-FIN-CM.svg|right|thumb|225px|[[Italian national team|Italy]]'s line-up with five Juventus F.C. players in [[1934 FIFA World Cup Final]] against [[Czechoslovakia national football team|Czechoslovakia]]. Rome, 10 June 1934.]]
+
+Italy players that won the 1934 FIFA World Cup and/or the 1927–30 and 1933–35 Central European International Cup.
+
+* [[Luigi Bertolini]]
+* [[Carlo Bigatto|Carlo Bigatto I]]
+* [[Felice Placido Borel II]]
+* [[Umberto Caligaris]]
+* [[Luigi Cevenini|Luigi Cevenini III]]
+* [[Renato Cesarini]]
+* [[Gianpiero Combi]]
+* [[Giovanni Ferrari]]
+* [[Luis Monti]] 
+* [[Federico Munerati]]
+* [[Raimundo Orsi]]
+*  [[Virginio Rosetta]]
+* [[Mario Varglien|Mario Varglien I]]
+* [[Giovanni Varglien|Giovanni Varglien II]]
+* [[Giovanni Vecchina]]
+
+==See also==
+* [[Italy national football team]]
+* [[Juventus F.C. and the Italy national football team]]
+* ''[[Blocco-Juve]]''
+
+==Footnotes and references==
+{{reflist}}
+
+==Bibliography==
+* {{cite book| author=Giacone, Gianni | title=Juve Azzurri – I bianconeri che hanno fatto grande la Nazionale | publisher=Hurrà Juventus – Fabbri Editori | year=1993 |language=it}}
+* {{cite book| author=Tavella, Renato | title=Dizionario della grande Juventus. Dalle origini ai nostri giorni | publisher=Newton Compton  | year=2001 | isbn=88-8289-639-0|language=it}}
+
+{{Juventus F.C.}}
+{{Italy national football team}}
+
+[[Category:Juventus FC|Nazio-Juve]]
+[[Category:History of the Italy national football team|Nazio-Juve]]
+[[Category:Nicknamed groups of association football players]]
+[[Category:1930–31 in Italian football]]
+[[Category:1931–32 in Italian football]]
+[[Category:1932–33 in Italian football]]
+[[Category:1933–34 in Italian football]]
+[[Category:1934–35 in Italian football]]
+[[Category:Italy at the 1934 FIFA World Cup]]

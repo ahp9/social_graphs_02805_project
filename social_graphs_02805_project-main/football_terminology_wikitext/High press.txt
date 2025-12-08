@@ -1,0 +1,14 @@
+'''High press''' or '''high pressing'''  is a style of play in [[association football]] in which a team keeps its defenders forward to increase pressure near the opposing goal.  It was pioneered in the 1970s by [[AFC Ajax]] under managers [[Rinus Michels]] and [[Stefan Kovacs]].  They were successful and, in the 21st century, the system has been adopted by most top teams.{{r|BBC}}
+
+The tactic may be used with [[man-to-man defense|man-to-man marking]], [[Zone defense|zonal defense]] or hybrid systems.{{r|FA}}
+
+==References==
+<references>
+<ref name=BBC>{{citation |date=2025-01-08 |title=What is a high press in football, and how does it work? |url=https://www.bbc.com/sport/football/articles/c07g0kdv51mo |publisher=BBC Sport |author=Daniel Austin}}</ref>
+<ref name=FA>{{citation |url=https://the-footballanalyst.com/high-pressing-football-tactics-explained/ |title=High Pressing – Football Tactics Explained |date=23 December 2024}}</ref>
+</references>
+
+[[Category:Association football tactics]]
+[[Category:Association football terminology]]
+
+{{soccer-stub}}

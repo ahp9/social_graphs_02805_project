@@ -1,0 +1,17 @@
+{{refimprove|date=May 2021}}
+
+In sport a '''semi-closed league''' (also referred to as a '''semi-open league''') is a sports league where a group of teams are guaranteed entry into the league every season, while another group of teams have to qualify or stand at risk of relegation following each season. It is considered a hybrid of [[closed league]]s and leagues with [[promotion and relegation]]. Semi-closed leagues can lead to a league where its permanent members are richer vis-à-vis the remaining teams in these semi-closed leagues or teams in more local competitions in which permanent members compete.<ref>{{Cite web|last=Quillen|first=Ian Nicholas|title=Proposed European Super League Is Not A Closed System Like Major League Soccer. It's Worse.|url=https://www.forbes.com/sites/ianquillen/2021/04/19/proposed-european-super-league-is-not-a-closed-system-like-major-league-soccer-its-worse/|access-date=2021-04-21|website=Forbes|language=en}}</ref>
+
+== Examples ==
+The following are examples of leagues said to be semi-closed:
+
+*[[EuroLeague]]<ref>{{Cite web|last=dineshkachhwaha|title=Super League: Siutat provides feedback from basketball on closed leagues|url=https://www.theindianpaper.com/super-league-siutat-provides-feedback-from-basketball-on-closed-leagues/|access-date=2021-04-21|website=The Indian Paper|language=en-us}}</ref><ref>{{Cite web|last=ballineurope|date=2008-07-07|title=Euroleague now a semi-closed league|url=https://www.ballineurope.com/the-euroleague-is-a-semi-closed-league-now/|access-date=2021-04-21|website=BallinEurope|language=en-US}}</ref>
+*The proposal for a [[European Super League]] in 2021
+*The [[NASCAR Cup Series]] since the implementation of the charter system in 2016
+*The Honor of Kings Pro League (since 2020)
+*[[Valorant Champions Tour]] (since 2023)
+
+== References ==
+{{Reflist}}{{League systems}}{{footy-stub}}
+[[Category:Association football terminology]]
+[[Category:Sports terminology]]

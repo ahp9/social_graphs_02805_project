@@ -1,0 +1,179 @@
+{{Short description|Name of a 1937 German football team}}
+{{Use dmy dates|date=April 2017}}
+{{sources|date=September 2023}}
+{{Infobox football match
+| title                   = Breslau Eleven
+| other_titles            = Battle of Breslau 
+| image                   = [[Exhibition game]]
+| event                   = 
+| caption                 = 
+| team1 = [[Germany national football team|Germany]]
+| team1association={{flagicon|Nazi Germany|size=30px}}
+| team2 =[[Denmark national football team|Denmark]]
+| team2association={{flagicon|DEN|size=30px}}
+| team1score = 8
+| team2score = 0
+| date=16 May 1937
+| stadium=[[Olympic Stadium (Wrocław)|Hermann Göring Stadion]]
+| city=[[Breslau]]
+| man_of_the_match1a      = 
+| referee=[[Augustin Krist]] ([[Czechoslovak Football Association|Czechoslovakia]])
+| attendance=40,000
+}}
+The '''Breslau Eleven''' ({{langx|de|Breslau-Elf}}) was the name given to the [[Germany national football team]] who defeated [[Denmark national football team|Denmark]] 8–0 at [[Olympic Stadium (Wrocław)|Hermann-Göring-Sportfeld]] in Breslau, Germany (now [[Wrocław]], Poland) on 16 May 1937. Coached by [[Sepp Herberger]], the German side is generally regarded as one of the most famous teams in German football history.<ref>{{cite book | title=Tor! The story of German football | first=Ulrich | last=Hesse-Lichtenberger| year=2003}}</ref> Likewise, the defeat has been characterized as the lowest point for [[Football in Denmark|Danish football]].<ref name="lundberg20" /> In Denmark, the game became known for posterity as the '''Battle of Breslau''' ({{langx|da|Slaget i Breslau}}).<ref name="lybech16">{{cite book |title=Fra marken til Parken |last=Lybech |first=Arne |author2=John Laden Jensen |year=2005 |publisher=Lindtofte Forlag |location=Hjørring |isbn=87-989914-7-7 |page=16 }}</ref>
+
+==Background==
+[[File:Wroclaw stadion olimpijski z bramy.jpg|thumb|left|The Olympic Stadium in Wrocław was the venue for the match]]
+The core players of the Breslau Eleven were first assembled during the [[1934 FIFA World Cup]] under the management of [[Otto Nerz]]. The dominant German side of the era was [[Schalke 04]], but the club's style of play, a quick passing game known as the ''Kreisel'', was not suited to the more physical and direct tactical approach used by Nerz from observing English football. Consequently, only [[Fritz Szepan]] was a regular for both Schalke and the national team.
+
+Nerz's tactics were initially successful, with Germany achieving a surprise third-place finish at the World Cup. Nerz had opted to make several changes to the side in the third-place playoff against [[Austria national football team|Austria]], with [[Hans Jakob (footballer)|Hans Jakob]] replacing [[Willibald Kreß]] in goal due to the latter's poor performance in the semi-final defeat against [[Czechoslovakia national football team|Czechoslovakia]]. Also added to the starting lineup was [[Reinhold Münzenberg]], allowing Szepan, who had previously been deployed as a [[centre half]], to play in his more familiar position as an [[inside forward]].
+
+The success at the World Cup resulted in high expectations for the side during the [[Football at the 1936 Summer Olympics|1936 Summer Olympics]] held in [[Berlin]], but the team was defeated 2–0 by [[Norway national football team|Norway]] in the second round. The result effectively cost Nerz his job as he began handing over control to assistant [[Sepp Herberger]] over the next 18 months. Following the Olympics, Herberger opted to rebuild the team based on Schalke's ''Kreisel'' system, and Szepan's teammates [[Rudi Gellesch]] and [[Adolf Urban]] soon became regulars for the national side.
+
+==The match==
+{{multiple image
+|align = 
+|total_width = 500
+|image1 = Germany and denmark teams 1937.jpg
+|image2 = Germany v denmark football 1937.jpg
+|footer = (Left): Both starting line-ups on the field; (right): a moment of the match with Germany attempting to score
+}}
+{{footballbox
+|date = 16 May 1937
+|time =
+|team1 = {{fb-rt|GER|Nazi}}
+|report = 
+|team2 = {{fb|DEN}}
+|goals1 = [[Ernst Lehner|Lehner]] {{goal|7}}<br />[[Otto Siffling|Siffling]] {{goal|33||40||44||48||65}}<br />[[Adolf Urban|Urban]] {{goal|70}}<br />[[Fritz Szepan|Szepan]] {{goal|78}}
+|goals2 = 
+|stadium = [[Olympic Stadium (Wrocław)|Hermann Göring Stadion]], [[Breslau]]
+|attendance = 40,000
+|referee = [[Augustin Krist]] ([[Czechoslovak Football Association|Czechoslovakia]])|event=|round=|score1=8|score2=0|penaltyscore=|penalties1=|penalties2=|location=|aet=
+}}
+{{col-begin}}
+{{col-2}}
+{{Football kit
+| pattern_la           = _blackborder
+| pattern_b             = _ger1934h
+| pattern_ra            = _blackborder
+| pattern_sh            = 
+| pattern_so            = _band_white
+| leftarm               = ffffff
+| body                 = ffffff 
+| rightarm              = ffffff
+| shorts               = 000000
+| socks                 = 000000
+ | title           = Germany
+}}
+{{col-2}}
+{{Football kit
+| pattern_la        =  
+| pattern_b         = _collar
+| pattern_ra        = 
+| pattern_sh        =  
+| pattern_so        = _band_white
+| leftarm           = cc0000
+| body             = cc0000
+| rightarm           = cc0000
+| shorts             =ffffff  
+| socks              = 000000  
+|title            =  Denmark
+}}
+{{col-end}}
+{| width="100%"
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0"
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||''' ''' ||[[Hans Jakob (footballer)|Hans Jakob]]
+|-
+|DF ||''' ''' ||[[Paul Janes]]
+|-
+|DF ||''' ''' ||[[Reinhold Münzenberg]]
+|-
+|MF ||''' ''' ||[[Andreas Kupfer]]
+|-
+|MF ||''' ''' ||[[Ludwig Goldbrunner]]
+|-
+|MF ||''' ''' ||[[Albin Kitzinger]]
+|-
+|FW ||''' ''' ||[[Ernst Lehner]]
+|-
+|FW ||''' ''' ||[[Rudolf Gellesch]]
+|-
+|FW ||''' ''' ||[[Otto Siffling]]
+|-
+|FW ||''' '''||[[Fritz Szepan]] ([[Captain (association football)|c]])
+|-
+|FW ||''' '''||[[Adolf Urban]]
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|{{flagicon|GER|Nazi}} [[Sepp Herberger]]
+|}
+|valign="top"|
+|valign="top" width="50%"|
+{| style="font-size: 90%" cellspacing="0" cellpadding="0" align=center
+|colspan="4"|
+|-
+!width="25"| !!width="25"|
+|-
+|GK ||''' ''' ||[[Svend Jensen]]
+|-
+|DF ||''' ''' ||[[Poul L. Hansen|Poul Hansen]]
+|-
+|DF ||''' ''' ||[[Oscar Jørgensen]]
+|-
+|MF ||''' ''' ||[[Carl Larsen (footballer)|Carl Larsen]]
+|-
+|MF ||''' ''' ||[[Henry Nielsen (footballer)|Henry Nielsen]]
+|-
+|MF ||''' ''' ||[[Poul Toft Jensen|Poul Jensen]]
+|-
+|FW ||''' ''' ||[[Helmuth Søbirk]]
+|-
+|FW ||''' ''' ||[[Eyolf Kleven]]
+|-
+|FW ||''' ''' ||[[Pauli Jørgensen]] ([[captain (association football)|c]])
+|-
+|FW ||''' '''||[[Kaj Uldaler]]
+|-
+|FW ||''' '''|| Eigil Thielsen 
+|-
+|colspan=3|'''Manager:'''
+|-
+|colspan="4"|?
+|}
+|}
+
+==Aftermath==
+Coached by Sepp Herberger, the German side went undefeated in all eleven matches they played in 1937, winning ten of them.<ref>{{cite web | url=https://www.welt.de/sport/article876494/Nur_Hitler_konnte_sie_stoppen.html | title=Nur Hitler konnte sie stoppen | language=de | date=16 May 2007 | first=Udo | last=Muras | access-date=23 February 2011}}</ref> The Breslau Eleven was broken up following the [[Anschluss|''Anschluss'' with Austria]] in March 1938. Due to political pressure, Herberger was forced to include Austrian-born players in his team for the upcoming [[1938 FIFA World Cup|1938 World Cup]]. The team failed to live up to expectations, and was defeated in the first round of the tournament by [[Switzerland national football team|Switzerland]].
+
+For the Danish national team, the loss is still the largest in team history. The loss would have been even deservedly bigger, had goalkeeper [[Svend Jensen]] not played the best game of his international career. Seven Danish players were subsequently dropped for the next national team game, including [[Carl Larsen (footballer)|Carl Larsen]], who had remarked that it was simply too warm weather for football on the day.<ref name="lundberg20"/> The 0–8 defeat was to be Larsen's only game for Denmark. The Danish play was later rationalized as being caused by very poor fitness, and, perhaps most significantly, a clash of tactical formations among the Danish defenders. Svend Jensen, [[Poul L. Hansen|Poul Hansen]] and [[Henry Nielsen (footballer)|Henry Nielsen]] played the [[Formation (association football)#2–3–5 (Pyramid)|2–3–5 tactic]] used in their club ([[Boldklubben af 1893]]), while Carl Larsen and [[Poul Toft Jensen|Poul Jensen]] played the modern [[Football formations#WM|WM formation]] of their club ([[Akademisk Boldklub]]).<ref name="lundberg20">{{cite book |title=Dansk Fodbold |last=Lundberg |first=Knud |author-link= Knud Lundberg|volume=1. Fra Breslau til Bronceholdet |year=1986 |publisher=Rhodos |location=Copenhagen |isbn=87-7245-132-7 |pages=20–23 }}</ref> Not until English coach [[Edward Magner]] was hired in 1939 did the Danish amateurs undergo sufficient physical conditioning and were properly schooled in the WM tactic.<ref name="lundberg25">{{cite book |title=Dansk Fodbold |last=Lundberg |first=Knud |author-link= Knud Lundberg|volume=1. Fra Breslau til Bronceholdet |year=1986 |publisher=Rhodos |location=Copenhagen |isbn=87-7245-132-7 |pages=25, 28–29 }}</ref>
+
+== See also ==
+
+* [[History of the Germany national football team]]
+* [[Denmark national football team#History|History of the Denmark national football team]]
+* [[UEFA Euro 1992 Final]]
+* [[Brazil v Germany (2014 FIFA World Cup)]]
+* [[2001 Germany v England football match]]
+
+==References==
+
+{{reflist}}
+
+{{Germany national football team matches}}
+{{Denmark national football team matches}}
+
+[[Category:Nicknamed groups of association football players]]
+[[Category:1936–37 in German football]]
+[[Category:1936–37 in Danish football]]
+[[Category:Germany national football team matches|1937]]
+[[Category:Denmark national football team matches|1937]]
+[[Category:May 1937 sports events in Europe]]
+[[Category:Football matches in Germany]]
+[[Category:History of Wrocław]]
+[[Category:Denmark–Germany sports relations|1937]]
